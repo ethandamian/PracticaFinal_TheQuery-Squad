@@ -515,7 +515,7 @@ CREATE TABLE Cuidador(
 	FechaNacimiento DATE,
 	Genero VARCHAR(10),
 	DiasTrabajo INT,
-	HorarioLaboral TIME,
+	HorarioLaboral VARCHAR(50),
 	Salario DECIMAL
 );
 
@@ -554,7 +554,11 @@ ALTER TABLE Cuidador ADD CONSTRAINT cuidador_d5
 CHECK(Calle <> '');
 ALTER TABLE Cuidador ALTER COLUMN Calle SET NOT NULL;
 ALTER TABLE Cuidador ALTER COLUMN NumInterior SET NOT NULL;
+ALTER TABLE Cuidador ADD CONSTRAINT numint_cuidador
+CHECK(NumInterior > 0;
 ALTER TABLE Cuidador ALTER COLUMN NumExterior SET NOT NULL;
+ALTER TABLE Cuidador ADD CONSTRAINT numext_cuidador
+CHECK(NumExterior > 0;
 
 ALTER TABLE Cuidador ADD CONSTRAINT cuidador_d6
 CHECK(Colonia <> '');
@@ -567,7 +571,8 @@ ALTER TABLE Cuidador ALTER COLUMN Estado SET NOT NULL;
 ALTER TABLE Cuidador ALTER COLUMN FechaInicioContrato SET NOT NULL;
 ALTER TABLE Cuidador ALTER COLUMN FechaFinContrato SET NOT NULL;
 ALTER TABLE Cuidador ALTER COLUMN FechaNacimiento SET NOT NULL;
-
+ALTER TABLE Cuidador ADD CONSTRAINT nacimiento_cuidador
+CHECK(FechaNacimiento<=CURRENT_DATE-INTERVAL '18 years');
 ALTER TABLE Cuidador ADD CONSTRAINT cuidador_d8
 CHECK(Genero <> ''
 	AND Genero ~ '[a-zA-Z]*');
@@ -949,7 +954,7 @@ CREATE TABLE Cuidar (
 	FechaFinContrato DATE,
 	FechaNacimiento DATE,
 	DiasTrabajo INT,
-	HorarioLaboral TIME,
+	HorarioLaboral VARCHAR(50),
 	Salario DECIMAL,
 	Genero VARCHAR(10),
 	Sexo VARCHAR(10),
