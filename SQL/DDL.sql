@@ -555,10 +555,10 @@ CHECK(Calle <> '');
 ALTER TABLE Cuidador ALTER COLUMN Calle SET NOT NULL;
 ALTER TABLE Cuidador ALTER COLUMN NumInterior SET NOT NULL;
 ALTER TABLE Cuidador ADD CONSTRAINT numint_cuidador
-CHECK(NumInterior > 0;
+CHECK(NumInterior > 0);
 ALTER TABLE Cuidador ALTER COLUMN NumExterior SET NOT NULL;
 ALTER TABLE Cuidador ADD CONSTRAINT numext_cuidador
-CHECK(NumExterior > 0;
+CHECK(NumExterior > 0);
 
 ALTER TABLE Cuidador ADD CONSTRAINT cuidador_d6
 CHECK(Colonia <> '');
