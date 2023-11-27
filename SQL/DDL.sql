@@ -215,7 +215,11 @@ ALTER TABLE Proveedor ADD CONSTRAINT proveedor_d5
 CHECK(Calle <> '');
 ALTER TABLE Proveedor ALTER COLUMN Calle SET NOT NULL;
 ALTER TABLE Proveedor ALTER COLUMN NumInterior SET NOT NULL;
+ALTER TABLE Proveedor ADD CONSTRAINT proveedor_d11
+CHECK(NumInterior > 0);
 ALTER TABLE Proveedor ALTER COLUMN NumExterior SET NOT NULL;
+ALTER TABLE Proveedor ADD CONSTRAINT proveedor_d12
+CHECK(NumExterior > 0);
 
 ALTER TABLE Proveedor ADD CONSTRAINT proveedor_d6
 CHECK(Colonia <> '');
@@ -228,6 +232,8 @@ ALTER TABLE Proveedor ALTER COLUMN Estado SET NOT NULL;
 ALTER TABLE Proveedor ALTER COLUMN FechaInicioContrato SET NOT NULL;
 ALTER TABLE Proveedor ALTER COLUMN FechaFinContrato SET NOT NULL;
 ALTER TABLE Proveedor ALTER COLUMN FechaNacimiento SET NOT NULL;
+ALTER TABLE Proveedor ADD CONSTRAINT nacimiento_proveedor
+CHECK(FechaNacimiento<=CURRENT_DATE-INTERVAL '18 years');
 
 ALTER TABLE Proveedor ADD CONSTRAINT proveedor_d8
 CHECK(Genero <> ''
@@ -274,6 +280,10 @@ COMMENT ON CONSTRAINT proveedor_d7 ON Proveedor IS 'El nombre del estado no debe
 COMMENT ON CONSTRAINT proveedor_d8 ON Proveedor IS 'El nombre del genero no debe ser nulo, no debe ser la cadena vacia y solo debe tener letras';
 COMMENT ON CONSTRAINT proveedor_d9 ON Proveedor IS 'La frecuencia de servicio debe der mayor a 0 y no nulo';
 COMMENT ON CONSTRAINT proveedor_d10 ON Proveedor IS 'El costo de servicio debe der mayor a 0 y no nulo';
+COMMENT ON CONSTRAINT proveedor_d11 ON Proveedor IS 'El numero interior debe der mayor a 0 y no nulo';
+COMMENT ON CONSTRAINT proveedor_d12 ON Proveedor IS 'El numero exterior debe der mayor a 0 y no nulo';
+COMMENT ON CONSTRAINT nacimiento_proveedor ON Proveedor IS 'La fecha de nacimiento debe ser menor a la actual y tiene que ser mayor de edad';
+
 COMMENT ON CONSTRAINT proveedor_pk ON Proveedor IS 'El RFC del proveedor es la llave primaria';
 
 
