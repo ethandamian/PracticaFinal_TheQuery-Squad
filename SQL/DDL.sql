@@ -248,7 +248,7 @@ ALTER TABLE Proveedor ADD CONSTRAINT proveedor_pk
 PRIMARY KEY(RFCProveedor);
 
 
-COMMENT ON TABLE Proveedor IS 'Tabla que contiene la informacion de los proveedores de insumos';
+COMMENT ON TABLE Proveedor IS 'Tabla que contiene la informacion de los proveedores de insumos y medicina';
 COMMENT ON COLUMN Proveedor.RFCProveedor IS 'El RFC del proveedor';
 COMMENT ON COLUMN Proveedor.Nombre IS 'El nombre del proveedor';
 COMMENT ON COLUMN Proveedor.ApellidoPaterno IS 'El apellido paterno del proveedor';
@@ -292,6 +292,7 @@ ALTER TABLE Bioma ADD CONSTRAINT bioma_d1
 			'pastizales',
 			'franja costera',
 			'aviario',
+			'tundra',
 			'bosque templado',
 			'bosque tropical')
 	);
@@ -693,7 +694,7 @@ ON UPDATE CASCADE ON DELETE CASCADE;
 COMMENT ON TABLE Animal IS 'Tabla que almacena a todos los animales del Zoologico';
 COMMENT ON COLUMN Animal.IDAnimal IS 'Identificador de animal';
 COMMENT ON COLUMN Animal.IDBioma IS 'Identificador del bioma del animal';
-COMMENT ON COLUMN Animal.IDJaula IS 'Identificador de la jaula del anumal';
+COMMENT ON COLUMN Animal.IDJaula IS 'Identificador de la jaula del animal';
 COMMENT ON COLUMN Animal.NombreAnimal IS 'Nombre del animal';
 COMMENT ON COLUMN Animal.Sexo IS 'Sexo del animal';
 COMMENT ON COLUMN Animal.Altura IS 'Altura del animal';
