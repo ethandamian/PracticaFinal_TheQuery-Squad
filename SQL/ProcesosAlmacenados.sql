@@ -38,3 +38,49 @@ SELECT * FROM ProveerAlimento WHERE RFCProveedor = 'JDMW8923470EB';
 SELECT * FROM TelefonoProveedor WHERE RFCProveedor = 'JDMW8923470EB';
 
 ------------------------------------------------------------------------------------------------------------------
+
+/*Proceso almacenado que regresa la cantidad de animales que estan en un bioma */
+CREATE OR REPLACE FUNCTION cantidad_animales_en_bioma(p_IDBioma INT)
+RETURNS INT AS $$
+DECLARE
+    cantidad_animales INT;
+BEGIN
+    SELECT COUNT(*) INTO cantidad_animales
+    FROM Animal
+    WHERE IDBioma = p_IDBioma;
+
+    RETURN cantidad_animales;
+END;
+$$ 
+LANGUAGE plpgsql;
+
+-- Ejemplo de llamada al procedimiento para obtener la cantidad de animales en el bioma con IDBioma = 1: desierto
+SELECT IDBioma, TipoBioma, cantidad_animales_en_bioma(1) FROM Bioma WHERE IDBioma =1;
+
+----------------------------------------------------------------------------------------------------------------------
+
+CREATE OR REPLACE FUNCTION cantidad_cuidadores_veterinarios_en_bioma(p_IDBioma INT)
+RETURNS TABLE (cantidad_cuidadores INT, cantidad_veterinarios INT) AS $$
+DECLARE
+    v_cantidad_cuidadores INT;
+    v_cantidad_veterinarios INT;
+BEGIN
+    SELECT COUNT(*) INTO v_cantidad_cuidadores
+    FROM Cuidador
+    WHERE IDBioma = p_IDBioma;
+
+    SELECT COUNT(*) INTO v_cantidad_veterinarios
+    FROM Trabajar
+    WHERE IDBioma = p_IDBioma;
+
+    RETURN QUERY SELECT v_cantidad_cuidadores, v_cantidad_veterinarios;
+END;
+$$ LANGUAGE plpgsql;
+
+
+-- Ejemplo de llamada al procedimiento para obtener la cantidad de veterinarios y cuidadores 
+-- que trabajan en el bioma con IDBioma = 2: desierto
+SELECT IDBioma, TipoBioma, cantidad_cuidadores_veterinarios_en_bioma(3) FROM Bioma 
+WHERE IDBioma = 3 ;
+
+SELECT * FROM cantidad_cuidadores_veterinarios_en_bioma(3);
