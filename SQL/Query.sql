@@ -25,7 +25,7 @@ FROM Notificar N
 JOIN Visitar V ON N.IDVisitante = V.IDVisitante
 WHERE N.TipoNotificacion = 'EventoPendiente';
 
-/*Obtener toda la informacion de ProverAlimento, donde los proveedores siminestren alimento
+/*Obtener toda la informacion de ProverAlimento, donde los proveedores suministren alimento
  y medicina en el mismo Bioma*/
 SELECT PAM.*
 FROM ProveerAlimento PA
@@ -34,11 +34,5 @@ JOIN DistribuirAlimento DA ON PA.IDInsumoAlimento = DA.IDInsumoAlimento
 JOIN DistribuirMedicina DM ON PAM.IDInsumoMedicina = DM.IDInsumoMedicina
 WHERE DA.IDBioma = DM.IDBioma;
 
-/*Obtener el RFC del cuidador, tal que haya cuidado a mas de una especie, mostrar tambien 
- * el numero de especies que atendio */
-SELECT RFCCuidador, COUNT(DISTINCT C.Especie) AS NumEspeciesAtendidas
-FROM Cuidar C
-JOIN Animal ON C.IDAnimal = Animal.IDAnimal
-GROUP BY RFCCuidador
-HAVING COUNT(DISTINCT C.Especie) > 2;
+
 
