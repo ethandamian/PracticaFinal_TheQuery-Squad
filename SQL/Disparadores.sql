@@ -97,6 +97,29 @@ INSERT INTO Atender(IDAnimal, IndicacionesMedicas, RFCVeterinario) VALUES(53, 'N
 
 -----------------------------------------------------------------------------------------------------------------------------------\
 
+-- Crear la función que verifica que un cuidador no sea asignado a más de un animal del mismo bioma
+CREATE OR REPLACE FUNCTION verificar_asignacion_cuidador()
+RETURNS TRIGGER AS $$
+DECLARE
+    cantidad_asignaciones INTEGER;
+BEGIN
+    SELECT COUNT(*) INTO cantidad_asignaciones
+    FROM Cuidar
+    WHERE RFCCuidador = NEW.RFCCuidador AND IDBioma = NEW.IDBioma;
+
+    IF cantidad_asignaciones > 1 THEN
+        RAISE EXCEPTION 'Un cuidador no puede ser asignado a más de un animal del mismo bioma';
+    END IF;
+
+    RETURN NEW;
+END;
+$$ LANGUAGE plpgsql;
+
+-- Crear el trigger
+CREATE TRIGGER verificar_asignacion_cuidador_trigger
+BEFORE INSERT ON Cuidar
+FOR EACH ROW
+EXECUTE FUNCTION verificar_asignacion_cuidador();
 
 
 
