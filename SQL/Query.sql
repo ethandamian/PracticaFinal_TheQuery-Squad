@@ -35,4 +35,23 @@ JOIN DistribuirMedicina DM ON PAM.IDInsumoMedicina = DM.IDInsumoMedicina
 WHERE DA.IDBioma = DM.IDBioma;
 
 
+-- Seleccionar el tipo de bioma, la especie y contar la cantidad de animales por especie en cada bioma
+SELECT b.TipoBioma, a.Especie, COUNT(*) AS CantidadAnimales
+FROM Animal a
+JOIN Bioma b ON a.IDBioma = b.IDBioma
+GROUP BY b.TipoBioma, a.Especie;
+
+-- Calcular la edad promedio de los visitantes por género
+SELECT Genero, AVG(EXTRACT(YEAR FROM AGE(FechaNacimiento))) AS EdadPromedio
+FROM Visitante
+GROUP BY Genero;
+
+-- Calcular el salario promedio de los cuidadores por especie de animal a cargo
+SELECT c.Especie, AVG(tc.Salario) AS SalarioPromedio
+FROM Cuidar c
+JOIN Cuidador tc ON c.RFCCuidador = tc.RFCCuidador
+GROUP BY c.Especie;
+
+
+
 
