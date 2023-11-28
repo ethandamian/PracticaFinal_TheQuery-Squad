@@ -83,8 +83,11 @@ ALTER TABLE Veterinario ADD CONSTRAINT veterinario_d5
 CHECK(Calle <> '');
 ALTER TABLE Veterinario ALTER COLUMN Calle SET NOT NULL;
 ALTER TABLE Veterinario ALTER COLUMN NumInterior SET NOT NULL;
+ALTER TABLE Veterinario ADD CONSTRAINT numint_vet
+CHECK(NumInterior>0);
 ALTER TABLE Veterinario ALTER COLUMN NumExterior SET NOT NULL;
-
+ALTER TABLE Veterinario ADD CONSTRAINT numext_vet
+CHECK(NumExterior>0);
 ALTER TABLE Veterinario ADD CONSTRAINT veterinario_d6
 CHECK(Colonia <> '');
 ALTER TABLE Veterinario ALTER COLUMN Colonia SET NOT NULL;
@@ -96,6 +99,8 @@ ALTER TABLE Veterinario ALTER COLUMN Estado SET NOT NULL;
 ALTER TABLE Veterinario ALTER COLUMN FechaInicioContrato SET NOT NULL;
 ALTER TABLE Veterinario ALTER COLUMN FechaFinContrato SET NOT NULL;
 ALTER TABLE Veterinario ALTER COLUMN FechaNacimiento SET NOT NULL;
+ALTER TABLE Veterinario ADD CONSTRAINT nacimiento_veterinario
+CHECK(FechaNacimiento<=CURRENT_DATE-INTERVAL '18 years');
 
 ALTER TABLE Veterinario ADD CONSTRAINT veterinario_d8
 CHECK(Genero <> ''
@@ -566,10 +571,10 @@ CHECK(Calle <> '');
 ALTER TABLE Cuidador ALTER COLUMN Calle SET NOT NULL;
 ALTER TABLE Cuidador ALTER COLUMN NumInterior SET NOT NULL;
 ALTER TABLE Cuidador ADD CONSTRAINT numint_cuidador
-CHECK(NumInterior > 0);
+CHECK(NumInterior >= 0);
 ALTER TABLE Cuidador ALTER COLUMN NumExterior SET NOT NULL;
 ALTER TABLE Cuidador ADD CONSTRAINT numext_cuidador
-CHECK(NumExterior > 0);
+CHECK(NumExterior >= 0);
 
 ALTER TABLE Cuidador ADD CONSTRAINT cuidador_d6
 CHECK(Colonia <> '');

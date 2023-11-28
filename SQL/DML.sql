@@ -510,506 +510,7 @@ INSERT INTO Jaula(IDJaula) VALUES (497);
 INSERT INTO Jaula(IDJaula) VALUES (498);
 INSERT INTO Jaula(IDJaula) VALUES (499);
 INSERT INTO Jaula(IDJaula) VALUES (500);
-INSERT INTO Jaula(IDJaula) VALUES (501);
-INSERT INTO Jaula(IDJaula) VALUES (502);
-INSERT INTO Jaula(IDJaula) VALUES (503);
-INSERT INTO Jaula(IDJaula) VALUES (504);
-INSERT INTO Jaula(IDJaula) VALUES (505);
-INSERT INTO Jaula(IDJaula) VALUES (506);
-INSERT INTO Jaula(IDJaula) VALUES (507);
-INSERT INTO Jaula(IDJaula) VALUES (508);
-INSERT INTO Jaula(IDJaula) VALUES (509);
-INSERT INTO Jaula(IDJaula) VALUES (510);
-INSERT INTO Jaula(IDJaula) VALUES (511);
-INSERT INTO Jaula(IDJaula) VALUES (512);
-INSERT INTO Jaula(IDJaula) VALUES (513);
-INSERT INTO Jaula(IDJaula) VALUES (514);
-INSERT INTO Jaula(IDJaula) VALUES (515);
-INSERT INTO Jaula(IDJaula) VALUES (516);
-INSERT INTO Jaula(IDJaula) VALUES (517);
-INSERT INTO Jaula(IDJaula) VALUES (518);
-INSERT INTO Jaula(IDJaula) VALUES (519);
-INSERT INTO Jaula(IDJaula) VALUES (520);
-INSERT INTO Jaula(IDJaula) VALUES (521);
-INSERT INTO Jaula(IDJaula) VALUES (522);
-INSERT INTO Jaula(IDJaula) VALUES (523);
-INSERT INTO Jaula(IDJaula) VALUES (524);
-INSERT INTO Jaula(IDJaula) VALUES (525);
-INSERT INTO Jaula(IDJaula) VALUES (526);
-INSERT INTO Jaula(IDJaula) VALUES (527);
-INSERT INTO Jaula(IDJaula) VALUES (528);
-INSERT INTO Jaula(IDJaula) VALUES (529);
-INSERT INTO Jaula(IDJaula) VALUES (530);
-INSERT INTO Jaula(IDJaula) VALUES (531);
-INSERT INTO Jaula(IDJaula) VALUES (532);
-INSERT INTO Jaula(IDJaula) VALUES (533);
-INSERT INTO Jaula(IDJaula) VALUES (534);
-INSERT INTO Jaula(IDJaula) VALUES (535);
-INSERT INTO Jaula(IDJaula) VALUES (536);
-INSERT INTO Jaula(IDJaula) VALUES (537);
-INSERT INTO Jaula(IDJaula) VALUES (538);
-INSERT INTO Jaula(IDJaula) VALUES (539);
-INSERT INTO Jaula(IDJaula) VALUES (540);
-INSERT INTO Jaula(IDJaula) VALUES (541);
-INSERT INTO Jaula(IDJaula) VALUES (542);
-INSERT INTO Jaula(IDJaula) VALUES (543);
-INSERT INTO Jaula(IDJaula) VALUES (544);
-INSERT INTO Jaula(IDJaula) VALUES (545);
-INSERT INTO Jaula(IDJaula) VALUES (546);
-INSERT INTO Jaula(IDJaula) VALUES (547);
-INSERT INTO Jaula(IDJaula) VALUES (548);
-INSERT INTO Jaula(IDJaula) VALUES (549);
-INSERT INTO Jaula(IDJaula) VALUES (550);
-INSERT INTO Jaula(IDJaula) VALUES (551);
-INSERT INTO Jaula(IDJaula) VALUES (552);
-INSERT INTO Jaula(IDJaula) VALUES (553);
-INSERT INTO Jaula(IDJaula) VALUES (554);
-INSERT INTO Jaula(IDJaula) VALUES (555);
-INSERT INTO Jaula(IDJaula) VALUES (556);
-INSERT INTO Jaula(IDJaula) VALUES (557);
-INSERT INTO Jaula(IDJaula) VALUES (558);
-INSERT INTO Jaula(IDJaula) VALUES (559);
-INSERT INTO Jaula(IDJaula) VALUES (560);
-INSERT INTO Jaula(IDJaula) VALUES (561);
-INSERT INTO Jaula(IDJaula) VALUES (562);
-INSERT INTO Jaula(IDJaula) VALUES (563);
-INSERT INTO Jaula(IDJaula) VALUES (564);
-INSERT INTO Jaula(IDJaula) VALUES (565);
-INSERT INTO Jaula(IDJaula) VALUES (566);
-INSERT INTO Jaula(IDJaula) VALUES (567);
-INSERT INTO Jaula(IDJaula) VALUES (568);
-INSERT INTO Jaula(IDJaula) VALUES (569);
-INSERT INTO Jaula(IDJaula) VALUES (570);
-INSERT INTO Jaula(IDJaula) VALUES (571);
-INSERT INTO Jaula(IDJaula) VALUES (572);
-INSERT INTO Jaula(IDJaula) VALUES (573);
-INSERT INTO Jaula(IDJaula) VALUES (574);
-INSERT INTO Jaula(IDJaula) VALUES (575);
-INSERT INTO Jaula(IDJaula) VALUES (576);
-INSERT INTO Jaula(IDJaula) VALUES (577);
-INSERT INTO Jaula(IDJaula) VALUES (578);
-INSERT INTO Jaula(IDJaula) VALUES (579);
-INSERT INTO Jaula(IDJaula) VALUES (580);
-INSERT INTO Jaula(IDJaula) VALUES (581);
-INSERT INTO Jaula(IDJaula) VALUES (582);
-INSERT INTO Jaula(IDJaula) VALUES (583);
-INSERT INTO Jaula(IDJaula) VALUES (584);
-INSERT INTO Jaula(IDJaula) VALUES (585);
-INSERT INTO Jaula(IDJaula) VALUES (586);
-INSERT INTO Jaula(IDJaula) VALUES (587);
-INSERT INTO Jaula(IDJaula) VALUES (588);
-INSERT INTO Jaula(IDJaula) VALUES (589);
-INSERT INTO Jaula(IDJaula) VALUES (590);
-INSERT INTO Jaula(IDJaula) VALUES (591);
-INSERT INTO Jaula(IDJaula) VALUES (592);
-INSERT INTO Jaula(IDJaula) VALUES (593);
-INSERT INTO Jaula(IDJaula) VALUES (594);
-INSERT INTO Jaula(IDJaula) VALUES (595);
-INSERT INTO Jaula(IDJaula) VALUES (596);
-INSERT INTO Jaula(IDJaula) VALUES (597);
-INSERT INTO Jaula(IDJaula) VALUES (598);
-INSERT INTO Jaula(IDJaula) VALUES (599);
-INSERT INTO Jaula(IDJaula) VALUES (600);
-INSERT INTO Jaula(IDJaula) VALUES (601);
-INSERT INTO Jaula(IDJaula) VALUES (602);
-INSERT INTO Jaula(IDJaula) VALUES (603);
-INSERT INTO Jaula(IDJaula) VALUES (604);
-INSERT INTO Jaula(IDJaula) VALUES (605);
-INSERT INTO Jaula(IDJaula) VALUES (606);
-INSERT INTO Jaula(IDJaula) VALUES (607);
-INSERT INTO Jaula(IDJaula) VALUES (608);
-INSERT INTO Jaula(IDJaula) VALUES (609);
-INSERT INTO Jaula(IDJaula) VALUES (610);
-INSERT INTO Jaula(IDJaula) VALUES (611);
-INSERT INTO Jaula(IDJaula) VALUES (612);
-INSERT INTO Jaula(IDJaula) VALUES (613);
-INSERT INTO Jaula(IDJaula) VALUES (614);
-INSERT INTO Jaula(IDJaula) VALUES (615);
-INSERT INTO Jaula(IDJaula) VALUES (616);
-INSERT INTO Jaula(IDJaula) VALUES (617);
-INSERT INTO Jaula(IDJaula) VALUES (618);
-INSERT INTO Jaula(IDJaula) VALUES (619);
-INSERT INTO Jaula(IDJaula) VALUES (620);
-INSERT INTO Jaula(IDJaula) VALUES (621);
-INSERT INTO Jaula(IDJaula) VALUES (622);
-INSERT INTO Jaula(IDJaula) VALUES (623);
-INSERT INTO Jaula(IDJaula) VALUES (624);
-INSERT INTO Jaula(IDJaula) VALUES (625);
-INSERT INTO Jaula(IDJaula) VALUES (626);
-INSERT INTO Jaula(IDJaula) VALUES (627);
-INSERT INTO Jaula(IDJaula) VALUES (628);
-INSERT INTO Jaula(IDJaula) VALUES (629);
-INSERT INTO Jaula(IDJaula) VALUES (630);
-INSERT INTO Jaula(IDJaula) VALUES (631);
-INSERT INTO Jaula(IDJaula) VALUES (632);
-INSERT INTO Jaula(IDJaula) VALUES (633);
-INSERT INTO Jaula(IDJaula) VALUES (634);
-INSERT INTO Jaula(IDJaula) VALUES (635);
-INSERT INTO Jaula(IDJaula) VALUES (636);
-INSERT INTO Jaula(IDJaula) VALUES (637);
-INSERT INTO Jaula(IDJaula) VALUES (638);
-INSERT INTO Jaula(IDJaula) VALUES (639);
-INSERT INTO Jaula(IDJaula) VALUES (640);
-INSERT INTO Jaula(IDJaula) VALUES (641);
-INSERT INTO Jaula(IDJaula) VALUES (642);
-INSERT INTO Jaula(IDJaula) VALUES (643);
-INSERT INTO Jaula(IDJaula) VALUES (644);
-INSERT INTO Jaula(IDJaula) VALUES (645);
-INSERT INTO Jaula(IDJaula) VALUES (646);
-INSERT INTO Jaula(IDJaula) VALUES (647);
-INSERT INTO Jaula(IDJaula) VALUES (648);
-INSERT INTO Jaula(IDJaula) VALUES (649);
-INSERT INTO Jaula(IDJaula) VALUES (650);
-INSERT INTO Jaula(IDJaula) VALUES (651);
-INSERT INTO Jaula(IDJaula) VALUES (652);
-INSERT INTO Jaula(IDJaula) VALUES (653);
-INSERT INTO Jaula(IDJaula) VALUES (654);
-INSERT INTO Jaula(IDJaula) VALUES (655);
-INSERT INTO Jaula(IDJaula) VALUES (656);
-INSERT INTO Jaula(IDJaula) VALUES (657);
-INSERT INTO Jaula(IDJaula) VALUES (658);
-INSERT INTO Jaula(IDJaula) VALUES (659);
-INSERT INTO Jaula(IDJaula) VALUES (660);
-INSERT INTO Jaula(IDJaula) VALUES (661);
-INSERT INTO Jaula(IDJaula) VALUES (662);
-INSERT INTO Jaula(IDJaula) VALUES (663);
-INSERT INTO Jaula(IDJaula) VALUES (664);
-INSERT INTO Jaula(IDJaula) VALUES (665);
-INSERT INTO Jaula(IDJaula) VALUES (666);
-INSERT INTO Jaula(IDJaula) VALUES (667);
-INSERT INTO Jaula(IDJaula) VALUES (668);
-INSERT INTO Jaula(IDJaula) VALUES (669);
-INSERT INTO Jaula(IDJaula) VALUES (670);
-INSERT INTO Jaula(IDJaula) VALUES (671);
-INSERT INTO Jaula(IDJaula) VALUES (672);
-INSERT INTO Jaula(IDJaula) VALUES (673);
-INSERT INTO Jaula(IDJaula) VALUES (674);
-INSERT INTO Jaula(IDJaula) VALUES (675);
-INSERT INTO Jaula(IDJaula) VALUES (676);
-INSERT INTO Jaula(IDJaula) VALUES (677);
-INSERT INTO Jaula(IDJaula) VALUES (678);
-INSERT INTO Jaula(IDJaula) VALUES (679);
-INSERT INTO Jaula(IDJaula) VALUES (680);
-INSERT INTO Jaula(IDJaula) VALUES (681);
-INSERT INTO Jaula(IDJaula) VALUES (682);
-INSERT INTO Jaula(IDJaula) VALUES (683);
-INSERT INTO Jaula(IDJaula) VALUES (684);
-INSERT INTO Jaula(IDJaula) VALUES (685);
-INSERT INTO Jaula(IDJaula) VALUES (686);
-INSERT INTO Jaula(IDJaula) VALUES (687);
-INSERT INTO Jaula(IDJaula) VALUES (688);
-INSERT INTO Jaula(IDJaula) VALUES (689);
-INSERT INTO Jaula(IDJaula) VALUES (690);
-INSERT INTO Jaula(IDJaula) VALUES (691);
-INSERT INTO Jaula(IDJaula) VALUES (692);
-INSERT INTO Jaula(IDJaula) VALUES (693);
-INSERT INTO Jaula(IDJaula) VALUES (694);
-INSERT INTO Jaula(IDJaula) VALUES (695);
-INSERT INTO Jaula(IDJaula) VALUES (696);
-INSERT INTO Jaula(IDJaula) VALUES (697);
-INSERT INTO Jaula(IDJaula) VALUES (698);
-INSERT INTO Jaula(IDJaula) VALUES (699);
-INSERT INTO Jaula(IDJaula) VALUES (700);
-INSERT INTO Jaula(IDJaula) VALUES (701);
-INSERT INTO Jaula(IDJaula) VALUES (702);
-INSERT INTO Jaula(IDJaula) VALUES (703);
-INSERT INTO Jaula(IDJaula) VALUES (704);
-INSERT INTO Jaula(IDJaula) VALUES (705);
-INSERT INTO Jaula(IDJaula) VALUES (706);
-INSERT INTO Jaula(IDJaula) VALUES (707);
-INSERT INTO Jaula(IDJaula) VALUES (708);
-INSERT INTO Jaula(IDJaula) VALUES (709);
-INSERT INTO Jaula(IDJaula) VALUES (710);
-INSERT INTO Jaula(IDJaula) VALUES (711);
-INSERT INTO Jaula(IDJaula) VALUES (712);
-INSERT INTO Jaula(IDJaula) VALUES (713);
-INSERT INTO Jaula(IDJaula) VALUES (714);
-INSERT INTO Jaula(IDJaula) VALUES (715);
-INSERT INTO Jaula(IDJaula) VALUES (716);
-INSERT INTO Jaula(IDJaula) VALUES (717);
-INSERT INTO Jaula(IDJaula) VALUES (718);
-INSERT INTO Jaula(IDJaula) VALUES (719);
-INSERT INTO Jaula(IDJaula) VALUES (720);
-INSERT INTO Jaula(IDJaula) VALUES (721);
-INSERT INTO Jaula(IDJaula) VALUES (722);
-INSERT INTO Jaula(IDJaula) VALUES (723);
-INSERT INTO Jaula(IDJaula) VALUES (724);
-INSERT INTO Jaula(IDJaula) VALUES (725);
-INSERT INTO Jaula(IDJaula) VALUES (726);
-INSERT INTO Jaula(IDJaula) VALUES (727);
-INSERT INTO Jaula(IDJaula) VALUES (728);
-INSERT INTO Jaula(IDJaula) VALUES (729);
-INSERT INTO Jaula(IDJaula) VALUES (730);
-INSERT INTO Jaula(IDJaula) VALUES (731);
-INSERT INTO Jaula(IDJaula) VALUES (732);
-INSERT INTO Jaula(IDJaula) VALUES (733);
-INSERT INTO Jaula(IDJaula) VALUES (734);
-INSERT INTO Jaula(IDJaula) VALUES (735);
-INSERT INTO Jaula(IDJaula) VALUES (736);
-INSERT INTO Jaula(IDJaula) VALUES (737);
-INSERT INTO Jaula(IDJaula) VALUES (738);
-INSERT INTO Jaula(IDJaula) VALUES (739);
-INSERT INTO Jaula(IDJaula) VALUES (740);
-INSERT INTO Jaula(IDJaula) VALUES (741);
-INSERT INTO Jaula(IDJaula) VALUES (742);
-INSERT INTO Jaula(IDJaula) VALUES (743);
-INSERT INTO Jaula(IDJaula) VALUES (744);
-INSERT INTO Jaula(IDJaula) VALUES (745);
-INSERT INTO Jaula(IDJaula) VALUES (746);
-INSERT INTO Jaula(IDJaula) VALUES (747);
-INSERT INTO Jaula(IDJaula) VALUES (748);
-INSERT INTO Jaula(IDJaula) VALUES (749);
-INSERT INTO Jaula(IDJaula) VALUES (750);
-INSERT INTO Jaula(IDJaula) VALUES (751);
-INSERT INTO Jaula(IDJaula) VALUES (752);
-INSERT INTO Jaula(IDJaula) VALUES (753);
-INSERT INTO Jaula(IDJaula) VALUES (754);
-INSERT INTO Jaula(IDJaula) VALUES (755);
-INSERT INTO Jaula(IDJaula) VALUES (756);
-INSERT INTO Jaula(IDJaula) VALUES (757);
-INSERT INTO Jaula(IDJaula) VALUES (758);
-INSERT INTO Jaula(IDJaula) VALUES (759);
-INSERT INTO Jaula(IDJaula) VALUES (760);
-INSERT INTO Jaula(IDJaula) VALUES (761);
-INSERT INTO Jaula(IDJaula) VALUES (762);
-INSERT INTO Jaula(IDJaula) VALUES (763);
-INSERT INTO Jaula(IDJaula) VALUES (764);
-INSERT INTO Jaula(IDJaula) VALUES (765);
-INSERT INTO Jaula(IDJaula) VALUES (766);
-INSERT INTO Jaula(IDJaula) VALUES (767);
-INSERT INTO Jaula(IDJaula) VALUES (768);
-INSERT INTO Jaula(IDJaula) VALUES (769);
-INSERT INTO Jaula(IDJaula) VALUES (770);
-INSERT INTO Jaula(IDJaula) VALUES (771);
-INSERT INTO Jaula(IDJaula) VALUES (772);
-INSERT INTO Jaula(IDJaula) VALUES (773);
-INSERT INTO Jaula(IDJaula) VALUES (774);
-INSERT INTO Jaula(IDJaula) VALUES (775);
-INSERT INTO Jaula(IDJaula) VALUES (776);
-INSERT INTO Jaula(IDJaula) VALUES (777);
-INSERT INTO Jaula(IDJaula) VALUES (778);
-INSERT INTO Jaula(IDJaula) VALUES (779);
-INSERT INTO Jaula(IDJaula) VALUES (780);
-INSERT INTO Jaula(IDJaula) VALUES (781);
-INSERT INTO Jaula(IDJaula) VALUES (782);
-INSERT INTO Jaula(IDJaula) VALUES (783);
-INSERT INTO Jaula(IDJaula) VALUES (784);
-INSERT INTO Jaula(IDJaula) VALUES (785);
-INSERT INTO Jaula(IDJaula) VALUES (786);
-INSERT INTO Jaula(IDJaula) VALUES (787);
-INSERT INTO Jaula(IDJaula) VALUES (788);
-INSERT INTO Jaula(IDJaula) VALUES (789);
-INSERT INTO Jaula(IDJaula) VALUES (790);
-INSERT INTO Jaula(IDJaula) VALUES (791);
-INSERT INTO Jaula(IDJaula) VALUES (792);
-INSERT INTO Jaula(IDJaula) VALUES (793);
-INSERT INTO Jaula(IDJaula) VALUES (794);
-INSERT INTO Jaula(IDJaula) VALUES (795);
-INSERT INTO Jaula(IDJaula) VALUES (796);
-INSERT INTO Jaula(IDJaula) VALUES (797);
-INSERT INTO Jaula(IDJaula) VALUES (798);
-INSERT INTO Jaula(IDJaula) VALUES (799);
-INSERT INTO Jaula(IDJaula) VALUES (800);
-INSERT INTO Jaula(IDJaula) VALUES (801);
-INSERT INTO Jaula(IDJaula) VALUES (802);
-INSERT INTO Jaula(IDJaula) VALUES (803);
-INSERT INTO Jaula(IDJaula) VALUES (804);
-INSERT INTO Jaula(IDJaula) VALUES (805);
-INSERT INTO Jaula(IDJaula) VALUES (806);
-INSERT INTO Jaula(IDJaula) VALUES (807);
-INSERT INTO Jaula(IDJaula) VALUES (808);
-INSERT INTO Jaula(IDJaula) VALUES (809);
-INSERT INTO Jaula(IDJaula) VALUES (810);
-INSERT INTO Jaula(IDJaula) VALUES (811);
-INSERT INTO Jaula(IDJaula) VALUES (812);
-INSERT INTO Jaula(IDJaula) VALUES (813);
-INSERT INTO Jaula(IDJaula) VALUES (814);
-INSERT INTO Jaula(IDJaula) VALUES (815);
-INSERT INTO Jaula(IDJaula) VALUES (816);
-INSERT INTO Jaula(IDJaula) VALUES (817);
-INSERT INTO Jaula(IDJaula) VALUES (818);
-INSERT INTO Jaula(IDJaula) VALUES (819);
-INSERT INTO Jaula(IDJaula) VALUES (820);
-INSERT INTO Jaula(IDJaula) VALUES (821);
-INSERT INTO Jaula(IDJaula) VALUES (822);
-INSERT INTO Jaula(IDJaula) VALUES (823);
-INSERT INTO Jaula(IDJaula) VALUES (824);
-INSERT INTO Jaula(IDJaula) VALUES (825);
-INSERT INTO Jaula(IDJaula) VALUES (826);
-INSERT INTO Jaula(IDJaula) VALUES (827);
-INSERT INTO Jaula(IDJaula) VALUES (828);
-INSERT INTO Jaula(IDJaula) VALUES (829);
-INSERT INTO Jaula(IDJaula) VALUES (830);
-INSERT INTO Jaula(IDJaula) VALUES (831);
-INSERT INTO Jaula(IDJaula) VALUES (832);
-INSERT INTO Jaula(IDJaula) VALUES (833);
-INSERT INTO Jaula(IDJaula) VALUES (834);
-INSERT INTO Jaula(IDJaula) VALUES (835);
-INSERT INTO Jaula(IDJaula) VALUES (836);
-INSERT INTO Jaula(IDJaula) VALUES (837);
-INSERT INTO Jaula(IDJaula) VALUES (838);
-INSERT INTO Jaula(IDJaula) VALUES (839);
-INSERT INTO Jaula(IDJaula) VALUES (840);
-INSERT INTO Jaula(IDJaula) VALUES (841);
-INSERT INTO Jaula(IDJaula) VALUES (842);
-INSERT INTO Jaula(IDJaula) VALUES (843);
-INSERT INTO Jaula(IDJaula) VALUES (844);
-INSERT INTO Jaula(IDJaula) VALUES (845);
-INSERT INTO Jaula(IDJaula) VALUES (846);
-INSERT INTO Jaula(IDJaula) VALUES (847);
-INSERT INTO Jaula(IDJaula) VALUES (848);
-INSERT INTO Jaula(IDJaula) VALUES (849);
-INSERT INTO Jaula(IDJaula) VALUES (850);
-INSERT INTO Jaula(IDJaula) VALUES (851);
-INSERT INTO Jaula(IDJaula) VALUES (852);
-INSERT INTO Jaula(IDJaula) VALUES (853);
-INSERT INTO Jaula(IDJaula) VALUES (854);
-INSERT INTO Jaula(IDJaula) VALUES (855);
-INSERT INTO Jaula(IDJaula) VALUES (856);
-INSERT INTO Jaula(IDJaula) VALUES (857);
-INSERT INTO Jaula(IDJaula) VALUES (858);
-INSERT INTO Jaula(IDJaula) VALUES (859);
-INSERT INTO Jaula(IDJaula) VALUES (860);
-INSERT INTO Jaula(IDJaula) VALUES (861);
-INSERT INTO Jaula(IDJaula) VALUES (862);
-INSERT INTO Jaula(IDJaula) VALUES (863);
-INSERT INTO Jaula(IDJaula) VALUES (864);
-INSERT INTO Jaula(IDJaula) VALUES (865);
-INSERT INTO Jaula(IDJaula) VALUES (866);
-INSERT INTO Jaula(IDJaula) VALUES (867);
-INSERT INTO Jaula(IDJaula) VALUES (868);
-INSERT INTO Jaula(IDJaula) VALUES (869);
-INSERT INTO Jaula(IDJaula) VALUES (870);
-INSERT INTO Jaula(IDJaula) VALUES (871);
-INSERT INTO Jaula(IDJaula) VALUES (872);
-INSERT INTO Jaula(IDJaula) VALUES (873);
-INSERT INTO Jaula(IDJaula) VALUES (874);
-INSERT INTO Jaula(IDJaula) VALUES (875);
-INSERT INTO Jaula(IDJaula) VALUES (876);
-INSERT INTO Jaula(IDJaula) VALUES (877);
-INSERT INTO Jaula(IDJaula) VALUES (878);
-INSERT INTO Jaula(IDJaula) VALUES (879);
-INSERT INTO Jaula(IDJaula) VALUES (880);
-INSERT INTO Jaula(IDJaula) VALUES (881);
-INSERT INTO Jaula(IDJaula) VALUES (882);
-INSERT INTO Jaula(IDJaula) VALUES (883);
-INSERT INTO Jaula(IDJaula) VALUES (884);
-INSERT INTO Jaula(IDJaula) VALUES (885);
-INSERT INTO Jaula(IDJaula) VALUES (886);
-INSERT INTO Jaula(IDJaula) VALUES (887);
-INSERT INTO Jaula(IDJaula) VALUES (888);
-INSERT INTO Jaula(IDJaula) VALUES (889);
-INSERT INTO Jaula(IDJaula) VALUES (890);
-INSERT INTO Jaula(IDJaula) VALUES (891);
-INSERT INTO Jaula(IDJaula) VALUES (892);
-INSERT INTO Jaula(IDJaula) VALUES (893);
-INSERT INTO Jaula(IDJaula) VALUES (894);
-INSERT INTO Jaula(IDJaula) VALUES (895);
-INSERT INTO Jaula(IDJaula) VALUES (896);
-INSERT INTO Jaula(IDJaula) VALUES (897);
-INSERT INTO Jaula(IDJaula) VALUES (898);
-INSERT INTO Jaula(IDJaula) VALUES (899);
-INSERT INTO Jaula(IDJaula) VALUES (900);
-INSERT INTO Jaula(IDJaula) VALUES (901);
-INSERT INTO Jaula(IDJaula) VALUES (902);
-INSERT INTO Jaula(IDJaula) VALUES (903);
-INSERT INTO Jaula(IDJaula) VALUES (904);
-INSERT INTO Jaula(IDJaula) VALUES (905);
-INSERT INTO Jaula(IDJaula) VALUES (906);
-INSERT INTO Jaula(IDJaula) VALUES (907);
-INSERT INTO Jaula(IDJaula) VALUES (908);
-INSERT INTO Jaula(IDJaula) VALUES (909);
-INSERT INTO Jaula(IDJaula) VALUES (910);
-INSERT INTO Jaula(IDJaula) VALUES (911);
-INSERT INTO Jaula(IDJaula) VALUES (912);
-INSERT INTO Jaula(IDJaula) VALUES (913);
-INSERT INTO Jaula(IDJaula) VALUES (914);
-INSERT INTO Jaula(IDJaula) VALUES (915);
-INSERT INTO Jaula(IDJaula) VALUES (916);
-INSERT INTO Jaula(IDJaula) VALUES (917);
-INSERT INTO Jaula(IDJaula) VALUES (918);
-INSERT INTO Jaula(IDJaula) VALUES (919);
-INSERT INTO Jaula(IDJaula) VALUES (920);
-INSERT INTO Jaula(IDJaula) VALUES (921);
-INSERT INTO Jaula(IDJaula) VALUES (922);
-INSERT INTO Jaula(IDJaula) VALUES (923);
-INSERT INTO Jaula(IDJaula) VALUES (924);
-INSERT INTO Jaula(IDJaula) VALUES (925);
-INSERT INTO Jaula(IDJaula) VALUES (926);
-INSERT INTO Jaula(IDJaula) VALUES (927);
-INSERT INTO Jaula(IDJaula) VALUES (928);
-INSERT INTO Jaula(IDJaula) VALUES (929);
-INSERT INTO Jaula(IDJaula) VALUES (930);
-INSERT INTO Jaula(IDJaula) VALUES (931);
-INSERT INTO Jaula(IDJaula) VALUES (932);
-INSERT INTO Jaula(IDJaula) VALUES (933);
-INSERT INTO Jaula(IDJaula) VALUES (934);
-INSERT INTO Jaula(IDJaula) VALUES (935);
-INSERT INTO Jaula(IDJaula) VALUES (936);
-INSERT INTO Jaula(IDJaula) VALUES (937);
-INSERT INTO Jaula(IDJaula) VALUES (938);
-INSERT INTO Jaula(IDJaula) VALUES (939);
-INSERT INTO Jaula(IDJaula) VALUES (940);
-INSERT INTO Jaula(IDJaula) VALUES (941);
-INSERT INTO Jaula(IDJaula) VALUES (942);
-INSERT INTO Jaula(IDJaula) VALUES (943);
-INSERT INTO Jaula(IDJaula) VALUES (944);
-INSERT INTO Jaula(IDJaula) VALUES (945);
-INSERT INTO Jaula(IDJaula) VALUES (946);
-INSERT INTO Jaula(IDJaula) VALUES (947);
-INSERT INTO Jaula(IDJaula) VALUES (948);
-INSERT INTO Jaula(IDJaula) VALUES (949);
-INSERT INTO Jaula(IDJaula) VALUES (950);
-INSERT INTO Jaula(IDJaula) VALUES (951);
-INSERT INTO Jaula(IDJaula) VALUES (952);
-INSERT INTO Jaula(IDJaula) VALUES (953);
-INSERT INTO Jaula(IDJaula) VALUES (954);
-INSERT INTO Jaula(IDJaula) VALUES (955);
-INSERT INTO Jaula(IDJaula) VALUES (956);
-INSERT INTO Jaula(IDJaula) VALUES (957);
-INSERT INTO Jaula(IDJaula) VALUES (958);
-INSERT INTO Jaula(IDJaula) VALUES (959);
-INSERT INTO Jaula(IDJaula) VALUES (960);
-INSERT INTO Jaula(IDJaula) VALUES (961);
-INSERT INTO Jaula(IDJaula) VALUES (962);
-INSERT INTO Jaula(IDJaula) VALUES (963);
-INSERT INTO Jaula(IDJaula) VALUES (964);
-INSERT INTO Jaula(IDJaula) VALUES (965);
-INSERT INTO Jaula(IDJaula) VALUES (966);
-INSERT INTO Jaula(IDJaula) VALUES (967);
-INSERT INTO Jaula(IDJaula) VALUES (968);
-INSERT INTO Jaula(IDJaula) VALUES (969);
-INSERT INTO Jaula(IDJaula) VALUES (970);
-INSERT INTO Jaula(IDJaula) VALUES (971);
-INSERT INTO Jaula(IDJaula) VALUES (972);
-INSERT INTO Jaula(IDJaula) VALUES (973);
-INSERT INTO Jaula(IDJaula) VALUES (974);
-INSERT INTO Jaula(IDJaula) VALUES (975);
-INSERT INTO Jaula(IDJaula) VALUES (976);
-INSERT INTO Jaula(IDJaula) VALUES (977);
-INSERT INTO Jaula(IDJaula) VALUES (978);
-INSERT INTO Jaula(IDJaula) VALUES (979);
-INSERT INTO Jaula(IDJaula) VALUES (980);
-INSERT INTO Jaula(IDJaula) VALUES (981);
-INSERT INTO Jaula(IDJaula) VALUES (982);
-INSERT INTO Jaula(IDJaula) VALUES (983);
-INSERT INTO Jaula(IDJaula) VALUES (984);
-INSERT INTO Jaula(IDJaula) VALUES (985);
-INSERT INTO Jaula(IDJaula) VALUES (986);
-INSERT INTO Jaula(IDJaula) VALUES (987);
-INSERT INTO Jaula(IDJaula) VALUES (988);
-INSERT INTO Jaula(IDJaula) VALUES (989);
-INSERT INTO Jaula(IDJaula) VALUES (990);
-INSERT INTO Jaula(IDJaula) VALUES (991);
-INSERT INTO Jaula(IDJaula) VALUES (992);
-INSERT INTO Jaula(IDJaula) VALUES (993);
-INSERT INTO Jaula(IDJaula) VALUES (994);
-INSERT INTO Jaula(IDJaula) VALUES (995);
-INSERT INTO Jaula(IDJaula) VALUES (996);
-INSERT INTO Jaula(IDJaula) VALUES (997);
-INSERT INTO Jaula(IDJaula) VALUES (998);
-INSERT INTO Jaula(IDJaula) VALUES (999);
-INSERT INTO Jaula(IDJaula) VALUES (1000);
+
 
 -- Inserciones de Visitante
 INSERT INTO Visitante(IDVisitante,Genero,Nombre,Paterno,Materno,FechaNacimiento) VALUES
@@ -2017,2012 +1518,562 @@ INSERT INTO Visitante(IDVisitante,Genero,Nombre,Paterno,Materno,FechaNacimiento)
 
 -- INSERT PARA VETERINARIO
 
-INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES
- ('XRLH017039DDI','Emlyn','Wagerfield','Swadling','Calle Zaragoza',08,11765,'Reforma','Jalisco','2014-07-07','2022-11-21','2002-05-18','Mujer',5478.89,'Oncología')
-,('JYJF248272TUV','Cecelia','Tilford','Hollidge','Calle Hidalgo',1,73716,'Tlatelolco','Tamaulipas','2014-09-02','2023-05-21','2019-09-13','Hombre',8717.03,'Endocrinología')
-,('XUXD552714OY8','Desdemona','Doumer','Laurenz','Avenida Constitución',8138,6528,'Polanco','Michoacán','2012-09-22','2022-12-12','2021-02-28','Hombre',8358.81,'Cardiología')
-,('ADRO38067141P','Aeriell','Hedon','Gerrie','Calle Zaragoza',15,36,'San Pedro de los Pinos','Sinaloa','2022-08-25','2023-06-08','1998-10-21','Mujer',2055.02,'Oncología')
-,('BDFA802584ZW4','Budd','McGinney','Curcher','Paseo de la Reforma',26,04,'Xochimilco','Durango','2020-04-17','2023-04-03','1984-10-27','Mujer',6988.2,'Dermatología')
-,('DRHR886128WMV','Abigale','Lardiner','Escreet','Boulevard Miguel Alemán',7,2,'Granjas México','Aguascalientes','2011-12-15','2023-06-12','1987-09-28','Hombre',7444.56,'Dermatología')
-,('OITB049651SGH','Audre','Worthing','Fishlee','Calle Insurgentes',71189,93,'Anzures','Queretaro','2020-02-19','2022-12-19','2004-05-24','Mujer',3609.56,'Oftalmología')
-,('NHRN311904Q42','Ari','Smeall','Zamudio','Avenida Constitución',0256,4,'Lindavista','Tlaxcala','2016-09-13','2022-10-25','2019-08-05','No-binario',7418.62,'Neurología')
-,('EFQE340114VGL','Dorie','Rankmore','Freeborn','Paseo de la Reforma',00,03176,'Santa Cruz Atoyac','Ciudad de México','2010-11-14','2023-06-15','2017-04-01','Hombre',7694.59,'Oftalmología')
-,('IBJQ540925KCY','Karrah','Crippin','Leisk','Calle 5 de Mayo',3,5220,'Satélite','Chiapas','2021-07-21','2023-09-15','1987-02-13','Hombre',5770.99,'Cirugía')
-,('DFRI0797275VI','Englebert','Shirland','Frudd','Calle Insurgentes',8,7075,'Álvaro Obregón','México','2017-04-28','2023-08-26','2011-10-15','Hombre',8851.02,'Cirugía')
-,('ZSWB419012FA3','Drona','Pays','Labroue','Calle Insurgentes',9,386,'Lindavista','Nayarit','2012-11-12','2022-12-11','1992-01-06','No-binario',2281.85,'Neurología')
-,('WKHF72805825K','Morie','Caunter','Godwyn','Calle Zaragoza',148,31,'Escandón','Coahuila de Zaragoza','2019-07-09','2023-05-17','2017-11-03','No-binario',7100.96,'Cardiología')
-,('AOBJ546045TG7','Katee','Tattoo','Trundler','Calle Hidalgo',08058,32,'Tlatelolco','Aguascalientes','2014-07-27','2023-08-01','2016-09-27','Hombre',2090.6,'Cirugía')
-,('LVGZ593499B7W','Hulda','Hanlin','Bosanko','Calle Hidalgo',41,2528,'Granjas México','Sonora','2015-02-28','2023-08-31','1994-07-07','Hombre',5688.21,'Neurología')
-,('XPHK696486KVE','Marv','Rennocks','Fritschmann','Calle 5 de Mayo',38,57,'Azcapotzalco','Tamaulipas','2021-12-01','2022-12-16','2020-08-04','Mujer',4637.27,'Odontología')
-,('CWNS7960833TF','Audrey','Schubart','Degenhardt','Avenida Constitución',6,7,'Condesa','México','2014-04-02','2023-09-04','1990-04-20','No-binario',7128.96,'Cardiología')
-,('LZBN227342Y9G','Kendall','Elphinstone','Bransby','Paseo de la Reforma',9,5251,'Valle de Bravo','Zacatecas','2021-07-29','2023-08-04','2001-04-20','Mujer',19.74,'Neurología')
-,('EFQW113407Z7T','Nollie','Kane','McConnell','Calle Zaragoza',12,6353,'Cuajimalpa','Puebla','2012-08-22','2023-03-19','2002-12-21','No-binario',4363.22,'Endocrinología')
-,('YMGK954740X44','Gilda','Kissack','MacKowle','Avenida Revolución',86196,92131,'Del Valle','Coahuila de Zaragoza','2020-01-18','2023-04-20','1986-03-18','Mujer',6897.58,'Endocrinología')
-,('LCQM491078B7S','Ambrosio','Duham','Hare','Calle Zaragoza',09701,79865,'Tlalpan','Yucatan','2014-07-11','2023-09-14','2000-11-28','Mujer',146.67,'Rehabilitación')
-,('MENY019819KRP','Kermy','Halt','Suggitt','Paseo de la Reforma',0,5020,'Cuajimalpa','Tamaulipas','2015-05-01','2023-10-16','2007-07-14','Hombre',3120.61,'Cirugía')
-,('LWZZ476863L8P','Leelah','Tilson','Cleever','Paseo de la Reforma',2,80947,'Mixcoac','Puebla','2012-02-02','2023-02-16','2004-06-05','Mujer',862.26,'Rehabilitación')
-,('FXRB0770293BX','Celie','Fison','Extil','Avenida Constitución',812,7481,'Granjas México','Oaxaca','2018-12-21','2023-04-16','2014-10-16','Hombre',8214.95,'Cardiología')
-,('HMZB408871Z95','Clemmy','Szymczyk','Nasi','Boulevard Miguel Alemán',1,5755,'Del Valle','Guanajuato','2023-06-09','2023-08-02','2010-04-01','Mujer',9060.93,'Rehabilitación')
-,('BQIY8042892HC','Hube','Baszkiewicz','Glencrosche','Boulevard Miguel Alemán',06505,00,'Nápoles','Durango','2013-12-04','2023-07-08','2023-08-21','Mujer',2658.17,'Neurología')
-,('LJJZ61717144M','Archibaldo','Buckby','Clendinning','Calle 5 de Mayo',05,3,'Tacubaya','Baja California','2019-04-19','2023-04-20','2022-06-06','Mujer',5347.82,'Neurología')
-,('QZFV4789848GG','Don','Madill','Skells','Avenida Juarez',03246,8,'Tepoztlán','Morelos','2019-12-01','2023-02-27','2022-12-30','Mujer',9828.79,'Odontología')
-,('VRHH049444FL4','Feliza','McGraith','O''Shevlan','Paseo de los Tamarindos',21,39330,'Cancún','Ciudad de México','2012-11-18','2023-08-27','2001-07-16','Mujer',4680.74,'Nutrición')
-,('RYWL980721VU1','Glenda','Goseling','Traves','Paseo de los Tamarindos',944,299,'Valle de Bravo','Michoacán','2012-12-21','2023-10-18','1985-08-09','Mujer',3185.09,'Rehabilitación')
-,('NJWC6138724VT','Ruthi','Pietesch','Crellim','Paseo de la Reforma',61112,73162,'Coyoacán','Guerrero','2021-02-10','2023-07-21','1988-01-11','Hombre',2015.0,'Rehabilitación')
-,('JCKR822132952','Kimbra','Sivorn','Doerren','Avenida Revolución',17,219,'Valle de Bravo','Yucatan','2016-06-04','2023-03-20','2003-05-25','Hombre',9537.26,'Nutrición')
-,('XLTC303161M0D','Jeni','Slight','Blant','Avenida Constitución',31,71741,'Jardines del Pedregal','San Luis Potosi','2013-04-12','2023-05-14','2022-09-14','No-binario',5337.53,'Oftalmología')
-,('IRZJ0869871X3','Lusa','Polding','Drinkeld','Boulevard Miguel Alemán',9,893,'Napoles','Jalisco','2014-05-31','2023-09-17','2009-06-10','Hombre',3453.46,'Neurología')
-,('CCBO1796346KL','Isaak','Harriot','Sandys','Boulevard Miguel Alemán',318,95097,'Satélite','Colima','2012-09-20','2023-03-28','1995-06-01','Mujer',1569.07,'Endocrinología')
-,('WGRS017876R2L','Roseanne','Nicholl','Rogerson','Avenida Constitución',6489,21,'San Ángel','Nuevo Leon','2016-05-23','2023-08-13','1983-12-05','No-binario',996.61,'Cardiología')
-,('OZKX244498QHR','Lynette','Aronow','Daventry','Avenida Constitución',1766,9,'Del Valle','Tabasco','2013-12-31','2023-09-26','2007-02-06','No-binario',1961.05,'Dermatología')
-,('ZLAZ658569W7L','Vail','Heckle','Constanza','Avenida Juarez',28,4226,'Narvarte','Veracruz de Ignacio de la Llave','2023-03-01','2023-07-15','2009-11-14','Hombre',3640.51,'Oncología')
-,('BHIP47747376D','Elli','MacBey','Mearns','Boulevard Miguel Alemán',9,02777,'Azcapotzalco','Morelos','2015-12-07','2023-04-04','1985-11-19','Hombre',4511.39,'Rehabilitación')
-,('LKEM248911O1O','Lucia','Vaan','Frounks','Paseo de la Reforma',8,5968,'San Miguel Chapultepec','Baja California','2023-09-28','2022-11-24','1986-05-04','No-binario',7634.68,'Cardiología')
-,('GHJQ063572DV8','Rickie','Cristofaro','Benes','Paseo de los Tamarindos',898,1300,'Mérida','Zacatecas','2015-06-10','2022-11-02','2017-10-15','Hombre',812.57,'Oftalmología')
-,('KDXO0616156NB','Dora','Lowne','Kem','Boulevard Miguel Alemán',788,0957,'San Ángel','San Luis Potosi','2019-07-07','2023-10-18','1997-06-27','No-binario',2107.42,'Oncología')
-,('MCOW902442NUO','Dinnie','Rake','Breinl','Avenida Juarez',35,059,'Roma','Sinaloa','2019-01-24','2023-08-08','1993-04-18','No-binario',6728.88,'Nutrición')
-,('YJZD715616BE0','Grenville','Moxon','Bollam','Boulevard Miguel Alemán',38210,9065,'Tlatelolco','Sinaloa','2016-09-12','2023-09-06','1985-08-09','Hombre',71.25,'Cardiología')
-,('EAAC189669339','Halie','Morando','Fewlass','Calle Zaragoza',2316,1040,'Cuajimalpa','Sonora','2012-09-12','2022-11-13','1998-04-18','No-binario',8977.92,'Oncología')
-,('FTMZ815540TXM','Candy','Trytsman','Vasyushkhin','Calle Zaragoza',37177,500,'San Miguel Chapultepec','Colima','2021-03-24','2023-06-29','2014-07-31','No-binario',4732.77,'Dermatología')
-,('JVDT90543280K','Riva','Sawart','Scryne','Calle Hidalgo',56,874,'Polanco','Veracruz de Ignacio de la Llave','2018-11-10','2023-06-03','2003-02-07','Mujer',8256.76,'Rehabilitación')
-,('DTQO397990PF4','Graehme','Shipman','Hotchkin','Boulevard Miguel Alemán',6,6754,'Reforma','Michoacán','2020-04-19','2023-09-03','2010-02-21','No-binario',7243.09,'Odontología')
-,('HYKG295918DOU','Jacquelyn','Astill','Chazerand','Avenida Revolución',466,61,'Playa del Carmen','Oaxaca','2017-08-14','2022-11-06','1995-01-27','Mujer',1594.03,'Odontología')
-,('IKYU1643438O7','Tobias','Leal','Iskow','Calle Zaragoza',2192,03925,'Narvarte','México','2012-01-24','2022-11-21','1989-10-28','No-binario',6942.9,'Cirugía')
-,('HKJD679989J0I','Cammie','Kennerley','Eunson','Boulevard Miguel Alemán',47,1150,'Álvaro Obregón','Tamaulipas','2010-11-26','2023-01-12','2016-11-19','Mujer',8160.83,'Rehabilitación')
-,('JNLB946106BO1','Janeva','Daughtry','Besant','Paseo de los Tamarindos',946,2940,'Mixcoac','Chiapas','2023-05-12','2023-05-01','2000-05-30','Hombre',9582.88,'Cirugía')
-,('AGYO618628DRD','Milton','Caffin','Carrington','Calle Insurgentes',10,50151,'Mixcoac','Morelos','2018-05-22','2022-10-25','2012-12-22','Mujer',8823.21,'Neurología')
-,('HFQA283057TNF','Rabi','Cavilla','Billing','Avenida Juarez',083,355,'Nápoles','Puebla','2015-11-14','2023-06-03','2015-10-17','Mujer',9588.19,'Oncología')
-,('ZRZZ776198CRG','Derrek','Cawt','Gauntley','Calle 5 de Mayo',72,40,'Roma','Aguascalientes','2012-01-06','2022-12-04','2021-06-15','No-binario',3754.44,'Oncología')
-,('QSOB751921KFS','Sunshine','Cattini','Menichelli','Calle Zaragoza',1654,1,'Escandón','Chiapas','2015-04-09','2023-04-18','2004-08-28','Mujer',8574.64,'Oftalmología')
-,('RHJC391125PTK','Sascha','Yarrell','Haye','Avenida Revolución',16,768,'Granjas México','Guanajuato','2020-11-03','2023-03-12','2018-04-29','Mujer',2325.58,'Cirugía')
-,('WAXE704424L8V','Benedikta','Gaylard','Hapgood','Avenida Revolución',1,80,'Tlalpan','Chihuahua','2016-01-12','2023-05-25','2006-03-17','Hombre',2979.46,'Oncología')
-,('GURF327965Q5J','Conrade','Edsell','Coltart','Calle 5 de Mayo',56,7672,'Lindavista','Guanajuato','2016-07-07','2023-01-30','2010-05-20','Mujer',6920.13,'Odontología')
-,('POAE097674L9M','Hunter','Maine','Gorce','Paseo de la Reforma',2,7,'Condesa','Hidalgo','2018-09-23','2023-08-05','1995-11-25','No-binario',4549.26,'Oftalmología')
-,('UBFU6803012FG','Hedvige','Baddoe','Kentish','Avenida Revolución',3,11,'Tlatelolco','Chihuahua','2022-02-15','2023-06-21','2005-12-03','No-binario',9182.37,'Odontología')
-,('ZFNY709178H95','Woody','Crookston','Wayt','Calle Zaragoza',701,0,'Granjas México','Zacatecas','2016-06-12','2023-10-18','1992-08-04','No-binario',6469.2,'Endocrinología')
-,('RCFX391761T1X','Erik','Mogenot','Skaife','Calle Hidalgo',78026,32,'Reforma','Aguascalientes','2020-05-11','2022-12-02','1998-07-24','Hombre',5697.6,'Endocrinología')
-,('TLAT769928IRJ','Anette','Sissons','Yerby','Calle Insurgentes',24,794,'Mérida','Sinaloa','2018-06-11','2023-08-16','2003-02-10','Hombre',118.39,'Dermatología')
-,('JPFB94616387X','Ilise','Grayshon','Slowey','Avenida Juarez',5218,59864,'Narvarte','Durango','2015-08-10','2022-11-02','2020-02-24','Mujer',1806.51,'Nutrición')
-,('OHLT077803R9N','Elyse','Feeley','Jefferson','Avenida Constitución',8,1749,'Playa del Carmen','Durango','2011-04-26','2023-10-10','2017-04-18','No-binario',4654.39,'Odontología')
-,('EUGT472724FZV','Denis','Giraudy','Pelerin','Calle Hidalgo',74852,6196,'Condesa','Campeche','2019-03-17','2022-12-21','1990-12-16','Mujer',2663.29,'Cardiología')
-,('EHDV325629GIP','Armando','Liffey','Kemm','Avenida Revolución',8,23,'Xalapa','Aguascalientes','2013-10-25','2023-01-06','2001-05-01','Mujer',5076.7,'Cirugía')
-,('ZKUP909389VT4','Vinson','Dysart','Cawdron','Calle Zaragoza',28,559,'Escandón','Hidalgo','2017-04-04','2023-01-13','2007-10-27','No-binario',5465.56,'Odontología')
-,('VCBR975424YRV','Lucio','Freeberne','Mead','Calle 5 de Mayo',2177,7,'Polanco','México','2017-05-16','2023-01-18','1996-04-19','Mujer',8188.34,'Rehabilitación')
-,('SDUX161179YWE','Graig','Crush','Figiovanni','Avenida Constitución',7332,87,'San Rafael','Zacatecas','2019-07-15','2023-10-11','1990-03-14','No-binario',4764.47,'Oftalmología')
-,('SCQB493761HPP','Boycey','Bellwood','Petyt','Calle Zaragoza',5,3,'Coyoacán','Guerrero','2018-03-02','2023-05-15','2008-02-24','Hombre',5665.06,'Dermatología')
-,('BDBT263992KI2','Iolanthe','Towhey','Hubatsch','Calle Zaragoza',51,4445,'Cancún','Zacatecas','2016-05-03','2022-11-14','1997-02-20','No-binario',4918.01,'Cirugía')
-,('NELY050485G6Q','Nealon','O''Driscoll','Lambal','Avenida Constitución',37,754,'Condesa','México','2016-10-19','2023-09-17','2016-09-29','No-binario',2680.95,'Cirugía')
-,('BEIG668085NR7','Winna','Spivie','Bryett','Avenida Revolución',93,0,'San Ángel','Guanajuato','2013-01-23','2023-07-26','1982-06-22','Hombre',4422.03,'Cardiología')
-,('OFPT019287LZM','Dougie','Ocheltree','Tiron','Calle Hidalgo',34,84,'Tulum','Tamaulipas','2016-02-13','2023-10-06','1999-12-08','No-binario',9786.32,'Odontología')
-,('HWSO76557320B','Jeremie','Laydon','Ladds','Avenida Constitución',548,854,'San Rafael','Tlaxcala','2020-01-26','2022-11-01','2017-10-25','Hombre',960.47,'Odontología')
-,('VMQU533748H8T','Bertina','Dart','Waadenburg','Boulevard Miguel Alemán',898,5870,'Anzures','Puebla','2018-01-28','2023-07-04','2015-11-21','Mujer',3716.49,'Odontología')
-,('RNVS921935BIW','Astrix','Aprahamian','Josipovitz','Paseo de la Reforma',85,24132,'Narvarte','México','2012-04-27','2022-12-22','1994-07-01','Mujer',2168.89,'Oftalmología')
-,('VTAA7908610XY','Cory','Hammerstone','Zettoi','Calle Zaragoza',49,890,'Napoles','Tabasco','2019-08-24','2022-12-23','1985-03-23','Mujer',5479.47,'Nutrición')
-,('YUWZ758393XGI','Leanor','Matushenko','Driffield','Paseo de la Reforma',53,677,'Cancún','Chihuahua','2019-01-17','2023-01-30','2016-12-27','Hombre',4639.12,'Rehabilitación')
-,('DQRF968245INW','Rab','Carlisi','Antonchik','Avenida Juarez',6,1,'Roma','Nuevo Leon','2016-06-16','2023-01-26','1989-03-10','No-binario',3239.83,'Cirugía')
-,('SXCP729035TNK','Jorry','Folini','Shilstone','Avenida Juarez',36741,00813,'Xalapa','Baja California','2011-05-06','2023-04-02','1988-05-02','No-binario',8336.94,'Dermatología')
-,('UPRZ2998072B6','Eddy','Suart','Puckrin','Avenida Juarez',32,0181,'Chapultepec','Ciudad de México','2012-10-28','2023-06-17','1995-07-11','No-binario',5465.07,'Nutrición')
-,('VCOT67809595E','Darius','Oseland','Abrahamsson','Calle Hidalgo',6,99945,'Polanco','Durango','2014-02-17','2022-11-21','2003-11-04','Mujer',1215.08,'Dermatología')
-,('DMWF498953Z55','Meara','Gowdridge','Szymaniak','Paseo de los Tamarindos',9,14,'Roma','Durango','2022-10-07','2023-09-27','1992-09-12','No-binario',9218.34,'Nutrición')
-,('KUMF223986ET2','Francesca','Dory','Coldbathe','Calle 5 de Mayo',9567,8,'Reforma','Campeche','2015-02-20','2023-01-21','2016-11-14','Hombre',8686.77,'Rehabilitación')
-,('UZEJ079819K75','Agatha','Lomis','Joicey','Avenida Juarez',58167,46941,'Jardines del Pedregal','Baja California','2012-04-29','2023-03-01','1998-03-31','Mujer',3799.38,'Neurología')
-,('XKQU936729FPH','Haven','O''Curran','Middlehurst','Calle 5 de Mayo',2386,612,'Lindavista','Zacatecas','2017-08-28','2023-01-13','2009-06-04','Mujer',2811.07,'Cirugía')
-,('PRJX382166KJK','Ody','McCrostie','Ondra','Avenida Revolución',47,94989,'Roma','Queretaro','2014-05-16','2023-01-26','1993-10-03','No-binario',4933.27,'Neurología')
-,('MXTT743734G5J','Lissa','Lintill','Bedell','Avenida Revolución',64,95,'Mixcoac','Chihuahua','2021-04-24','2023-04-23','1985-08-06','Mujer',6844.57,'Odontología')
-,('PKNG462064IDJ','Phebe','Berisford','Itter','Calle Insurgentes',96087,1,'Coyoacán','Guerrero','2019-11-06','2022-12-05','1984-12-11','Mujer',6100.47,'Rehabilitación')
-,('IZPG996819Q6K','Jennee','Agett','Hendrickson','Calle 5 de Mayo',9,762,'Escandón','Sonora','2019-03-26','2022-11-01','1996-10-19','Mujer',3150.68,'Endocrinología')
-,('VKZR725794QWS','Sheilakathryn','Habert','Banker','Calle Zaragoza',6,4,'San Jerónimo','Queretaro','2013-06-19','2023-08-28','2023-04-07','Mujer',4342.64,'Oncología')
-,('RNWV073707LAK','Benjamin','Rosa','Lamplough','Avenida Constitución',5,11,'Santa Cruz Atoyac','Morelos','2020-08-31','2022-11-11','2011-02-16','Mujer',70.64,'Cirugía')
-,('APTX328735GCE','Nisse','Sollis','Pipworth','Avenida Juarez',45,99,'Tlatelolco','Oaxaca','2019-10-02','2023-06-09','1998-02-24','No-binario',7957.26,'Oftalmología')
-,('ANME677638DAY','Pat','Brenstuhl','Wolverson','Avenida Revolución',841,60,'San Jerónimo','Michoacán','2015-10-29','2023-08-27','2003-02-20','Mujer',8628.56,'Rehabilitación')
-,('CITO886904C1N','Osbert','Pariss','Birdwhistell','Calle Zaragoza',52,36586,'Roma','Chiapas','2015-05-17','2023-05-30','2022-01-18','No-binario',6062.66,'Rehabilitación')
-,('CJNC5016475CX','Vinny','Dumbleton','Haynes','Paseo de la Reforma',690,1,'Mérida','Morelos','2012-08-14','2022-10-31','1983-02-10','No-binario',5591.76,'Cardiología')
-,('RWHD41631361M','Cherilyn','Maccari','Forten','Calle Insurgentes',999,9255,'Cancún','Colima','2022-05-29','2023-04-19','1988-11-30','Hombre',8486.82,'Neurología')
-,('YTJH499377MQ8','Delcina','O''Currane','Vergo','Calle 5 de Mayo',3,870,'Chapultepec','Guerrero','2022-09-21','2023-10-04','1996-08-08','Mujer',6444.28,'Rehabilitación')
-,('EONM734903PFW','Corey','Dudliston','Idel','Calle Hidalgo',856,529,'Polanco','Puebla','2014-09-25','2023-03-17','1983-11-02','No-binario',5636.69,'Oftalmología')
-,('UADW3331472YL','Allyn','Felce','Briant','Calle 5 de Mayo',730,99084,'San Rafael','Chihuahua','2017-09-23','2023-06-22','1992-11-07','Mujer',7479.59,'Cardiología')
-,('WKVS897554ZBY','Myron','Eliff','Tacey','Avenida Revolución',0651,500,'Cancún','Veracruz de Ignacio de la Llave','2016-08-11','2022-11-03','1987-07-24','No-binario',6870.33,'Neurología')
-,('WNIK821119RD2','Alberik','Ducker','Dorant','Calle 5 de Mayo',5,0138,'Anzures','Baja California Sur','2020-10-17','2023-05-18','2006-08-25','No-binario',3450.96,'Neurología')
-,('JAOE685609QBY','Nico','Lightman','Wooff','Paseo de los Tamarindos',287,9,'Tepoztlán','Jalisco','2019-02-04','2023-07-24','2017-06-26','Hombre',9678.5,'Nutrición')
-,('BFTZ446169IZR','Ira','Milby','Schanke','Paseo de los Tamarindos',199,0,'Polanco','Nuevo Leon','2020-12-15','2023-09-09','1996-02-14','No-binario',7310.75,'Oftalmología')
-,('AIKA402765QCD','Neill','Zuanazzi','Plumer','Calle Zaragoza',770,8089,'Cuajimalpa','Guanajuato','2023-01-06','2023-07-09','2016-09-13','No-binario',2267.17,'Cardiología')
-,('JYSH342324F23','Rosemaria','Sysland','Reynard','Calle Hidalgo',25247,30,'Jardines del Pedregal','Durango','2012-07-17','2023-08-13','2023-02-16','No-binario',918.49,'Neurología')
-,('NGMR330883QOK','Arne','Downgate','Bayley','Avenida Revolución',3362,4678,'Xalapa','Morelos','2018-05-25','2023-04-19','2008-08-03','Hombre',9909.6,'Rehabilitación')
-,('SVGO282059UVN','Christel','Longbothom','Impey','Boulevard Miguel Alemán',47124,38137,'Tacubaya','Chihuahua','2014-10-21','2023-03-09','1985-07-06','Mujer',6983.72,'Rehabilitación')
-,('RXCV228444K3L','Winn','Blackborough','Marder','Avenida Juarez',0028,4,'Tacubaya','Sinaloa','2020-02-28','2023-02-09','2007-01-02','Mujer',8315.25,'Nutrición')
-,('WFDL8084355FP','Jakie','Stonbridge','Toolin','Boulevard Miguel Alemán',88187,2564,'Narvarte','Yucatan','2017-07-17','2023-02-17','2016-02-14','Hombre',3302.97,'Neurología')
-,('ICKS93376052I','Josie','Michelin','Faussett','Calle Zaragoza',9522,4,'Coyoacán','Guanajuato','2021-04-15','2022-11-27','2011-04-30','Mujer',5995.17,'Cardiología')
-,('OBIO937964RT9','Jeri','Kyd','Pallaske','Calle Insurgentes',02,24840,'Tepoztlán','Baja California Sur','2021-01-09','2023-09-19','2006-03-03','No-binario',2368.96,'Nutrición')
-,('LADW39824047M','Lexine','Gibbin','Henningham','Calle 5 de Mayo',793,35294,'Napoles','Yucatan','2018-03-14','2023-06-26','1993-05-24','Hombre',7435.27,'Rehabilitación')
-,('DIJV379510WI7','Courtnay','Lilie','Kintzel','Boulevard Miguel Alemán',19,2323,'Tepoztlán','Tabasco','2014-10-26','2023-05-12','1987-07-21','Mujer',3769.07,'Neurología')
-,('MVYS709066PGL','Levy','Kinane','Fisby','Avenida Constitución',0166,64139,'San Jerónimo','México','2020-06-29','2023-06-07','2010-12-26','No-binario',5073.89,'Cirugía')
-,('JCKD504519438','Hurlee','Ramelet','Gainsburgh','Boulevard Miguel Alemán',1,92501,'Cuajimalpa','Campeche','2013-03-18','2023-04-16','2010-09-24','Mujer',2054.2,'Cirugía')
-,('LTRC2286884OB','Costanza','Clail','Samber','Calle Hidalgo',836,5159,'Azcapotzalco','San Luis Potosi','2014-09-01','2023-04-12','2000-07-12','No-binario',9314.29,'Nutrición')
-,('NAVT5453129R1','Kerry','Utterson','Calveley','Calle Zaragoza',2,659,'Azcapotzalco','Puebla','2013-02-03','2023-01-01','2008-06-23','No-binario',9573.1,'Nutrición')
-,('QNRG376670YCA','Harwell','Ferrone','Wilbor','Avenida Revolución',78904,20,'San Pedro de los Pinos','Veracruz de Ignacio de la Llave','2020-11-14','2023-08-22','1989-03-02','Hombre',2473.82,'Odontología')
-,('WQSI506280X1B','Rich','Atwill','Breeton','Calle 5 de Mayo',5770,3,'Santa Fe','Aguascalientes','2015-04-24','2023-05-14','2014-02-04','Hombre',562.58,'Neurología')
-,('KTEO2942552ST','Suzann','Bagguley','Samwyse','Calle 5 de Mayo',59,642,'San Jerónimo','Tamaulipas','2017-02-16','2022-11-22','2007-05-02','Mujer',57.4,'Endocrinología')
-,('LRTO756036ITL','Evanne','Coopey','Antognazzi','Calle 5 de Mayo',585,91,'Santa María la Ribera','Morelos','2018-06-14','2023-09-26','2014-12-07','Mujer',177.29,'Rehabilitación')
-,('FIZB309310ICC','Bonita','Chatten','Culbert','Avenida Revolución',8,60,'Tlatelolco','Coahuila de Zaragoza','2019-07-13','2023-03-20','1988-02-19','No-binario',785.67,'Cirugía')
-,('YCOD342378W2F','Gnni','Twidell','Mallinar','Boulevard Miguel Alemán',556,5316,'Coyoacán','Queretaro','2015-06-10','2023-03-31','1993-05-24','No-binario',2556.38,'Nutrición')
-,('UBNW667730J7B','Tamara','Garnett','Cosgriff','Paseo de la Reforma',61433,90,'Anzures','Hidalgo','2012-11-29','2023-06-13','2019-01-05','Hombre',4203.33,'Cardiología')
-,('BOKN304151S1B','Perl','Mawford','Birdseye','Calle Hidalgo',4,22,'Doctores','Oaxaca','2018-12-05','2023-09-14','1992-11-30','Mujer',9559.9,'Endocrinología')
-,('YUQX183589X3S','Chrystal','Stoak','Franssen','Calle Zaragoza',29024,9349,'Nápoles','Coahuila de Zaragoza','2015-08-10','2023-10-06','2009-08-02','No-binario',7447.91,'Odontología')
-,('FDEV028906B1D','Cchaddie','Rofe','Edwicker','Calle 5 de Mayo',93,5,'Narvarte','Tlaxcala','2011-09-05','2023-07-09','1981-04-11','No-binario',2247.24,'Neurología')
-,('WBNI040394U8J','Lanita','Manton','Maps','Avenida Constitución',2354,4,'Playa del Carmen','Oaxaca','2023-05-15','2023-09-22','1996-06-02','Mujer',7051.76,'Cardiología')
-,('HVOZ017302AV6','Aluino','Furze','Balle','Calle Insurgentes',2201,620,'Xochimilco','Coahuila de Zaragoza','2017-07-08','2023-03-25','2006-05-19','Hombre',227.98,'Nutrición')
-,('DRYX933922WHG','Emlynne','Mussett','O'' Sullivan','Paseo de los Tamarindos',776,3,'San Rafael','Nuevo Leon','2020-03-07','2023-04-02','1994-03-15','No-binario',7092.53,'Oncología')
-,('BCZA355633FJC','Bruis','Kleinhaus','Stainson','Calle Zaragoza',43238,31,'Valle de Bravo','Ciudad de México','2020-05-20','2023-02-21','1983-07-08','No-binario',7718.44,'Neurología')
-,('XWQA7321023UA','Ivonne','Salvidge','Arpino','Calle Insurgentes',7408,402,'San Rafael','Sonora','2014-11-08','2023-05-24','1986-12-10','No-binario',3247.4,'Oncología')
-,('TGMV6433195DV','Daile','Penwell','Laundon','Calle Hidalgo',1,2,'Pedregal','Sonora','2021-01-20','2023-07-27','2012-07-25','Mujer',5618.89,'Oncología')
-,('ZVTC164304K2A','Adham','Dengate','Friary','Calle 5 de Mayo',385,236,'Playa del Carmen','Sonora','2023-01-14','2023-09-04','1992-07-14','Mujer',1930.62,'Endocrinología')
-,('KIBT238184QXB','Dougy','Vazquez','Thoma','Calle 5 de Mayo',324,763,'Cuajimalpa','Quintana Roo','2016-02-10','2022-12-16','1985-06-20','No-binario',4933.62,'Endocrinología')
-,('NUME414116WJ5','Theodor','Astridge','Kose','Avenida Juarez',0934,7168,'Santa María la Ribera','Nayarit','2015-03-01','2023-07-24','1997-02-19','No-binario',6971.5,'Nutrición')
-,('OYHO841484TEP','Sergio','Plowell','Size','Avenida Constitución',0,4498,'Cuajimalpa','Coahuila de Zaragoza','2019-01-05','2023-09-15','2009-09-03','No-binario',2486.11,'Neurología')
-,('WXQZ98943898K','Ryon','Beetlestone','Horbart','Calle Insurgentes',67,8181,'Escandón','Sinaloa','2023-09-19','2023-07-01','1994-12-29','No-binario',759.35,'Odontología')
-,('YSWN741319IP6','Felic','Winter','Gillion','Calle Hidalgo',66511,3531,'Mixcoac','Oaxaca','2014-12-18','2023-08-25','2019-05-02','Hombre',6355.5,'Nutrición')
-,('WANU554534EFA','Gasper','Walsh','MacTavish','Calle Zaragoza',0,915,'Del Valle','Quintana Roo','2014-02-19','2023-10-17','1992-01-03','No-binario',1581.95,'Cardiología')
-,('IERA527146OY6','Florance','Eddies','Karchewski','Avenida Revolución',72491,4,'Tlatelolco','Nayarit','2017-06-09','2023-10-15','1998-07-25','No-binario',7503.83,'Cardiología')
-,('IPYZ659276EG0','Atalanta','Sibery','Paradin','Calle Zaragoza',07,5225,'Satélite','Chiapas','2010-12-13','2023-03-05','1986-12-22','Mujer',4823.79,'Odontología')
-,('UOYB155868RBR','Clyde','Tuttle','Crummey','Calle Insurgentes',6709,6,'Chapultepec','Ciudad de México','2013-12-01','2023-05-28','1992-07-30','Mujer',5069.21,'Odontología')
-,('JFJF879152LQP','Neila','Putman','Maltster','Avenida Constitución',77,87,'San Rafael','Aguascalientes','2023-02-06','2023-07-16','1984-09-27','No-binario',8773.76,'Odontología')
-,('KAQK177266UK4','Kathi','Kynston','Gordge','Calle Hidalgo',943,506,'Xochimilco','Baja California','2018-07-07','2022-12-28','1982-07-29','No-binario',1510.98,'Endocrinología')
-,('JSAF4157623F0','Robyn','Gecke','Sangwin','Calle Hidalgo',7,8,'Tlalpan','Colima','2012-11-15','2023-03-18','2009-08-16','Hombre',2754.12,'Odontología')
-,('NLMQ4873697C6','Winfield','Deelay','Heaffey','Calle 5 de Mayo',4,84,'Santa Fe','Michoacán','2021-02-08','2022-11-11','2017-11-13','No-binario',7362.54,'Neurología')
-,('KXEC896081399','Gale','Kubasek','Shildrake','Avenida Revolución',54,29151,'Doctores','Guanajuato','2010-10-26','2023-01-18','2003-08-05','Mujer',1177.38,'Cardiología')
-,('NACC0499271M0','Pinchas','Mcettrick','Widger','Avenida Constitución',99,743,'Granjas México','Coahuila de Zaragoza','2019-03-13','2023-04-11','2008-02-22','No-binario',8036.97,'Oncología')
-,('BYOG120916DVL','Parrnell','Rosenwald','Gilardoni','Paseo de los Tamarindos',0,3349,'Valle de Bravo','San Luis Potosi','2020-03-15','2023-06-15','2002-05-28','No-binario',8387.68,'Rehabilitación')
-,('EWBH983193J24','Yulma','Lyford','Lawless','Avenida Juarez',494,325,'Valle de Bravo','Morelos','2014-02-27','2023-03-30','2012-04-18','No-binario',7371.52,'Cardiología')
-,('DOHE665717HI0','Dur','Costelow','Bontein','Avenida Juarez',9,36593,'Granjas México','Veracruz de Ignacio de la Llave','2014-02-03','2023-07-11','2010-09-03','Hombre',9970.4,'Dermatología')
-,('XWGV4423877AC','Solly','Lesper','Perez','Calle Zaragoza',46,80073,'Lindavista','Veracruz de Ignacio de la Llave','2018-01-23','2023-05-05','1994-03-21','No-binario',1474.13,'Oncología')
-,('SEXX917964NWL','Theobald','Cutridge','Casella','Calle Zaragoza',45756,323,'Cuajimalpa','Michoacán','2014-03-20','2023-02-13','1996-01-05','Mujer',4814.13,'Oftalmología')
-,('FFEI769720KCC','Elena','Gold','Bonelle','Calle Insurgentes',65607,2519,'San Rafael','Chihuahua','2023-01-01','2023-04-04','2019-08-24','Mujer',2861.64,'Endocrinología')
-,('ZKAG838131O66','Pepito','Lorimer','Sabie','Paseo de la Reforma',96,15598,'Portales','Zacatecas','2013-12-07','2023-01-29','1995-10-17','No-binario',2195.29,'Rehabilitación')
-,('PCBM351352EXS','Patricio','Weekes','Chiechio','Boulevard Miguel Alemán',8,439,'Tulum','Guerrero','2018-05-30','2023-05-09','2020-12-15','No-binario',8802.86,'Cardiología')
-,('OJUP030334TQQ','Maddie','Farlowe','Diglin','Avenida Revolución',0,6148,'Juárez','Chiapas','2021-08-24','2023-10-16','2003-12-15','Mujer',4474.85,'Neurología')
-,('NWNB9658179GG','Cristie','Freemantle','Holmyard','Calle Zaragoza',35,0,'Tlatelolco','Nuevo Leon','2014-11-19','2022-11-30','1987-01-24','Mujer',9030.63,'Rehabilitación')
-,('RIWI179657B2E','Leia','Wreakes','McIlheran','Paseo de la Reforma',54,5,'Escandón','Campeche','2018-09-03','2023-07-06','2016-02-14','Mujer',4808.93,'Oncología')
-,('ZVLN610215CAZ','Meris','Blackbourn','Stannus','Paseo de la Reforma',1439,72,'Santa María la Ribera','Puebla','2016-05-05','2023-03-10','2009-01-23','No-binario',4203.82,'Nutrición')
-,('LTIZ756359NJP','Marline','Wreight','Geddis','Calle Insurgentes',7432,53141,'Condesa','Tabasco','2018-08-24','2023-06-03','2023-03-25','Mujer',3607.79,'Oncología')
-,('OQYJ62734220D','Aubrey','Dongles','Goosey','Boulevard Miguel Alemán',43266,10,'Cancún','Hidalgo','2020-04-03','2022-11-14','2013-10-03','Mujer',3958.54,'Rehabilitación')
-,('NKST6597781FQ','Glenda','Dawkes','Cluitt','Paseo de los Tamarindos',249,7404,'San Pedro de los Pinos','México','2019-08-05','2023-02-08','1982-03-31','No-binario',4006.18,'Oncología')
-,('VXMH657392CK6','Huntlee','Antonik','Menaul','Boulevard Miguel Alemán',14,2,'San Rafael','Guanajuato','2019-01-14','2023-03-05','1989-02-23','Mujer',8430.28,'Cardiología')
-,('SVAD3207238CO','Westbrook','Macquire','Gabbett','Avenida Revolución',483,30,'Valle de Bravo','Jalisco','2012-12-25','2023-05-31','1985-06-02','No-binario',5050.7,'Neurología')
-,('TIMV151072UDX','Nedi','Moehler','Ivery','Boulevard Miguel Alemán',5,4,'San Miguel Chapultepec','México','2022-12-25','2023-10-22','1985-07-05','No-binario',5336.67,'Oncología')
-,('EXJF9928288XP','Jana','Rosenkrantz','Stickler','Calle Zaragoza',3,17,'Granjas México','Tabasco','2011-03-25','2023-09-05','2019-02-06','No-binario',5263.01,'Odontología')
-,('YZMK90835504L','Othelia','Costi','Brockbank','Avenida Juarez',26629,8,'Juárez','Aguascalientes','2016-11-11','2023-04-16','1995-08-02','Hombre',1707.59,'Rehabilitación')
-,('IGAF749800WW0','Fenelia','MacKettrick','Caddell','Paseo de la Reforma',662,16,'Santa Fe','Nuevo Leon','2017-04-19','2023-07-30','2008-08-07','Hombre',4061.57,'Cirugía')
-,('ONCV749402TJ6','Ferne','Rubinlicht','Rainon','Calle 5 de Mayo',112,7473,'San Rafael','Quintana Roo','2012-07-21','2023-05-14','2020-12-03','Mujer',5332.98,'Cirugía')
-,('IOXD68735271P','Itch','Mickleburgh','Prangnell','Calle Hidalgo',09147,3361,'Santa Cruz Atoyac','Sinaloa','2017-04-13','2022-10-30','2000-05-27','Mujer',4409.37,'Oftalmología')
-,('UURZ623003O5Q','Smith','Terbruggen','Foddy','Avenida Revolución',62,648,'Polanco','Jalisco','2022-06-06','2023-05-16','1990-08-28','Mujer',1799.58,'Rehabilitación')
-,('XHZW988434P4I','Lexi','McGraffin','Wordsley','Paseo de la Reforma',6450,76,'Narvarte','Tabasco','2015-02-14','2023-03-25','1999-07-14','No-binario',8941.4,'Odontología')
-,('JXMD131829L2M','Hortensia','Buret','Fuchs','Avenida Juarez',641,624,'Narvarte','Tlaxcala','2023-02-03','2023-06-13','2008-05-11','Hombre',1947.75,'Cirugía')
-,('PVHN134924MJU','Angus','Slite','Grahl','Avenida Revolución',5,11,'Escandón','Jalisco','2020-05-16','2023-09-06','2018-03-18','Hombre',6116.73,'Cirugía')
-,('BBMO1502069CB','Dolph','Wickett','Cardenosa','Paseo de los Tamarindos',241,6690,'Granjas México','Puebla','2014-09-27','2023-01-19','2007-01-19','Hombre',6790.45,'Rehabilitación')
-,('BRBR836451F63','Fallon','Rihanek','Garrettson','Avenida Revolución',3,4429,'Portales','Sinaloa','2022-03-28','2023-03-19','1981-05-07','Mujer',712.7,'Cirugía')
-,('GVEI706978PCX','Addy','Codron','Castagnet','Paseo de los Tamarindos',33,916,'Nápoles','Hidalgo','2015-11-05','2023-06-24','2002-10-30','No-binario',162.98,'Cirugía')
-,('TBJM8056048YD','Skylar','Van Oord','Sibley','Paseo de los Tamarindos',21848,34267,'Del Valle','Nayarit','2011-09-13','2023-07-29','1983-02-21','Hombre',6358.16,'Endocrinología')
-,('OLUG2217161HI','Chickie','Duffill','Camell','Calle Insurgentes',7012,0720,'Lindavista','Jalisco','2020-09-15','2023-06-20','2011-03-02','Hombre',1323.03,'Dermatología')
-,('HMKN93972178O','Rahel','Coverley','Jerram','Paseo de los Tamarindos',02,50,'Tlalpan','Morelos','2016-06-01','2023-03-25','1999-08-26','Mujer',4382.86,'Oftalmología')
-,('CCYH940136IQO','Nananne','Davall','Potkins','Paseo de los Tamarindos',352,33730,'Escandón','Puebla','2012-09-28','2022-11-19','2015-01-08','Hombre',6779.34,'Cirugía')
-,('FNSW6752119C9','Aliza','Cremin','Lyptrade','Avenida Juarez',68828,8482,'Santa Fe','Hidalgo','2011-06-02','2023-09-16','2002-09-24','Hombre',2068.57,'Cardiología')
-,('TQLA275386O0X','Pauly','Kwietak','Stenett','Avenida Revolución',19555,00,'Tlalpan','Nuevo Leon','2020-07-31','2023-03-29','1997-02-04','Mujer',8248.34,'Oncología')
-,('EGVH1255383DB','Pia','Rowthorne','Todhunter','Boulevard Miguel Alemán',25,87,'Playa del Carmen','Colima','2020-02-01','2023-07-25','1998-05-10','Mujer',7184.54,'Oftalmología')
-,('SKMD685404U78','Clementia','Karpmann','Klug','Calle 5 de Mayo',1,53332,'Nápoles','Durango','2017-06-12','2023-09-29','2014-01-23','Mujer',3535.73,'Oncología')
-,('HHLL112184MG3','Pebrook','Jouhandeau','Meharg','Paseo de la Reforma',25614,684,'Coyoacán','Coahuila de Zaragoza','2019-03-28','2022-12-25','1982-07-10','Hombre',2912.35,'Cirugía')
-,('MGAD6694798Q5','Annora','Corson','Orsman','Paseo de los Tamarindos',190,79243,'Narvarte','Nuevo Leon','2012-05-28','2022-11-24','2013-03-16','Hombre',9852.26,'Oftalmología')
-,('JNJD9254281OV','Oliy','Brunnen','Cumber','Boulevard Miguel Alemán',05,107,'San Jerónimo','Morelos','2023-07-04','2023-03-26','1996-09-21','Hombre',9073.46,'Cardiología')
-,('KXVP851054LVP','Willa','Lismer','Philipps','Calle Hidalgo',97505,5051,'Lindavista','Jalisco','2012-07-03','2022-10-29','1989-09-14','Hombre',1642.85,'Cirugía')
-,('CYHZ483731KGZ','Cristionna','MacKey','Garrattley','Avenida Constitución',63507,001,'Mixcoac','Nuevo Leon','2018-01-08','2023-10-09','1998-08-22','Hombre',2945.53,'Cardiología')
-,('XZFH721036REI','Pierre','Mercy','Jorden','Avenida Juarez',5867,01,'Tlalpan','Michoacán','2019-03-19','2023-04-03','2003-03-28','Hombre',3813.35,'Rehabilitación')
-,('DRUD251080FX6','Merralee','Cohrs','Coombe','Avenida Constitución',20,79,'Cancún','Sinaloa','2019-09-08','2023-02-25','2006-09-10','No-binario',4201.8,'Endocrinología')
-,('REWY4661069NS','Aigneis','Truggian','Basezzi','Calle Insurgentes',2,3192,'Mixcoac','Sonora','2017-03-29','2023-04-30','1997-08-13','Mujer',9021.12,'Oftalmología')
-,('YWTT498653YV2','Carmelita','Dorracott','Suckling','Paseo de los Tamarindos',301,2272,'Lindavista','México','2013-03-28','2023-06-03','1980-12-02','Hombre',9894.35,'Odontología')
-,('KIDA88001021M','Cristionna','De Ambrosis','Huitt','Calle Insurgentes',5269,92993,'Jardines del Pedregal','Queretaro','2013-06-26','2023-01-02','2003-06-13','Hombre',1796.47,'Nutrición')
-,('BRKJ344427U8E','Carie','Lowey','Cayford','Calle Zaragoza',939,2,'Del Valle','Durango','2011-08-14','2023-03-30','1982-01-13','Mujer',9777.98,'Cardiología')
-,('MOZE688640AAJ','Tiff','O''Driscole','Foulcher','Calle 5 de Mayo',13,622,'San Ángel','Sinaloa','2018-12-07','2023-07-09','1984-03-25','No-binario',8953.02,'Endocrinología')
-,('ITLM769120RIC','Jsandye','Kubczak','Benez','Paseo de los Tamarindos',6,0,'Anzures','Yucatan','2020-05-23','2023-04-19','2019-12-19','Hombre',31.41,'Nutrición')
-,('GESS833512L2R','Godfrey','Kobu','Redmayne','Paseo de la Reforma',7,814,'Portales','Coahuila de Zaragoza','2018-11-17','2023-10-04','2005-02-28','Hombre',1192.88,'Cirugía')
-,('DFJX382663QFC','Reube','Renshaw','Craig','Paseo de la Reforma',9036,9397,'Polanco','Guerrero','2013-03-08','2023-10-08','2010-08-31','No-binario',6081.84,'Neurología')
-,('KYIV030209C7K','Cal','Beauman','Cutten','Boulevard Miguel Alemán',7059,73460,'Santa Fe','Campeche','2019-07-05','2023-04-21','2007-06-15','Hombre',9796.3,'Oftalmología')
-,('LDHW383149AFE','Dillon','Robiou','Lockyear','Calle Zaragoza',73958,47,'San Rafael','Durango','2012-07-22','2023-03-19','1983-06-23','Hombre',670.28,'Oftalmología')
-,('YNKH8961849NE','Tiebold','Frears','Maffini','Paseo de la Reforma',0661,5,'Condesa','Colima','2012-07-24','2023-03-10','1994-04-30','Hombre',4187.3,'Nutrición')
-,('KKBS840616DKO','Karlen','Fettis','Harby','Avenida Constitución',8,6,'Nápoles','Aguascalientes','2017-10-06','2023-08-30','2020-04-24','No-binario',7683.18,'Oftalmología')
-,('HGWD973809399','Julee','Aldcorn','Yearns','Paseo de los Tamarindos',217,256,'Álvaro Obregón','Baja California Sur','2015-07-20','2023-06-23','2010-02-05','No-binario',119.15,'Endocrinología')
-,('ZWMI40202029S','Pearline','Trenbay','Jiran','Calle Hidalgo',312,1,'Polanco','Zacatecas','2019-11-13','2023-01-18','2005-03-25','No-binario',1931.98,'Neurología')
-,('HDKI3755932AI','Dominique','Murrum','Dufoure','Paseo de los Tamarindos',691,1,'Mixcoac','Veracruz de Ignacio de la Llave','2014-08-16','2023-07-01','2006-04-11','Hombre',3016.56,'Oncología')
-,('MQVN047093TJA','Ozzy','Bartol','Bellenger','Avenida Constitución',316,21,'Roma','Guanajuato','2012-08-26','2023-10-24','1992-12-05','Mujer',335.59,'Odontología')
-,('KQRW143567JMI','Archy','Tregent','Storms','Calle Hidalgo',48786,21431,'Playa del Carmen','Yucatan','2013-06-11','2023-03-22','1987-06-15','Hombre',5536.87,'Endocrinología')
-,('EGTK781873EB3','Lorne','Naden','Stather','Calle Insurgentes',3,9530,'Anzures','Colima','2013-03-19','2023-01-18','2001-05-25','No-binario',3348.28,'Neurología')
-,('NDRX705345Y0C','Elvira','Luchelli','Frew','Paseo de los Tamarindos',3,97,'Xochimilco','Hidalgo','2013-02-07','2023-10-15','1989-10-28','Mujer',563.68,'Rehabilitación')
-,('BHLM4972414UC','Howey','Cobbald','Ferrea','Calle Hidalgo',8266,7,'Roma','México','2017-06-30','2023-08-28','1988-09-30','Hombre',750.82,'Dermatología')
-,('AQAK07024550Q','La verne','Colt','Snufflebottom','Paseo de los Tamarindos',16585,82905,'San Ángel','Aguascalientes','2013-08-19','2023-06-23','2017-04-22','Hombre',9795.43,'Dermatología')
-,('LFDW137581CLI','Tades','Rawstorne','Snedden','Avenida Constitución',057,8,'Azcapotzalco','Colima','2021-03-10','2023-09-06','1988-04-09','No-binario',6398.64,'Rehabilitación')
-,('JBAF888658XA5','Katlin','McBlain','Bourges','Paseo de la Reforma',79,227,'Granjas México','Coahuila de Zaragoza','2013-02-04','2023-08-25','2016-03-19','Hombre',6818.86,'Cardiología')
-,('PGFK320806G0R','Madlen','Whiteley','Samart','Avenida Revolución',4798,61,'Polanco','Jalisco','2012-09-02','2023-05-24','2006-02-21','Mujer',1460.56,'Oncología')
-,('FOVC466151L18','Nikolia','Eckery','Besson','Paseo de la Reforma',2,9,'Condesa','San Luis Potosi','2016-02-20','2022-12-07','1997-10-11','Mujer',4762.55,'Endocrinología')
-,('DLVJ710273929','Sebastien','Fearon','Limpertz','Paseo de la Reforma',3311,7956,'Coyoacán','Durango','2015-09-03','2023-05-30','1985-12-10','Hombre',9104.93,'Oncología')
-,('FEXZ926395XNQ','Armando','Brandolini','Collcott','Avenida Constitución',90,642,'Del Valle','Tlaxcala','2014-09-09','2023-03-29','1994-12-07','No-binario',2412.99,'Cirugía')
-,('IWDM694227IWG','Cyndi','Raubheim','Gallehock','Avenida Revolución',77,120,'Xalapa','Veracruz de Ignacio de la Llave','2011-02-07','2023-05-09','2004-12-03','No-binario',3423.1,'Nutrición')
-,('ASZU897658DJC','Jesse','Ceney','Pagan','Avenida Revolución',74,003,'Reforma','Queretaro','2021-06-07','2022-12-23','2011-09-30','No-binario',5313.04,'Oftalmología')
-,('FSDF835366S8O','Deirdre','Livsey','Kenny','Calle Insurgentes',83969,87,'Granjas México','Michoacán','2015-02-14','2023-06-10','2013-01-19','No-binario',9695.13,'Odontología')
-,('UFNY3319626FK','Arda','Mayman','Atwater','Calle Zaragoza',26,34,'Tlalpan','Tamaulipas','2020-12-31','2023-08-04','2011-02-26','No-binario',5081.26,'Rehabilitación')
-,('URWU702959H8W','Dickie','Meriot','Northleigh','Boulevard Miguel Alemán',0,0,'Anzures','Hidalgo','2015-07-18','2023-05-09','1984-06-18','Mujer',1603.82,'Neurología')
-,('VYAR043100XJD','Nelli','Barette','Layton','Calle 5 de Mayo',5,888,'San Miguel Chapultepec','Nayarit','2011-12-30','2023-05-10','2017-10-30','Mujer',1768.88,'Rehabilitación')
-,('ESXG393999UMQ','Karrie','Bartol','Gorbell','Calle Zaragoza',89839,194,'Tacubaya','Sonora','2019-05-02','2023-10-01','2008-06-15','Mujer',4744.37,'Oncología')
-,('GWCB232488PP0','Kyle','Pietrasik','Woodhall','Calle Insurgentes',695,14,'San Miguel Chapultepec','Baja California Sur','2016-08-10','2023-09-21','2021-10-28','Hombre',5676.96,'Dermatología')
-,('AVPP907986Y6R','Ernestus','Rockell','Magrannell','Calle 5 de Mayo',67804,2287,'Doctores','Guerrero','2011-12-31','2023-01-30','1999-04-29','Mujer',9820.11,'Oncología')
-,('CKDS663587EDC','Michell','Magner','Todman','Paseo de los Tamarindos',31,715,'Lindavista','Zacatecas','2013-06-26','2022-12-02','2005-04-08','No-binario',4408.27,'Neurología')
-,('XXTM323298O7Q','Arline','Matthisson','Cotherill','Avenida Revolución',0226,0,'San Ángel','Quintana Roo','2021-06-03','2023-07-19','2018-02-24','Hombre',3761.36,'Rehabilitación')
-,('KOAM7159030F2','Dame','Tack','Bouldon','Paseo de la Reforma',07,1,'San Miguel Chapultepec','Veracruz de Ignacio de la Llave','2020-04-11','2023-09-08','2022-03-16','Hombre',6104.3,'Odontología')
-,('VOKH342527H06','Lorianna','Castiello','Ironmonger','Calle Insurgentes',85,239,'Lindavista','Durango','2018-08-24','2023-06-09','1996-05-22','Hombre',6346.95,'Cardiología')
-,('JAET965161ND8','Renelle','Deddum','Douthwaite','Calle Zaragoza',897,035,'Narvarte','Sonora','2018-01-16','2023-06-23','2008-03-03','Mujer',5215.28,'Cardiología')
-,('EREO990010VVP','Twila','Menere','Latchford','Avenida Juarez',986,9619,'Doctores','Ciudad de México','2021-07-17','2023-03-12','2013-12-09','Mujer',1606.79,'Cirugía')
-,('LOKZ825780A18','Cordie','Mattioli','Zylberdik','Avenida Revolución',2523,89,'Xochimilco','Sonora','2014-01-19','2023-10-05','1999-08-02','Hombre',8363.31,'Odontología')
-,('ZVVM492107EJI','Lorenza','Di Lucia','Drezzer','Calle 5 de Mayo',8,40,'Del Valle','Coahuila de Zaragoza','2021-06-01','2023-05-25','2003-08-03','Mujer',8179.53,'Oftalmología')
-,('MJEK706016NOH','Gilbertine','Portam','Bidewel','Avenida Juarez',380,9794,'Narvarte','Sinaloa','2012-11-28','2023-10-07','1984-06-30','Hombre',5884.43,'Rehabilitación')
-,('AYOM188559YZN','Kimmie','Westhofer','Feldmark','Calle 5 de Mayo',84504,7,'Reforma','Oaxaca','2013-11-10','2023-06-23','1999-07-08','No-binario',7447.58,'Endocrinología')
-,('JCLA714021A7A','Andrea','McPeice','Scollard','Calle 5 de Mayo',811,3,'San Ángel','Morelos','2015-04-24','2023-02-27','2023-01-09','Hombre',1589.25,'Rehabilitación')
-,('EVDR907745L9T','Marlo','Dyka','Ireland','Paseo de los Tamarindos',6665,90380,'Xalapa','Ciudad de México','2023-10-20','2023-09-09','2017-04-06','Mujer',6180.72,'Endocrinología')
-,('CFBB618125Z8Q','Ralph','Cretney','Eric','Calle Zaragoza',0,488,'Tlalpan','Jalisco','2020-03-23','2022-11-05','2018-12-25','Mujer',9072.77,'Endocrinología')
-,('KJMD292478EIU','Jasmina','Furmagier','Spira','Avenida Juarez',17300,43,'San Rafael','Michoacán','2011-08-28','2023-04-07','2023-09-05','Hombre',8720.22,'Cirugía')
-,('QMUI170713JJS','Kirsteni','Dobrovsky','Hance','Paseo de la Reforma',46884,02146,'Cancún','Sinaloa','2021-03-28','2023-06-08','1981-07-11','No-binario',6782.57,'Odontología')
-,('NLPP525968B6H','Timmie','Staite','Butterfint','Paseo de los Tamarindos',7323,28,'Santa Cruz Atoyac','Sinaloa','2011-01-12','2023-07-23','1996-08-10','Hombre',9847.27,'Neurología')
-,('DZKZ602073AHS','Tawnya','Sawer','Binge','Calle Hidalgo',63536,70,'Anzures','Durango','2018-05-07','2023-10-16','2012-06-26','No-binario',7305.2,'Endocrinología')
-,('IQNQ8342323F5','Ofilia','Standell','Bunten','Paseo de los Tamarindos',3703,824,'Mixcoac','Yucatan','2022-06-23','2023-03-02','1984-11-11','No-binario',8006.42,'Endocrinología')
-,('MWNT374795ZUU','Karoline','Alejandre','Bedborough','Paseo de los Tamarindos',04,21,'Álvaro Obregón','Guanajuato','2017-02-27','2023-10-20','2011-11-08','Hombre',9534.97,'Endocrinología')
-,('WSMH032453VU6','Ephrem','Canet','Hars','Avenida Constitución',6,0,'Álamos','Hidalgo','2016-08-04','2023-06-20','1991-06-30','Mujer',7580.32,'Odontología')
-,('YJFK5201246UK','Flora','Jessup','Loram','Paseo de los Tamarindos',4,32,'Tlalpan','Baja California Sur','2017-11-02','2023-03-23','2005-01-28','Hombre',9687.85,'Dermatología')
-,('CAJZ804587G19','Nance','Nancarrow','Kermath','Calle Zaragoza',203,9321,'Tepoztlán','Guerrero','2021-03-06','2022-11-20','2008-07-25','No-binario',8021.12,'Oftalmología')
-,('ENJE730256MSW','Codi','Graysmark','Tabbernor','Paseo de la Reforma',50236,5017,'Mérida','San Luis Potosi','2015-02-15','2023-09-10','1993-11-28','Hombre',4953.51,'Endocrinología')
-,('PTNX122440XZD','Corey','Shilstone','Eastup','Calle Insurgentes',5,177,'Santa María la Ribera','Nuevo Leon','2020-12-21','2023-03-18','2022-08-08','No-binario',6006.87,'Oftalmología')
-,('QHCY086173B8Q','Wenona','Brotherick','Dollen','Calle Zaragoza',21,607,'San Jerónimo','Guanajuato','2014-11-21','2023-01-02','2015-02-06','Mujer',7965.86,'Rehabilitación')
-,('YOMN925417RIR','Lemmie','McGahern','Hawkey','Boulevard Miguel Alemán',8790,6802,'Polanco','Nayarit','2010-11-14','2023-03-17','1989-07-10','Hombre',4481.9,'Oncología')
-,('PJSB169238XYL','Witty','Cheesworth','McKelvey','Avenida Revolución',01,8892,'San Pedro de los Pinos','Sinaloa','2015-01-22','2023-07-05','2006-08-08','Mujer',7196.53,'Oftalmología')
-,('XZUG001028UV1','Elwyn','Shelp','Roblou','Calle 5 de Mayo',940,2575,'Chapultepec','San Luis Potosi','2012-04-06','2022-11-24','1981-08-29','Hombre',7515.5,'Cirugía')
-,('HDMM546625C8P','Dud','Gatling','Gurg','Paseo de los Tamarindos',40,691,'Santa Cruz Atoyac','Veracruz de Ignacio de la Llave','2012-05-11','2023-08-23','1992-02-01','No-binario',1547.77,'Endocrinología')
-,('EPAY176288EHM','Kariotta','Dew','Escalante','Calle Insurgentes',30804,70,'San Pedro de los Pinos','Guanajuato','2019-10-23','2023-03-13','2011-01-25','Mujer',9056.99,'Oftalmología')
-,('SIPJ030850BRT','Del','Moorhouse','McPeake','Avenida Juarez',40,65702,'San Rafael','San Luis Potosi','2011-07-13','2023-02-28','1997-04-09','Hombre',6889.09,'Oncología')
-,('BYUQ8441500ZC','Josi','Neylon','Masseo','Paseo de la Reforma',58880,9884,'Del Valle','México','2019-09-21','2023-06-06','2008-08-27','No-binario',425.29,'Oncología')
-,('QVHI238462SMG','Waldemar','Adicot','Dryburgh','Paseo de la Reforma',1926,80,'Tepoztlán','Queretaro','2013-05-05','2023-09-10','1985-03-15','No-binario',7754.53,'Oftalmología')
-,('ZVFW6900292XU','Benedick','Carnihan','Birchenhead','Calle Insurgentes',02,12951,'San Rafael','Tlaxcala','2016-12-04','2023-07-12','1998-12-14','No-binario',1627.18,'Endocrinología')
-,('NJEC005719K9P','Laurens','Bettis','Frusher','Calle Insurgentes',7,611,'Roma','Veracruz de Ignacio de la Llave','2019-06-07','2023-04-03','2008-11-05','Mujer',3102.97,'Oncología')
-,('YCIU443399JPB','Monroe','Cescot','Greasty','Boulevard Miguel Alemán',5859,8,'Mixcoac','Hidalgo','2022-09-17','2023-07-01','1987-06-21','Hombre',9638.97,'Oncología')
-,('XGUB4270612BH','Sol','Creeboe','Fritz','Calle Hidalgo',881,15,'Xalapa','Hidalgo','2018-03-24','2023-05-20','1997-05-31','No-binario',4639.06,'Nutrición')
-,('RDHT195808APV','Marys','Bewshaw','Noto','Avenida Juarez',856,1,'Coyoacán','San Luis Potosi','2022-10-20','2023-01-06','2018-12-01','Mujer',1711.08,'Dermatología')
-,('UIQQ547566IWA','Shurlocke','Harroll','Tow','Avenida Revolución',57,64422,'Escandón','Nayarit','2011-09-03','2023-03-01','1989-04-14','No-binario',4934.8,'Oftalmología')
-,('OTEO296454NYI','Ariela','Hayward','Wolfenden','Calle Hidalgo',6477,161,'Pedregal','Sonora','2020-05-03','2023-07-09','2015-11-20','No-binario',7005.31,'Endocrinología')
-,('OAPF359259DIQ','Elliott','Pinks','Matthensen','Avenida Juarez',7420,314,'Coyoacán','Campeche','2021-09-05','2023-09-03','1996-02-27','Mujer',818.46,'Oncología')
-,('SRWM808297TWT','Dorolice','Mingo','Pullan','Avenida Revolución',35284,6,'Cancún','Jalisco','2012-07-22','2023-08-07','1983-08-28','Mujer',8510.95,'Odontología')
-,('XEPH012796KJO','Reynard','Jobbins','Elson','Paseo de los Tamarindos',7900,51,'Cancún','Baja California Sur','2011-01-27','2023-06-03','2009-07-19','No-binario',9335.72,'Rehabilitación')
-,('BHWZ74506793V','Nadia','Balden','Fyall','Calle Hidalgo',8,0,'San Miguel Chapultepec','Hidalgo','2013-06-09','2023-01-26','1983-04-05','Mujer',9330.98,'Rehabilitación')
-,('AHMU900220HHT','Becca','Spirit','Danaher','Calle Hidalgo',18,5553,'Álamos','Queretaro','2012-06-18','2023-08-19','2010-09-25','Mujer',4794.81,'Dermatología')
-,('ZLWF198139DBY','Sharona','Lochhead','Maxted','Calle Hidalgo',559,083,'Chapultepec','Tamaulipas','2018-04-11','2022-10-27','2018-08-27','Hombre',1448.92,'Oftalmología')
-,('PAZD371242XNZ','Sophronia','Dolton','Peachman','Avenida Revolución',96,89,'Tlatelolco','Baja California','2019-03-25','2023-08-15','1995-02-05','Mujer',775.36,'Endocrinología')
-,('JKOS513862HL6','Worth','Rosell','Grayson','Avenida Revolución',72,67,'Nápoles','Sonora','2013-08-15','2023-06-11','1984-07-11','No-binario',2252.51,'Oftalmología')
-,('AJVZ469512GQD','Augie','Dimitriev','Arton','Calle Zaragoza',43,86368,'Satélite','Zacatecas','2011-05-23','2023-06-16','2019-01-14','Mujer',7350.96,'Neurología')
-,('ODYJ60784872N','Laina','Bagnold','Normabell','Calle Insurgentes',44,73938,'Tlalpan','Coahuila de Zaragoza','2012-10-14','2023-06-21','1999-08-17','Hombre',474.46,'Oncología')
-,('CHCF278774XWJ','Emmit','Haskayne','Yeowell','Boulevard Miguel Alemán',91136,75772,'Xalapa','Yucatan','2019-05-23','2023-05-30','2023-04-13','No-binario',7203.8,'Endocrinología')
-,('XNGG148821KZN','Irwin','Dalgarnowch','Brendish','Calle Insurgentes',1,1,'Lindavista','Quintana Roo','2018-07-07','2023-10-22','2019-04-02','No-binario',8904.84,'Cirugía')
-,('NKLQ8422786MC','Parry','Hasson','Yakubovich','Paseo de los Tamarindos',81344,8388,'San Jerónimo','Baja California','2022-05-14','2023-05-24','2011-10-26','No-binario',4330.29,'Endocrinología')
-,('EOHN634042E2R','Frederich','Di Roberto','Phizaclea','Calle Insurgentes',27,99595,'Roma','Sinaloa','2013-01-09','2023-07-14','1990-01-28','Mujer',5482.71,'Nutrición')
-,('ZJYB948022C2W','Tudor','Levinge','Haxby','Boulevard Miguel Alemán',01114,5615,'Xalapa','Campeche','2023-02-28','2023-06-14','2009-09-13','Hombre',5845.93,'Odontología')
-,('YMPZ737759HKG','Tobin','Dyball','Godfery','Calle Insurgentes',9162,5444,'Playa del Carmen','Queretaro','2021-10-19','2023-01-27','1985-12-13','No-binario',2612.11,'Nutrición')
-,('LUFL430127XNN','Sheeree','Hitchens','Lomath','Avenida Revolución',0531,08,'Azcapotzalco','Hidalgo','2022-11-16','2023-07-26','1987-08-27','Hombre',7015.89,'Cardiología')
-,('XJHB674975G1A','Freeman','Banghe','Lackner','Calle 5 de Mayo',4960,9531,'Álamos','Jalisco','2017-08-18','2023-07-08','1984-08-06','Mujer',1075.82,'Endocrinología')
-,('GVBJ715719MF6','Windham','Bleaden','Oats','Paseo de la Reforma',94639,53308,'Santa Fe','México','2012-07-11','2023-03-17','1998-06-10','Hombre',6209.78,'Rehabilitación')
-,('KTZV932953GOR','Homerus','Grimmolby','Gillmore','Calle Insurgentes',82599,57,'San Miguel Chapultepec','Campeche','2016-03-21','2023-08-16','1987-11-26','Hombre',1538.24,'Dermatología')
-,('NYRM628222484','Zedekiah','Fozard','Ponceford','Calle Hidalgo',01620,56,'San Ángel','Yucatan','2014-03-15','2023-02-04','1988-04-21','Mujer',1577.89,'Cardiología')
-,('RVDE718750ENT','Torrence','Molines','MacCafferky','Calle 5 de Mayo',73159,76842,'San Jerónimo','Aguascalientes','2013-03-08','2023-06-02','1992-03-03','Hombre',6946.89,'Endocrinología')
-,('CSSK719223O0J','Dorette','Soppit','Tippler','Calle 5 de Mayo',981,74028,'Mixcoac','Nuevo Leon','2020-12-05','2023-05-16','2010-02-23','No-binario',8948.14,'Neurología')
-,('DDLI636078H42','Roselin','Bischoff','Bront','Calle Hidalgo',4868,367,'Lindavista','Durango','2014-05-07','2022-12-21','2019-11-05','No-binario',1388.83,'Endocrinología')
-,('DXSG721299ZW0','Fernandina','Chasemore','Amorts','Boulevard Miguel Alemán',49,74513,'Álvaro Obregón','Durango','2011-03-04','2023-02-03','2023-04-03','Hombre',5809.57,'Rehabilitación')
-,('SWQS96566455J','Lilia','Dawton','Gorry','Paseo de los Tamarindos',485,9248,'Álvaro Obregón','Campeche','2016-12-17','2023-01-16','1997-09-16','Mujer',5376.76,'Rehabilitación')
-,('QQXT996051MZV','Claudina','Snowding','Coxen','Avenida Revolución',878,81,'Pedregal','Hidalgo','2011-01-31','2022-11-30','1990-04-28','Hombre',7216.82,'Cirugía')
-,('OLHM351386PUN','Jena','Cissell','Hof','Calle Insurgentes',1045,264,'Condesa','Quintana Roo','2012-12-16','2023-08-13','2000-12-14','Mujer',1617.36,'Odontología')
-,('AAZI895083C60','Brigit','Artiss','Pattle','Calle Insurgentes',697,547,'Anzures','Aguascalientes','2019-08-20','2023-02-16','2017-03-27','Mujer',2358.0,'Endocrinología')
-,('GINW502803CLE','Kori','Celli','Nanelli','Calle Hidalgo',2124,9505,'Xalapa','Coahuila de Zaragoza','2016-05-23','2023-04-16','2023-05-16','Hombre',795.47,'Nutrición')
-,('RNZT0793830SZ','Licha','Glendenning','Burhill','Paseo de los Tamarindos',3,6,'Xalapa','Guanajuato','2016-02-10','2023-05-29','1990-03-03','Hombre',8781.91,'Cirugía')
-,('BSQW725926ARL','Natale','Andryushin','Shefton','Paseo de la Reforma',4,3602,'Mérida','Baja California Sur','2014-05-18','2023-09-24','2009-04-22','Mujer',1809.5,'Cirugía')
-,('OPKO276089Z12','Marena','Sabater','Thresher','Paseo de la Reforma',156,93,'San Miguel Chapultepec','Hidalgo','2013-08-18','2023-02-15','2016-01-24','No-binario',4817.84,'Oftalmología')
-,('TMFA5519632ML','Georgi','Gehrts','Houlahan','Avenida Juarez',1,080,'Satélite','Oaxaca','2014-02-07','2023-03-09','2004-10-25','Hombre',6408.42,'Oftalmología')
-,('MVMH7283974AF','Agretha','Bazek','Tomkies','Avenida Revolución',8,6,'Narvarte','Guerrero','2020-12-20','2023-10-12','2007-09-07','No-binario',148.52,'Dermatología')
-,('BVZC598579AX5','Sofie','Selcraig','Conti','Calle Insurgentes',0,6623,'Polanco','Morelos','2021-12-28','2023-07-23','1994-04-13','No-binario',232.59,'Odontología')
-,('DDDY6127845PG','Hermione','McCarl','Bunning','Avenida Revolución',73318,64,'Chapultepec','Tlaxcala','2021-09-23','2023-07-11','1994-03-13','Mujer',1474.04,'Cardiología')
-,('GNAI570906NMB','Datha','Estcourt','Tottie','Calle Hidalgo',55052,3193,'Condesa','Morelos','2022-06-06','2023-08-07','1994-08-05','Hombre',9768.27,'Oftalmología')
-,('GJJN272991VPS','Marlie','Spellacy','Stainland','Avenida Revolución',6,2,'San Ángel','Hidalgo','2022-11-18','2023-10-06','1995-01-18','No-binario',6961.36,'Oncología')
-,('SKQG651783GRV','Eduino','Kitley','Columbine','Avenida Constitución',6,4039,'Napoles','San Luis Potosi','2015-04-10','2023-09-07','2021-12-21','No-binario',348.81,'Oftalmología')
-,('NHNQ850000TOB','Dara','Langcastle','Rasher','Paseo de la Reforma',96,10,'Cuajimalpa','Jalisco','2016-08-15','2023-07-28','2007-12-14','Hombre',7085.44,'Dermatología')
-,('KJQI753853V1F','Inger','Jurasek','Esom','Paseo de los Tamarindos',62,1337,'Polanco','Tlaxcala','2010-11-16','2023-04-07','2007-11-25','Hombre',2678.2,'Cirugía')
-,('ZWST618084BNK','Britt','Dearnly','Hugonneau','Calle Insurgentes',3,3486,'San Ángel','Michoacán','2023-05-24','2022-12-18','2010-02-24','Mujer',2199.73,'Rehabilitación')
-,('VVKA81047410I','Claiborne','de Savery','Betchley','Paseo de los Tamarindos',65,7124,'Roma','Coahuila de Zaragoza','2022-03-26','2023-03-07','1993-08-03','Hombre',639.62,'Cirugía')
-,('IKEF2591497BI','Phillipp','Edensor','Gadeaux','Avenida Constitución',0,67,'Satélite','Zacatecas','2021-03-17','2023-10-19','1983-02-13','No-binario',7639.99,'Oftalmología')
-,('DWXA098926RO1','Sherri','Jantel','Crispe','Calle 5 de Mayo',27,51,'Lindavista','Oaxaca','2022-03-27','2023-07-09','2021-02-19','No-binario',2073.32,'Dermatología')
-,('QYRN003692PN8','Margery','Havick','Svanini','Paseo de la Reforma',035,7112,'Reforma','Hidalgo','2021-04-26','2023-06-15','2020-10-07','Mujer',8947.57,'Cardiología')
-,('ZZOM291296U8Q','Sergeant','Gray','Gunthorpe','Calle Insurgentes',1,540,'Tulum','Durango','2016-09-17','2023-05-06','2010-09-19','Mujer',7293.57,'Cirugía')
-,('EAUA0438008T6','Veriee','Bosdet','Stuckley','Calle Hidalgo',48,34176,'Narvarte','Zacatecas','2012-02-05','2023-03-28','2010-03-09','Hombre',6617.54,'Cardiología')
-,('SOMY194086TF0','Janis','Beardow','Marcussen','Avenida Juarez',54119,4026,'Polanco','Oaxaca','2021-03-14','2023-07-18','2022-02-12','Hombre',8837.21,'Rehabilitación')
-,('HJRH181231239','Ferdy','Gidden','Pencott','Boulevard Miguel Alemán',8819,117,'Napoles','Durango','2013-01-26','2022-10-25','1988-07-28','Mujer',9171.51,'Cardiología')
-,('VUEP553556Q86','Romain','Pudsey','Fardon','Calle 5 de Mayo',5,30,'Cuajimalpa','Quintana Roo','2014-03-25','2023-02-02','1994-03-14','Hombre',3457.37,'Cirugía')
-,('RBAH486393MM5','Gibb','Peterken','Towell','Boulevard Miguel Alemán',9059,38506,'Tlalpan','Oaxaca','2010-12-26','2023-06-25','2017-09-10','Hombre',254.51,'Dermatología')
-,('BIRE949514583','Hugues','Van Arsdale','Eglinton','Calle Insurgentes',7060,289,'Pedregal','Coahuila de Zaragoza','2018-02-05','2023-07-11','1996-03-22','Hombre',6172.0,'Neurología')
-,('PBAY3763195CF','Chelsae','Jacobsen','Dietmar','Paseo de los Tamarindos',20,3,'Granjas México','Zacatecas','2018-07-27','2023-01-24','2009-02-16','No-binario',4051.57,'Cirugía')
-,('RRWY533521Q3V','Ilario','Killgus','Aspinwall','Calle 5 de Mayo',3,4427,'Escandón','Colima','2012-05-14','2023-04-15','2005-06-26','No-binario',518.79,'Dermatología')
-,('RTUJ159608CRJ','Letta','Ubsdall','Larrett','Paseo de la Reforma',61,1,'Granjas México','México','2016-05-20','2023-05-31','2014-11-04','No-binario',7189.4,'Oftalmología')
-,('ELJR0137579I0','Mathew','Lissandri','Pratten','Calle Zaragoza',207,25,'Portales','Colima','2021-09-19','2023-01-08','2018-12-29','Mujer',7555.53,'Neurología')
-,('OALF644878GTL','Alameda','Kneale','Ennion','Paseo de los Tamarindos',729,55147,'Mixcoac','Tlaxcala','2017-07-18','2023-02-18','1981-12-15','Hombre',1697.43,'Oftalmología')
-,('GXYO900963ZFN','Fernanda','Caccavale','Stonelake','Boulevard Miguel Alemán',7544,6967,'Pedregal','Morelos','2011-06-07','2023-02-03','1984-06-03','No-binario',193.93,'Cirugía')
-,('SQUU0172136DK','Kiley','Nisen','Mavin','Boulevard Miguel Alemán',5,112,'San Rafael','Baja California','2016-11-08','2023-06-21','1990-08-14','Hombre',3374.53,'Dermatología')
-,('NJFL267678LBR','Walton','Livett','Harvett','Avenida Juarez',42,19,'Lindavista','Tabasco','2017-11-07','2022-12-14','1991-01-02','No-binario',4604.17,'Cirugía')
-,('FLZB925934G0I','Candy','Loisi','Parvin','Avenida Juarez',4990,577,'Tepoztlán','Zacatecas','2016-12-10','2023-02-19','1981-01-27','No-binario',8577.61,'Odontología')
-,('TJLN303007KI7','Kristos','Licari','Bartlam','Boulevard Miguel Alemán',898,32,'Álamos','Hidalgo','2012-02-23','2023-01-25','1982-06-15','Hombre',9207.82,'Cardiología')
-,('DBIR0763650RK','Whittaker','Ledur','Patsall','Paseo de los Tamarindos',5402,9375,'Granjas México','Morelos','2019-05-25','2023-10-11','1993-03-04','Mujer',8477.65,'Endocrinología')
-,('TKEX7291942GA','Catie','Scipsey','Sheardown','Avenida Constitución',20,86051,'Xochimilco','Tlaxcala','2015-02-18','2023-03-08','2010-02-20','Hombre',1899.67,'Odontología')
-,('LDSU504649ZRY','Mora','Purbrick','Claessens','Paseo de la Reforma',58019,01,'Condesa','Veracruz de Ignacio de la Llave','2015-11-09','2023-05-05','2018-08-16','No-binario',1976.75,'Cirugía')
-,('ANZL563165KLZ','Grace','MacGilfoyle','Ruzic','Boulevard Miguel Alemán',223,2182,'Tulum','Tamaulipas','2022-02-18','2023-05-03','2000-12-17','Hombre',2969.62,'Odontología')
-,('FWFT973332X7M','Yardley','MacTeggart','Rolse','Avenida Revolución',0637,18,'Del Valle','Sonora','2011-06-05','2023-02-16','1995-12-03','Hombre',4382.02,'Oftalmología')
-,('HLUU0697759FB','Kathryn','Bedham','Moorman','Calle Zaragoza',3907,59,'San Miguel Chapultepec','Hidalgo','2019-07-19','2023-02-05','1992-04-12','Mujer',6591.57,'Rehabilitación')
-,('JISL757244YIQ','Benny','Pynn','Mahoney','Calle Insurgentes',66,0,'San Miguel Chapultepec','Queretaro','2014-06-06','2022-11-26','1981-06-14','Mujer',3987.77,'Neurología')
-,('XRXT678898KGU','Thaddeus','Raccio','Purkins','Calle Hidalgo',833,3170,'Doctores','Tlaxcala','2014-06-10','2023-08-03','2011-07-13','No-binario',2986.52,'Cirugía')
-,('FPHE611082JFB','Merola','Showl','Ferrini','Paseo de la Reforma',2,0599,'Granjas México','Campeche','2019-12-17','2022-12-06','1990-05-17','Mujer',9668.87,'Cirugía')
-,('WMKB504830BS5','Wang','Van Halen','Godfery','Calle 5 de Mayo',79884,27,'Tacubaya','Campeche','2012-01-07','2023-05-25','2006-12-31','Hombre',9043.09,'Rehabilitación')
-,('WEEC908411078','Renata','Abotson','Siegertsz','Avenida Juarez',868,1,'Pedregal','Oaxaca','2014-08-04','2022-12-21','2008-09-11','Hombre',4511.69,'Cirugía')
-,('TIBJ554144YRS','Fenelia','Connett','Sabin','Paseo de los Tamarindos',14,49,'San Ángel','Coahuila de Zaragoza','2016-08-02','2022-12-23','2007-01-06','Hombre',3704.98,'Oncología')
-,('GZTQ612608NDX','Beverlie','McFfaden','Wolsey','Avenida Revolución',584,3,'Doctores','Nayarit','2015-06-14','2022-12-12','2017-07-05','Mujer',901.65,'Cirugía')
-,('CVDV088055TNP','Reuven','Cranham','Rolstone','Paseo de la Reforma',13815,1,'Portales','Oaxaca','2013-04-16','2022-12-08','2000-01-31','Mujer',4572.6,'Oncología')
-,('ZPBC7275337WL','Alaine','Gillicuddy','Edlyne','Calle Hidalgo',33919,9131,'Escandón','Michoacán','2017-01-16','2023-09-16','2010-02-27','No-binario',4714.74,'Nutrición')
-,('JUZX326126FT7','Rooney','Bettridge','Hornig','Avenida Juarez',43,38,'Cancún','Baja California','2013-03-27','2023-01-07','2013-09-01','Hombre',3545.14,'Nutrición')
-,('WFES337522WQW','Rosalie','Gerlts','Mallows','Calle Hidalgo',8837,4,'Narvarte','Campeche','2023-07-20','2023-01-14','2004-03-30','Mujer',7072.6,'Cirugía')
-,('AOBL341059LF8','Amerigo','Overbury','Klement','Paseo de la Reforma',0014,6380,'Coyoacán','San Luis Potosi','2012-03-18','2023-08-29','2004-10-24','Hombre',5005.4,'Oftalmología')
-,('DBKY683143RQZ','Bevan','Alderton','Bussy','Avenida Juarez',2,818,'Tlatelolco','Zacatecas','2013-05-05','2023-04-01','1983-10-04','Mujer',3343.18,'Oncología')
-,('FLYF411539S6G','Risa','Mathie','Sollas','Avenida Constitución',26,8964,'Mixcoac','Coahuila de Zaragoza','2022-11-08','2023-05-03','1994-03-22','Hombre',7376.95,'Cardiología')
-,('TSLN512758LE0','Christine','Cerro','Wildblood','Calle Insurgentes',6408,8082,'San Miguel Chapultepec','Yucatan','2012-01-11','2023-08-17','2003-05-04','Mujer',9536.37,'Dermatología')
-,('QYLC3753390AX','Eugenio','MacSharry','Lydford','Boulevard Miguel Alemán',62752,8573,'Reforma','Campeche','2022-07-24','2022-11-21','2012-09-06','Mujer',1894.99,'Oncología')
-,('BCEK486372OKH','Evaleen','Sikorski','Sexty','Paseo de los Tamarindos',23520,1004,'Condesa','Yucatan','2016-12-09','2023-02-04','1995-08-20','Hombre',2892.94,'Nutrición')
-,('YCGG091356Q47','Clara','Roget','Edgeley','Calle Zaragoza',1357,93136,'Polanco','Tlaxcala','2019-10-24','2023-01-23','1982-08-09','Mujer',8468.06,'Neurología')
-,('NULK00492049N','Jesselyn','Kettlestringes','Albrecht','Paseo de los Tamarindos',088,7408,'Lindavista','Morelos','2018-06-04','2023-03-27','2014-11-18','Hombre',2869.75,'Rehabilitación')
-,('HZVO13624847T','Antoinette','Greenset','Winscum','Calle Zaragoza',0469,23,'Escandón','Tabasco','2015-06-03','2023-07-07','2016-05-07','Mujer',3966.23,'Nutrición')
-,('CPIU441114Q3K','Briant','Wanstall','Landsborough','Boulevard Miguel Alemán',5,521,'Álamos','Baja California Sur','2011-05-08','2023-06-22','1981-12-04','No-binario',5872.99,'Nutrición')
-,('NBZY56905660Z','Talia','Dunk','Minihane','Calle Insurgentes',3,6,'Lindavista','Guanajuato','2014-01-11','2023-06-14','2012-04-07','No-binario',7243.66,'Nutrición')
-,('AEUU94583900W','Gunther','Aronovitz','Renyard','Avenida Revolución',335,3,'Narvarte','Veracruz de Ignacio de la Llave','2018-09-20','2023-10-22','2012-06-09','Mujer',8354.3,'Nutrición')
-,('QEXZ462943RYH','Sharyl','Maxstead','MacEnelly','Boulevard Miguel Alemán',8982,3,'Satélite','Aguascalientes','2010-11-27','2023-03-28','1982-06-27','No-binario',7950.47,'Neurología')
-,('ZKOD6625358QJ','Ben','Allabush','Normansell','Boulevard Miguel Alemán',18,729,'San Rafael','Nuevo Leon','2019-12-30','2023-10-14','2001-06-02','No-binario',9796.32,'Endocrinología')
-,('YCCO950065F53','Moira','Gulk','Whitehair','Paseo de la Reforma',49588,77,'Álamos','Nayarit','2013-04-07','2023-06-26','2004-04-28','Mujer',5024.36,'Odontología')
-,('GGPA970815BKZ','Hedy','Sarsons','Candlish','Avenida Revolución',49231,15,'Tlatelolco','Veracruz de Ignacio de la Llave','2012-04-14','2022-11-22','2009-01-21','Hombre',178.55,'Oftalmología')
-,('QVCN707781ZKH','Isiahi','Lissaman','MacDaid','Avenida Revolución',708,13,'Doctores','Sonora','2012-07-15','2023-05-21','2018-07-21','No-binario',9364.46,'Oncología')
-,('FJJR691829D6P','Viviene','Carding','Simenon','Avenida Revolución',9807,18,'Del Valle','Jalisco','2011-07-25','2023-06-11','2023-03-22','Hombre',7825.68,'Dermatología')
-,('FWSR765777JXM','Darill','Clines','Forsaith','Calle Insurgentes',060,8,'Chapultepec','Tlaxcala','2017-10-11','2022-11-25','1998-02-14','No-binario',849.37,'Nutrición')
-,('SXWZ8124842BL','Georgette','Gutowski','Rapelli','Paseo de los Tamarindos',0,86063,'Álamos','San Luis Potosi','2014-05-29','2023-09-12','2008-03-09','Hombre',8766.32,'Cardiología')
-,('MNZX46851184Z','Kaylyn','Bresland','Benbrick','Avenida Juarez',70941,0870,'San Rafael','Nayarit','2011-03-30','2023-05-02','1994-11-04','Hombre',4982.12,'Nutrición')
-,('KJMT87961833M','Abbe','Tesdale','Milksop','Avenida Juarez',06,5,'Reforma','Baja California Sur','2013-02-16','2023-03-24','1986-03-17','Mujer',4345.27,'Cirugía')
-,('OGXY355743PYB','Ronni','Eastway','McDuff','Avenida Revolución',1273,64037,'Jardines del Pedregal','Guerrero','2012-09-08','2023-05-18','1998-03-07','Mujer',4778.42,'Odontología')
-,('UJAD232520UTZ','Bailey','Kiggel','Bagby','Calle Zaragoza',651,36681,'Granjas México','Chiapas','2010-12-26','2023-06-21','1981-01-03','No-binario',1704.43,'Oncología')
-,('OHAP544694GVA','Auguste','Cluatt','Gawthorp','Calle 5 de Mayo',413,304,'Lindavista','Queretaro','2010-11-11','2022-12-15','2009-02-26','Hombre',9859.54,'Oftalmología')
-,('FQIU752208MV4','Katalin','Magee','Petrik','Calle 5 de Mayo',48,33344,'Azcapotzalco','Colima','2010-12-11','2023-07-26','1989-10-02','Hombre',9555.61,'Endocrinología')
-,('PMDJ163505GKM','Gertie','Duesberry','Enoksson','Paseo de los Tamarindos',665,076,'Playa del Carmen','Puebla','2011-06-28','2023-04-03','1993-06-28','Mujer',5183.37,'Odontología')
-,('YQCW707127TQZ','Cort','Goodacre','Marians','Calle Zaragoza',82,5776,'Polanco','Ciudad de México','2019-11-16','2022-12-08','2005-12-26','Mujer',3822.49,'Endocrinología')
-,('UXWW309677GQE','Ainsley','Misson','Bernon','Avenida Constitución',12917,74,'Tacubaya','Jalisco','2019-07-28','2023-09-26','2007-08-21','Mujer',8188.14,'Cardiología')
-,('EISG17899191D','Tedmund','Lovejoy','Ludlow','Avenida Juarez',74262,7,'San Jerónimo','Oaxaca','2014-02-13','2022-12-03','2002-01-18','No-binario',6803.14,'Neurología')
-,('MVCL053828M87','Amargo','Taylerson','MacCurtain','Paseo de los Tamarindos',584,297,'Lindavista','México','2023-07-19','2023-05-30','2019-11-27','No-binario',5149.15,'Endocrinología')
-,('BWCK6300830W6','Clementine','Ambroziak','Hendriksen','Calle 5 de Mayo',73,2,'Cancún','Aguascalientes','2015-05-15','2023-10-17','2017-10-19','Mujer',3240.13,'Dermatología')
-,('UKOD426195UM9','Dicky','Silverwood','Hedlestone','Paseo de los Tamarindos',0085,44,'Xochimilco','Baja California','2012-06-02','2023-05-23','1986-09-09','Hombre',6551.46,'Nutrición')
-,('HOBL965925AXE','Dotti','Ridd','Lownds','Boulevard Miguel Alemán',337,5,'San Miguel Chapultepec','Zacatecas','2022-05-08','2022-11-03','2005-09-09','No-binario',8565.74,'Endocrinología')
-,('MXAH831435DGP','Packston','Birt','Grigsby','Calle Zaragoza',59322,48,'Jardines del Pedregal','Hidalgo','2018-05-25','2022-12-23','1997-03-02','No-binario',3309.57,'Oftalmología')
-,('DFJX192887KRH','Minor','Roscow','Huntington','Calle Hidalgo',3802,8,'Portales','Guanajuato','2020-11-03','2023-06-25','1992-03-29','No-binario',4761.97,'Endocrinología')
-,('JSRI6211225WQ','Alejandra','Malmar','Stroton','Calle Hidalgo',549,451,'Narvarte','Oaxaca','2015-12-29','2023-05-14','2004-02-02','Hombre',732.49,'Odontología')
-,('VUPR619097LKT','Deidre','Drysdale','Martinyuk','Boulevard Miguel Alemán',21,37648,'Álamos','Colima','2019-08-24','2023-03-08','1996-04-05','Hombre',2396.0,'Dermatología')
-,('LIRZ260825ZA8','Kitti','Fitchett','Begbie','Calle Hidalgo',4239,9,'Santa Fe','Puebla','2015-09-15','2022-11-25','2020-09-12','Hombre',7874.91,'Odontología')
-,('TLJV6278817O6','Farrah','Dimont','George','Avenida Juarez',31117,9,'Xochimilco','Sinaloa','2022-10-02','2023-03-16','1985-12-16','Mujer',2946.15,'Neurología')
-,('YUEA936088KHB','Curran','Cordingley','Wheelhouse','Avenida Juarez',77964,784,'Doctores','Tabasco','2013-12-21','2023-07-16','2001-12-01','No-binario',7797.13,'Neurología')
-,('NWCM154515VKV','Darn','Kennea','Torbet','Avenida Juarez',8,4893,'Satélite','Colima','2013-05-03','2023-06-23','1991-09-08','No-binario',9891.32,'Dermatología')
-,('BCOO670082BQY','Rosette','Pringley','Badger','Paseo de la Reforma',561,92796,'Álvaro Obregón','Chiapas','2019-07-21','2023-02-21','2005-03-30','Mujer',7410.37,'Cirugía')
-,('ZPUR038391TSU','Hans','Dinis','Stanger','Calle 5 de Mayo',82618,45,'Tlatelolco','Veracruz de Ignacio de la Llave','2020-08-14','2023-07-08','1998-01-12','No-binario',8989.99,'Oftalmología')
-,('PTBY362251IY5','Brice','Pavlov','Meineking','Paseo de los Tamarindos',7757,4,'San Jerónimo','Queretaro','2022-04-29','2023-02-21','2000-04-12','No-binario',6512.65,'Cirugía')
-,('BKUU296287CZD','Marcella','Rankcom','Welsh','Boulevard Miguel Alemán',7,6,'Lindavista','Morelos','2012-04-01','2023-09-23','2008-10-30','Hombre',3521.69,'Endocrinología')
-,('PYXR511305S2D','Nancie','Fewster','Matthieson','Calle Hidalgo',82,2221,'Playa del Carmen','Queretaro','2022-07-27','2023-01-15','2004-11-07','No-binario',5097.4,'Dermatología')
-,('NWUW065317OCG','Barnebas','Whewill','Weild','Boulevard Miguel Alemán',28,56,'San Ángel','Nayarit','2017-07-26','2022-11-09','2015-09-24','No-binario',6755.85,'Oftalmología')
-,('EDRH0014347TD','Wiley','Pyecroft','Haddacks','Calle Zaragoza',4279,49021,'Roma','Guerrero','2015-06-20','2023-01-11','2014-10-03','Mujer',5057.83,'Nutrición')
-,('RAAF404152YIZ','Yvonne','Maps','Shuttell','Paseo de los Tamarindos',1,59,'Del Valle','Oaxaca','2016-04-24','2023-07-29','1987-04-10','Hombre',9338.95,'Rehabilitación')
-,('BQKH0568638SE','Dolf','Corck','Bourdas','Paseo de los Tamarindos',18,38613,'Anzures','Tabasco','2015-01-01','2023-04-18','2013-05-06','Hombre',1760.06,'Neurología')
-,('EXNV588505VGQ','Seymour','Le Galle','Rowlatt','Avenida Constitución',6,874,'Santa Fe','Durango','2011-05-14','2023-03-08','1989-02-16','No-binario',5340.29,'Neurología')
-,('LVNR058298IGK','Ashton','Eykelhof','Rispen','Avenida Revolución',7294,32,'Condesa','Baja California Sur','2018-05-19','2022-12-15','1986-05-29','Mujer',6051.0,'Oncología')
-,('KKJR577761KT7','Ophelia','Lovie','Flipek','Calle 5 de Mayo',0645,9,'Mérida','Puebla','2013-07-27','2023-07-15','2012-01-23','Mujer',8230.47,'Rehabilitación')
-,('DGMZ879439GPL','Tracey','Spratt','Lassetter','Calle Hidalgo',897,7,'Mérida','Zacatecas','2021-12-29','2023-08-29','2000-05-15','Mujer',3952.76,'Cardiología')
-,('IWTW337994NVV','Herve','Vamplus','Simenet','Boulevard Miguel Alemán',45789,61204,'Chapultepec','Durango','2011-09-14','2022-12-08','2003-08-06','No-binario',3052.89,'Dermatología')
-,('ODSO070670Y4F','Morry','Waumsley','Altree','Avenida Revolución',6,2,'Jardines del Pedregal','Coahuila de Zaragoza','2017-08-02','2023-10-09','1998-06-16','Hombre',6327.79,'Odontología')
-,('GNUK8146220SW','Tybie','Karle','Shee','Boulevard Miguel Alemán',1,870,'Roma','Quintana Roo','2017-06-03','2022-11-07','1994-12-10','Hombre',5933.77,'Oftalmología')
-,('QMYP242129280','Thorin','Melland','Syrett','Paseo de la Reforma',01,0,'Tulum','Sonora','2018-12-11','2023-01-08','2008-11-22','No-binario',3240.81,'Endocrinología')
-,('YMEE929338WYP','Aggie','Robuchon','Piscotti','Boulevard Miguel Alemán',953,481,'San Pedro de los Pinos','Baja California','2014-06-26','2023-02-01','2003-04-10','No-binario',8056.8,'Nutrición')
-,('FIRJ4376168US','Dot','Sive','Zuanazzi','Avenida Constitución',30715,8123,'Polanco','Sonora','2018-09-24','2023-01-30','1990-08-25','Hombre',4983.27,'Cirugía')
-,('SUZB707749BB5','Thoma','Masdin','Layus','Paseo de la Reforma',68,291,'Lindavista','Nuevo Leon','2013-03-12','2023-06-22','2003-11-26','Hombre',4173.1,'Odontología')
-,('LGIX3508908E7','Alyosha','Sturgis','Aleshintsev','Calle Zaragoza',75034,71,'Tepoztlán','Tlaxcala','2015-10-21','2022-12-07','1991-05-04','Hombre',7506.41,'Oncología')
-,('YISZ679718AVG','Chelsy','Magill','Frank','Calle Hidalgo',44121,729,'Del Valle','Guerrero','2023-05-06','2023-05-10','2022-12-26','Mujer',5274.81,'Dermatología')
-,('QLGY910641KED','Amil','Rediers','McTrusty','Calle Hidalgo',96,73295,'Tacubaya','Campeche','2018-06-21','2023-03-30','1995-12-15','No-binario',3262.65,'Dermatología')
-,('AHTJ578792YPZ','Lyman','Tommeo','Martijn','Avenida Revolución',845,7,'Narvarte','Quintana Roo','2020-10-12','2023-02-15','2020-03-09','Mujer',7347.87,'Cirugía')
-,('HVFS606940I5N','Alice','Blissett','Oley','Calle 5 de Mayo',75453,100,'Polanco','Campeche','2016-01-16','2023-07-11','1991-06-14','Mujer',1326.12,'Endocrinología')
-,('EMGP869964TN9','Jarid','Middlebrook','Schimmang','Avenida Juarez',7759,1,'Lindavista','Queretaro','2012-06-30','2023-09-27','2004-11-18','No-binario',792.45,'Cardiología')
-,('KCYA525513C1W','Pauline','Pettifor','Phippen','Avenida Juarez',631,7,'San Rafael','Oaxaca','2022-08-15','2023-06-03','1992-07-14','Mujer',8779.91,'Oftalmología')
-,('AUTJ250687IWV','Nikolaos','Erington','Slimm','Calle Hidalgo',8,511,'San Pedro de los Pinos','Chiapas','2019-04-25','2023-07-14','2020-05-27','No-binario',7754.28,'Neurología')
-,('AISJ719837ZHG','Logan','Volet','Bew','Boulevard Miguel Alemán',432,1,'Tulum','Colima','2021-08-18','2022-10-28','2009-09-10','No-binario',8280.0,'Cirugía')
-,('QYDU652434R1J','Maryjane','Edgell','Lineen','Calle 5 de Mayo',70,282,'San Ángel','Tamaulipas','2015-01-13','2023-05-05','2008-04-19','Hombre',7403.16,'Rehabilitación')
-,('XPYX70869018T','Gus','Watkiss','Sterman','Avenida Constitución',085,36,'Santa María la Ribera','Guanajuato','2019-03-11','2023-01-14','1982-05-02','Hombre',4246.55,'Neurología')
-,('MPYA189781K3W','Ashbey','Matthius','Crockatt','Avenida Revolución',77,3234,'Polanco','Chiapas','2020-06-20','2023-09-29','1997-09-06','Hombre',1203.42,'Endocrinología')
-,('AXSF192883D1M','Caressa','Genders','O''Grada','Calle 5 de Mayo',98070,7,'Escandón','Coahuila de Zaragoza','2015-12-14','2022-10-28','1996-07-03','Mujer',4543.46,'Neurología')
-,('MGNI335644CCQ','Tabbie','Tremellan','Durtnel','Calle Hidalgo',7,749,'San Ángel','Ciudad de México','2017-11-30','2023-08-15','1999-05-12','No-binario',843.9,'Cirugía')
-,('DZPD371125MPC','Pasquale','Brushneen','Slowcock','Calle 5 de Mayo',07402,2,'Chapultepec','Guerrero','2014-06-25','2023-05-29','2021-04-13','Mujer',5374.21,'Nutrición')
-,('JMDY609870ILP','Kizzee','Jinkinson','Denacamp','Paseo de la Reforma',28277,2,'Nápoles','Sonora','2023-08-01','2023-04-19','1986-12-09','Hombre',3317.03,'Cirugía')
-,('ECQS103020XRY','Clemmy','Skirrow','Balch','Avenida Juarez',50845,65,'Álamos','Sonora','2014-07-05','2023-02-26','1997-07-14','Hombre',9812.5,'Cirugía')
-,('OGGQ2925090YH','Juliann','Impleton','Iorillo','Paseo de la Reforma',6,31115,'Lindavista','Jalisco','2022-05-15','2023-04-14','2002-07-14','Mujer',7641.92,'Oncología')
-,('QXGL969094NXZ','Aurelea','Jurczik','Rawll','Calle Hidalgo',9369,5314,'Escandón','Queretaro','2019-03-27','2022-12-12','1992-01-20','Hombre',6773.35,'Rehabilitación')
-,('XUPN975041EAB','Anselma','Munby','Bourhill','Avenida Revolución',991,0746,'Narvarte','Aguascalientes','2022-11-08','2023-05-14','1986-04-20','Mujer',3747.79,'Nutrición')
-,('THFA552594OQR','Kiele','Berkely','Eusden','Paseo de la Reforma',9791,896,'Portales','Colima','2018-11-14','2023-06-17','2013-06-09','Mujer',7539.64,'Oncología')
-,('KPLU771167GUW','Elias','Gyorffy','Holligan','Paseo de los Tamarindos',37,23,'Condesa','Tabasco','2012-09-07','2023-10-11','2022-08-01','No-binario',4477.12,'Odontología')
-,('FEPZ339489CBK','Fleurette','Magovern','Lamps','Avenida Juarez',97132,73467,'Roma','Sonora','2017-08-18','2023-05-25','1982-11-03','Hombre',9753.05,'Endocrinología')
-,('PEJA731057XUC','Opalina','Almon','Okill','Calle Insurgentes',962,986,'Valle de Bravo','Veracruz de Ignacio de la Llave','2017-01-11','2022-11-25','2019-08-27','No-binario',3987.68,'Nutrición')
-,('MMYS1299429GF','Robin','Hebden','Gosz','Avenida Juarez',7668,06,'Nápoles','Sinaloa','2017-06-09','2023-08-21','2004-04-02','No-binario',5273.17,'Oncología')
-,('CDQO565547ZT0','Van','Allderidge','Hay','Calle Hidalgo',78581,1,'San Rafael','Zacatecas','2016-02-25','2023-02-05','1983-12-18','Mujer',1123.19,'Nutrición')
-,('VRLG644463X4A','Cammi','Hawksley','Sparshatt','Avenida Revolución',9887,938,'Anzures','Zacatecas','2013-05-04','2023-06-09','2011-06-03','Mujer',5374.1,'Neurología')
-,('DTCD710297M4U','Erhart','Santen','Cammidge','Paseo de los Tamarindos',5715,679,'Escandón','Tlaxcala','2020-01-15','2023-01-18','1986-01-06','No-binario',825.98,'Neurología')
-,('PHIT390524IIQ','Justis','Flaverty','Alphonso','Paseo de la Reforma',6696,934,'Lindavista','Quintana Roo','2018-06-10','2023-06-28','2000-04-26','Mujer',2760.65,'Cardiología')
-,('ILPI466690XBV','Mira','Jantzen','Frazier','Calle Insurgentes',76048,424,'Doctores','Guerrero','2017-01-18','2022-11-01','2008-05-06','Hombre',1297.5,'Rehabilitación')
-,('HRKY469875AUZ','Charley','Trattles','Mossdale','Calle Insurgentes',54,02348,'Narvarte','México','2016-12-14','2023-05-04','1990-04-22','No-binario',3522.72,'Cardiología')
-,('UGFR232317NK4','Rosemary','Lestrange','Piatkow','Calle Hidalgo',577,8048,'Tepoztlán','Hidalgo','2017-08-03','2023-09-15','2008-03-27','Hombre',4672.9,'Neurología')
-,('MKIQ232048BMA','Rosette','Thicking','Ranklin','Calle 5 de Mayo',26439,66,'Anzures','Durango','2021-01-26','2022-12-30','2000-11-02','Hombre',1601.69,'Dermatología')
-,('BKDW842703ZTS','Willyt','Eyton','Langelay','Calle Hidalgo',77,00060,'San Rafael','Sonora','2020-10-14','2023-02-26','2006-11-01','Hombre',9354.24,'Odontología')
-,('XBQX883261V2J','Theobald','Nannetti','Reggler','Calle 5 de Mayo',56,67,'Narvarte','Chiapas','2016-01-17','2023-04-03','2000-09-28','Hombre',6949.67,'Odontología')
-,('HIHU370446EJU','Arin','O''Carmody','Abate','Calle Insurgentes',93,423,'Condesa','Zacatecas','2018-05-22','2023-10-08','1997-02-15','Mujer',8673.83,'Oncología')
-,('LPEA425933K7J','Alexandro','Stanislaw','Trayton','Avenida Revolución',81172,35,'Juárez','Durango','2012-07-25','2022-12-17','1984-09-05','Mujer',6216.28,'Oncología')
-,('JTUI5848148FA','Rex','Readings','Ferrieri','Paseo de la Reforma',008,218,'Pedregal','Puebla','2017-08-07','2023-08-25','1989-12-13','Mujer',3266.5,'Oncología')
-,('QSRM898513450','Reeva','Spira','Clethro','Paseo de la Reforma',3,7187,'Satélite','Sonora','2019-10-10','2023-02-21','2011-10-15','No-binario',5237.18,'Cardiología')
-,('FZQV661947AKA','Janelle','MacDougal','Kenwrick','Calle Hidalgo',363,58,'San Rafael','Campeche','2012-08-28','2023-10-05','2011-11-07','Mujer',4948.6,'Cardiología')
-,('PEVI669743HX5','Nichole','Goodacre','Spriggen','Avenida Juarez',5,76,'Cuajimalpa','Oaxaca','2013-03-25','2022-11-09','1998-10-19','Hombre',2766.72,'Odontología')
-,('CQKK91963892W','Cordell','Plessing','Torn','Paseo de los Tamarindos',15,606,'Valle de Bravo','Guerrero','2017-08-24','2023-01-24','2014-08-16','No-binario',3385.29,'Cardiología')
-,('AFLS091210K0J','Francisco','Chittleburgh','Brooker','Calle Zaragoza',35493,1526,'Escandón','Guerrero','2013-10-29','2023-01-11','1983-12-03','Hombre',4774.87,'Endocrinología')
-,('WPFU387579G9G','Lulita','Loughman','MacScherie','Calle Hidalgo',82,831,'Playa del Carmen','Baja California','2011-07-11','2023-01-20','1991-09-17','Hombre',6573.99,'Oftalmología')
-,('VVPS0089654WX','Marcia','Brooksbie','Prahm','Calle 5 de Mayo',3,4,'San Ángel','Michoacán','2012-06-13','2022-11-12','1998-03-18','Hombre',7080.8,'Cirugía')
-,('GTAI587931QOZ','Valida','Estrella','BURWIN','Paseo de la Reforma',863,7754,'Roma','Campeche','2011-10-23','2023-09-02','1987-07-15','No-binario',6909.6,'Oftalmología')
-,('PMYN684786CUL','Arlinda','Small','Lusk','Paseo de la Reforma',5,01027,'San Rafael','Colima','2014-01-23','2023-02-10','1988-10-02','Hombre',992.92,'Oftalmología')
-,('FHQR880118HOL','Deny','Woodrup','Opie','Calle 5 de Mayo',9918,0464,'Valle de Bravo','Ciudad de México','2018-05-05','2023-01-25','2003-04-09','Mujer',496.01,'Dermatología')
-,('SMDO764926C0V','Nicky','Eringey','Ciccarelli','Avenida Juarez',19,4,'Coyoacán','Morelos','2016-05-17','2023-10-16','2001-02-25','Hombre',2343.74,'Cardiología')
-,('COFW3786268RS','Tandie','Caldaro','Gingles','Calle Insurgentes',265,57,'Tlalpan','Morelos','2012-02-22','2023-06-28','2016-02-17','Hombre',4995.96,'Nutrición')
-,('CEDR4949613UH','Marya','Redpath','Russam','Calle Zaragoza',279,588,'Portales','Tamaulipas','2023-04-25','2023-08-30','2000-09-28','Hombre',2257.52,'Endocrinología')
-,('BDVQ251209E2Y','Victoria','Matussow','Clemmensen','Calle 5 de Mayo',17,3,'Mixcoac','México','2013-04-21','2022-11-14','1982-11-16','No-binario',8818.61,'Nutrición')
-,('AAVU296917DRK','Glenn','Eyckelbeck','Yegorshin','Calle Insurgentes',16544,282,'Condesa','Tabasco','2017-04-15','2023-06-17','2000-09-04','Mujer',4325.43,'Odontología')
-,('VHJP660751RTC','Port','Jerram','Marmon','Boulevard Miguel Alemán',4,75655,'Lindavista','Sonora','2017-11-04','2023-06-03','2019-11-29','No-binario',6153.31,'Odontología')
-,('WSPJ699311BBC','Julius','Iffe','Glowinski','Calle 5 de Mayo',444,9,'Del Valle','Colima','2011-10-24','2023-06-12','2003-10-23','Hombre',1297.25,'Dermatología')
-,('SSEF798653CLQ','Nickey','Plom','Kuschel','Avenida Juarez',2,0323,'Azcapotzalco','Puebla','2011-05-11','2023-03-14','1997-02-06','No-binario',5751.53,'Neurología')
-,('XYZR710151CE1','Rinaldo','Trynor','Kingsnorth','Paseo de la Reforma',0270,58305,'San Miguel Chapultepec','Tamaulipas','2015-11-18','2022-12-18','1984-07-10','Mujer',5267.61,'Neurología')
-,('WKSI498146LIK','Cayla','Jurgenson','Lennie','Avenida Juarez',403,556,'Napoles','Morelos','2012-09-18','2022-11-22','2001-04-24','Hombre',268.04,'Cardiología')
-,('LIEY005031VIV','Florina','McGill','McPaike','Paseo de la Reforma',46277,36375,'Cancún','Tamaulipas','2012-12-16','2023-08-15','2002-09-16','No-binario',7143.72,'Cardiología')
-,('TWIK15704088Q','Gifford','Loweth','Totman','Calle 5 de Mayo',68,134,'Lindavista','Nuevo Leon','2015-10-20','2023-07-15','1991-06-09','No-binario',4827.69,'Cardiología')
-,('YRLF814093YHX','Kerrie','Kynson','Rosbotham','Avenida Juarez',86,7,'Nápoles','Chiapas','2020-05-29','2023-06-20','2020-07-18','Mujer',7018.61,'Oncología')
-,('WJYX285221213','Sydney','Sumpner','Mechell','Calle Hidalgo',54225,9038,'Lindavista','Oaxaca','2021-03-19','2023-05-27','2008-12-15','No-binario',1418.56,'Oftalmología')
-,('GRSM833421WKR','Tracey','Law','Bowfin','Avenida Revolución',10,214,'San Rafael','Oaxaca','2022-02-27','2023-03-18','2002-06-30','Mujer',2376.06,'Rehabilitación')
-,('PGJT464029VTN','Sula','Mandre','Tine','Calle Hidalgo',9705,05710,'Granjas México','México','2013-05-15','2023-07-05','1993-11-13','No-binario',7717.56,'Cirugía')
-,('BGSV560888US2','Mame','Zini','Hecks','Calle 5 de Mayo',8968,798,'Condesa','Jalisco','2022-09-12','2023-01-15','2014-02-24','Mujer',1295.74,'Odontología')
-,('SZML884230DD6','Haskel','Faichnie','Meacher','Avenida Constitución',42,52,'Roma','Oaxaca','2017-03-31','2023-01-13','2022-04-25','No-binario',3467.58,'Neurología')
-,('RQQH311389MAX','Krisha','Crowley','Murrells','Calle Hidalgo',977,8,'Mixcoac','Coahuila de Zaragoza','2023-05-09','2023-06-21','1983-08-12','No-binario',2147.97,'Oncología')
-,('ZQZL881717BSK','Elita','Yitzhakof','Cordon','Avenida Constitución',89,09,'San Rafael','Guerrero','2017-07-09','2023-01-09','1994-02-08','Hombre',3395.63,'Nutrición')
-,('CEPK4023398KR','Rozanne','Mahony','McAuslan','Paseo de los Tamarindos',344,4223,'Coyoacán','Queretaro','2019-04-06','2023-08-07','1983-05-28','Hombre',3414.72,'Neurología')
-,('GWFM319067HW1','Barrie','Cook','Mutton','Avenida Constitución',41,185,'Portales','Coahuila de Zaragoza','2019-09-16','2022-12-02','2011-01-13','No-binario',3367.26,'Odontología')
-,('YVDT5564288C8','Pail','Giacovelli','Mynard','Calle Insurgentes',502,3,'Tulum','Sinaloa','2021-02-17','2023-09-01','1994-10-02','Mujer',1294.13,'Oncología')
-,('KJNV046329RGB','Antonetta','Zack','Trenbey','Avenida Revolución',7510,384,'Santa María la Ribera','Tabasco','2017-01-20','2023-02-23','1992-01-28','Mujer',2297.21,'Oftalmología')
-,('PJHN50755336E','Reeva','Raspison','McSperron','Avenida Constitución',094,8180,'Jardines del Pedregal','Jalisco','2016-06-23','2022-12-31','2002-08-13','No-binario',9508.68,'Odontología')
-,('GNEP9685819Z5','Robinett','Pregel','Semiraz','Calle Insurgentes',8516,77990,'Narvarte','Quintana Roo','2015-05-23','2022-10-28','2004-09-11','No-binario',4477.95,'Dermatología')
-,('IICM652318FLY','Farica','Neilson','Reneke','Calle Zaragoza',05080,52362,'Juárez','Jalisco','2011-08-31','2023-06-06','1983-12-25','Hombre',9690.22,'Rehabilitación')
-,('RBWZ250279RYI','Zola','Jills','Shapero','Avenida Juarez',02455,10011,'San Jerónimo','Tabasco','2021-11-16','2023-08-15','1983-06-11','No-binario',8793.35,'Odontología')
-,('RSBC137634N8V','Noach','Fidal','Harridge','Avenida Constitución',7708,96171,'Cuajimalpa','Guanajuato','2015-09-18','2023-10-08','2004-04-23','No-binario',7583.18,'Nutrición')
-,('RTUC852210P8F','Berty','Croad','Barkly','Calle 5 de Mayo',458,76270,'Mérida','Baja California','2011-10-13','2023-08-20','1986-06-13','Hombre',7935.86,'Oftalmología')
-,('AIAC182240CM9','Nicolette','Beamand','Castano','Avenida Constitución',8,9,'Pedregal','Yucatan','2022-04-09','2023-07-06','1997-08-16','No-binario',873.17,'Oftalmología')
-,('CVIE606061OH1','Beulah','Ouchterlony','Georghiou','Avenida Constitución',8,70,'Pedregal','Durango','2016-11-07','2023-08-17','2022-01-12','Mujer',8428.54,'Dermatología')
-,('MZXJ359933EGK','Renato','Gillice','Robertot','Paseo de la Reforma',296,95946,'Escandón','Colima','2012-10-10','2023-07-28','1988-05-19','No-binario',7509.39,'Oncología')
-,('IWXK323747RQU','Julianne','Leynham','Sherewood','Boulevard Miguel Alemán',90,3425,'Doctores','Nuevo Leon','2019-02-05','2023-08-28','1999-01-18','Mujer',9790.71,'Endocrinología')
-,('YWES388529E2N','Melinda','Ludwig','Pickup','Avenida Revolución',9,8976,'Reforma','Ciudad de México','2021-03-07','2023-05-22','1984-07-04','Mujer',6762.18,'Oncología')
-,('VQHZ632820A3G','Vivia','Chapelhow','Surphliss','Paseo de la Reforma',991,7,'Mixcoac','Tlaxcala','2018-11-28','2023-09-09','1983-04-07','Mujer',284.23,'Rehabilitación')
-,('JIXB4778537TM','Jessika','Jendrusch','Plomer','Avenida Revolución',7,8,'Tlalpan','Jalisco','2022-03-04','2023-10-23','1999-01-25','Hombre',5201.92,'Endocrinología')
-,('BGDG0461864MY','Kat','St Louis','Birtles','Boulevard Miguel Alemán',5,1275,'Roma','Queretaro','2017-01-10','2023-04-23','2007-05-17','Hombre',5649.91,'Odontología')
-,('ANGR203601QO5','Cort','Tiltman','Bauld','Avenida Constitución',924,4,'Cancún','Oaxaca','2012-08-11','2023-06-12','2006-07-16','Mujer',4992.8,'Cirugía')
-,('VQQQ504575BFO','Lindsey','Sarra','Comber','Calle Insurgentes',4361,4449,'San Jerónimo','Sinaloa','2016-11-09','2023-10-14','2020-09-16','Hombre',351.85,'Oncología')
-,('QZGN165114J6E','Ede','Cahan','Melmeth','Calle 5 de Mayo',410,13,'Cancún','Tamaulipas','2016-12-22','2022-11-13','2000-03-26','Hombre',5904.26,'Nutrición')
-,('ZQSY6304272K0','Mohandas','Haggata','McGilleghole','Avenida Revolución',40888,006,'Polanco','Baja California','2017-08-25','2023-09-26','1988-02-20','No-binario',1558.29,'Neurología')
-,('PSJC383191E8A','Demetre','Fergusson','Treharne','Avenida Revolución',79,74,'Portales','Sinaloa','2020-08-04','2023-01-14','1987-12-15','Hombre',3024.53,'Oncología')
-,('MJXU0765712B2','Austina','Surpliss','Mackiewicz','Avenida Constitución',67182,66045,'Lindavista','Aguascalientes','2022-03-14','2023-01-09','1993-07-28','Mujer',8449.8,'Oncología')
-,('QGRU396099REN','Vasili','Lum','Kordas','Calle Hidalgo',6912,6,'San Pedro de los Pinos','Tabasco','2017-01-18','2023-04-14','1994-09-18','Mujer',5058.08,'Cardiología')
-,('RMUQ064775GIH','Woodie','Erangey','Pibsworth','Paseo de los Tamarindos',304,67,'Lindavista','Aguascalientes','2022-02-19','2023-05-30','2018-10-15','Hombre',196.81,'Rehabilitación')
-,('YBNE5592871ND','Saidee','Gilloran','Fleay','Calle 5 de Mayo',42260,42,'Satélite','Michoacán','2021-08-31','2023-06-15','2023-07-30','Hombre',5381.88,'Cirugía')
-,('JAXX1237558LY','Joellyn','Shilstone','Avieson','Boulevard Miguel Alemán',801,852,'Álamos','Queretaro','2022-11-12','2023-07-15','2015-09-17','No-binario',9007.92,'Nutrición')
-,('ROIV589009XT4','Sal','Felten','Zorer','Paseo de los Tamarindos',4,81,'San Miguel Chapultepec','Colima','2022-04-03','2023-04-14','2003-10-22','Mujer',7653.79,'Oftalmología')
-,('XPLA096391KIF','Carmine','Rait','Skingle','Avenida Juarez',8739,6799,'Tlalpan','Quintana Roo','2018-12-31','2022-11-15','2019-03-31','Mujer',2966.84,'Dermatología')
-,('LZOI425852DAJ','Sascha','Regnard','McCrone','Avenida Constitución',6227,65041,'Tepoztlán','Yucatan','2016-12-06','2023-08-17','2011-10-19','Mujer',844.91,'Nutrición')
-,('JKRE800576ZZA','Ewan','Dafter','Jakubowicz','Avenida Revolución',337,531,'Tepoztlán','Veracruz de Ignacio de la Llave','2022-09-10','2023-05-31','1989-06-16','Hombre',182.33,'Oftalmología')
-,('SSBA463203TDR','Eldridge','Bruckmann','Secrett','Calle Insurgentes',3,466,'Polanco','Ciudad de México','2010-11-17','2023-02-17','1988-07-16','No-binario',5873.18,'Odontología')
-,('YMIZ881362BJ2','Sidonnie','Carlisso','Enever','Avenida Constitución',998,32,'San Rafael','Ciudad de México','2020-07-08','2023-07-04','2017-06-05','Hombre',7588.36,'Cardiología')
-,('ZXLL780670BPB','Joyous','Colebeck','Becks','Paseo de la Reforma',6692,908,'Doctores','Tlaxcala','2016-10-01','2022-12-22','2000-01-12','Hombre',7994.45,'Dermatología')
-,('MJJV129482LQR','Brig','Rioch','Hellyar','Paseo de los Tamarindos',12585,2679,'Roma','Coahuila de Zaragoza','2019-01-08','2022-12-21','1997-06-06','Mujer',5122.0,'Neurología')
-,('TDMG829363WYN','Pam','Wedmore','Wilsher','Boulevard Miguel Alemán',96,757,'San Jerónimo','Baja California','2020-06-29','2023-05-23','2009-10-17','Hombre',3757.19,'Neurología')
-,('KSCH885698CYL','Anselma','Franchi','Esp','Calle 5 de Mayo',1,2,'Juárez','Tabasco','2012-06-22','2023-07-27','1981-10-24','No-binario',2790.43,'Neurología')
-,('PZKB1437834MR','Neville','Brandino','Trematick','Avenida Constitución',8,7,'Portales','Hidalgo','2017-04-22','2023-09-17','2013-03-01','No-binario',8402.75,'Odontología')
-,('FZHK3421240JW','Claiborn','Celand','Nerne','Paseo de la Reforma',1286,585,'Valle de Bravo','Zacatecas','2012-03-07','2023-07-05','2023-08-07','No-binario',4816.4,'Dermatología')
-,('AHIL424808PV5','Bambi','Winterbourne','Gentner','Paseo de la Reforma',7,949,'Álamos','Jalisco','2015-07-22','2023-06-07','2009-10-16','No-binario',6476.42,'Oftalmología')
-,('BSPE626886N3V','Monika','Penzer','Spehr','Boulevard Miguel Alemán',816,5,'Napoles','Sonora','2016-10-29','2023-07-20','1989-04-13','Mujer',2309.36,'Endocrinología')
-,('FLHT0852572NN','Moria','De Blasio','Forgie','Avenida Juarez',644,92,'Satélite','Sonora','2016-09-29','2023-08-09','2015-03-17','No-binario',9966.66,'Neurología')
-,('GNGD392695OPR','Yelena','Jerrim','Gaiger','Calle 5 de Mayo',6822,118,'Polanco','Yucatan','2020-12-12','2023-07-19','1999-01-01','Hombre',817.58,'Oftalmología')
-,('JSAB2042134TI','Aguie','Grigaut','Jeandon','Avenida Juarez',7,845,'Lindavista','Guerrero','2016-11-18','2023-03-21','2016-03-31','No-binario',2707.84,'Neurología')
-,('THLH492466EXK','Gabriella','Cassam','Borland','Calle Insurgentes',8196,23,'San Rafael','Veracruz de Ignacio de la Llave','2022-04-16','2023-09-09','2011-03-15','Mujer',4703.79,'Rehabilitación')
-,('GYZG767614CRX','Cinda','Harvie','Westfalen','Paseo de los Tamarindos',701,44631,'Narvarte','Baja California','2022-07-10','2023-10-02','2015-05-07','No-binario',3257.07,'Oncología')
-,('FGXB3002281HE','Candis','Kapelhoff','Sauvage','Paseo de la Reforma',8,852,'Chapultepec','Nuevo Leon','2022-10-07','2023-01-07','2022-04-02','No-binario',307.05,'Cardiología')
-,('QARX783103YPM','Brucie','McManamon','O''Kielt','Calle 5 de Mayo',9,0313,'Mixcoac','Aguascalientes','2014-12-01','2023-02-22','2017-06-27','Mujer',8742.01,'Oncología')
-,('WKDY558638N1O','Lorene','Grigs','Blazey','Avenida Juarez',74069,61169,'Tepoztlán','Zacatecas','2013-07-17','2023-01-23','2005-11-11','Mujer',1033.22,'Cirugía')
-,('OXEK0757697BO','Paddy','Hablot','Hruska','Boulevard Miguel Alemán',00,28436,'Tepoztlán','Sonora','2012-12-06','2023-09-03','1987-01-19','Hombre',458.8,'Nutrición')
-,('CWPV972638SM5','Georg','Presley','Clitsome','Avenida Juarez',15471,115,'Santa María la Ribera','Chihuahua','2014-06-14','2023-10-08','1984-01-03','Mujer',9922.31,'Dermatología')
-,('UREC508954JHP','Dianna','Deacon','Dionisio','Boulevard Miguel Alemán',45,170,'Condesa','Nayarit','2014-10-16','2023-09-06','1994-06-12','No-binario',1717.83,'Odontología')
-,('XCPJ5611289RH','Artair','Kolodziejski','Comelini','Calle 5 de Mayo',202,3388,'Álamos','San Luis Potosi','2015-10-25','2023-06-13','1985-07-22','No-binario',6785.35,'Dermatología')
-,('RNKH020069S8C','Thea','Bruford','Graber','Calle Insurgentes',33757,80572,'Xochimilco','Michoacán','2020-07-31','2023-07-22','2016-08-31','No-binario',2015.66,'Odontología')
-,('HDSD033073PSE','Dolores','Birckmann','Slowcock','Avenida Constitución',5,714,'Portales','Tlaxcala','2022-08-08','2023-09-17','2004-07-16','Hombre',4401.97,'Odontología')
-,('UAKQ333231WAG','Alana','Pentony','Lazonby','Avenida Juarez',2850,091,'Condesa','Colima','2023-03-01','2023-03-22','2015-10-16','Hombre',2807.57,'Nutrición')
-,('NVSK30723705J','Quill','De Lascy','Tingly','Avenida Juarez',127,17,'Valle de Bravo','Morelos','2015-07-23','2023-04-20','1998-08-09','No-binario',19.92,'Rehabilitación')
-,('ZWDZ227676UDF','Datha','De Filippi','Aspey','Calle Hidalgo',903,2,'Anzures','Sonora','2018-03-18','2023-01-15','2018-03-11','No-binario',9497.89,'Odontología')
-,('PXMV9143255ZA','Stan','Elsmere','Murty','Avenida Revolución',4,9693,'Polanco','San Luis Potosi','2020-12-01','2023-08-14','1996-02-28','Hombre',4891.31,'Cardiología')
-,('IDUB445641TML','Renee','Chadbourn','Smedmoor','Calle Hidalgo',3286,3,'Tlatelolco','Tlaxcala','2022-09-30','2022-11-09','2000-09-22','Hombre',155.81,'Oncología')
-,('CMJI276547AXK','Jarret','Unstead','Sneesbie','Paseo de la Reforma',1575,795,'Santa María la Ribera','Guerrero','2013-09-28','2022-10-26','1995-02-17','No-binario',2138.34,'Cirugía')
-,('WQCY760114DH0','Bourke','Shane','Lancley','Paseo de la Reforma',57,80,'Santa Fe','Tamaulipas','2012-07-25','2023-06-13','1986-08-24','No-binario',2056.14,'Cirugía')
-,('TEUI8303723VC','Fitz','Meaking','Barnham','Avenida Juarez',55,40,'Mérida','Morelos','2016-03-05','2023-01-25','1999-05-29','No-binario',812.75,'Oftalmología')
-,('NAGP931103CDR','Felic','Ghidelli','O''Fergus','Calle Hidalgo',3,41,'Mixcoac','Michoacán','2019-07-29','2023-08-21','2000-06-24','No-binario',2030.73,'Odontología')
-,('ZWGG361246ZLK','Salaidh','Hatt','Harriss','Paseo de los Tamarindos',780,23,'Chapultepec','Baja California','2020-01-21','2023-03-20','2023-03-24','Mujer',4991.25,'Rehabilitación')
-,('NHCB941185UN1','Emmery','Chetham','Rolin','Calle 5 de Mayo',42,911,'Mérida','Tamaulipas','2016-06-29','2023-08-23','1994-12-03','Mujer',4158.73,'Oncología')
-,('FXQR610714I58','Perri','Forge','Dysart','Boulevard Miguel Alemán',5437,7385,'Juárez','Morelos','2011-01-17','2023-07-13','1990-03-20','No-binario',8327.19,'Cardiología')
-,('GJEG164635XWT','Claudette','Bamell','Tumini','Avenida Juarez',5170,301,'Lindavista','Colima','2016-04-29','2023-02-01','2008-05-23','Mujer',6125.06,'Nutrición')
-,('GIPI056524Q8W','Celka','Mattingly','Cheves','Paseo de los Tamarindos',70,445,'Tlalpan','Morelos','2013-07-14','2023-04-04','1987-05-17','No-binario',9699.35,'Rehabilitación')
-,('ROUO2588147RQ','Norene','Jaycocks','Woller','Calle Zaragoza',51,2261,'Granjas México','Guanajuato','2022-08-18','2023-01-14','1999-03-05','Hombre',9537.41,'Dermatología')
-,('TPXI968006JYG','Nils','Brann','Aickin','Avenida Juarez',5,95939,'Pedregal','Michoacán','2019-07-18','2022-11-30','2015-12-05','Mujer',1328.65,'Cardiología')
-,('XXCV462818YBU','Lanie','Stebles','Lidgard','Avenida Constitución',28,2880,'Xochimilco','Nuevo Leon','2019-10-25','2023-02-06','1982-11-28','No-binario',936.76,'Endocrinología')
-,('MRWA8141983O5','Kenton','Fairhall','Babcock','Paseo de la Reforma',9,4628,'Cuajimalpa','Baja California','2018-09-13','2023-07-27','1995-09-07','No-binario',1552.81,'Cardiología')
-,('FMUE982933JN2','Stefania','Oldred','Sherlaw','Calle 5 de Mayo',8360,720,'Valle de Bravo','San Luis Potosi','2018-08-10','2023-01-26','2001-04-17','No-binario',9134.12,'Nutrición')
-,('RQRE976569YGV','Darda','Comber','Megarrell','Calle Insurgentes',17,04998,'Anzures','Guerrero','2020-01-18','2023-06-14','1986-08-23','No-binario',7271.56,'Cardiología')
-,('HHFP345390YHX','Trish','Dominey','Van Der Straaten','Paseo de la Reforma',9,3488,'Cuajimalpa','Ciudad de México','2013-02-12','2022-12-10','1998-05-02','No-binario',473.36,'Oftalmología')
-,('ZVLR896250PGG','Henrik','Breede','Van Merwe','Calle Hidalgo',86,5,'Tepoztlán','Durango','2015-12-11','2022-10-26','1989-02-08','No-binario',6164.07,'Nutrición')
-,('IGOM72246041U','Ondrea','Fann','Ortet','Calle 5 de Mayo',354,33,'Chapultepec','Zacatecas','2020-01-10','2023-10-10','1989-05-25','No-binario',6060.15,'Cardiología')
-,('PSUJ211439BST','Beck','Oswell','Roscamps','Avenida Constitución',0729,0,'Chapultepec','Tlaxcala','2018-12-09','2022-11-22','1982-04-26','Mujer',5878.45,'Odontología')
-,('GONP262910QKR','Odo','Decent','Prynne','Paseo de la Reforma',53721,4596,'Xochimilco','Oaxaca','2020-07-26','2023-09-12','1994-12-14','Mujer',3062.7,'Rehabilitación')
-,('THXF232821INV','Esta','Kelemen','Jimmison','Avenida Juarez',4,6380,'Santa Fe','Coahuila de Zaragoza','2021-07-09','2023-09-26','1997-10-10','Mujer',6952.06,'Cardiología')
-,('ZUFU50748682W','Sandy','Baldick','Craddy','Paseo de la Reforma',09961,25096,'Cuajimalpa','Campeche','2011-02-03','2023-09-09','1992-12-02','Hombre',2036.92,'Rehabilitación')
-,('WQWW631791PEM','Shandee','Petrishchev','Redholls','Avenida Revolución',1088,614,'Cancún','Guerrero','2015-10-13','2023-05-18','1992-06-17','Mujer',1073.13,'Endocrinología')
-,('VNSS464581BKM','Selie','Stollman','Verlinde','Avenida Revolución',1623,1008,'Álamos','Chiapas','2016-10-20','2023-10-12','1988-04-02','No-binario',6657.58,'Oncología')
-,('CYOX957959XQX','Tamqrah','Esel','Mallia','Calle Hidalgo',214,71254,'San Pedro de los Pinos','Guanajuato','2012-12-14','2023-05-23','2020-09-20','Mujer',5443.42,'Odontología')
-,('MKEL858511OZC','Ajay','Tetsall','Leeson','Paseo de los Tamarindos',68,04256,'Polanco','Veracruz de Ignacio de la Llave','2021-07-22','2023-07-11','1984-05-19','Hombre',1932.74,'Oncología')
-,('MTEB293316XUS','Saunders','Worgen','Obey','Avenida Juarez',6,7888,'Tlatelolco','México','2017-11-28','2022-11-17','2000-05-24','Mujer',2961.36,'Oftalmología')
-,('YURK446723L7X','Kai','Ongin','Malinowski','Avenida Constitución',68484,203,'Narvarte','Nayarit','2015-07-08','2023-02-14','2003-08-08','Hombre',764.87,'Endocrinología')
-,('OTQY821753MFT','Darrelle','Jiles','Dallon','Avenida Juarez',6,286,'Cuajimalpa','Zacatecas','2016-02-03','2022-11-16','2008-04-10','No-binario',4952.92,'Oftalmología')
-,('JYEH841975TLB','Rivalee','Fingleton','Gerty','Avenida Revolución',10586,3727,'Pedregal','Tabasco','2019-09-08','2023-04-28','2012-12-23','Mujer',2639.01,'Oftalmología')
-,('ZPMJ7662081AP','Dulcea','Middler','Tayloe','Calle Hidalgo',2,9321,'Lindavista','Hidalgo','2018-05-25','2023-09-16','2016-04-25','Hombre',8553.17,'Neurología')
-,('WHNZ940441D2F','Melantha','Gawen','Stein','Calle Hidalgo',28539,38502,'Lindavista','Durango','2017-03-26','2023-06-21','2003-07-11','Mujer',6243.82,'Endocrinología')
-,('KVMW927143Y5J','Lewiss','McCullum','Cromley','Avenida Constitución',54984,310,'Jardines del Pedregal','Hidalgo','2012-04-02','2023-05-03','2023-08-25','Mujer',5372.76,'Neurología')
-,('HYWK6943688IE','Gardiner','Craydon','Breeder','Paseo de los Tamarindos',4111,18,'Cancún','Nuevo Leon','2023-05-16','2022-10-28','2001-09-02','No-binario',313.82,'Neurología')
-,('FGGR731969OCU','Bevin','Erbe','Proback','Avenida Revolución',40,7902,'San Miguel Chapultepec','Tabasco','2013-03-22','2023-07-18','1989-04-20','Mujer',2217.52,'Cirugía')
-,('YVUG34129944T','Holli','Proppers','Standidge','Avenida Constitución',4,9225,'Valle de Bravo','Morelos','2012-01-24','2023-08-12','2010-08-20','Hombre',9295.22,'Endocrinología')
-,('YBDH758472WBJ','Matthaeus','Clineck','Hebron','Paseo de la Reforma',2025,8222,'Polanco','Tabasco','2016-04-15','2023-02-03','1999-03-18','Hombre',7516.09,'Endocrinología')
-,('TENC260368G36','Rosemaria','Bart','Leyland','Calle Zaragoza',2,4599,'Cancún','Tamaulipas','2023-01-20','2023-04-25','1982-08-31','Mujer',2636.13,'Rehabilitación')
-,('TBWN588074TC5','Carma','Aubury','Gatty','Avenida Constitución',336,6708,'Condesa','Queretaro','2017-07-22','2023-07-16','1987-03-20','Hombre',9712.81,'Rehabilitación')
-,('MRKE612768GA3','Riva','Mettrick','Kynson','Avenida Constitución',97361,4794,'Satélite','Queretaro','2012-06-29','2023-05-19','1990-04-17','No-binario',7682.79,'Nutrición')
-,('AQZD299197WJR','Giovanna','Embleton','Rainbow','Calle 5 de Mayo',175,89894,'Cuajimalpa','Chiapas','2013-01-21','2023-04-11','2004-11-15','No-binario',5731.03,'Endocrinología')
-,('GZPA779394M4J','Tiena','Isted','Veitch','Avenida Constitución',9255,088,'Mérida','Zacatecas','2018-03-18','2023-02-23','1993-12-27','No-binario',8906.51,'Dermatología')
-,('ZHSS894037ZR2','Margo','Denge','Rathe','Calle Zaragoza',06467,773,'San Pedro de los Pinos','Aguascalientes','2015-09-13','2023-02-18','1981-06-10','Hombre',9936.72,'Oftalmología')
-,('XSDC413822VZC','Gonzales','Earp','Ivey','Calle Insurgentes',292,010,'Del Valle','Sonora','2012-04-28','2023-05-14','1993-04-14','No-binario',3926.68,'Neurología')
-,('CLVK1405209B6','Sharline','Nesfield','Beltzner','Avenida Constitución',97,4649,'Nápoles','Yucatan','2023-03-19','2023-09-22','2004-02-14','No-binario',3915.36,'Odontología')
-,('CKGJ306213OG9','Durante','Roizn','McGaffey','Calle Insurgentes',2984,635,'San Jerónimo','Hidalgo','2011-08-11','2023-10-09','1983-10-29','Hombre',2045.55,'Rehabilitación')
-,('FTHQ8388703S3','Sheppard','Kilian','Bauduin','Boulevard Miguel Alemán',1,0751,'Tacubaya','Sonora','2011-12-20','2023-08-16','2015-03-01','Mujer',3291.26,'Endocrinología')
-,('CMDZ286649MUR','Nara','Quinnet','Schlagman','Avenida Revolución',9541,65329,'Polanco','Baja California','2023-05-30','2023-02-28','2001-03-15','Hombre',9219.4,'Oftalmología')
-,('OADI335620JYG','Rockey','Truelock','Shanklin','Calle 5 de Mayo',149,08535,'Álamos','Tamaulipas','2021-05-23','2023-06-22','2009-12-15','Mujer',3783.48,'Oftalmología')
-,('USWZ2399582QG','Davide','Eddies','Breckell','Paseo de los Tamarindos',177,8212,'Del Valle','Aguascalientes','2020-03-12','2022-11-12','2023-08-03','Hombre',7149.7,'Cirugía')
-,('WCKA9640712OK','Reggy','Danilchev','Lusher','Avenida Revolución',030,2,'Xochimilco','Tamaulipas','2013-03-20','2022-11-02','1986-08-12','Mujer',7150.88,'Cardiología')
-,('XINV452352NXQ','Pepillo','Mc Ilwrick','Scouler','Avenida Juarez',87937,04,'Xochimilco','Coahuila de Zaragoza','2011-10-31','2023-03-23','2012-07-03','Hombre',6867.79,'Nutrición')
-,('GQQK5172261ZG','Inger','Rawcliffe','Markovich','Calle Zaragoza',75008,4601,'Mérida','Baja California Sur','2020-02-27','2023-07-21','2021-04-07','No-binario',7258.98,'Dermatología')
-,('WOKY520672IIC','Jens','Crothers','Puttick','Calle Insurgentes',58627,37598,'San Ángel','Guanajuato','2013-10-30','2023-06-19','1986-01-26','No-binario',169.19,'Rehabilitación')
-,('NHUI38702790V','Dirk','Boyen','Huortic','Avenida Constitución',750,7733,'Tulum','Guerrero','2021-02-17','2023-09-16','2009-08-26','Hombre',360.61,'Rehabilitación')
-,('SBMO667949WUP','Ruth','Cartmill','Klyner','Paseo de los Tamarindos',48006,3464,'Roma','Colima','2011-03-14','2022-11-15','1999-01-26','Hombre',1389.07,'Odontología')
-,('PELN401963V0C','Meara','McGill','Schorah','Avenida Constitución',1,86392,'San Rafael','Jalisco','2012-09-22','2023-05-20','1991-09-20','Mujer',8944.39,'Neurología')
-,('VSDP128547W1Q','Agosto','Kunz','Worsfield','Avenida Constitución',8668,914,'Polanco','Durango','2023-07-29','2023-05-23','2014-08-12','Hombre',5082.53,'Odontología')
-,('FPII7813392EP','Vania','Edmunds','Wallas','Boulevard Miguel Alemán',17114,2797,'Escandón','Sonora','2023-09-08','2023-08-12','2021-11-23','Hombre',1339.79,'Odontología')
-,('EEWY291264F8D','Dwain','Betancourt','Matthews','Boulevard Miguel Alemán',9352,579,'Del Valle','Yucatan','2018-08-21','2023-06-21','1992-01-10','Hombre',807.03,'Neurología')
-,('VSWA03251151P','Sonny','Rhucroft','Tomson','Avenida Juarez',1,8043,'Santa Fe','Jalisco','2012-04-06','2023-05-26','1997-09-17','Hombre',8272.72,'Oncología')
-,('MURQ4456085N4','Elbertina','Kelemen','Kinchley','Avenida Constitución',2836,2658,'Playa del Carmen','Nayarit','2013-01-21','2023-09-20','1988-08-27','Hombre',4660.43,'Neurología')
-,('DIDV6099373YO','Ailsun','Rosson','Maddin','Paseo de la Reforma',55950,20,'Juárez','Sonora','2019-12-12','2022-11-26','1984-04-29','Mujer',3200.69,'Oncología')
-,('OJLP822253SO7','Vaughan','Grigolon','O''Farris','Calle 5 de Mayo',91435,16587,'Tlatelolco','Yucatan','2017-02-21','2022-12-02','2014-05-29','No-binario',4870.44,'Cardiología')
-,('ELLP970775F4F','Olin','Aymeric','Foad','Avenida Revolución',50,16325,'Escandón','Tamaulipas','2023-10-22','2023-06-21','1983-03-12','No-binario',8827.8,'Dermatología')
-,('FEKH983671EG1','Michaeline','Golda','Izzett','Avenida Juarez',61324,53,'Azcapotzalco','Yucatan','2011-08-26','2023-06-03','1998-05-27','Mujer',8341.53,'Rehabilitación')
-,('RBZT377349ECK','Karissa','Battams','Pratte','Paseo de los Tamarindos',1,728,'Polanco','Sinaloa','2015-01-03','2023-05-07','1999-01-29','Mujer',4645.97,'Nutrición')
-,('JECW230926L59','Raleigh','O''Coskerry','Rae','Calle 5 de Mayo',3,021,'Tacubaya','Veracruz de Ignacio de la Llave','2015-02-26','2023-07-01','2001-06-25','No-binario',7084.53,'Neurología')
-,('RIRL359426D1S','Gaylord','McSkeagan','Malbon','Avenida Revolución',8,054,'San Rafael','Nuevo Leon','2018-04-06','2022-11-23','1986-02-24','Mujer',4786.1,'Endocrinología')
-,('GBOK945291CYZ','Felice','Stife','Pragnall','Calle Insurgentes',37,3,'Playa del Carmen','Aguascalientes','2023-02-08','2022-11-30','2017-04-21','Hombre',1520.25,'Oftalmología')
-,('AOQQ2715799T5','Minerva','Churchlow','Anthon','Calle Hidalgo',3704,26797,'Polanco','Morelos','2015-09-04','2023-02-08','1981-08-05','Hombre',7021.93,'Neurología')
-,('UGJC83837209I','Ellette','Sollom','D''Cruze','Calle Insurgentes',0886,42,'Tlalpan','Morelos','2017-09-26','2022-11-22','2021-05-10','No-binario',1751.06,'Rehabilitación')
-,('JUYD949753JFS','Griffy','Maskill','Caw','Calle Insurgentes',94016,2,'Xalapa','Hidalgo','2012-01-16','2023-04-11','2005-07-24','No-binario',5951.47,'Cirugía')
-,('KSRH702893G29','Doe','Johansen','Greasley','Calle 5 de Mayo',4,5,'San Ángel','México','2017-10-08','2022-11-29','2015-02-21','No-binario',9569.13,'Neurología')
-,('JJWD290486EIG','Ines','Scammonden','Killingbeck','Paseo de los Tamarindos',013,44,'Del Valle','Hidalgo','2015-08-29','2023-01-07','1981-10-27','Mujer',9907.72,'Neurología')
-,('WWJT790114GNG','Marna','Blakeden','Tschierasche','Calle Zaragoza',3,9,'Portales','Michoacán','2012-12-25','2023-02-27','1989-08-11','No-binario',5592.49,'Oncología')
-,('FWYC276947EIL','Frayda','Robatham','Brammall','Avenida Constitución',58,7175,'Xalapa','Ciudad de México','2017-04-08','2022-12-13','2002-12-19','No-binario',4047.78,'Endocrinología')
-,('MFUM008035QGI','Viola','Marunchak','Brunet','Avenida Constitución',02248,65,'Jardines del Pedregal','Tlaxcala','2014-09-07','2023-07-19','2021-03-30','Mujer',7896.15,'Cardiología')
-,('ZEBG053101R1Y','Lydon','Poller','Friett','Avenida Revolución',330,96978,'Reforma','Durango','2023-05-02','2023-01-31','2022-01-14','No-binario',5528.47,'Rehabilitación')
-,('HKTJ099153KAO','Austine','Bolliver','Baldack','Calle Zaragoza',187,657,'Mixcoac','Guanajuato','2012-04-13','2023-07-07','2004-02-29','Mujer',2236.0,'Endocrinología')
-,('ZTSZ381266ZT9','Vonni','Gooda','Leaburn','Avenida Constitución',9147,5,'San Jerónimo','San Luis Potosi','2013-03-17','2022-11-16','1994-10-24','Mujer',6747.26,'Oncología')
-,('VMCM8373824KW','Odette','Celle','Tetsall','Calle 5 de Mayo',37,404,'Cancún','Chiapas','2013-05-27','2023-07-12','2002-06-03','No-binario',8462.68,'Cirugía')
-,('DRCB39142043M','Therine','McSweeney','Mixworthy','Paseo de los Tamarindos',5344,8864,'Pedregal','San Luis Potosi','2020-10-14','2023-02-25','1994-01-31','Hombre',9770.24,'Cirugía')
-,('ZTLV742263FIV','Colby','Busk','Gibbin','Avenida Juarez',7,33,'Juárez','Oaxaca','2016-09-01','2022-12-27','2017-06-01','Hombre',5964.55,'Odontología')
-,('OKCL849116RZ1','Gram','Valens-Smith','Keasley','Boulevard Miguel Alemán',6852,5075,'San Miguel Chapultepec','Quintana Roo','2011-09-07','2023-02-02','2022-07-26','Mujer',990.13,'Cardiología')
-,('OQLW761841LEI','Pearl','Sherreard','Hammerberg','Calle Zaragoza',5,3516,'Escandón','Veracruz de Ignacio de la Llave','2020-05-08','2023-07-14','1985-03-13','No-binario',3292.17,'Oftalmología')
-,('UEAT372926PDV','Brok','Vial','Paulitschke','Paseo de los Tamarindos',3,77987,'San Miguel Chapultepec','Guerrero','2015-02-23','2022-11-18','2002-11-22','Hombre',7112.96,'Oftalmología')
-,('CIAR214482EL4','Hinze','Buntine','Warsap','Avenida Juarez',9,34,'Lindavista','Guanajuato','2012-09-25','2023-07-27','1998-11-19','No-binario',9175.16,'Dermatología')
-,('XKEA433324D1R','Arlie','Oakden','Piquard','Calle Insurgentes',03368,15847,'Lindavista','Zacatecas','2020-11-22','2023-04-10','1982-07-04','Mujer',6301.89,'Dermatología')
-,('PSFD004145EUH','Genevra','Crittal','Peplow','Avenida Constitución',8,8,'Condesa','Durango','2015-11-02','2023-04-10','1983-03-11','Mujer',2274.84,'Rehabilitación')
-,('XCPR044866LTS','Arabele','Padwick','Flint','Avenida Revolución',917,5752,'Playa del Carmen','Jalisco','2017-05-12','2023-10-01','2018-07-06','Mujer',9202.52,'Odontología')
-,('IKFS759378FGB','Lorens','Gales','Presdee','Paseo de la Reforma',0229,08,'Santa María la Ribera','Puebla','2021-06-19','2023-02-20','2020-04-02','Hombre',9163.0,'Odontología')
-,('YYTA324699A98','Janith','Alexandrou','Baurerich','Calle Hidalgo',40140,3616,'Del Valle','Coahuila de Zaragoza','2017-10-03','2023-05-18','2010-11-29','Hombre',5492.51,'Nutrición')
-,('NLIV939224QMV','Marley','Deerness','Perfili','Paseo de la Reforma',4772,79223,'Satélite','Durango','2013-10-28','2023-01-29','1981-06-07','Hombre',9017.69,'Oftalmología')
-,('DKCG125571EP8','Hamilton','Hicklingbottom','Griniov','Avenida Revolución',52,2048,'Del Valle','Morelos','2021-10-09','2023-06-12','1982-08-31','Hombre',5913.3,'Cardiología')
-,('KFOI154520X8J','Hazel','Gier','Lichfield','Calle Insurgentes',493,4,'Lindavista','Chiapas','2016-02-17','2023-07-14','2000-07-01','No-binario',2630.1,'Endocrinología')
-,('HEST30737818Z','Larissa','Crudginton','Soppeth','Calle 5 de Mayo',60340,625,'Santa Cruz Atoyac','Zacatecas','2020-05-18','2023-05-21','1998-01-26','Hombre',3801.61,'Neurología')
-,('LHYC980231471','Dun','Winckles','Antoniat','Avenida Juarez',8744,419,'Álvaro Obregón','México','2018-05-30','2023-01-19','2000-06-10','Mujer',6317.46,'Dermatología')
-,('FQGO7069565GP','Twyla','Upstone','Ebunoluwa','Boulevard Miguel Alemán',9,00,'Lindavista','Aguascalientes','2012-11-28','2023-01-10','2002-11-30','Mujer',7078.47,'Odontología')
-,('MGXI410886VNG','Preston','Critchell','Veltman','Calle Hidalgo',04215,5,'Anzures','Queretaro','2022-03-09','2023-02-04','2018-09-07','Hombre',3302.39,'Nutrición')
-,('VHBL6151079E8','Cherise','Urry','Frangione','Boulevard Miguel Alemán',7589,0445,'Lindavista','Campeche','2011-12-05','2023-02-21','2013-09-12','Mujer',2843.26,'Cardiología')
-,('KHQV515844SUB','Kiersten','Mowne','Blanckley','Calle 5 de Mayo',3,04915,'Tlalpan','Quintana Roo','2012-01-18','2023-02-22','2013-03-18','Hombre',8328.86,'Odontología')
-,('ASBQ3728408TL','Herta','Woodwin','Dunmuir','Avenida Revolución',417,639,'Álamos','Puebla','2010-11-10','2023-09-28','1993-02-17','Mujer',5841.27,'Odontología')
-,('TUFC924462YLN','Modestine','Clinch','Weinham','Avenida Juarez',53700,26717,'Juárez','Tlaxcala','2021-03-13','2023-04-06','1983-09-06','Mujer',9218.59,'Dermatología')
-,('BBKZ739720NNP','Alicea','McGebenay','Sijmons','Paseo de los Tamarindos',6,58,'Pedregal','Coahuila de Zaragoza','2019-09-17','2023-06-02','1991-11-16','Hombre',6457.03,'Endocrinología')
-,('ZUQI111919ZJ4','Adams','Styche','Dannell','Avenida Constitución',78133,93,'Condesa','Hidalgo','2020-02-12','2023-08-08','1990-03-10','No-binario',3877.19,'Dermatología')
-,('TTOL208518UFN','Guntar','Sprulls','Jery','Boulevard Miguel Alemán',892,8,'Reforma','Puebla','2013-04-20','2023-02-10','1995-09-25','No-binario',1078.36,'Odontología')
-,('SVHW155216QEW','Marietta','Martt','Andreoletti','Paseo de los Tamarindos',3,2,'Escandón','Oaxaca','2011-10-13','2023-08-14','2004-03-04','Mujer',5551.31,'Neurología')
-,('ODFS484597OBZ','Mitzi','Lonsbrough','Petrie','Paseo de la Reforma',95,742,'Santa Fe','Durango','2023-07-21','2023-06-20','2008-07-02','Hombre',697.02,'Neurología')
-,('FEEB74995443N','Vi','Rameaux','Caneo','Avenida Constitución',5986,20035,'Álvaro Obregón','Tabasco','2014-03-14','2023-07-29','1984-11-22','No-binario',4669.25,'Oftalmología')
-,('CHQF612842UBD','Maiga','Smeath','Bravington','Calle Insurgentes',1,278,'Tlatelolco','Michoacán','2014-07-25','2023-02-18','1986-02-02','Mujer',1293.18,'Endocrinología')
-,('ABTH939697A55','Jose','Robinette','McGeachie','Paseo de los Tamarindos',44,94,'Tacubaya','Campeche','2021-08-16','2023-03-29','1981-07-05','No-binario',5045.26,'Odontología')
-,('BNDO438615BQC','Dinnie','Gerdes','Puddephatt','Paseo de la Reforma',43,87,'Valle de Bravo','San Luis Potosi','2017-06-27','2022-12-28','2007-08-24','No-binario',2081.17,'Dermatología')
-,('JBTM681908HR2','Midge','Angless','Habershon','Avenida Juarez',201,61452,'Polanco','Hidalgo','2018-04-27','2023-01-12','1992-07-27','Hombre',3194.0,'Rehabilitación')
-,('JULG812826673','Jens','Egginson','Barlthrop','Calle 5 de Mayo',90,6700,'Anzures','Veracruz de Ignacio de la Llave','2022-03-21','2023-09-09','2015-12-19','Mujer',7135.76,'Odontología')
-,('EPXL331059JLD','Ainslie','Bundey','Bresnahan','Paseo de los Tamarindos',630,08,'San Jerónimo','Baja California','2016-05-05','2022-12-05','2006-01-16','Mujer',3200.18,'Rehabilitación')
-,('MQBS646003WWI','Hyacinthia','Zisneros','Ewdale','Avenida Revolución',093,512,'Álamos','Quintana Roo','2023-07-29','2023-09-11','2017-08-19','Mujer',6923.53,'Cirugía')
-,('IQWQ0089665D7','Roslyn','Clappison','Killingworth','Paseo de los Tamarindos',295,43,'Santa María la Ribera','Nuevo Leon','2019-06-01','2023-06-04','2020-02-08','No-binario',5102.41,'Dermatología')
-,('OZNP478953PZK','Lila','Budnk','Bellay','Calle Insurgentes',9793,61,'Valle de Bravo','San Luis Potosi','2016-06-27','2022-12-24','2007-06-20','Mujer',5150.74,'Odontología')
-,('SAHN453570KVB','Caryl','Lapworth','Espinay','Paseo de la Reforma',23285,464,'Portales','Zacatecas','2011-02-03','2023-08-17','2000-05-28','Mujer',5353.88,'Oncología')
-,('NZMA437881AZU','Ludovico','Palser','Poyzer','Calle Hidalgo',3538,6,'San Miguel Chapultepec','México','2016-03-05','2022-11-12','1994-08-25','No-binario',8324.14,'Odontología')
-,('TZWF719392OMU','Irita','Ogus','Dimmne','Paseo de la Reforma',360,7705,'Mixcoac','Tlaxcala','2018-04-09','2023-06-08','1983-12-18','Hombre',3096.18,'Dermatología')
-,('WZLL1775026FQ','Gaylene','Kaines','Patrono','Avenida Revolución',26963,4965,'Anzures','Sonora','2016-06-22','2023-10-22','1984-12-27','Hombre',1797.76,'Nutrición')
-,('TRWX071592YQ3','Obediah','Cucuzza','Nicol','Calle Insurgentes',24958,7,'Jardines del Pedregal','Durango','2018-05-07','2023-01-14','2009-01-01','Hombre',9268.27,'Odontología')
-,('DHWU588729X5M','Liliane','Eickhoff','Montford','Boulevard Miguel Alemán',8242,94,'Lindavista','Oaxaca','2018-02-14','2023-07-18','2016-01-03','Hombre',5007.55,'Nutrición')
-,('WLAL980173C39','Binnie','Flaws','Hollindale','Calle Hidalgo',2614,65,'Tlalpan','Colima','2017-12-03','2023-02-02','1987-08-09','Mujer',9314.38,'Cardiología')
-,('GWUX094701BM1','Ortensia','Brisbane','Passie','Calle 5 de Mayo',5346,7394,'Doctores','Ciudad de México','2022-04-23','2022-11-30','2017-04-05','No-binario',6690.84,'Oftalmología')
-,('GYJV9104663JN','Nadia','Stickels','Gilbody','Calle Hidalgo',4,96477,'Granjas México','Jalisco','2022-12-14','2023-05-23','2003-01-17','No-binario',4148.6,'Oncología')
-,('QJNH122936TY0','Ingrid','Vanni','Rigeby','Paseo de los Tamarindos',86,9087,'Cuajimalpa','Colima','2023-02-09','2023-04-25','1993-06-27','No-binario',1386.28,'Nutrición')
-,('GTNO3487033P1','Ann','Radnedge','Cassel','Avenida Revolución',55392,3,'Reforma','Queretaro','2014-04-30','2022-11-19','2020-08-25','Hombre',1818.81,'Oftalmología')
-,('JCYL8184552N5','Meghan','Oluwatoyin','Finnigan','Calle Insurgentes',9,14,'Roma','Aguascalientes','2019-02-02','2023-02-12','1984-02-14','Hombre',2417.78,'Neurología')
-,('ESAQ513107MKM','Zebulon','Antoszczyk','Jewks','Calle Zaragoza',3,68927,'Lindavista','Puebla','2012-08-30','2023-01-29','2021-12-01','Hombre',5227.17,'Rehabilitación')
-,('BUAJ343764WPX','Atlante','Ryall','Pyrke','Avenida Constitución',53,1,'Polanco','Chihuahua','2022-10-09','2023-08-01','1984-10-25','Mujer',7150.5,'Endocrinología')
-,('XKYE442982Z5C','Cris','Scarisbrick','Pearmine','Calle Zaragoza',6981,721,'Anzures','Sonora','2019-08-14','2023-03-20','2006-06-26','No-binario',5896.77,'Cirugía')
-,('JLOL9548453XD','Gauthier','Petrolli','Hardington','Avenida Revolución',560,1,'San Jerónimo','México','2022-09-08','2023-05-01','1991-06-14','No-binario',4748.19,'Cirugía')
-,('GJOJ291719QHO','Desirae','Hardy','Henden','Paseo de la Reforma',7,77,'Lindavista','San Luis Potosi','2021-09-14','2023-03-15','2021-10-06','No-binario',3773.6,'Cirugía')
-,('DDZY6677445PU','Rose','Savill','Casemore','Calle 5 de Mayo',67278,05,'Polanco','Michoacán','2012-09-14','2023-06-18','2015-06-24','Hombre',2846.67,'Oftalmología')
-,('JOYB313488JUR','Win','McCready','Dundendale','Paseo de la Reforma',962,6,'Mixcoac','Campeche','2020-08-03','2023-04-13','1995-02-04','Mujer',7265.27,'Dermatología')
-,('JDBF028004YY0','Mandy','Vasilyev','Drewitt','Paseo de los Tamarindos',65,9190,'Santa Fe','Nayarit','2019-02-07','2023-02-10','2002-08-28','Mujer',7715.47,'Rehabilitación')
-,('UTGI978491B31','Karlie','Mourgue','Temby','Avenida Constitución',75060,753,'Napoles','Tamaulipas','2019-06-25','2022-10-29','1987-01-29','Hombre',5904.76,'Neurología')
-,('EDIO75238825Z','Clerkclaude','Hellwich','Brownbill','Calle Hidalgo',0,53,'Granjas México','Guerrero','2020-10-29','2023-08-04','1986-07-11','No-binario',1274.36,'Odontología')
-,('QJPY76380953Y','Jennilee','Kensy','MacGragh','Boulevard Miguel Alemán',0126,80,'Granjas México','Yucatan','2022-01-30','2023-01-23','1995-12-02','Mujer',3864.19,'Nutrición')
-,('GKXI630148DDC','Alvy','Cominotti','Hovington','Avenida Revolución',82189,5838,'Del Valle','Chihuahua','2012-02-10','2023-10-06','1995-03-19','Mujer',3631.13,'Oncología')
-,('VKLJ156757M8M','Sim','Esposi','Nunnerley','Calle 5 de Mayo',2261,28556,'San Ángel','Yucatan','2019-06-11','2023-05-24','2011-06-06','Mujer',5144.77,'Nutrición')
-,('PGEB723823OG2','Tobey','Skipsea','Baradel','Calle 5 de Mayo',75,48543,'San Rafael','Durango','2019-04-17','2023-01-01','2018-10-09','Hombre',5877.08,'Oftalmología')
-,('LHYW660869R9A','Matti','Kernermann','Mc Caughen','Paseo de los Tamarindos',38,226,'Lindavista','Colima','2021-02-21','2022-11-05','2022-11-30','No-binario',2325.56,'Endocrinología')
-,('FADF2867664ZV','Leann','Doughty','Crucetti','Paseo de los Tamarindos',46,894,'Mixcoac','Tlaxcala','2023-03-12','2023-04-28','1989-05-11','Mujer',8852.33,'Rehabilitación')
-,('TALY5598970EE','Paxton','Kinnerley','Salmons','Boulevard Miguel Alemán',0,8285,'Anzures','Tlaxcala','2020-11-04','2022-11-26','1990-04-29','No-binario',3513.37,'Neurología')
-,('GTRY127744T0U','Nikoletta','Matkovic','Theis','Paseo de la Reforma',54,76061,'Azcapotzalco','Ciudad de México','2022-01-28','2023-04-13','2000-01-12','Hombre',7851.19,'Endocrinología')
-,('OKYM616170SKH','Brockie','Dietzler','Schimann','Calle 5 de Mayo',85256,7,'Santa María la Ribera','Jalisco','2011-09-24','2023-02-23','2008-12-02','Mujer',1818.58,'Oftalmología')
-,('JBZV990941OQY','Chandal','Giblin','Wolstenholme','Avenida Juarez',6554,47192,'Pedregal','Sinaloa','2020-02-17','2023-04-21','2021-10-25','No-binario',7578.86,'Nutrición')
-,('NZRA249941LOZ','Koral','Antwis','Vail','Avenida Constitución',2,140,'Polanco','Zacatecas','2012-12-19','2023-05-02','1989-07-04','Hombre',8085.7,'Rehabilitación')
-,('WHLW8692441E3','Haleigh','Heberden','Minchinton','Avenida Revolución',8795,2,'Polanco','Puebla','2011-09-17','2023-07-09','1987-09-01','No-binario',7393.78,'Endocrinología')
-,('MUFR1954770N8','Barby','Leavy','Le Port','Boulevard Miguel Alemán',89460,7,'Polanco','Chihuahua','2013-02-08','2023-09-30','1992-04-26','Hombre',9008.64,'Endocrinología')
-,('PCDW209712AUJ','Laney','McLellan','Newborn','Calle 5 de Mayo',5,0,'Roma','Zacatecas','2017-06-10','2023-04-07','1995-04-24','Hombre',3858.01,'Cardiología')
-,('ANPA3301343P7','Muire','Phizackarley','Bursell','Calle Insurgentes',83679,721,'Lindavista','Guanajuato','2019-04-27','2023-07-21','2005-04-30','Mujer',8665.49,'Neurología')
-,('ASJO8433782H1','Jenny','Laughrey','Fellos','Calle 5 de Mayo',39,3885,'Xalapa','Morelos','2011-10-27','2023-02-12','1987-01-03','Hombre',4554.61,'Odontología')
-,('WKJR816770LSM','Theobald','Bett','Carayol','Calle 5 de Mayo',5222,210,'Mixcoac','Puebla','2011-01-30','2022-11-10','2002-08-09','Hombre',3531.19,'Endocrinología')
-,('FZEW371811RGX','Thorny','Schall','MacRirie','Calle Hidalgo',7,7,'Santa María la Ribera','Tlaxcala','2011-03-01','2023-01-23','2004-01-29','Mujer',8279.46,'Dermatología')
-,('EQEW907772HXG','Silvie','Baggalley','Raden','Calle Zaragoza',9950,98,'Narvarte','Guerrero','2013-04-14','2022-11-14','2019-08-29','Mujer',5837.47,'Odontología')
-,('XNNR397764NL1','Arturo','Jimes','Worthing','Boulevard Miguel Alemán',7370,5839,'Polanco','Jalisco','2014-01-14','2023-08-13','1986-02-24','Hombre',6826.68,'Oncología')
-,('RZZG685536CN0','Eliza','Lanchbery','Featherstonhaugh','Calle Insurgentes',9706,91865,'Cuajimalpa','Baja California','2018-02-27','2023-01-08','1985-03-07','No-binario',4076.66,'Oncología')
-,('SBFV923017YPJ','Andrea','Duddridge','Ffrench','Paseo de los Tamarindos',29285,695,'Anzures','Veracruz de Ignacio de la Llave','2013-12-11','2023-04-26','2011-04-03','Hombre',3539.03,'Odontología')
-,('GWJO963838Z1Z','Ogdon','Dilleston','Ashelford','Avenida Revolución',64328,3617,'Mérida','Campeche','2018-12-15','2023-01-04','1988-08-14','Mujer',2341.85,'Cirugía')
-,('DBSU241480D49','Kris','Samudio','Oliveti','Paseo de la Reforma',7122,2755,'Cuajimalpa','Oaxaca','2018-08-15','2023-08-14','1987-12-17','Hombre',2640.96,'Oncología')
-,('PBVW1460470BT','Ivette','Fearnyhough','McGuane','Avenida Juarez',2811,75961,'Escandón','Hidalgo','2013-08-27','2023-05-24','2023-01-03','No-binario',9753.33,'Nutrición')
-,('IUXE641836YRN','Stevana','Ander','Bernaldez','Calle Zaragoza',0773,127,'Jardines del Pedregal','Guanajuato','2016-05-07','2022-12-11','1981-11-22','Hombre',2958.07,'Nutrición')
-,('VNKR3029898FP','Thibaud','Ghion','Vivian','Calle Zaragoza',27,46126,'Lindavista','Veracruz de Ignacio de la Llave','2022-12-25','2023-04-08','2007-10-03','No-binario',4334.18,'Neurología')
-,('LPOC2800862RN','Torey','Thewlis','Siviour','Avenida Juarez',7,53157,'Cuajimalpa','San Luis Potosi','2023-01-30','2023-01-20','2022-09-25','Mujer',4885.42,'Neurología')
-,('WCCS443101JKG','Mitchael','Dakhno','Divell','Avenida Revolución',47018,45,'Portales','Oaxaca','2022-03-02','2023-03-06','1990-02-27','Mujer',2860.33,'Neurología')
-,('JTAZ215633LDZ','Wilton','Gull','Ianilli','Boulevard Miguel Alemán',081,8377,'Tacubaya','Nuevo Leon','2019-01-06','2023-01-23','2016-12-31','Hombre',1269.36,'Cirugía')
-,('AYGG0853137PZ','Bastien','Bennitt','Munnis','Boulevard Miguel Alemán',56220,860,'Napoles','Quintana Roo','2018-06-05','2023-01-09','1994-08-06','Hombre',9879.44,'Endocrinología')
-,('QBVF179154Z0H','Olympe','Dziwisz','Creeber','Calle Insurgentes',998,427,'Napoles','México','2018-03-02','2023-03-15','2007-06-23','Mujer',1750.22,'Oftalmología')
-,('NWEU2030768K9','Candis','Ridhole','Yackiminie','Avenida Constitución',530,2242,'Escandón','Aguascalientes','2012-11-01','2023-08-09','1996-09-29','Mujer',664.01,'Oftalmología')
-,('WRDN726366ZD4','Estevan','Leate','Blasius','Avenida Revolución',19,82921,'Santa Fe','Guanajuato','2018-03-11','2022-12-11','1984-08-18','Hombre',1835.98,'Nutrición')
-,('SCMD4413541A2','Roxie','Murty','Juanes','Calle 5 de Mayo',61462,62997,'Lindavista','Quintana Roo','2021-03-11','2023-07-20','2018-04-01','Hombre',7534.46,'Oncología')
-,('MXAD6688838XB','Andromache','Gallacher','Challiss','Calle Zaragoza',4,4,'Playa del Carmen','Durango','2012-10-11','2022-11-06','1990-09-23','Hombre',7716.27,'Endocrinología')
-,('VSKM942872325','Avery','Kinchington','Goudge','Avenida Revolución',8058,14,'Lindavista','Durango','2020-05-14','2022-12-03','1999-12-21','Hombre',1403.35,'Nutrición')
-,('CFVM406846T3Q','Kessia','Linham','Davenell','Avenida Revolución',92520,44,'Chapultepec','Guerrero','2021-01-19','2023-01-31','1982-12-05','Hombre',2751.56,'Oftalmología')
-,('QELM9450179ZN','Lincoln','Haucke','Blackley','Calle Insurgentes',040,40829,'Álvaro Obregón','Michoacán','2012-04-18','2023-02-25','2000-11-11','Hombre',8991.63,'Endocrinología')
-,('RSEL602149F2B','Valentin','Degoy','McNiven','Boulevard Miguel Alemán',28378,71278,'Portales','Queretaro','2013-12-05','2023-09-03','2011-05-25','Mujer',8522.28,'Nutrición')
-,('GMUJ842876DSR','Benedikta','Duigan','Philcott','Calle 5 de Mayo',2,618,'Santa Fe','Yucatan','2014-11-13','2023-04-26','1985-07-19','Hombre',732.18,'Rehabilitación')
-,('TIEG0646717CS','Carleton','Leadbeater','Scollan','Paseo de la Reforma',81,62,'Condesa','Coahuila de Zaragoza','2017-10-17','2022-12-17','2017-11-30','No-binario',8214.42,'Neurología')
-,('NZEJ058401OSX','Marna','Trevaskis','McAw','Calle Hidalgo',4376,4,'Narvarte','Nuevo Leon','2011-03-23','2023-08-19','1988-09-03','Mujer',2372.19,'Endocrinología')
-,('GZSC566130S8M','Kiley','Ondrus','Soares','Avenida Revolución',06,913,'Álvaro Obregón','Guerrero','2023-06-13','2023-01-18','2010-08-10','No-binario',9337.05,'Cirugía')
-,('CCFV436311MPQ','Iggie','Cassells','Tankard','Avenida Juarez',26,0704,'Coyoacán','Zacatecas','2019-02-02','2023-07-12','2007-11-18','Hombre',3079.58,'Nutrición')
-,('SPLD390676JTV','Kingston','Blaylock','Hylands','Boulevard Miguel Alemán',21957,8695,'San Miguel Chapultepec','Tabasco','2022-12-24','2023-03-02','2012-07-05','No-binario',7020.04,'Dermatología')
-,('QJCU624506W5X','Gusella','Christensen','Gooderridge','Calle Insurgentes',71,84068,'Santa Cruz Atoyac','Sinaloa','2020-03-16','2023-02-28','2023-09-02','No-binario',2469.68,'Nutrición')
-,('YUNV177260CVJ','Mercedes','MacKeever','Luten','Calle 5 de Mayo',76421,8872,'Tlalpan','San Luis Potosi','2013-01-03','2022-11-13','2009-05-11','Mujer',300.79,'Oncología')
-,('EBLG324578F59','Julienne','Shaw','Tax','Paseo de la Reforma',544,649,'Anzures','Tlaxcala','2020-11-07','2022-10-27','2000-04-07','Mujer',9294.19,'Rehabilitación')
-,('LBRO455156XCI','Susanne','Bee','Addlestone','Avenida Juarez',5384,50,'Escandón','Queretaro','2018-06-26','2023-05-03','2020-03-29','Hombre',785.09,'Neurología')
-,('CLQT732279YW0','Griswold','Stanes','Jull','Avenida Juarez',34,4,'Reforma','Coahuila de Zaragoza','2013-06-29','2022-12-13','2002-07-11','Hombre',4553.8,'Cirugía')
-,('XFYY909242ILF','Lilias','Parcell','Jacmard','Paseo de los Tamarindos',69,00822,'Tlatelolco','Aguascalientes','2016-06-04','2022-11-18','2008-10-03','Hombre',857.92,'Rehabilitación')
-,('DZKW933325CO4','Harvey','Glenton','Sanderson','Paseo de la Reforma',8,96128,'Lindavista','Campeche','2021-06-15','2023-09-21','2000-11-12','No-binario',4341.53,'Oncología')
-,('YMQK3611830HX','Shantee','Loosmore','Lodge','Calle 5 de Mayo',359,48260,'Mixcoac','Tamaulipas','2014-05-21','2023-09-26','2009-02-15','No-binario',5200.83,'Cirugía')
-,('XQAI378888F1H','Ker','Hefford','Tenman','Calle 5 de Mayo',928,44206,'Santa Fe','Sonora','2020-03-02','2023-07-18','2010-03-29','Hombre',6601.33,'Cirugía')
-,('RJRZ000615SS8','Gaile','Pervew','Anan','Boulevard Miguel Alemán',633,9186,'Cuajimalpa','Michoacán','2016-08-16','2023-02-20','2018-07-02','Hombre',1849.52,'Cirugía')
-,('DSMM092748EO3','Yettie','Holwell','Haslock(e)','Calle Insurgentes',46401,6,'Tlatelolco','Coahuila de Zaragoza','2012-03-25','2023-04-18','1983-10-21','Hombre',7158.78,'Oftalmología')
-,('ALZD327534VL2','Wilone','Bushe','Maddin','Calle Hidalgo',3411,323,'Mérida','Oaxaca','2017-03-13','2023-03-31','2004-07-15','No-binario',9255.11,'Odontología')
-,('JXEI395029ZSX','Skelly','Hartnup','Mallion','Calle Zaragoza',931,75591,'Mixcoac','Baja California','2019-11-23','2023-04-04','1998-01-20','No-binario',4877.84,'Nutrición')
-,('MWAL509552DJK','Ambrosius','Gotmann','Josum','Boulevard Miguel Alemán',72,00,'Condesa','Tlaxcala','2021-03-02','2023-03-20','2017-04-24','Hombre',260.13,'Oftalmología')
-,('QPEI215923QUE','Llywellyn','Slane','Erskin','Calle Zaragoza',130,0,'Tacubaya','Morelos','2022-05-18','2023-06-05','1989-02-18','Mujer',9294.08,'Oncología')
-,('SZZE0351269MU','Herschel','Epine','Speenden','Paseo de la Reforma',7388,886,'Mixcoac','Durango','2023-02-02','2023-02-15','1995-10-03','Hombre',794.8,'Cirugía')
-,('HXSU3016650UM','Marla','Millington','Webb-Bowen','Calle Hidalgo',62,98314,'Coyoacán','Colima','2013-03-14','2023-03-10','2005-03-30','No-binario',4129.47,'Endocrinología')
-,('EUXR313808I44','Cosme','Willavize','Hardbattle','Avenida Juarez',52331,00,'Reforma','San Luis Potosi','2013-06-04','2022-12-31','1983-03-04','Mujer',1484.98,'Cirugía')
-,('SZEN753423WTC','Ardelia','Melross','Treneer','Avenida Revolución',1,56771,'Coyoacán','Guerrero','2023-08-30','2023-10-01','1988-06-24','Hombre',7721.83,'Oncología')
-,('BVKC497460FEI','Davis','Tythe','Inch','Paseo de la Reforma',50847,81,'Álvaro Obregón','Veracruz de Ignacio de la Llave','2013-08-24','2023-04-12','1993-10-27','Hombre',4930.12,'Rehabilitación')
-,('BQEV285479JXG','Casandra','Eyer','Rogier','Calle Zaragoza',12,47,'Narvarte','Sonora','2013-09-20','2023-09-16','1991-12-16','Mujer',2419.53,'Neurología')
-,('PNXD8640610I1','Gilbertina','Kensy','Goodinson','Paseo de los Tamarindos',21,507,'Satélite','Tamaulipas','2013-11-10','2023-08-19','2017-08-16','Mujer',3390.51,'Oftalmología')
-,('ZDJW203582TYX','Adelice','MacGee','Knapton','Avenida Revolución',2900,4808,'Del Valle','Guanajuato','2022-02-13','2023-02-16','1982-05-10','No-binario',8561.37,'Odontología')
-,('BGZQ108910JC2','Catha','Millen','Tolchard','Calle Hidalgo',2944,200,'Nápoles','Sonora','2023-04-02','2023-04-10','1985-06-12','Hombre',7619.5,'Rehabilitación')
-,('BNBC4217854DB','Kara','Enterle','Gatlin','Calle Hidalgo',20,69957,'Jardines del Pedregal','Oaxaca','2012-12-09','2023-01-01','2008-03-09','No-binario',2633.98,'Oftalmología')
-,('JKZA241618PU5','Karon','Deniscke','Mewe','Calle Hidalgo',9343,3935,'Lindavista','Yucatan','2021-09-28','2023-01-04','2005-12-07','Mujer',48.37,'Cardiología')
-,('XAEM228885M10','Jaine','Gullifant','Palfree','Paseo de la Reforma',7276,956,'Del Valle','Tlaxcala','2014-08-01','2023-02-17','1988-09-15','Hombre',5371.32,'Cardiología')
-,('LWZI803078ZU8','Horacio','Eckly','Corsham','Calle Insurgentes',1293,7,'Condesa','San Luis Potosi','2011-01-20','2023-07-12','2004-12-27','Hombre',5176.15,'Cirugía')
-,('TVRG615297F89','Harmony','Skullet','Cawthera','Calle Insurgentes',43,275,'Cuajimalpa','Sonora','2022-11-29','2023-09-02','2020-05-19','No-binario',3104.53,'Oncología')
-,('WNWT772686M3F','Rory','Ivanchikov','Dantesia','Avenida Constitución',6267,7627,'Anzures','Sonora','2015-05-11','2023-03-03','1993-01-24','Hombre',8511.98,'Endocrinología')
-,('HOZA6128736MA','Ben','McCreadie','Simonot','Paseo de los Tamarindos',6,9415,'San Jerónimo','Nayarit','2014-02-09','2022-12-20','1993-06-12','No-binario',9132.6,'Oftalmología')
-,('VLOZ091401ZDM','Andreas','Heathcoat','Gibling','Paseo de los Tamarindos',0,173,'Cuajimalpa','Guerrero','2021-03-02','2023-02-22','2012-07-08','Mujer',7112.4,'Nutrición')
-,('ZQJB5440207V9','Brear','Trench','Chesnay','Avenida Juarez',7,5,'Tacubaya','Hidalgo','2016-07-22','2023-09-27','1999-05-02','Mujer',2623.61,'Neurología')
-,('TBCD60964419M','Jackie','Ewen','Shakespear','Calle Zaragoza',1769,07424,'Pedregal','México','2019-01-11','2023-07-01','1992-03-03','No-binario',3457.92,'Odontología')
-,('YFNZ197951SC9','Rabbi','Chainey','McMeeking','Avenida Juarez',85,347,'Doctores','Michoacán','2020-05-11','2022-11-28','2002-06-12','Mujer',6273.71,'Neurología')
-,('LTGS058286CX6','Park','Faull','Vivyan','Boulevard Miguel Alemán',8,94,'Reforma','Tabasco','2021-08-09','2023-07-04','2015-03-25','No-binario',7605.31,'Endocrinología')
-,('FBBS498649U8J','Jarid','Munnery','MacNair','Avenida Revolución',0,022,'Lindavista','Michoacán','2016-10-07','2023-04-23','1990-12-26','No-binario',9897.38,'Oncología')
-,('MIIF184661LMV','Zola','Lopez','Jesson','Paseo de la Reforma',068,86,'Mérida','Zacatecas','2014-01-23','2022-12-11','1987-01-19','Hombre',7471.6,'Cardiología')
-,('AAAX976287AUU','Anallise','Delong','Bowry','Calle Zaragoza',37209,40,'Granjas México','Chihuahua','2012-04-03','2023-04-25','2016-10-03','Hombre',3383.07,'Oncología')
-,('HTES2723344A0','Dido','Uppett','Sands','Calle Insurgentes',7643,00721,'Tulum','Nayarit','2021-07-05','2023-06-20','2020-03-10','Mujer',9532.43,'Cardiología')
-,('YTQV874944G6Y','Druci','Lawey','Buffey','Calle 5 de Mayo',83558,6,'San Rafael','Yucatan','2020-10-08','2023-07-27','2023-09-03','Mujer',4083.41,'Odontología')
-,('ECAY91855703E','Crysta','Nicholas','Meriton','Calle Hidalgo',793,37039,'Lindavista','Puebla','2019-10-19','2023-02-04','2015-03-31','No-binario',3047.78,'Nutrición')
-,('QWVA177482I15','Stanton','Stuther','Matthew','Avenida Constitución',372,85549,'Chapultepec','Zacatecas','2015-06-05','2023-10-11','2019-08-14','No-binario',4418.45,'Cardiología')
-,('DSIU233532DWV','Blake','Saul','Kliment','Avenida Juarez',7406,286,'San Jerónimo','Tlaxcala','2014-08-13','2023-03-28','2013-07-25','Hombre',4958.71,'Rehabilitación')
-,('FZBL1311119NV','Boony','Togwell','Pitkeathly','Calle Zaragoza',224,5,'Polanco','Veracruz de Ignacio de la Llave','2019-04-11','2023-05-17','1995-01-12','Hombre',1130.29,'Cardiología')
-,('JMRN633788JDZ','Nan','Barthelet','Mitford','Paseo de la Reforma',5931,00523,'Escandón','Morelos','2019-06-17','2023-07-18','1982-06-20','No-binario',5266.7,'Oftalmología')
-,('PQEE509544S1P','Latrina','Mellanby','Bax','Avenida Constitución',4856,59238,'Escandón','San Luis Potosi','2018-06-27','2023-04-03','1981-11-07','No-binario',7949.42,'Neurología')
-,('NCVW1410696NV','Enoch','Hartzenberg','Loudwell','Avenida Revolución',32,32626,'San Rafael','Chiapas','2020-10-11','2023-03-21','2020-05-14','Mujer',1287.17,'Neurología')
-,('SDNQ720924OZ3','Bobbee','Smeall','Renshaw','Avenida Constitución',7,88423,'Playa del Carmen','Zacatecas','2011-02-22','2023-10-04','2001-07-13','Hombre',7628.16,'Oncología')
-,('AHLL8475866KQ','Tod','Waldrum','Chapelhow','Avenida Constitución',506,03,'Lindavista','Oaxaca','2015-02-18','2023-06-27','2002-08-11','No-binario',122.19,'Cirugía')
-,('JGBI238019P34','Thomasina','Morrieson','Boleyn','Avenida Juarez',60603,33,'San Pedro de los Pinos','México','2019-10-22','2022-12-21','1988-04-12','Hombre',276.84,'Nutrición')
-,('CUNM9657756DG','Rakel','Glowacha','Raffin','Avenida Constitución',7,62,'Azcapotzalco','Chihuahua','2017-11-25','2023-05-03','2016-07-27','No-binario',2755.79,'Odontología')
-,('FUFD172981B2J','Bernice','Leander','Brabbs','Paseo de los Tamarindos',5,0,'Narvarte','Guanajuato','2017-10-09','2023-03-21','2007-05-23','Mujer',6727.63,'Dermatología')
-,('EFJS91940862V','Gwenni','Dymock','Dailey','Boulevard Miguel Alemán',39582,35136,'Mérida','Veracruz de Ignacio de la Llave','2014-10-29','2023-06-09','1984-07-27','No-binario',2160.8,'Cirugía')
-,('AZDY282958ROP','Alleyn','Rimer','Ogley','Avenida Revolución',2,090,'Doctores','Michoacán','2013-12-07','2023-06-12','2010-09-19','Mujer',7095.55,'Endocrinología')
-,('EQFP954995LTH','Florance','Perone','Fife','Calle Insurgentes',34198,040,'Cuajimalpa','Guerrero','2014-07-30','2023-01-07','2008-08-11','Mujer',2948.5,'Odontología')
-,('TNKT7242710BU','Cecil','O''Grady','Rosenblatt','Calle Hidalgo',04379,2934,'Napoles','Tamaulipas','2014-10-02','2023-04-19','2016-04-20','Mujer',7838.08,'Cirugía')
-,('GYQH616332GOR','Pauline','Menego','Camamill','Calle Zaragoza',7,2,'Álamos','Nayarit','2022-09-13','2023-09-22','2006-10-01','No-binario',5676.41,'Oftalmología')
-,('GNWS8705375GN','Phyllis','Scarce','Pinilla','Calle Zaragoza',7891,462,'Tacubaya','Chihuahua','2015-10-09','2023-02-08','1983-04-04','Hombre',2005.75,'Dermatología')
-,('KGWB26719962K','Mikol','Cud','Slite','Boulevard Miguel Alemán',43621,09344,'Valle de Bravo','Chiapas','2015-08-15','2023-07-27','2017-09-19','Hombre',3884.89,'Oftalmología')
-,('UIDE279740KXS','Virginia','Chilcott','Wardel','Calle Zaragoza',1914,4267,'Tulum','Colima','2023-06-03','2022-12-12','2022-03-18','No-binario',5503.95,'Rehabilitación')
-,('QZKD6464812SS','Lanny','Diehn','Prettyman','Avenida Juarez',9,73,'San Miguel Chapultepec','Hidalgo','2022-11-17','2023-01-07','2023-10-21','No-binario',3855.6,'Cardiología')
-,('NSCU339541UA5','Alis','Izzatt','Demelt','Avenida Constitución',99,7624,'Juárez','Coahuila de Zaragoza','2016-02-17','2023-02-10','1998-05-13','Mujer',3933.92,'Nutrición')
-,('FZDH762231P8H','Berk','Smurfitt','O''Conor','Calle 5 de Mayo',0496,0707,'Tlatelolco','Chihuahua','2015-10-10','2023-07-22','2020-03-09','Hombre',1322.87,'Cirugía')
-,('LKDD3875285XE','Ruby','Harsum','Tute','Avenida Revolución',245,7,'Portales','Puebla','2020-08-16','2023-09-04','2014-09-12','No-binario',6912.04,'Endocrinología')
-,('DDFZ987788END','Aliza','Pankethman','Boult','Calle Insurgentes',8372,60,'San Jerónimo','Quintana Roo','2022-01-27','2023-05-09','1997-03-26','Hombre',1797.08,'Odontología')
-,('AOJU963436GZ2','Sansone','Gehringer','Serfati','Paseo de la Reforma',797,24,'Napoles','Chihuahua','2014-11-28','2023-01-18','2000-12-06','No-binario',9117.25,'Nutrición')
-,('CSRI597781NVH','Donavon','Lewsam','Naden','Avenida Revolución',21,36591,'San Rafael','Hidalgo','2018-06-20','2023-10-16','1989-10-14','No-binario',5945.76,'Cirugía')
-,('AROI188485GFC','Gwyn','Cristofor','Kaszper','Boulevard Miguel Alemán',140,15,'San Miguel Chapultepec','Tlaxcala','2017-09-22','2023-09-29','1995-10-06','No-binario',335.16,'Nutrición')
-,('MCUN785791VGC','Rowney','Canto','Turfes','Calle 5 de Mayo',49,2,'Portales','Zacatecas','2021-05-26','2022-11-16','2001-10-25','No-binario',6138.96,'Cirugía')
-,('AWLA745431NG0','Gloriana','Blackadder','Keymer','Calle Insurgentes',6341,45203,'Álamos','Sinaloa','2012-07-04','2023-03-24','1996-02-19','Mujer',3442.94,'Rehabilitación')
-,('DHXQ085918L47','Klemens','California','Sinkin','Avenida Revolución',14748,1,'Álamos','Puebla','2018-07-04','2023-02-14','1983-08-04','No-binario',893.74,'Cirugía')
-,('MYET069998V4O','Gates','Hincks','Roots','Calle Hidalgo',98,010,'Álvaro Obregón','Nayarit','2011-03-19','2023-06-01','2003-05-10','Hombre',8742.84,'Cirugía')
-,('UKBK404745XY4','Marillin','Blaschke','Fellona','Calle Insurgentes',017,091,'Cuajimalpa','Zacatecas','2012-04-25','2023-09-03','1992-12-09','No-binario',3654.22,'Oftalmología')
-,('IQGL800277P1V','Agnes','Mattioni','Luckcock','Calle Zaragoza',288,98,'Álvaro Obregón','Coahuila de Zaragoza','2017-05-09','2023-08-31','2008-05-24','Mujer',9264.44,'Oftalmología')
-,('DLBI97300692E','Agneta','Davsley','Press','Boulevard Miguel Alemán',5373,3,'Granjas México','Coahuila de Zaragoza','2013-10-23','2023-03-26','1997-05-02','Mujer',835.34,'Odontología')
-,('FEKS273767Y0R','Jacky','Skocroft','Cookes','Avenida Juarez',8401,821,'San Miguel Chapultepec','Tamaulipas','2021-06-27','2023-10-15','1981-04-29','No-binario',2133.12,'Cirugía')
-,('GXDO167872GGS','Andee','Fillis','Galia','Avenida Juarez',808,21,'Pedregal','Guanajuato','2015-09-29','2023-01-29','1995-03-14','No-binario',9689.02,'Cardiología')
-,('UIJR8418249R9','Ferdinande','Kelcey','Hagan','Paseo de los Tamarindos',7646,266,'Álvaro Obregón','Nuevo Leon','2014-10-13','2023-09-03','2010-06-21','Mujer',8956.43,'Endocrinología')
-,('DQMP2112686V6','Leonerd','Knights','Strephan','Calle Insurgentes',03,988,'San Pedro de los Pinos','Nayarit','2023-08-19','2023-08-20','1987-11-08','Mujer',8496.5,'Cirugía')
-,('GZBJ018542CKF','Kingsly','Brownlea','Cholomin','Avenida Juarez',09,0806,'San Pedro de los Pinos','Sinaloa','2013-11-21','2023-05-23','1996-02-03','No-binario',812.67,'Oftalmología')
-,('FIAC2521086ND','Windy','Nears','Glanders','Paseo de los Tamarindos',0,8,'Tlalpan','Zacatecas','2016-12-19','2022-12-24','1996-07-01','No-binario',2331.21,'Odontología')
-,('WWEQ357487EFL','Nelli','Dickins','Choppen','Paseo de los Tamarindos',67,97,'Lindavista','Coahuila de Zaragoza','2011-01-24','2023-03-05','2016-12-27','No-binario',6945.23,'Dermatología')
-,('FRPK896348WG9','Hedwig','Emmert','Caghan','Calle Hidalgo',1052,025,'Álamos','Yucatan','2022-01-26','2023-07-17','2004-08-08','Mujer',5675.03,'Nutrición')
-,('NTCS270102K37','Ardelia','Kentwell','Crolly','Paseo de la Reforma',40,9159,'Narvarte','Tlaxcala','2023-03-18','2023-06-10','1985-03-18','Mujer',5179.68,'Nutrición')
-,('UVQB489575QJ5','Raff','Lacheze','Drummer','Paseo de los Tamarindos',3,09,'Polanco','Chiapas','2015-08-11','2023-05-21','1991-04-08','Hombre',7448.97,'Endocrinología')
-,('HHAS625984C76','Sidney','Jeppensen','Pusey','Calle Insurgentes',30,543,'Tulum','Jalisco','2012-03-06','2023-10-13','2012-03-07','Hombre',2092.93,'Nutrición')
-,('LZXV924785I5U','Timothea','Mounsie','Tripney','Calle Zaragoza',8,3,'Álamos','México','2012-08-08','2022-11-16','2006-02-04','Mujer',451.15,'Oncología')
-,('RCLG4021774Y0','Berti','Sawers','Seamons','Avenida Constitución',42,1,'Tlatelolco','Veracruz de Ignacio de la Llave','2011-09-22','2022-11-23','2023-01-02','Mujer',2260.83,'Nutrición')
-,('BIGT869065ET2','Shaughn','Blazewicz','Rowcastle','Avenida Revolución',8,965,'Anzures','Tlaxcala','2021-03-20','2023-03-11','2009-12-31','Mujer',9310.23,'Cardiología')
-,('DYHM76238167F','Mortie','Follows','Dunrige','Avenida Constitución',2558,494,'Del Valle','Quintana Roo','2019-08-13','2023-05-27','1984-10-21','Hombre',684.81,'Endocrinología')
-,('CRFN279292LKQ','Kathryne','Jakov','Creek','Calle 5 de Mayo',510,34677,'Doctores','Nayarit','2012-09-25','2023-05-14','2019-08-23','No-binario',5992.12,'Oftalmología')
-,('KRYQ333487GGU','Lisette','Tucknutt','Buye','Avenida Revolución',43534,6292,'Xochimilco','Quintana Roo','2012-08-20','2023-10-18','1992-02-27','Hombre',2523.6,'Dermatología')
-,('QEBO569784M86','Quintina','Alexsandrov','Chapiro','Calle 5 de Mayo',0751,6,'Nápoles','Sinaloa','2010-11-05','2023-02-02','1983-05-16','Hombre',8077.46,'Neurología')
-,('QNMT1540177JP','Gallard','Iacoboni','Bert','Avenida Juarez',76478,5382,'Escandón','Baja California','2016-08-07','2023-04-30','2020-08-23','Hombre',8447.25,'Nutrición')
-,('TDLM273276R26','Pepe','Kleanthous','Haddeston','Calle Zaragoza',97,0,'Coyoacán','Chihuahua','2015-12-20','2023-02-25','2009-12-05','Mujer',4536.71,'Cardiología')
-,('AKUM945358HW4','Isobel','Cavil','Hambatch','Calle 5 de Mayo',05938,2,'Doctores','Zacatecas','2023-04-30','2023-10-09','2012-06-05','Hombre',6087.47,'Rehabilitación')
-,('NRHO208106HUY','Marjorie','Spurdens','Geldart','Boulevard Miguel Alemán',335,8,'Lindavista','Baja California','2017-08-07','2023-01-10','1994-04-05','Mujer',2676.2,'Cirugía')
-,('ZCZT8709446CL','Ottilie','Abbitt','Welfare','Calle Zaragoza',14042,88177,'Condesa','Tabasco','2012-11-06','2023-08-24','1987-11-10','Hombre',5134.33,'Oncología')
-,('EUJX277485CH9','Jeralee','Lawee','Lytle','Avenida Juarez',7,79158,'Tacubaya','Yucatan','2018-10-12','2023-05-29','2011-07-08','Mujer',5658.67,'Oftalmología')
-,('JISD362847D4P','Elora','Londer','Abrahmer','Avenida Revolución',082,0,'Pedregal','Jalisco','2014-12-10','2023-01-02','2011-05-05','Hombre',5495.14,'Oftalmología')
-,('PXEX053564VKG','Adolphe','Outlaw','Lenoir','Calle Zaragoza',1668,5,'San Rafael','Guerrero','2021-02-17','2022-11-09','1998-12-16','Hombre',5999.72,'Odontología')
-,('PXLJ584580G33','Nevins','Bau','Pietruszewicz','Avenida Juarez',03,17,'Coyoacán','San Luis Potosi','2015-10-20','2023-04-18','2016-12-07','No-binario',1249.32,'Endocrinología')
-,('EBNO72450580R','Darwin','Inglesfield','Ventham','Calle Hidalgo',6,61,'Narvarte','Tlaxcala','2021-03-31','2023-08-31','1989-04-16','Mujer',1803.12,'Endocrinología')
-,('UCGZ356246R9Y','Robbin','Garley','Jumonet','Calle Zaragoza',4698,6,'Narvarte','Nayarit','2012-05-11','2022-11-30','2015-09-07','No-binario',8853.04,'Odontología')
-,('QRZU494327BZA','Jsandye','Heersema','Quemby','Calle Hidalgo',44,345,'Chapultepec','Veracruz de Ignacio de la Llave','2020-12-03','2023-03-31','1990-02-18','No-binario',1443.1,'Rehabilitación')
-,('LMEN866905YYS','Devland','Remington','Burghill','Calle 5 de Mayo',364,45520,'Satélite','Colima','2017-04-13','2022-12-26','2012-07-25','Hombre',3595.76,'Nutrición')
-,('YQMZ86005221A','Bennett','Silversmid','Goward','Paseo de la Reforma',8,556,'Lindavista','Oaxaca','2018-05-30','2022-11-23','1991-06-22','No-binario',2825.29,'Cardiología')
-,('HBQL985035R74','Stacey','Mattioni','Gertray','Paseo de la Reforma',249,0,'Lindavista','Queretaro','2019-08-07','2023-09-19','1996-12-27','Mujer',8969.3,'Cirugía')
-,('TJNG005740F2W','Yorgos','Stutt','Ruselin','Avenida Juarez',16727,876,'Anzures','Ciudad de México','2021-06-17','2023-05-14','1991-07-26','Mujer',477.17,'Cirugía')
-,('TUFH951836SPA','Cynthie','Bonds','Robrose','Calle Zaragoza',1,0,'Mérida','Tlaxcala','2011-04-21','2023-09-29','2019-07-22','No-binario',3078.76,'Oncología')
-,('VTBR854072FDM','Bamby','Rydzynski','Toffolo','Avenida Revolución',7,7597,'Chapultepec','Tabasco','2021-09-17','2023-03-06','1991-01-14','Mujer',5410.24,'Dermatología')
-,('GNQM470207B3D','Rance','Hallybone','Courteney','Avenida Revolución',0435,1,'Playa del Carmen','Veracruz de Ignacio de la Llave','2020-02-14','2023-10-17','2008-05-15','Mujer',8395.04,'Rehabilitación')
-,('GJTX0630277XV','Stoddard','Barkley','Veale','Avenida Revolución',884,00,'Jardines del Pedregal','Puebla','2022-08-29','2023-07-07','1997-03-30','Hombre',6414.75,'Oftalmología')
-,('VGNP833979PXY','Jeanelle','Broadstock','Rosell','Boulevard Miguel Alemán',54775,0,'Tlatelolco','Tlaxcala','2022-09-28','2023-10-21','2019-07-06','Hombre',1059.74,'Nutrición')
-,('XRMA378461TF4','Ruddie','Strowther','Porte','Paseo de la Reforma',707,8,'Roma','Quintana Roo','2021-09-05','2023-03-13','2001-06-19','No-binario',7284.39,'Cirugía')
-,('DWXA452216C10','Laughton','Thumann','Pocke','Avenida Revolución',1616,805,'Napoles','Baja California Sur','2019-04-23','2022-12-17','2006-11-22','Mujer',7555.03,'Cardiología')
-,('MPHW361008M2D','Terra','Vane','Gentsch','Calle 5 de Mayo',15280,58,'Azcapotzalco','Tlaxcala','2015-08-17','2023-01-11','2007-01-21','No-binario',4414.74,'Neurología')
-,('UPZJ581846B7E','Dacie','Lehrer','Boykett','Avenida Juarez',295,15,'Lindavista','Durango','2018-12-15','2022-10-28','1994-07-23','Mujer',136.99,'Dermatología')
-,('BXST517530RQN','Adriaens','Rubinivitz','Kairns','Avenida Revolución',5,628,'Tacubaya','Guanajuato','2018-02-06','2022-11-28','2015-01-12','No-binario',992.12,'Odontología')
-,('RFLN338671I6C','Amory','Taft','Pesik','Avenida Juarez',0,236,'Polanco','Aguascalientes','2013-03-16','2023-09-20','1992-06-01','No-binario',7463.91,'Oftalmología')
-,('BUOX614458FHU','Fidelio','Blencoe','Le Frank','Calle Insurgentes',9,6,'Mérida','Puebla','2020-06-07','2023-05-16','2007-07-01','Hombre',7117.94,'Cirugía')
-,('LPGS076716DYC','Dru','Grishankov','Ragot','Paseo de los Tamarindos',9486,4252,'Satélite','Queretaro','2015-05-09','2023-01-09','1990-01-19','No-binario',7983.19,'Cirugía')
-,('ILHS742351EXC','Prudi','Scrauniage','Norbury','Boulevard Miguel Alemán',55669,3859,'Valle de Bravo','Ciudad de México','2016-08-23','2023-06-15','1999-08-09','Hombre',1583.19,'Dermatología')
-,('YGGT038076NEC','Junette','Lomasny','Yude','Calle Hidalgo',70788,18,'Condesa','Puebla','2017-12-19','2023-10-12','2019-11-01','No-binario',1331.39,'Rehabilitación')
-,('XXXJ011760FVE','Humphrey','Whitchurch','Whittenbury','Calle Hidalgo',25,6260,'Álvaro Obregón','Tabasco','2017-08-17','2023-07-06','2012-08-23','Hombre',5322.36,'Cirugía')
-,('WLFE398690PTQ','Robinet','Poltone','Casseldine','Calle Hidalgo',0,5401,'Satélite','Guerrero','2013-06-06','2022-12-31','2012-02-24','No-binario',8231.68,'Oftalmología')
-,('NWLA56030701F','Mehetabel','Heinsen','Manntschke','Calle Insurgentes',0864,4,'Roma','Campeche','2011-04-04','2023-05-16','1989-04-26','Mujer',7246.21,'Neurología')
-,('UAXN8334031VL','Gaby','Frend','McCullough','Calle Zaragoza',8,59,'Azcapotzalco','Coahuila de Zaragoza','2012-08-31','2022-11-03','1986-07-17','Hombre',685.82,'Dermatología')
-,('SBCY9653847QR','Meade','Langer','Joddens','Boulevard Miguel Alemán',1879,237,'San Miguel Chapultepec','San Luis Potosi','2016-07-06','2023-01-23','1994-03-06','Mujer',9036.83,'Endocrinología')
-,('ZMRW220910LV7','Winonah','Starling','Critcher','Calle Insurgentes',50446,68510,'Narvarte','Morelos','2010-10-29','2022-11-15','1991-10-28','Hombre',2289.67,'Endocrinología')
-,('TYBW2257951RE','Verina','Howgill','Marrill','Paseo de la Reforma',788,6562,'Satélite','Campeche','2013-05-12','2023-02-21','2006-04-22','Mujer',204.26,'Cardiología')
-,('YMGD583017KEG','Burtie','De Bell','Feake','Paseo de la Reforma',530,38128,'San Ángel','Durango','2020-03-23','2023-09-08','2002-08-19','Mujer',7734.66,'Dermatología')
-,('JHSY91169560F','Twila','Esland','Gisbey','Avenida Revolución',8496,369,'Álamos','Quintana Roo','2018-07-25','2023-01-08','1989-11-20','No-binario',7377.0,'Neurología')
-,('IFAZ205957W0H','Miles','Wederell','Swaffield','Avenida Constitución',82,69558,'Anzures','Baja California Sur','2015-09-20','2023-10-16','1981-09-25','Hombre',5054.51,'Oftalmología')
-,('VCRH160003Z4M','Bill','Carling','Mughal','Avenida Constitución',799,344,'Santa Cruz Atoyac','Nuevo Leon','2021-06-02','2023-02-19','2005-12-31','Hombre',7365.08,'Rehabilitación')
-,('JWNN647118BIC','Abra','Semaine','Hembry','Paseo de los Tamarindos',35365,2,'Xochimilco','Tamaulipas','2016-04-23','2023-08-07','1992-02-24','Mujer',6809.9,'Odontología')
-,('YHZQ301227VJ6','Carina','Cottu','Muckloe','Paseo de los Tamarindos',43396,69635,'Doctores','Zacatecas','2018-08-21','2022-10-31','2011-09-15','Mujer',7514.49,'Odontología')
-,('HELR605139GE3','Hallsy','Goatcher','Bradder','Avenida Juarez',14,5,'Nápoles','Yucatan','2021-02-19','2022-11-06','1994-12-01','Mujer',130.17,'Nutrición')
-,('DBLV064082QIS','Jemmy','Streetfield','Carlino','Calle Hidalgo',9,2,'Azcapotzalco','Baja California Sur','2013-11-10','2023-02-27','2009-09-10','Mujer',413.85,'Neurología')
-,('ZRLU934114S9V','Opaline','Searjeant','Tiltman','Paseo de la Reforma',80,7,'Cancún','Coahuila de Zaragoza','2015-03-13','2023-04-11','2018-10-23','No-binario',1409.88,'Endocrinología')
-,('WYXU054277BGX','Larisa','Caulier','Gillott','Avenida Revolución',6170,3027,'Santa Fe','Morelos','2013-07-20','2022-11-26','1998-05-04','No-binario',1151.99,'Oncología')
-,('EEEF700160AVL','Eugenio','Shernock','Coogan','Calle Hidalgo',45800,13,'Narvarte','Tamaulipas','2020-07-17','2023-02-21','2019-06-13','Hombre',4087.76,'Rehabilitación')
-,('XJFJ510770Q2B','Evy','Keets','Berecloth','Avenida Constitución',02,11934,'Roma','Queretaro','2013-12-08','2023-08-17','2007-12-02','Hombre',8329.0,'Neurología')
-,('ALRZ228743AP3','Eric','Corse','Twigge','Paseo de los Tamarindos',3654,5457,'San Pedro de los Pinos','Durango','2018-09-24','2023-09-07','2013-10-20','No-binario',9456.27,'Cardiología')
-,('ANBP954201AL2','Noellyn','Yglesias','Southouse','Calle 5 de Mayo',6727,53960,'Anzures','Puebla','2013-11-05','2022-11-22','1989-08-18','Mujer',4668.88,'Odontología')
-,('TUNK983198COE','Hillier','Sparkes','Kemston','Calle Hidalgo',54,47,'Del Valle','Nayarit','2021-06-05','2023-08-10','1983-11-22','No-binario',2461.59,'Cirugía')
-,('IXCD833055R1Q','Darbee','Souster','Harman','Calle 5 de Mayo',3,8,'San Rafael','Veracruz de Ignacio de la Llave','2016-09-02','2023-04-28','2001-03-24','Mujer',5381.0,'Oncología')
-,('BBZC487714N4I','Effie','Pitchford','Bordes','Avenida Constitución',55036,262,'Roma','Chiapas','2014-10-09','2023-02-14','1985-03-08','Mujer',5308.58,'Endocrinología')
-,('SIBK494195DH7','Dietrich','Lethem','Laffoley-Lane','Avenida Constitución',14,6388,'Polanco','Morelos','2017-12-23','2023-01-02','1986-02-06','Mujer',3652.56,'Rehabilitación')
-,('JMAS6811106UT','Bobina','Lief','Matveichev','Calle 5 de Mayo',8,406,'Cancún','Baja California','2013-03-06','2023-05-12','2002-05-20','No-binario',3317.37,'Neurología')
-,('ERJQ15372169T','Sophi','Breche','Fairn','Calle 5 de Mayo',5137,8,'Santa Fe','Zacatecas','2015-03-03','2023-09-09','1986-02-28','Hombre',5629.48,'Nutrición')
-,('HELO803878SQ6','Liv','Romanet','Rossbrooke','Calle Hidalgo',053,5,'Del Valle','Baja California','2012-03-16','2023-07-07','2001-03-18','Hombre',4826.48,'Nutrición')
-,('JYMT5790145YR','Bella','Skrzynski','Yockley','Avenida Juarez',3251,07,'Mixcoac','Campeche','2015-08-18','2022-11-06','2011-03-14','Hombre',9290.26,'Odontología')
-,('JUHA704684OKI','Tom','Christian','Troake','Avenida Constitución',027,744,'San Pedro de los Pinos','Baja California','2021-06-07','2023-06-03','2001-01-09','No-binario',2875.01,'Oncología')
-,('KKEY640059XBY','Felicle','De Ruggiero','Arman','Paseo de los Tamarindos',3886,29862,'San Rafael','Chiapas','2013-03-02','2023-03-10','2019-01-24','No-binario',4622.47,'Dermatología')
-,('ZFLW797464AXH','Willi','Judd','Doddrell','Calle 5 de Mayo',5627,16,'Lindavista','San Luis Potosi','2016-10-15','2023-04-21','1987-04-25','Mujer',882.07,'Odontología')
-,('OFVC156106N17','Levi','Drewson','Peer','Calle Insurgentes',46,21241,'Playa del Carmen','Chiapas','2013-08-23','2023-04-07','1982-01-06','Mujer',6703.0,'Nutrición')
-,('CXYK468076UU8','Carlyle','Pegg','Caney','Calle 5 de Mayo',287,081,'Tlatelolco','Baja California Sur','2016-09-07','2023-02-03','2019-01-03','No-binario',7113.39,'Cardiología')
-,('LQVQ0260757FP','Angelika','Celloni','Scutts','Calle Insurgentes',8296,07,'Mixcoac','Jalisco','2018-08-30','2023-04-20','2013-06-03','No-binario',1491.93,'Nutrición')
-,('FXBG501927ZF6','Sherrie','Drew-Clifton','Haysey','Avenida Constitución',628,1,'Tacubaya','México','2022-11-29','2023-01-25','2014-07-26','Mujer',423.17,'Oncología')
-,('VUDS97392515C','Julie','Shildrake','Clayworth','Paseo de los Tamarindos',7484,9746,'Mixcoac','Coahuila de Zaragoza','2020-05-26','2023-03-24','1994-10-17','Mujer',3593.55,'Endocrinología')
-,('XAYI696737QIS','Jamaal','Glyssanne','McCloid','Avenida Juarez',416,747,'Juárez','Oaxaca','2018-09-06','2023-09-25','1994-07-26','Hombre',2753.22,'Oncología')
-,('MOBJ56495927A','Indira','Friatt','Marien','Avenida Revolución',36,1586,'Santa Fe','Baja California','2015-10-22','2023-03-28','2021-09-11','Hombre',9721.45,'Rehabilitación')
-,('DLTT246226XDU','Cherilyn','Towse','Curner','Avenida Constitución',4297,7526,'Lindavista','México','2022-12-06','2023-09-18','1990-02-13','Hombre',8164.0,'Endocrinología')
-,('YCBF026611WJD','Maribeth','O''Day','Vlasov','Calle Zaragoza',512,62,'Coyoacán','Sonora','2022-08-11','2023-06-24','2017-11-05','Mujer',8924.52,'Dermatología')
-,('BKRV525025577','Leonelle','Voelker','Bilney','Calle 5 de Mayo',68,664,'Tepoztlán','Quintana Roo','2014-08-16','2023-04-26','1985-09-30','Hombre',6822.18,'Endocrinología')
-,('CWLW146571WHP','Mufi','Dawkins','Kinglesyd','Calle Zaragoza',26851,8,'Azcapotzalco','Quintana Roo','2011-01-10','2023-01-22','2010-04-09','No-binario',9344.83,'Neurología')
-,('DRKN382427GIB','Jephthah','Tallboy','Ellcock','Paseo de la Reforma',6,57559,'Chapultepec','Baja California Sur','2019-08-27','2023-10-08','2001-09-02','No-binario',710.99,'Rehabilitación')
-,('JONH2533343GA','Fiorenze','Bodicam','Fletcher','Avenida Juarez',11122,2664,'Del Valle','Baja California','2023-01-13','2023-06-16','1983-09-01','No-binario',208.31,'Odontología')
-,('BRZR5700726GD','Prinz','Sperski','Driver','Avenida Revolución',1,137,'Santa Cruz Atoyac','Tamaulipas','2013-08-01','2022-11-07','1984-07-05','No-binario',5819.54,'Neurología')
-,('QSKT490831AT7','Melvin','Haslen','Heister','Avenida Constitución',90912,5138,'Nápoles','Coahuila de Zaragoza','2014-07-27','2023-02-16','2000-01-18','No-binario',1081.0,'Odontología')
-,('YBEU568376WAZ','Lemmy','Lambdin','Simone','Boulevard Miguel Alemán',406,528,'San Jerónimo','México','2016-12-04','2023-06-11','2006-01-08','No-binario',691.7,'Rehabilitación')
-,('FNGH1813382TA','Terese','Steedman','Toombes','Avenida Constitución',0,62,'Chapultepec','Coahuila de Zaragoza','2016-05-22','2023-06-22','2021-06-18','No-binario',4157.68,'Oncología')
-,('THBN5921693VS','Ameline','Whitfield','Bazell','Calle Hidalgo',0,3,'Del Valle','Ciudad de México','2013-02-25','2022-12-11','2012-06-08','Hombre',1211.83,'Oftalmología')
-,('RMUJ022891ZRA','Gauthier','Midford','Matessian','Calle Insurgentes',59539,1,'Lindavista','Campeche','2016-05-16','2023-05-14','2012-02-25','Mujer',1025.34,'Dermatología')
-,('VICV949794IW8','Garvy','Northage','Carnell','Paseo de los Tamarindos',4,5,'Lindavista','Aguascalientes','2021-12-02','2023-06-25','2002-08-25','Hombre',111.5,'Rehabilitación')
-,('IALH2068114KG','Felike','Iddon','Ghirardi','Calle Hidalgo',49530,17,'Escandón','Morelos','2018-12-23','2022-11-25','2003-08-01','Mujer',1449.9,'Odontología')
-,('HULI912746QCU','Collette','Robben','Champney','Avenida Revolución',333,1707,'Tlatelolco','Colima','2020-05-09','2023-05-04','1985-05-07','Mujer',2971.65,'Oftalmología')
-,('AJKQ554950QOY','Denice','Hansmann','O''Hearn','Avenida Juarez',8,43381,'Granjas México','Jalisco','2012-07-11','2023-05-18','1997-09-01','Hombre',914.57,'Cirugía')
-,('HNEJ073494HW6','Brent','Advani','Jerson','Calle Zaragoza',95137,827,'Jardines del Pedregal','Coahuila de Zaragoza','2016-12-28','2023-02-17','1997-09-06','No-binario',8574.42,'Endocrinología')
-,('UEOU80436495I','Vincents','Revell','Neads','Avenida Constitución',00,47,'Condesa','Tlaxcala','2018-09-30','2023-09-21','2021-10-11','No-binario',7690.12,'Dermatología')
-,('VKAC622056GI7','Eugen','Hammersley','Bellsham','Paseo de los Tamarindos',70,733,'Portales','Tabasco','2018-10-27','2023-09-11','2015-05-20','No-binario',2727.18,'Nutrición')
-,('TPRL4516096S5','Oby','Cardoo','Flewitt','Paseo de la Reforma',8291,62294,'Xalapa','Guerrero','2018-12-04','2023-07-13','2004-12-13','Hombre',630.81,'Nutrición')
-,('XMIY8712007FJ','Neala','Whellans','Sheards','Calle Zaragoza',01,9580,'Mixcoac','Campeche','2015-04-14','2023-02-14','2016-02-08','Mujer',6163.39,'Rehabilitación')
-,('AVGK255268VXZ','Jeffy','Reaper','Tortis','Calle 5 de Mayo',74304,02,'Lindavista','Campeche','2023-09-09','2023-07-11','1992-05-07','Hombre',1881.6,'Cirugía')
-,('HERS4640639B4','Weylin','Segrave','Goady','Avenida Constitución',4,6725,'Santa María la Ribera','Colima','2020-10-29','2023-07-08','2013-10-07','Mujer',4655.33,'Cirugía')
-,('SDFP356522JFT','Eleonora','Lune','Pauls','Avenida Revolución',56801,1393,'Portales','Baja California','2019-06-24','2023-01-17','1982-02-08','Mujer',9554.45,'Oftalmología')
-,('PEHB159187PZB','Mildrid','Ewers','Moulsdall','Avenida Revolución',754,166,'Lindavista','Quintana Roo','2016-06-20','2023-05-31','2003-09-19','Hombre',8295.57,'Nutrición')
-,('GRRJ302292KDQ','Davie','Grugerr','Thorrold','Calle Insurgentes',95,75,'Xalapa','Baja California Sur','2021-07-02','2022-11-29','2021-08-03','Hombre',131.94,'Nutrición')
-,('QIJK816166V1N','Skippy','Dominy','Plail','Boulevard Miguel Alemán',225,334,'Reforma','México','2019-08-03','2023-10-06','2000-11-18','Mujer',2443.74,'Oftalmología')
-,('YBKY400405KGI','Ericha','Rooksby','Mantha','Calle Insurgentes',6,9,'San Miguel Chapultepec','Aguascalientes','2021-06-11','2022-12-09','2017-05-08','No-binario',2909.73,'Dermatología')
-,('MSUH812251EBZ','Libby','Capaldi','Caraher','Paseo de la Reforma',5139,3792,'Tepoztlán','Veracruz de Ignacio de la Llave','2014-04-23','2023-06-26','2019-08-26','No-binario',2189.79,'Nutrición')
-,('NDVF920177ANO','Marya','Clayill','Hitcham','Calle Insurgentes',308,47912,'Napoles','Guerrero','2013-07-07','2023-02-14','2008-02-01','Hombre',1483.01,'Rehabilitación')
-,('QTNO606502YJ3','Erskine','Spataro','Niave','Avenida Revolución',5677,0178,'Lindavista','Michoacán','2011-01-10','2022-12-14','1991-09-28','No-binario',4638.39,'Odontología')
-,('TQHZ153813SIH','Cary','Mort','MacRinn','Calle 5 de Mayo',0,6866,'San Ángel','Queretaro','2020-06-27','2022-12-30','1994-03-07','Hombre',5834.98,'Oncología')
-,('ZXIJ26034859I','Kameko','Sallnow','Allsopp','Paseo de los Tamarindos',89,1083,'San Ángel','Hidalgo','2022-07-05','2023-01-03','1987-01-07','No-binario',6655.64,'Rehabilitación')
-,('QLJK7800692YN','Crosby','Bettley','Malyon','Calle Zaragoza',1,367,'Tlalpan','Oaxaca','2022-09-02','2023-04-05','1981-07-07','No-binario',7889.05,'Endocrinología')
-,('QHNI2087933O9','Ives','Buist','Renols','Avenida Juarez',5027,8760,'Xochimilco','Baja California','2022-09-25','2022-12-19','2016-05-23','Hombre',8888.19,'Cirugía')
-,('FVNY82916528B','Eolande','Muzzini','Housin','Avenida Revolución',4014,1941,'Santa Cruz Atoyac','Campeche','2016-04-27','2023-06-01','1986-12-21','Hombre',6496.88,'Cardiología')
-,('CPRC9959244ZX','Joyce','Cano','Melling','Boulevard Miguel Alemán',72231,53,'Nápoles','Sonora','2016-04-24','2023-07-14','1994-12-19','Hombre',9948.22,'Dermatología')
-,('QWPO820280VAY','Krishna','Ubee','Huntar','Calle Insurgentes',4377,0307,'San Ángel','Campeche','2017-03-14','2023-04-03','2004-10-06','Mujer',5272.08,'Cirugía')
-,('PJUN306811EPT','Cristie','Gerber','Hasnney','Avenida Constitución',5918,09,'Anzures','Campeche','2022-08-06','2023-06-25','2019-07-21','No-binario',809.54,'Odontología')
-,('MLGT547632G0T','Britt','Shaxby','Daintier','Calle Insurgentes',0373,10110,'Condesa','Oaxaca','2012-04-28','2023-09-21','1994-04-26','Hombre',8172.35,'Rehabilitación')
-,('UGJM51344910I','Derry','Breslauer','Gallone','Calle Hidalgo',94276,38545,'Mixcoac','Baja California','2015-10-23','2023-05-21','1982-01-04','No-binario',2854.75,'Oftalmología')
-,('WUFA281067S3U','Essie','Kedge','Tamas','Calle Zaragoza',0965,8858,'Santa Fe','Queretaro','2023-01-22','2023-05-18','2000-04-20','Hombre',284.43,'Rehabilitación')
-,('DEEJ995196NTY','Georgy','Giacopetti','Shewry','Avenida Revolución',83058,5491,'Reforma','Queretaro','2015-05-10','2023-03-09','1994-05-20','Mujer',5794.71,'Oftalmología')
-,('OIUU8849376N7','Lynea','Deeson','Borges','Calle Insurgentes',3252,0453,'Lindavista','San Luis Potosi','2013-07-25','2022-10-27','2005-01-11','Mujer',5216.46,'Rehabilitación')
-,('GBKG927853O72','Raffaello','Lattey','Syphas','Paseo de la Reforma',920,16520,'Reforma','Hidalgo','2017-11-03','2023-04-28','2002-06-27','Mujer',5369.51,'Odontología')
-,('AMDY214255FRL','Randi','Gross','Murname','Paseo de los Tamarindos',5086,017,'Polanco','Veracruz de Ignacio de la Llave','2020-06-06','2023-09-29','2016-07-19','Hombre',2294.49,'Rehabilitación')
-,('BJZH039963TTW','De','Dolle','Baniard','Calle 5 de Mayo',80,92,'Napoles','Sonora','2014-04-10','2023-09-23','2009-02-28','Hombre',5064.92,'Endocrinología')
-,('BROK561800F05','Abbot','Everly','Thackham','Paseo de los Tamarindos',00161,221,'Mixcoac','Ciudad de México','2012-01-01','2023-08-13','2019-08-15','Hombre',8667.22,'Nutrición')
-,('ETZR4891584OS','Nolan','Brim','Chaloner','Avenida Juarez',995,27,'Satélite','Tlaxcala','2013-07-14','2023-06-16','2022-01-01','Hombre',7602.43,'Rehabilitación')
-,('JVPQ014862A16','Francis','Solan','Sibbit','Avenida Revolución',06889,981,'Escandón','Tabasco','2021-12-02','2023-06-15','1983-12-14','No-binario',8827.0,'Dermatología')
-,('TBKB931272IR0','Jennie','Haslehurst','Le Huquet','Boulevard Miguel Alemán',3,674,'Álamos','Sinaloa','2020-10-10','2023-02-21','2012-10-08','Hombre',4191.79,'Odontología')
-,('JWGI480468WQL','Margaretha','Denford','Shelmerdine','Calle Zaragoza',5672,76,'Álamos','Colima','2012-05-29','2023-03-15','1997-10-31','Hombre',8389.92,'Cirugía')
-,('QXFB672748YDJ','Raddie','Lube','Bollen','Calle Zaragoza',7,2422,'Polanco','Ciudad de México','2014-06-15','2022-11-13','1995-07-03','No-binario',7023.6,'Endocrinología')
-,('MEAT603240Z7C','Gris','Flay','Bhatia','Avenida Constitución',70,895,'Nápoles','Queretaro','2015-06-16','2023-07-07','2010-01-01','No-binario',2107.78,'Cirugía')
-,('IQFO560570Y83','Demetris','Rivitt','Dumberell','Paseo de los Tamarindos',7,3,'Napoles','Ciudad de México','2019-04-10','2022-11-18','2021-11-26','Mujer',1539.35,'Nutrición')
-,('WUMD870936M1Q','Cornie','Ley','Pocknell','Avenida Juarez',3,8,'Álamos','Jalisco','2014-08-08','2022-11-02','1999-03-13','Mujer',4674.15,'Endocrinología')
-,('ZSYU545714K57','Tobit','McKennan','Deschlein','Avenida Revolución',33177,5217,'Cancún','Queretaro','2019-12-14','2022-10-31','1985-11-10','Hombre',8184.41,'Neurología')
-,('ACKU4696755OB','Winnie','Delamere','Benedicto','Paseo de la Reforma',4337,81,'Azcapotzalco','Chiapas','2019-04-29','2023-09-30','1987-08-15','No-binario',3359.17,'Rehabilitación')
-,('CGSQ403202W9R','Onida','Blagburn','Tremblay','Calle Insurgentes',58,25419,'Xochimilco','Yucatan','2017-04-25','2023-02-06','2016-11-01','Mujer',9935.91,'Dermatología')
-,('UXDZ4664852V3','Malynda','Yakunchikov','Klinck','Calle Zaragoza',0,35585,'Valle de Bravo','México','2013-12-02','2023-01-02','2005-07-31','No-binario',9172.05,'Rehabilitación')
-,('EBMM1649199I7','Billye','MacSherry','Snodden','Boulevard Miguel Alemán',592,6174,'San Pedro de los Pinos','Michoacán','2021-11-11','2023-07-05','2015-10-02','Mujer',8543.06,'Nutrición')
-,('XAXD861947UHZ','Blinni','Limpricht','Filippi','Boulevard Miguel Alemán',1,0095,'Álvaro Obregón','Tlaxcala','2012-09-06','2023-08-22','2002-08-06','No-binario',6512.12,'Odontología')
-,('WWKV425435D7L','Chalmers','Cathersides','Saller','Avenida Constitución',9891,737,'Granjas México','Baja California','2014-09-26','2023-01-11','2010-01-18','No-binario',5878.72,'Cirugía')
-,('EWUI861480M2L','Wilmette','Lanigan','Bromehead','Avenida Constitución',0,2,'Juárez','Tlaxcala','2017-12-20','2023-07-20','1993-12-03','Mujer',6609.18,'Neurología')
-,('QFWO928406RMV','Irena','Tremolieres','Welbeck','Avenida Juarez',185,86761,'Granjas México','Tlaxcala','2015-09-09','2022-10-31','2012-12-31','Hombre',3303.33,'Dermatología')
-,('ASEJ8302799K0','Filippo','Simonian','Sandiford','Boulevard Miguel Alemán',1,43,'Lindavista','Tlaxcala','2021-09-23','2023-03-25','2004-05-03','No-binario',6780.57,'Endocrinología')
-,('KTGT567062C9M','Antonetta','Weathey','Leek','Calle Insurgentes',465,99658,'Roma','Guanajuato','2015-06-22','2023-10-17','2009-02-14','Hombre',7005.67,'Nutrición')
-,('TXHK0012838J7','Hort','Brideau','Enric','Calle Insurgentes',40826,95,'Portales','Chiapas','2013-04-25','2023-10-15','1985-09-28','Mujer',6869.92,'Rehabilitación')
-,('TTWX146662K0P','Asher','Bramah','Newlan','Calle 5 de Mayo',88829,95,'Lindavista','Puebla','2018-12-04','2022-11-29','2004-01-02','Hombre',7029.01,'Cirugía')
-,('YTUU854633ETG','Nana','Rhoddie','Logsdail','Calle Insurgentes',0,60,'Mérida','Veracruz de Ignacio de la Llave','2015-04-13','2023-01-27','2018-07-02','No-binario',7899.92,'Oncología')
-,('QLAG5878771WV','Jarvis','Mapletoft','Maysor','Calle Insurgentes',29982,351,'Escandón','Chiapas','2013-03-04','2023-03-11','1994-06-08','Hombre',5254.35,'Cardiología')
-,('MIDQ035564UN3','Gamaliel','Alcido','Crumpe','Calle 5 de Mayo',6,6,'Polanco','Guerrero','2017-05-05','2023-04-24','2017-11-12','No-binario',6707.17,'Cirugía')
-,('EDTW038658JP9','Othella','Francescuccio','Stilwell','Paseo de la Reforma',6402,23,'Pedregal','Oaxaca','2011-08-29','2023-09-13','1984-11-19','Mujer',571.23,'Oftalmología')
-,('QGIJ418232IKE','Bailey','Jarred','Kidney','Calle Insurgentes',03461,7481,'Anzures','México','2021-01-23','2023-08-21','2014-12-29','Mujer',9646.71,'Endocrinología')
-,('TVYQ123073A8E','Brig','Cattle','Tydeman','Paseo de los Tamarindos',5759,2,'San Rafael','Sonora','2023-10-04','2023-03-11','2022-09-08','Hombre',4431.95,'Cirugía')
-,('IXAO155082S0X','Temp','Godsal','Hawksby','Avenida Revolución',681,2945,'Del Valle','Durango','2010-11-29','2022-11-15','2004-05-28','Hombre',9855.66,'Cardiología')
-,('MUII1802831NZ','Jules','Loadman','Karus','Calle Insurgentes',2,395,'San Pedro de los Pinos','Sonora','2020-06-01','2023-07-20','2005-11-20','No-binario',5334.08,'Rehabilitación')
-,('PKVO9091562IP','Fanni','Skelcher','Pickervance','Boulevard Miguel Alemán',9,5999,'Del Valle','San Luis Potosi','2014-06-09','2023-09-14','2015-08-26','Hombre',5191.52,'Endocrinología')
-,('SWZY380268SZG','Juline','Boole','Noads','Boulevard Miguel Alemán',14862,2,'Escandón','Yucatan','2015-12-01','2023-04-05','1999-11-20','No-binario',7438.97,'Neurología')
-,('ORBZ449786AW1','Bee','Matterface','Aikett','Avenida Juarez',4526,8,'Roma','Tlaxcala','2012-05-05','2023-06-07','1987-06-21','Mujer',8775.53,'Odontología')
-,('IXBK324541RII','Louisette','Walkden','Stadding','Calle Hidalgo',871,674,'Del Valle','Tabasco','2019-04-25','2023-01-28','1992-06-04','Hombre',1533.38,'Cirugía')
-,('JMTZ914760H4G','Camilla','Ruter','Drew','Calle Insurgentes',4,5772,'Mixcoac','Chihuahua','2015-03-08','2023-01-23','1989-03-11','Hombre',152.76,'Dermatología')
-,('KZZX386226KKR','Dennison','Langtry','Flahy','Avenida Constitución',599,6290,'Tulum','México','2014-08-14','2023-03-07','1999-09-16','No-binario',4236.87,'Nutrición')
-,('CVVW7520917QJ','Ailee','Pietri','Betz','Avenida Juarez',0706,3303,'Lindavista','Colima','2021-06-22','2023-03-26','2008-08-25','Hombre',7046.24,'Endocrinología')
-,('GWTJ858390CB8','Roxana','Hanniger','Carne','Avenida Juarez',3,3513,'Satélite','Chihuahua','2016-07-05','2023-03-23','2022-12-27','No-binario',547.19,'Cirugía')
-,('BLCR024862C5B','Goldia','Humfrey','Dillestone','Avenida Constitución',277,3,'Napoles','Quintana Roo','2021-03-15','2023-06-14','2011-01-16','Mujer',534.34,'Rehabilitación')
-,('IMWW580125BQD','Chrysler','Iori','Onn','Boulevard Miguel Alemán',6809,645,'Mérida','San Luis Potosi','2014-05-30','2023-06-22','1992-02-26','Hombre',5745.01,'Oncología')
-,('JPNC3986933XH','Timotheus','Trent','Schwerin','Calle Zaragoza',857,4,'Napoles','Puebla','2014-02-01','2023-10-15','1991-05-13','No-binario',7057.62,'Odontología')
-,('TGBB199192PJ9','Gretna','Skettles','Boullen','Calle Insurgentes',2,8238,'Tepoztlán','Campeche','2015-05-12','2023-01-19','2014-10-23','Hombre',7560.64,'Rehabilitación')
-,('VLUN275262V04','Shurlock','de''-Ancy Willis','Wroughton','Calle Zaragoza',449,836,'Narvarte','Ciudad de México','2022-01-03','2023-05-07','2001-07-04','Hombre',2619.77,'Oncología')
-,('ZBKC859799YEG','Gennie','Eastwood','Lewins','Paseo de la Reforma',6503,9399,'Tlatelolco','Colima','2018-04-09','2022-12-16','1985-02-04','Mujer',5438.52,'Odontología')
-,('NXGW560207MDM','Sherie','Evins','Alloisi','Avenida Juarez',1,08221,'Jardines del Pedregal','Sonora','2015-03-28','2023-07-23','2011-01-23','Hombre',5112.19,'Dermatología')
-,('ABAC819297XOZ','Omar','Child','Liles','Avenida Constitución',87,4,'Chapultepec','Morelos','2019-09-13','2023-01-10','1985-08-05','Hombre',7943.96,'Neurología')
-,('WPNF815048Q6H','Eloise','Dufer','Larvor','Paseo de los Tamarindos',71,2,'Mérida','Nayarit','2012-05-29','2023-04-04','2001-02-20','No-binario',7363.94,'Cirugía')
-,('FIYN366343H82','Kara','Peaple','Swyne','Calle Zaragoza',1719,3730,'Coyoacán','Coahuila de Zaragoza','2014-12-24','2023-09-08','1982-04-17','Hombre',6129.94,'Dermatología')
-,('QRAF925815GOO','Saidee','Merigeau','Hackinge','Boulevard Miguel Alemán',373,83,'Tlatelolco','San Luis Potosi','2014-07-09','2023-05-08','2004-04-09','Hombre',9535.24,'Nutrición')
-,('OFKJ471883JRI','Vere','Trivett','Speedin','Avenida Juarez',62145,31123,'Polanco','Ciudad de México','2015-06-29','2023-02-05','1989-12-13','Hombre',631.18,'Rehabilitación')
-,('HJCA855254459','Rodrick','Flay','Cundict','Boulevard Miguel Alemán',524,4575,'Juárez','Colima','2022-11-30','2023-04-02','2023-04-10','Mujer',9211.0,'Dermatología')
-,('EPAF51968984M','Margery','Abbate','Bolger','Calle 5 de Mayo',7,05200,'Condesa','Oaxaca','2017-05-14','2023-06-28','2004-08-06','Mujer',9726.56,'Rehabilitación')
-,('GMAV605213A4H','Katerine','Vincent','Grimbaldeston','Avenida Revolución',8,9007,'Tlatelolco','Baja California Sur','2011-05-27','2023-04-18','1992-08-14','No-binario',5532.78,'Odontología')
-,('YQRW368371YPH','Ellsworth','Grute','Capewell','Calle Hidalgo',4455,002,'Santa Cruz Atoyac','Baja California Sur','2023-02-26','2023-02-19','1998-05-04','No-binario',4648.93,'Cirugía')
-,('ARAQ721724O3Y','Brod','Fishwick','Poxson','Avenida Juarez',55,2,'Mérida','Puebla','2018-07-04','2023-07-19','1994-12-30','Hombre',54.74,'Neurología')
-,('GPVW716146VW5','Merle','Lampl','Head','Boulevard Miguel Alemán',99565,6912,'Valle de Bravo','Michoacán','2017-02-26','2023-02-02','2018-06-18','Mujer',1274.6,'Cardiología');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('GKBI031660A54','Germain','Caghy','Shaplin','Avenida Constitución',891,3,'Xochimilco','Puebla','2011-03-06','2023-03-03','1962-06-27','Mujer',8616.56,'Endocrinología');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('DCPL304984QOL','Chrisy','Letford','Kirsopp','Calle Zaragoza',11,60601,'Santa Fe','Tabasco','2013-12-20','2023-01-12','1988-09-20','Mujer',9560.86,'Cardiología');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('PGCC54126860L','Agnesse','Towll','Gudgion','Avenida Constitución',76,0905,'Granjas México','Sonora','2016-09-22','2023-09-26','1994-07-08','Mujer',8918.04,'Oftalmología');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('APTX9931192LJ','Karl','Lauga','Igo','Avenida Revolución',5461,3,'Xalapa','Quintana Roo','2020-12-18','2023-03-18','1992-11-11','Hombre',5984.11,'Cirugía');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('FZTX441413ZS8','Giusto','Stratford','Sheriff','Boulevard Miguel Alemán',4086,7159,'Napoles','Sinaloa','2012-04-07','2022-12-30','1963-02-03','Mujer',7906.39,'Dermatología');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('GZNB080437AXT','Conrad','Bradder','Stickney','Calle 5 de Mayo',3060,59,'Roma','Chihuahua','2013-01-06','2023-06-17','1999-01-16','Mujer',644.15,'Endocrinología');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('AATT966722NZG','Elli','Shimony','Beisley','Paseo de los Tamarindos',1,5804,'Tlalpan','Sonora','2019-04-21','2023-02-27','1999-02-18','No-binario',449.51,'Odontología');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('DGVO091266ZSW','Rickey','Gladtbach','Georger','Calle Zaragoza',5,1335,'Reforma','Hidalgo','2015-04-23','2022-12-24','1987-08-07','Hombre',5115.38,'Neurología');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('TBUJ5623783EG','Jerome','Lope','Roncelli','Calle Insurgentes',6970,865,'Nápoles','Oaxaca','2018-05-09','2023-05-14','1965-11-04','Mujer',170.53,'Oncología');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('OGZR6838126UF','Sabina','Sapsford','Sibbet','Paseo de la Reforma',33,4,'Santa María la Ribera','Zacatecas','2015-11-14','2022-11-06','1990-06-06','Hombre',3990.06,'Oftalmología');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('AVWE9048230QZ','Orin','Cordeau]','Daddow','Calle Insurgentes',6,858,'Napoles','Tlaxcala','2012-12-24','2022-12-22','1962-01-02','No-binario',088.3,'Neurología');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('GQFE056067W1R','Efrem','Brabbs','Wagnerin','Calle Zaragoza',0950,8,'Napoles','Nayarit','2015-02-08','2023-07-28','1975-03-31','No-binario',3959.69,'Nutrición');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('WNDS4903643Z8','Rozanna','Fairbrass','Richemond','Paseo de los Tamarindos',5,08,'Coyoacán','Tabasco','2023-10-08','2023-03-22','1991-12-08','No-binario',6167.59,'Nutrición');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('TPLF8147669A6','Aylmer','Skyppe','Orman','Calle Insurgentes',6955,9853,'Cancún','Michoacán','2011-05-17','2022-12-03','1993-08-22','Mujer',449.84,'Odontología');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('UFCX845761M23','Sharron','Lassell','Chatfield','Calle 5 de Mayo',6845,04,'Reforma','Colima','2021-10-18','2023-09-07','1974-10-23','No-binario',175.85,'Nutrición');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('IXBG253307B25','Ingamar','Sinclar','Commings','Boulevard Miguel Alemán',594,69,'Granjas México','Veracruz de Ignacio de la Llave','2013-10-24','2022-11-17','1966-06-30','Hombre',4577.37,'Rehabilitación');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('DIIB329353DGS','Patrizio','Shyram','Brewse','Avenida Constitución',44556,6559,'Chapultepec','Jalisco','2022-04-06','2023-10-22','1962-10-19','Mujer',8939.5,'Oftalmología');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('LULL740641R4S','Fanni','Wimbush','McQuaid','Calle Insurgentes',3884,0831,'Santa Cruz Atoyac','Nuevo Leon','2023-10-10','2023-07-05','1966-05-10','Mujer',4457.3,'Dermatología');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('ZFVS688825IQ8','Dacia','Bront','Drissell','Calle Insurgentes',905,7,'Nápoles','Campeche','2022-10-22','2023-05-16','1990-03-12','Hombre',878.89,'Nutrición');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('NGOC8795247LF','Ludwig','Hackworthy','Meake','Calle 5 de Mayo',304,665,'San Rafael','Queretaro','2021-09-19','2023-09-23','1987-04-01','Mujer',8189.3,'Oncología');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('RDYL9701948YB','Raven','Frissell','Resdale','Calle Insurgentes',89,54,'Nápoles','Nayarit','2021-10-03','2022-10-28','1990-07-16','Mujer',379.17,'Dermatología');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('MBEV2233678EA','Sergeant','Mathen','Shipston','Calle Insurgentes',23,700,'Pedregal','Tlaxcala','2013-05-02','2023-06-06','1971-08-19','No-binario',9974.4,'Rehabilitación');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('BJZH91387333T','Courtenay','Kinny','Effnert','Calle Zaragoza',191,333,'Pedregal','Baja California','2023-05-14','2023-07-14','1997-02-20','No-binario',349.67,'Rehabilitación');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('ESEN498092CVW','Roderigo','Caldairou','Dillestone','Calle Zaragoza',1,69,'Coyoacán','Jalisco','2021-10-05','2022-12-27','1990-02-20','Mujer',1397.93,'Cirugía');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('NCDM46044176K','Tova','Mandal','Frondt','Paseo de los Tamarindos',03,65487,'Coyoacán','San Luis Potosi','2014-06-07','2022-11-24','1961-08-14','Hombre',155.18,'Rehabilitación');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('GTUM640730AQN','Merilee','Sebrens','Gruczka','Avenida Juarez',6,8,'Jardines del Pedregal','Tamaulipas','2021-12-20','2022-10-27','1993-03-16','No-binario',5857.11,'Cardiología');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('HIQD671329DF1','Giana','Laphorn','Swallwell','Avenida Juarez',130,1,'Lindavista','Chihuahua','2014-12-26','2023-08-22','1997-04-07','Hombre',4333.11,'Rehabilitación');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('KHQA475726UUS','Bessie','Routhorn','Ridgway','Calle Zaragoza',7,630,'Escandón','Oaxaca','2014-09-18','2023-07-12','1969-02-24','Mujer',307.6,'Endocrinología');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('KDOT460950R4E','Gavin','Munson','Scheffel','Paseo de la Reforma',1556,8383,'Azcapotzalco','Colima','2023-04-14','2022-11-17','1969-02-10','Mujer',5946.06,'Nutrición');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('YQXR482735JUK','Kendricks','Macrae','Abadam','Paseo de los Tamarindos',96,1615,'Satélite','Tlaxcala','2019-05-26','2023-04-22','1991-07-23','Hombre',4645.69,'Cirugía');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('JKJE794882H37','Ronica','Jerschke','de Merida','Paseo de los Tamarindos',8196,7,'Santa Cruz Atoyac','Queretaro','2023-02-05','2023-07-31','1979-04-26','Hombre',5656.1,'Neurología');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('LTEL426831MRN','Alphonso','McBain','Pearl','Calle Zaragoza',8079,643,'Azcapotzalco','Michoacán','2020-02-23','2022-12-26','1985-07-07','Mujer',614.63,'Neurología');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('TEQB00534428U','Amelina','Infantino','Goaks','Paseo de la Reforma',51908,93,'Tacubaya','Chihuahua','2012-01-17','2023-05-07','1993-12-18','No-binario',8443.37,'Cardiología');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('PFPX322144LBA','Lenka','Lardge','Jeary','Boulevard Miguel Alemán',66,87,'Anzures','Zacatecas','2010-11-02','2023-02-01','1964-03-27','Mujer',430.0,'Oncología');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('IAWS867931QV6','Flemming','Swyre','Vallentin','Paseo de los Tamarindos',7584,953,'Portales','Tamaulipas','2011-12-13','2023-05-28','1985-07-05','Mujer',5650.73,'Cirugía');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('CDLK381498KEW','Chadwick','Slay','Calan','Calle Hidalgo',7,8,'Tepoztlán','Guerrero','2022-03-10','2023-10-08','1977-01-18','Mujer',6800.46,'Nutrición');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('MEKW707879QMB','Arlene','Coniff','Woodfine','Paseo de la Reforma',009,01798,'Chapultepec','Tabasco','2018-05-28','2023-06-30','1977-08-11','Hombre',1766.34,'Nutrición');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('GSXV3522704G9','Rich','McGuff','Van der Merwe','Paseo de la Reforma',4,30684,'Polanco','Veracruz de Ignacio de la Llave','2023-06-08','2023-07-04','1993-06-07','Hombre',6655.81,'Cardiología');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('PBUS707973FHQ','Emelina','Bocken','Lohan','Calle Zaragoza',4684,81,'Tacubaya','Guerrero','2015-07-01','2023-10-12','1999-05-19','No-binario',6176.14,'Neurología');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('QEBA348070I5K','Mario','Harpham','Bolingbroke','Calle 5 de Mayo',15,66541,'San Ángel','Morelos','2013-06-06','2023-03-10','1979-08-20','No-binario',970.9,'Oftalmología');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('NUIA642260ARR','Star','Conrath','Pittaway','Avenida Juarez',8,76,'Santa Fe','Quintana Roo','2019-11-17','2022-12-26','1966-09-12','Mujer',473.0,'Nutrición');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('LZAK835697MOK','Jasmine','Capey','Rathborne','Avenida Juarez',0185,8,'Lindavista','Coahuila de Zaragoza','2018-05-13','2023-02-22','1983-02-18','Hombre',7065.87,'Endocrinología');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('OIEZ208143UFH','Cesare','Gillinghams','Greatrakes','Calle Hidalgo',98,4,'Jardines del Pedregal','Coahuila de Zaragoza','2011-01-01','2023-01-08','1992-09-24','Hombre',396.4,'Cirugía');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('DLKA289412FSV','Emlynn','Hurl','Shrimpling','Paseo de la Reforma',3,7,'Santa María la Ribera','San Luis Potosi','2014-01-25','2023-06-21','1985-02-18','Hombre',4030.89,'Dermatología');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('HOHS8117304Z7','Emery','Duchant','Buckthought','Avenida Juarez',63145,8747,'Chapultepec','Tabasco','2015-09-11','2022-11-13','1962-10-10','Hombre',666.59,'Odontología');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('ECTE1249615NG','Rockey','Allbrook','Fricke','Paseo de la Reforma',7,47,'Tacubaya','Queretaro','2023-06-29','2023-10-21','1979-01-15','Hombre',698.87,'Odontología');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('CLGF33501683L','Jaquenette','Bourthouloume','Hardcastle','Calle Insurgentes',8176,63,'Polanco','Hidalgo','2015-06-01','2023-07-13','1965-05-25','No-binario',8470.47,'Endocrinología');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('MJFN046192WQJ','Natale','Kabsch','Shales','Avenida Constitución',36,1458,'Satélite','Baja California Sur','2014-01-10','2022-11-10','1963-11-30','No-binario',6546.46,'Endocrinología');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('UJXI649426IHS','Theo','Caso','Chaloner','Calle Hidalgo',156,3560,'San Jerónimo','Baja California','2017-11-05','2023-04-06','1983-10-09','No-binario',5130.57,'Rehabilitación');
+INSERT INTO Veterinario(RFCVeterinario,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,Salario,Especialidad) VALUES ('WFCD111828G6X','Sarajane','Strutley','Million','Calle Hidalgo',1,41,'Doctores','Jalisco','2013-12-05','2023-10-16','1991-10-18','Hombre',8313.6,'Oftalmología');
+
+
 
 -- Inserciones de Cuidador
 
-INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES
- ('TKWZ410210GLI',4,'Herminia','Bathurst','Sleightholm','Service',3012,8759,'Portales','Aguascalientes','2015-03-03','2024-10-07','1980-11-24','Mujer',4,'19:08',8552)
-,('OEBM085066E3X',7,'Danice','Ellar','Agate','Northland',65,3474,'Roma','Querétaro','2019-07-17','2023-06-20','1988-08-09','Hombre',4,'21:27',14226)
-,('BXRI722963HGC',2,'Garfield','Fullom','Abbatt','Caliangt',024,381,'Granjas México','Nuevo León','2013-07-21','2023-02-11','1993-10-14','Mujer',3,'5:18',7524)
-,('HEOK8294943S6',1,'Bernardina','Newe','MacLucais','Hanover',0,2417,'Anzures','Hidalgo','2015-06-16','2022-06-17','1998-12-11','Hombre',6,'8:42',10896)
-,('XCGF72344389R',5,'Vonni','Chiommienti','Dimblebee','Marcy',6,362,'Santa Cruz Atoyac','Guerrero','2015-04-24','2025-09-01','1994-05-01','Hombre',6,'16:39',10024)
-,('DMLC2227579WM',7,'Regina','Widdup','Forseith','Pepper Wood',0,478,'Reforma','Zacatecas','2016-09-22','2023-06-30','1988-06-10','Mujer',7,'21:40',8478)
-,('TJJK960183QL3',6,'Barr','Cothey','Hobbema','Browning',198,50043,'Lindavista','Guanajuato','2019-12-16','2024-11-22','1992-01-14','No-binario',5,'9:36',10448)
-,('SDKP8159914M1',7,'Jilleen','De Francisci','Maccaddie','Barnett',09,3329,'Mixcoac','Durango','2015-05-11','2023-12-24','1989-11-17','Mujer',5,'6:43',7003)
-,('AYWF554927489',4,'Harley','Brower','McAless','6th',1006,16487,'Napoles','México','2020-09-20','2023-11-21','1997-12-02','Mujer',4,'12:59',9671)
-,('PXFU0809547UO',3,'Frederigo','Withrop','Bottelstone','Grasskamp',561,0,'Valle de Bravo','Baja California Sur','2013-07-23','2022-02-19','1995-04-14','Mujer',7,'20:14',12744)
-,('ZYTJ465951RT2',3,'Irita','Grishmanov','Loisi','Schiller',43,6,'San Pedro de los Pinos','Baja California Sur','2018-01-21','2023-10-31','1985-12-02','No-binario',1,'18:45',12846)
-,('EALG485451S96',3,'Reynard','Brockley','Maryan','Reindahl',141,0,'Lindavista','Colima','2018-01-28','2022-03-12','1999-09-25','No-binario',4,'21:26',7590)
-,('OCCD504101EXA',3,'Wells','Entissle','Rennenbach','North',0772,4250,'Lindavista','Hidalgo','2012-11-07','2024-09-21','1995-01-16','No-binario',3,'8:45',14383)
-,('GTNP608197W90',4,'Guthrie','Iiannone','Jarret','Springs',8391,9,'Valle de Bravo','Aguascalientes','2020-06-07','2022-02-19','1988-08-19','Mujer',2,'7:02',7520)
-,('UAZC3756271ZS',3,'Brynne','Karpmann','Pernell','Namekagon',9678,36,'Portales','Morelos','2019-01-17','2022-06-16','1998-07-11','Hombre',2,'4:51',10068)
-,('QONC552199W6L',2,'Thekla','Regitz','Carnow','Stuart',71,48276,'Narvarte','Veracruz','2014-06-03','2025-03-04','1987-08-23','No-binario',3,'19:12',12714)
-,('XQMV5099953ZP',6,'Jsandye','Manolov','Westgate','Holy Cross',9384,319,'Santa Fe','Guerrero','2014-04-22','2025-04-30','1984-05-14','Hombre',5,'14:21',9816)
-,('BRCX59145884C',6,'Audy','Vedeniktov','MacPhaden','Welch',653,56,'Álamos','Guerrero','2018-10-06','2024-11-04','2002-10-01','Mujer',4,'18:12',11830)
-,('EOXD622145LG6',3,'Maurits','Crowden','Lennie','Clyde Gallagher',06051,404,'Reforma','Aguascalientes','2011-04-04','2022-03-30','1997-04-12','Hombre',4,'11:14',9485)
-,('GLIE568663XZX',1,'Chiquita','Hindes','Beaman','Leroy',011,5,'Narvarte','Tlaxcala','2019-12-19','2024-05-23','1995-03-12','Mujer',5,'20:00',11167)
-,('MOQX069777JEP',7,'Engelbert','Caunce','Banghe','Monterey',720,1,'Santa Fe','Guerrero','2013-09-11','2022-11-03','1993-03-18','Mujer',1,'12:59',7916)
-,('VCBT790511TMJ',4,'Brook','Mcasparan','Sterland','Sachtjen',9,0286,'Condesa','Baja California Sur','2017-02-23','2022-03-26','1993-02-10','No-binario',3,'10:38',8919)
-,('XFKU753048AZJ',3,'Lemuel','Boomes','Hazlegrove','Hansons',055,4350,'San Pedro de los Pinos','Zacatecas','2017-05-16','2024-04-25','1987-05-28','Hombre',4,'6:00',7152)
-,('VEJG393029JJS',3,'Yorker','Beston','Lankester','Havey',4,2,'Mérida','Coahuila','2011-12-24','2024-05-05','1997-12-27','Mujer',7,'9:51',14168)
-,('FDQI941053QLF',2,'Cherilyn','Barcke','Risso','Vermont',566,4172,'San Pedro de los Pinos','Tamaulipas','2014-02-04','2024-11-23','1985-10-21','No-binario',3,'4:20',7747)
-,('FSHS7236224L8',4,'Harlan','Graal','Jerzykiewicz','Johnson',5823,43,'San Jerónimo','Morelos','2011-07-02','2022-10-17','1991-12-25','Hombre',6,'16:16',12515)
-,('AAQJ881979RDA',5,'Beulah','Weekly','Laneham','Forest',4297,86,'San Ángel','Tlaxcala','2019-09-14','2024-06-07','1986-07-08','Mujer',6,'5:58',9051)
-,('FYTU8712589J1',5,'Kristi','Clarson','Frew','Crest Line',64,55659,'Del Valle','Campeche','2019-02-06','2022-04-17','1981-02-19','Hombre',6,'15:41',12417)
-,('TFRY657942E4D',1,'Gabriel','Grishakin','Bright','Dovetail',9,22548,'San Pedro de los Pinos','Tabasco','2017-12-18','2022-01-10','2000-07-03','Hombre',5,'14:35',10171)
-,('FDKK7110590C4',1,'Dill','Kilfedder','Chastenet','Manley',1955,88,'Tlatelolco','Sinaloa','2010-12-25','2022-08-22','1989-06-05','Mujer',2,'4:48',13559)
-,('CNSK105862UTS',5,'Briano','Surmeyer','Genner','Cottonwood',42,4488,'Granjas México','México','2013-05-16','2025-06-30','1987-10-05','No-binario',5,'20:34',7665)
-,('DOYC650573PU2',2,'Fleming','Quayle','Strowthers','Elka',460,2,'Tulum','Sinaloa','2013-10-15','2024-01-07','1992-08-03','No-binario',5,'5:55',14504)
-,('QWSH1579284BN',1,'Odey','Persian','Westcarr','Raven',089,433,'Azcapotzalco','Colima','2015-01-06','2022-06-07','1985-10-17','Hombre',2,'18:07',11513)
-,('DNIC965177IU4',1,'Cecile','Henrie','Massinger','Kennedy',87,607,'Lindavista','Veracruz','2015-10-22','2022-11-12','1984-06-16','Mujer',6,'6:56',9747)
-,('KXEQ856163Q3X',6,'Lay','Mirfield','Meric','Dennis',099,6349,'Polanco','Baja California Sur','2020-05-29','2023-03-12','1984-12-08','Hombre',2,'19:47',13726)
-,('OPGJ5311254EO',1,'Rabi','Dries','Noice','Comanche',76879,714,'Tlatelolco','Sinaloa','2019-05-28','2025-01-24','1988-12-05','Hombre',2,'8:15',10137)
-,('FYAV146368PP4',2,'Dona','Concannon','Jan','Briar Crest',0731,59,'Mérida','Guerrero','2016-08-24','2024-02-24','1982-06-18','Hombre',7,'4:46',10838)
-,('KGRC5135191H4',6,'Miof mela','Wigan','Walasik','Spenser',33334,9,'San Pedro de los Pinos','Tabasco','2016-03-29','2022-05-08','2000-11-06','Hombre',4,'21:35',12932)
-,('YTAJ505034XW5',7,'Ambrosi','Burras','Ghilks','Holy Cross',010,54339,'Álamos','Guanajuato','2013-01-25','2025-01-03','1997-02-09','Mujer',2,'15:06',11376)
-,('SBTC733006UZS',3,'Donielle','Devey','Halcro','Maywood',200,33816,'Álvaro Obregón','Campeche','2017-02-22','2024-06-12','1986-09-13','No-binario',2,'19:25',12933)
-,('QXDT778020FG3',6,'Chiquia','Ralphs','Lelande','Fordem',077,423,'Lindavista','México','2015-12-07','2022-12-01','1988-12-24','Mujer',1,'4:00',14632)
-,('UNOU651891JPL',1,'Ariela','Lints','Brandenburg','Aberg',224,5,'Coyoacán','Nuevo León','2019-06-12','2022-12-30','1985-09-30','No-binario',3,'10:51',11426)
-,('ZBPD0482404G0',3,'Herbie','Gerren','Jearum','Stephen',63,239,'Doctores','Chihuahua','2014-07-21','2024-03-02','2002-09-11','Mujer',3,'21:13',8514)
-,('KNHA4020345PT',4,'Leena','Reucastle','Renfield','4th',6623,71,'Chapultepec','Baja California Sur','2011-01-22','2022-12-14','1987-10-18','Hombre',6,'20:17',13142)
-,('AXTN2958766LT',3,'Keefer','Leonida','Fabbro','Sycamore',677,6,'Juárez','Tamaulipas','2012-08-07','2023-02-23','1987-04-02','Mujer',4,'10:11',10223)
-,('UQGO608960TXM',1,'Kirbie','Stennings','Giraldo','Atwood',649,79,'Juárez','Tabasco','2012-10-07','2025-08-05','1981-06-26','Hombre',5,'8:50',7513)
-,('PHQI8414694EH',3,'Sterne','Coldbathe','Barkworth','Paget',4395,024,'San Ángel','San Luis Potosí','2013-05-29','2024-06-21','1991-01-27','Mujer',7,'20:01',11661)
-,('ICDY541269D3Z',6,'Albertine','Sapson','Attiwill','Buhler',20419,10967,'Del Valle','Guanajuato','2013-12-08','2023-12-13','1983-10-12','No-binario',6,'18:48',11290)
-,('MFHG9004708FN',3,'Caresa','Slimme','Charville','Sommers',3069,2128,'Lindavista','Baja California Sur','2011-11-01','2024-11-17','1983-01-20','Mujer',5,'11:21',12035)
-,('UMFA168295BIB',5,'Luise','Pillans','Camilio','Sheridan',5,13,'Álvaro Obregón','Zacatecas','2012-12-25','2023-07-29','1997-12-27','Mujer',7,'8:29',12694)
-,('ACRR594380TWV',2,'Netta','Lagne','Pree','Manufacturers',33664,1,'Roma','Durango','2014-11-16','2025-04-12','1993-07-13','No-binario',6,'17:58',9146)
-,('RNJD3030156KZ',5,'Chrissy','Lamswood','Thorneloe','Dexter',8,1,'Mérida','Quintana Roo','2020-08-10','2023-11-23','1995-05-29','Mujer',7,'15:30',9036)
-,('YTFP807116QNA',1,'Diena','Wynter','McAuslene','Meadow Valley',46,36050,'Lindavista','Durango','2013-05-01','2024-03-08','1986-04-18','No-binario',6,'15:58',10127)
-,('DTMN3139243X3',5,'Liane','Read','Coucher','Eliot',31662,3654,'Tepoztlán','Guerrero','2017-09-18','2025-03-07','1987-02-23','No-binario',7,'14:01',10593)
-,('AZSM453565VG2',7,'Renata','Wellesley','Stoak','Johnson',6,23565,'Tlatelolco','Veracruz','2018-03-15','2024-03-04','2001-06-20','No-binario',6,'9:34',8770)
-,('XLGT503874LZD',1,'Grady','Essame','Lowdham','Florence',81474,66,'Reforma','Chihuahua','2018-03-21','2025-07-22','1999-11-13','Hombre',5,'13:06',10230)
-,('POGW472354DT5',1,'Manuel','Birchenough','Sinnatt','David',6300,102,'Tlatelolco','Oaxaca','2017-04-12','2025-02-27','1998-08-10','No-binario',2,'10:31',13535)
-,('GBFJ767246NCY',1,'Bradan','Lindwasser','Burnitt','Corry',03,0643,'Escandón','Guerrero','2013-11-23','2024-04-29','1981-10-18','No-binario',5,'8:52',10136)
-,('FDGJ2848288OK',4,'Rosemonde','Barker','Jeromson','Corscot',0689,83184,'Cuajimalpa','Chihuahua','2020-07-20','2024-11-02','1981-07-23','No-binario',7,'6:43',13593)
-,('EJYT4933837YG',2,'Maegan','Dowson','Mabbitt','4th',211,7706,'Escandón','Morelos','2013-01-03','2025-06-22','1984-09-26','Hombre',3,'4:02',8538)
-,('SNNW026293M6U',6,'Fidel','Westall','Walklate','Chive',06,502,'Polanco','Colima','2011-10-17','2025-09-03','1990-05-13','No-binario',5,'7:20',10263)
-,('OTDW364875P8R',3,'Allys','Arnaud','Masic','Pennsylvania',88140,13680,'Napoles','San Luis Potosí','2014-04-20','2024-12-23','1984-06-13','No-binario',7,'9:11',9255)
-,('BTZV558041DWP',6,'Auria','Capey','Ornils','Cardinal',9150,99154,'Tlatelolco','Sinaloa','2018-09-09','2024-05-14','1993-10-23','Mujer',4,'7:45',7310)
-,('UQLO554025FA7',3,'Emmott','Creasey','Kennagh','Garrison',95564,6,'Lindavista','México','2017-03-12','2025-04-13','1994-04-03','No-binario',4,'6:05',7443)
-,('GVLU3439611D0',1,'Antoinette','Kirstein','Gilsthorpe','Washington',431,20,'Polanco','Michoacán','2013-01-03','2023-12-04','2001-10-21','Mujer',5,'18:25',12936)
-,('CLFO435984JY3',5,'Berny','Dudley','McKenna','Ilene',2,3018,'Santa Cruz Atoyac','Guerrero','2012-07-11','2023-06-23','1982-02-12','Hombre',3,'13:40',13607)
-,('HXGE414533D5R',1,'Mina','Vequaud','Agates','Morrow',2505,34969,'Satélite','Baja California','2019-03-10','2023-02-17','1987-03-22','Mujer',7,'17:20',10837)
-,('CWUB1374838C9',3,'Merissa','Frowde','Ferber','Mandrake',6310,8,'San Jerónimo','Nuevo León','2015-06-16','2025-04-20','1997-12-21','Mujer',4,'21:38',11232)
-,('UKTL634329HWM',5,'Marybelle','Breedy','Felce','Park Meadow',95666,7106,'Tepoztlán','Baja California','2020-03-08','2023-03-09','1988-05-17','Hombre',7,'6:33',13558)
-,('BAFU546325051',7,'Nobe','Nijssen','Le - Count','Eastwood',2341,55,'Tepoztlán','Campeche','2016-02-19','2022-08-28','1986-11-15','Mujer',3,'16:06',14063)
-,('RGUN491471A40',4,'Briney','Djekic','Stanislaw','Rutledge',0151,2406,'Tulum','Querétaro','2017-11-21','2022-01-18','1986-02-01','Hombre',7,'5:18',9073)
-,('WNRS225607YYZ',4,'Allix','Eiler','Luscott','Westridge',2,9,'Granjas México','Baja California Sur','2012-05-30','2024-12-28','1991-01-22','Mujer',7,'20:46',11412)
-,('TACC321224ME8',6,'Nancie','Carrane','McGinly','Nova',20309,70,'Santa Fe','Chiapas','2015-01-28','2022-10-10','1986-02-09','Mujer',6,'17:58',13509)
-,('QPJM516328NH5',2,'Micaela','Curm','Wasteney','Northridge',8,67297,'Narvarte','Tabasco','2019-07-21','2025-10-06','1981-02-10','Hombre',2,'18:49',13369)
-,('VTUW742740N7X',7,'Jacki','Sugden','Jeromson','South',7,31276,'Tlalpan','Colima','2011-04-09','2025-04-09','1988-05-01','No-binario',7,'13:19',7831)
-,('OXVV7119955GO',7,'Ceciley','Bonallick','MacGiany','Delladonna',7135,6655,'San Pedro de los Pinos','Puebla','2019-06-21','2022-08-29','1996-05-08','No-binario',6,'15:11',8314)
-,('ZCKW2338457TP',1,'Birgitta','Kelbie','Wort','Monument',5,390,'Mérida','Tlaxcala','2018-07-02','2024-05-13','1995-12-24','No-binario',1,'17:36',12595)
-,('CXAK696628663',1,'Eberhard','Cummings','Nutter','Shasta',076,08,'Narvarte','Tlaxcala','2012-11-30','2023-12-12','2000-03-29','Mujer',7,'14:54',10108)
-,('KSIN516790U8Q',2,'Rance','Nind','Stockow','Ludington',55,4383,'Narvarte','Tabasco','2016-06-01','2022-05-07','1982-06-03','No-binario',6,'18:31',12060)
-,('MSIG773747LCN',1,'Lotte','Dansie','Leworthy','Granby',9,713,'Tlalpan','Yucatán','2017-03-10','2024-07-22','1983-09-13','Hombre',6,'6:45',12578)
-,('TVXK299314AGT',6,'Elli','Fallowes','Leeming','Portage',8,169,'San Miguel Chapultepec','Quintana Roo','2012-09-20','2024-10-23','1983-02-13','Mujer',3,'16:16',13557)
-,('RDMF9633182TS',1,'Arvy','Anchor','Axup','Sommers',76076,230,'Satélite','Quintana Roo','2020-01-01','2024-09-02','1981-06-21','Hombre',4,'12:53',14548)
-,('ALHK2388781IO',4,'Jacquie','Pettingall','Hairyes','Mallard',7,88910,'Nápoles','Sonora','2017-12-05','2023-11-22','1982-07-15','No-binario',7,'18:16',10735)
-,('KKNW118244SOF',7,'Maegan','Gittis','Arsey','Pankratz',48,0,'Lindavista','Baja California Sur','2019-03-01','2023-11-20','1997-10-09','Mujer',6,'10:54',13640)
-,('KUEB853669X1P',3,'Quinn','Howell','Rego','Arkansas',672,27,'Del Valle','Tamaulipas','2018-01-02','2024-10-09','1987-10-31','Hombre',7,'17:32',13801)
-,('MRKF903772IAS',2,'Denny','O''Currigan','Syrad','Di Loreto',07328,2223,'Escandón','Nayarit','2020-06-20','2023-03-18','1991-05-18','No-binario',2,'17:43',12734)
-,('HGDO901803QWN',1,'Isadore','Milington','Janicki','Union',28745,867,'Escandón','Yucatán','2020-05-26','2023-03-04','1986-09-25','Hombre',5,'6:10',12225)
-,('TNAA537081T7Y',4,'Reagan','Kidston','Demke','Warner',25,0232,'Valle de Bravo','Nayarit','2020-09-19','2025-07-15','1981-06-26','Mujer',1,'8:29',7675)
-,('ZXLC671233ZAI',6,'Far','McCaughey','Arrowsmith','Logan',13,6178,'Polanco','Michoacán','2017-11-10','2024-07-12','2002-05-14','Mujer',7,'16:52',9867)
-,('XNQC792286VWD',6,'Ely','Baynon','Coltherd','Swallow',001,8389,'Lindavista','Coahuila','2015-06-16','2022-06-11','1983-10-01','No-binario',3,'9:28',10631)
-,('QXUK567588DM1',1,'Avram','Aleevy','Maccrae','Briar Crest',6927,110,'Napoles','Zacatecas','2016-10-16','2022-04-10','1990-11-10','Mujer',7,'7:15',10054)
-,('VFGL674413OGJ',3,'Juana','Drivers','O''Shesnan','Pleasure',84,3,'Cuajimalpa','Michoacán','2013-06-29','2022-07-18','1985-07-25','Hombre',6,'7:57',9836)
-,('YNUA956816S41',7,'Terrence','Shearme','Cusworth','Basil',73,1,'Álamos','Tlaxcala','2011-12-19','2025-03-30','1983-01-15','No-binario',6,'7:25',14020)
-,('BOKN0818498ID',7,'Geneva','Layson','Plesing','Holmberg',2938,83,'Tepoztlán','Jalisco','2015-09-21','2024-03-11','1981-08-29','Hombre',2,'15:39',10213)
-,('GXJS971616DP4',6,'Cyrille','Fairebrother','O''Flannery','Declaration',4,85,'Polanco','Aguascalientes','2015-08-20','2025-06-18','1981-01-12','Hombre',7,'20:41',9150)
-,('DYFP734488ICY',7,'Barnabas','Gedney','Bramont','Monica',797,97,'Mérida','México','2011-09-18','2022-08-19','1994-06-07','No-binario',7,'17:04',11725)
-,('KVOF534574PL2',4,'Berkly','Crebbin','Dislee','Glacier Hill',55,43447,'Satélite','Querétaro','2011-12-02','2024-12-04','1980-12-24','Hombre',3,'17:44',10271)
-,('KYJT366820W7J',7,'Carver','Clother','Mailes','Derek',46,69,'Álamos','Tlaxcala','2018-07-29','2022-07-21','1998-02-05','Mujer',3,'19:40',12057)
-,('RQZL350354DPA',2,'Lenore','Kuhlen','Heinschke','Moose',098,1069,'Del Valle','Aguascalientes','2016-05-13','2022-02-23','1982-12-22','Hombre',4,'17:45',9306)
-,('PPFC066566792',3,'Bartlett','Kynastone','McBrearty','Westridge',6511,600,'Pedregal','México','2020-03-01','2023-07-27','1989-02-20','Hombre',7,'4:12',14475)
-,('XNIY814475B44',5,'Hester','Merriott','Ainsby','Sundown',700,9,'Doctores','Morelos','2016-03-22','2025-10-17','1999-06-02','Hombre',5,'14:49',7482)
-,('MVXZ770154I6Z',7,'Vernor','Robers','Espina','Loeprich',41,37068,'Roma','Morelos','2018-01-08','2025-02-25','1999-01-27','Hombre',7,'11:39',12945)
-,('FABK349988WYO',5,'Krystal','Prophet','Lissandri','Porter',64069,555,'Escandón','Chihuahua','2018-07-31','2025-05-21','1987-11-22','No-binario',2,'11:51',9792)
-,('PPPO061143ISR',4,'Kata','Halwood','Stainsby','Golf',72388,4,'San Jerónimo','Baja California Sur','2012-01-29','2024-05-21','1993-11-27','Hombre',4,'9:20',9079)
-,('GQEN2313854O1',1,'Vikky','Gotfrey','Sisey','Crest Line',179,88433,'Escandón','Tabasco','2019-10-30','2022-08-26','1987-11-05','No-binario',4,'4:41',9898)
-,('XYJO580390HR3',2,'Morly','Grabeham','Bermingham','Birchwood',56266,4211,'Álamos','Hidalgo','2016-04-12','2025-01-06','1997-01-23','Mujer',3,'10:24',14364)
-,('LUBS018415GPI',4,'Francis','Tattersall','Cumine','Roth',12,58,'Tulum','Campeche','2012-12-20','2021-11-28','1986-06-10','No-binario',2,'10:41',10242)
-,('NJZR932377ITY',3,'Aeriell','Sweeney','Fahrenbach','Straubel',0,613,'Valle de Bravo','Michoacán','2012-08-20','2023-02-07','1998-12-21','Hombre',3,'13:10',7970)
-,('SIVA9263399W2',4,'Karlotte','Mil','Gravatt','Division',404,4,'Chapultepec','Coahuila','2019-11-19','2022-07-01','2000-09-30','Hombre',7,'6:42',11773)
-,('CKQZ841570ZDB',7,'Blythe','Handrik','Surgen','Burrows',433,43,'Roma','Baja California Sur','2015-06-21','2022-12-10','1986-05-14','No-binario',3,'17:18',12466)
-,('NJNO030471A6U',7,'Caril','Mitro','Freear','Schiller',1532,4990,'Portales','Chiapas','2011-07-26','2023-03-21','1998-02-20','Hombre',2,'9:31',10170)
-,('AYYF119818EAE',6,'Merrel','Preble','Pedycan','Laurel',494,360,'Tacubaya','Chihuahua','2011-09-11','2025-02-19','1995-02-23','Hombre',6,'17:31',7008)
-,('GPMI006254H7S',6,'Mallorie','Pethybridge','Lehr','Kennedy',925,32,'Santa María la Ribera','Hidalgo','2015-12-01','2021-12-09','1988-08-07','No-binario',7,'12:39',11513)
-,('TBRW2178209DS',3,'Ninon','Longhurst','Burnitt','Heffernan',70643,2292,'Lindavista','Querétaro','2017-03-22','2022-12-24','1998-06-26','Hombre',3,'4:39',13340)
-,('AWYR283530AF1',1,'Cybil','Fleeming','Yurygyn','Melrose',6267,53190,'Tulum','Puebla','2014-01-17','2022-07-03','1989-05-07','Mujer',7,'9:15',10336)
-,('BNPE234150NYE',7,'Shawn','O'' Hern','Moscon','Lyons',909,25525,'Tlalpan','Morelos','2016-05-17','2024-05-14','1994-03-21','Hombre',3,'6:36',8517)
-,('LJKW133076TUS',2,'Moyna','Maddams','Shellard','Fieldstone',9438,9929,'Del Valle','Yucatán','2012-03-15','2023-08-31','2002-03-03','Mujer',2,'11:09',7720)
-,('SMDK254729YLQ',1,'Moses','Swatradge','Tidbold','Delladonna',9747,9265,'Valle de Bravo','Tamaulipas','2014-03-28','2025-01-18','1991-11-17','Hombre',2,'20:41',10790)
-,('XDVR094021KTD',7,'Hesther','Sneath','Westnage','Del Mar',566,243,'Doctores','Guerrero','2013-02-02','2022-07-19','1999-11-26','No-binario',5,'12:24',13042)
-,('DHTK296020N2B',1,'Ameline','Jerome','Gallienne','Tennessee',82794,710,'Jardines del Pedregal','Veracruz','2017-12-23','2024-01-15','1985-10-10','No-binario',5,'17:54',8187)
-,('PZBZ863350J93',6,'Ruthann','Gotcliff','Sailer','Manufacturers',84,5,'Coyoacán','Baja California','2017-10-04','2022-10-21','1997-02-14','No-binario',7,'15:00',11386)
-,('CCTX328614EPN',1,'Marcelline','Rodrig','Blann','Portage',96752,440,'Polanco','Tlaxcala','2019-05-04','2022-08-21','1981-03-11','No-binario',2,'21:10',10095)
-,('DXMZ265945P7N',6,'Jacquette','Galer','Elsmore','Rieder',1677,76,'Tacubaya','Oaxaca','2019-07-29','2022-12-18','1982-06-30','Hombre',5,'10:56',9390)
-,('YYEG4104047M0',4,'Kerrie','Grewes','Vial','Quincy',767,2940,'Santa Fe','Chiapas','2011-08-13','2025-02-06','1989-02-10','Mujer',3,'13:58',8353)
-,('TCSM301086ULQ',4,'Wallache','Francom','Local','Michigan',402,47271,'Narvarte','Coahuila','2016-04-22','2025-04-20','1984-03-15','No-binario',6,'10:52',8720)
-,('FALU6986557G9',7,'Brodie','Renault','Woolhouse','Armistice',2001,6105,'Lindavista','Chihuahua','2012-08-25','2024-03-20','1999-01-04','Hombre',3,'6:26',13719)
-,('EYUZ231639HVK',1,'Alfred','Steljes','Wilmott','Clyde Gallagher',4577,451,'Granjas México','Tlaxcala','2017-03-19','2024-05-13','2001-12-18','Hombre',7,'5:46',9641)
-,('CWNC911471AAL',1,'Pascal','Groundwater','Bentz','Weeping Birch',49,31436,'Playa del Carmen','Nayarit','2017-10-02','2023-06-18','1992-05-13','Mujer',3,'12:36',11278)
-,('DNQP301749HJP',4,'Gary','Ruffell','Baison','Everett',7314,6290,'Tacubaya','Querétaro','2017-06-20','2022-11-29','1989-01-04','Hombre',7,'20:05',14740)
-,('LQQQ784288ACO',4,'Lauren','Lambotin','Gasgarth','Columbus',2,25,'Tacubaya','Sonora','2013-03-29','2022-02-08','1997-07-21','Mujer',2,'15:48',12763)
-,('PULC372462DDS',4,'Jules','McPeck','Soper','Eastwood',0,407,'Santa Fe','Campeche','2015-04-20','2025-06-09','1982-06-07','No-binario',2,'8:28',10256)
-,('TDEB109858V2T',6,'Belvia','Compson','McCue','Hollow Ridge',151,81,'Doctores','Durango','2014-05-07','2022-12-12','1988-09-12','Hombre',2,'14:27',12397)
-,('HOVB800349Z3F',2,'Mellie','Ryves','Bark','Scott',82,620,'Del Valle','Guanajuato','2018-10-25','2024-11-01','1989-05-11','Mujer',2,'18:54',14096)
-,('QULP494948683',7,'Mile','Noli','Harniman','Dunning',08148,0757,'Condesa','Zacatecas','2017-04-07','2023-02-23','1982-02-21','Hombre',4,'12:29',8492)
-,('IPSQ518263SQX',2,'Elva','O'' Driscoll','Duncklee','Nova',5,39,'Roma','Guanajuato','2020-07-05','2022-07-29','1986-11-29','No-binario',6,'4:42',7238)
-,('VUGB0772286SN',2,'Faber','Zaniolini','Lundy','Doe Crossing',8,1493,'Tulum','Querétaro','2013-03-19','2024-05-19','1983-09-26','Hombre',2,'15:23',14153)
-,('IMOB235468YHC',2,'Burnard','Klimkiewich','Pinnock','Sommers',5380,33,'Del Valle','Baja California Sur','2015-12-26','2021-11-23','2000-07-12','No-binario',4,'12:33',14388)
-,('ISCM71397208G',7,'Melisse','Rittelmeyer','Haldenby','Northview',649,06,'Portales','Aguascalientes','2020-10-04','2022-02-19','1989-02-26','Hombre',2,'15:06',8191)
-,('THEP861175NM1',2,'Alfy','Southworth','Clappison','Dawn',0116,8,'San Pedro de los Pinos','Chiapas','2011-12-02','2022-10-21','1990-07-02','No-binario',2,'20:14',11143)
-,('OYWS991795043',6,'Garry','Casier','Overall','Bartelt',72,930,'Tulum','Nayarit','2017-05-29','2024-07-23','1996-10-12','No-binario',5,'10:42',11799)
-,('YXCZ993695Q4P',4,'Marius','Worsfold','Levesley','Forest Dale',6227,246,'Xochimilco','Baja California Sur','2012-11-10','2022-06-01','1981-11-13','No-binario',7,'20:03',10040)
-,('FVEH215181DSV',6,'Jeffy','Mitrikhin','Guile','Meadow Ridge',377,4327,'Del Valle','Baja California','2015-12-06','2022-06-09','2001-11-12','Hombre',6,'18:40',10885)
-,('HYAY43069492G',6,'Selma','Lockwood','Grimbleby','Artisan',712,7946,'San Rafael','Aguascalientes','2020-06-04','2025-05-20','1994-11-21','No-binario',3,'14:38',14861)
-,('DILU036899C37',3,'Tanney','Kilby','Dracksford','Riverside',1428,1,'Escandón','Nuevo León','2015-05-24','2022-02-26','1995-04-08','Mujer',2,'21:25',8518)
-,('DWFD837618KTF',6,'Neall','Shankle','Bielfelt','Beilfuss',619,1,'Satélite','Jalisco','2019-12-12','2022-03-15','2000-07-02','No-binario',6,'11:17',13856)
-,('INRN941768SE1',5,'Dyan','Kilcoyne','Rosenstein','Brown',65447,34904,'Santa María la Ribera','Chiapas','2016-09-07','2024-07-29','1996-07-15','No-binario',5,'17:37',12464)
-,('HNHS41723255H',7,'Vania','Sweet','Carlino','Corscot',9707,43399,'Anzures','Durango','2019-06-09','2023-04-25','2002-08-08','Mujer',4,'8:04',7610)
-,('YLDC710639QEV',6,'Loralee','Hiom','Hillin','Acker',6019,3,'Mérida','Oaxaca','2011-01-09','2022-04-07','1990-02-28','Mujer',4,'13:37',9466)
-,('QJZU727619565',1,'Starla','Nanelli','Danielczyk','Roth',4,64666,'Escandón','Nayarit','2015-03-31','2022-05-16','1987-07-15','Mujer',7,'5:23',13513)
-,('BERQ431543Z5F',3,'Troy','Fidell','Narramor','Loomis',5260,408,'Del Valle','Jalisco','2012-12-11','2023-10-14','1997-02-03','Mujer',6,'16:08',14086)
-,('CYNO324837YQM',4,'Emmy','Southcott','Weins','Maple Wood',364,7382,'Cuajimalpa','Michoacán','2013-05-25','2022-03-25','1986-04-05','No-binario',3,'13:03',13831)
-,('SYKO618683PQC',7,'Maire','Chaperlin','Breckenridge','Mayfield',1498,1,'Anzures','Chihuahua','2020-02-13','2022-11-11','2001-04-12','Hombre',1,'18:07',14570)
-,('POOU942472WFX',3,'Culver','Tonkes','Deyes','Rusk',37,7204,'Narvarte','Jalisco','2020-06-26','2024-06-03','1983-05-20','Hombre',5,'7:22',13802)
-,('IEVF4882473M3',1,'Pernell','Southerell','Adshead','Harper',57408,21608,'Condesa','Baja California','2013-05-13','2022-04-04','1994-07-24','Hombre',5,'16:07',11274)
-,('JLMB177802H9U',3,'Federica','Marrett','Trevarthen','Cambridge',3046,4820,'Nápoles','Nuevo León','2016-05-15','2022-07-11','2001-08-16','Hombre',3,'6:04',14530)
-,('DRJT215481PAO',6,'Codi','Spoure','Grote','Gina',6,8,'Jardines del Pedregal','Quintana Roo','2011-05-21','2021-11-02','1983-09-03','Mujer',5,'12:29',9367)
-,('GQVU408984M0F',6,'Zonda','Sieghart','Selburn','Dapin',19,3204,'Coyoacán','Baja California','2019-06-22','2023-06-13','1999-10-08','Hombre',6,'15:02',14634)
-,('LJXY024918H4G',7,'Renaldo','Heale','Blenkin','Crest Line',4,2541,'Lindavista','Quintana Roo','2015-05-23','2023-01-23','1987-03-31','Hombre',4,'15:35',9576)
-,('LION293330KUH',2,'Gwynne','Willoughley','Burnsyde','Kropf',6611,705,'Lindavista','Querétaro','2012-10-01','2022-10-07','1986-10-31','Mujer',4,'11:26',9292)
-,('SGIA423143JZS',2,'Kizzie','Grenville','Fuxman','Grover',8295,2,'Polanco','Yucatán','2013-07-09','2024-08-31','1986-04-21','No-binario',7,'12:18',12210)
-,('DUPQ067137959',5,'Morey','Jackways','Ruprechter','Clove',771,79,'Granjas México','Nayarit','2018-10-23','2024-01-06','1989-12-15','No-binario',6,'7:42',7864)
-,('RBUQ188139FL2',3,'Aila','Scarth','Gabbidon','Chive',693,1348,'Escandón','Nayarit','2014-06-05','2024-06-05','1994-03-01','Mujer',1,'13:46',14104)
-,('MIDL630092MBZ',1,'Salvidor','Loffill','Cardno','Gina',7,94551,'San Pedro de los Pinos','Tabasco','2018-03-24','2023-10-13','1989-03-02','Hombre',5,'10:41',11562)
-,('OABX8682949T6',2,'Izzy','Goodship','Rubes','Logan',21,8211,'Lindavista','Sonora','2020-10-14','2022-07-22','2000-04-27','No-binario',7,'20:47',8957)
-,('YXVW356663YIX',1,'Flore','Borrie','Cockhill','Evergreen',1381,1,'Portales','Querétaro','2015-03-19','2022-01-14','1994-04-08','Hombre',3,'13:50',14644)
-,('ZNBO8853674UN',6,'Matthew','Endrizzi','Caldera','Schurz',9,2675,'Polanco','Durango','2016-06-12','2024-12-06','2001-10-12','Hombre',3,'18:25',10100)
-,('WQLT623476SFA',1,'Kerrie','Undy','Paramor','Corry',771,50,'Azcapotzalco','Tlaxcala','2011-09-10','2025-02-21','1988-08-27','No-binario',5,'19:56',12379)
-,('EYEX801632O9J',6,'Fee','Firminger','Golland','Elgar',6,82,'Doctores','Hidalgo','2020-07-07','2025-03-18','2001-12-06','Hombre',4,'8:24',11953)
-,('JJGK502438V4Z',2,'Errol','Banstead','Catonnet','Steensland',3,2,'Narvarte','Morelos','2012-03-02','2024-07-03','1990-12-09','Mujer',2,'21:55',7924)
-,('VLSS1012581GB',6,'Dorita','Le Blond','Pariso','Elgar',89350,994,'Cuajimalpa','México','2018-05-05','2023-05-16','1998-12-18','No-binario',4,'21:09',7316)
-,('DPFY919387XL7',6,'Elwood','Eadie','Ronald','La Follette',4,2737,'Xalapa','Morelos','2020-09-02','2024-04-06','1988-03-30','Mujer',4,'14:20',10490)
-,('VKOB929577IQ5',1,'Hermia','Mountford','Ricardou','Delaware',74,21707,'San Ángel','Morelos','2017-04-10','2025-06-27','1986-02-01','No-binario',4,'9:26',7294)
-,('PCBM22725385G',3,'Ester','Crang','Farloe','Hovde',95,8483,'Narvarte','Coahuila','2014-10-30','2022-04-27','1995-04-05','Mujer',3,'12:48',7160)
-,('ZOAF9762647RT',4,'Hermione','Wagen','Gaymar','Loftsgordon',8,3,'Nápoles','Guerrero','2014-02-04','2023-08-03','2002-05-06','Hombre',4,'12:28',10706)
-,('SGKQ509426QH0',4,'Gerald','Opdenort','Sumner','Meadow Valley',9555,563,'Escandón','Campeche','2015-04-01','2025-05-10','1986-01-01','No-binario',5,'7:53',7537)
-,('SKVB173202SFL',1,'Ludovika','Brower','Wildman','Loeprich',9,3,'Coyoacán','Jalisco','2018-10-28','2023-09-14','1994-03-09','Mujer',5,'6:04',8122)
-,('ZQNR206354YEB',1,'Marve','Hiley','Kapelhof','Melvin',4,4,'Juárez','Guanajuato','2019-08-31','2024-02-20','1983-11-17','No-binario',6,'15:01',10369)
-,('HCCS477534ZU5',3,'Niles','O''Geaney','Robun','Knutson',35280,2,'San Rafael','Tamaulipas','2011-06-05','2025-06-19','1981-10-21','Hombre',3,'11:59',8119)
-,('TFJF322025PEY',4,'Adriana','Newall','Almond','Schurz',77,068,'San Ángel','Quintana Roo','2014-07-06','2023-07-29','1999-09-16','Hombre',4,'17:34',13674)
-,('ZUEP6969265O5',6,'Arabel','Olivelli','Slemmonds','Dayton',6630,1,'Playa del Carmen','Sinaloa','2018-02-12','2022-08-06','1986-03-22','No-binario',5,'17:45',11393)
-,('OKQO806798VLZ',3,'Shamus','Braunds','Bedenham','Swallow',76,1,'Del Valle','Veracruz','2020-05-14','2025-09-01','1981-12-28','Mujer',3,'13:48',7697)
-,('WPDY732421GO0',5,'Eyde','Laville','Gudgin','Old Gate',34911,1779,'Playa del Carmen','Hidalgo','2019-07-02','2024-03-10','1982-09-24','Hombre',2,'12:23',7613)
-,('MDQB442479E5M',4,'Veronika','Billes','Wythill','Melvin',17,46,'Pedregal','Baja California Sur','2019-05-22','2023-10-20','1991-02-04','Mujer',7,'12:31',10234)
-,('MFYG317524Q90',5,'Rock','Andres','Kemmish','Farwell',06576,5342,'Napoles','Colima','2017-08-03','2024-02-02','1982-10-13','Mujer',5,'7:51',9094)
-,('PADV470894W6R',6,'Berte','Servis','Kneeland','Corscot',78044,591,'Álvaro Obregón','México','2018-09-13','2022-02-12','1981-12-06','Mujer',1,'12:31',9670)
-,('OAQK289910IPP',2,'Zandra','Maccari','Moring','Holy Cross',63749,97,'Playa del Carmen','Campeche','2017-03-04','2025-04-03','1981-01-14','Hombre',5,'14:06',13114)
-,('ZUFS074379VUI',1,'Horatia','Marquess','Auchinleck','Melby',31,5263,'Anzures','Tlaxcala','2019-09-14','2024-02-29','1984-05-10','No-binario',4,'17:06',13962)
-,('HEHI409684BT9',3,'Wright','Asche','Cessford','Spenser',3,0233,'Xalapa','Querétaro','2017-06-17','2025-08-10','1999-09-21','No-binario',6,'15:45',10796)
-,('DDSV9061839Z2',3,'Christan','Shipp','Prinne','American',548,76,'San Pedro de los Pinos','Baja California','2014-09-17','2025-08-30','1996-10-30','Mujer',6,'16:31',8475)
-,('BRHJ646893454',1,'Ive','Hadgkiss','Beekmann','Maryland',5680,28,'Álvaro Obregón','Coahuila','2012-06-06','2025-06-26','1998-02-09','Hombre',4,'17:00',13262)
-,('IQUJ214203KJR',7,'Reinhard','Scrange','Worham','Bobwhite',6,74237,'Xalapa','Michoacán','2014-08-25','2025-01-17','2000-04-14','Hombre',2,'11:37',11640)
-,('FCIH554543XLA',6,'Cassandry','Dysert','Snelson','Boyd',726,86,'Satélite','Sonora','2011-08-15','2021-11-23','1998-02-04','Mujer',6,'14:55',9270)
-,('GLUO816192R0H',6,'Reade','McConnal','Laetham','Almo',49085,92037,'Polanco','Baja California','2019-03-02','2025-07-17','1991-05-27','Mujer',2,'15:35',14784)
-,('WIFZ804822ZZ8',1,'Celene','Anthill','Cleevely','Golf Course',7,4,'San Jerónimo','Tlaxcala','2015-04-15','2022-09-09','1997-05-08','No-binario',2,'20:42',14536)
-,('YUBR2380758BM',1,'Kathleen','Shaylor','Emer','Golf View',8,74829,'Polanco','Baja California','2013-03-09','2022-10-13','2001-01-28','Hombre',5,'17:04',14914)
-,('TXLL8931461GR',2,'Chloris','Chessman','Izard','Pond',789,34,'Santa Cruz Atoyac','Colima','2019-06-18','2023-11-08','1990-09-09','Hombre',1,'12:39',10050)
-,('IZKZ663274E5E',7,'Florette','Lincke','Camoys','Ronald Regan',4220,8116,'Anzures','Oaxaca','2019-01-01','2022-03-08','1998-09-27','No-binario',7,'6:22',12156)
-,('OBQV4832549RC',4,'Steven','Kidds','Ianittello','Anzinger',61,96940,'San Pedro de los Pinos','Querétaro','2017-01-20','2023-11-08','1996-02-10','Mujer',3,'11:12',7452)
-,('LCAN97227095K',4,'Lorelei','Vaugham','Harriott','Fieldstone',64036,4,'Narvarte','Guerrero','2018-10-25','2024-05-09','1990-07-13','Mujer',4,'17:49',9617)
-,('ONOY144548VKL',2,'Ethelind','Poad','Dumini','Reinke',2,75558,'Xochimilco','Nuevo León','2018-09-25','2022-12-10','1998-12-15','Hombre',6,'16:20',8224)
-,('TBEF015447BRW',6,'Teresita','Drewet','Wimbury','Browning',748,26,'Playa del Carmen','Yucatán','2011-05-24','2023-01-01','1993-03-13','Hombre',6,'8:02',8717)
-,('XHNY341676L24',1,'Paige','Escala','Gallehock','Novick',26,1511,'Escandón','Nayarit','2014-03-04','2022-06-03','1990-11-28','No-binario',5,'10:47',14458)
-,('WEQM653868S6Y',7,'Major','Piddock','Eneas','Sherman',338,41273,'San Jerónimo','Veracruz','2016-09-27','2023-12-31','1995-03-27','Hombre',6,'12:16',13890)
-,('EKUN133249XT4',1,'Arch','Greystoke','Abry','Beilfuss',48666,286,'Lindavista','Aguascalientes','2019-09-03','2023-08-16','2001-07-11','Mujer',1,'14:48',10606)
-,('BVGO877262ANU',4,'Hermann','Pfeffle','Iacopo','Starling',30,86,'Xalapa','Zacatecas','2015-08-23','2022-03-04','1993-12-22','No-binario',7,'18:27',10509)
-,('SFQZ875702JDS',3,'Abba','Goldes','Gutsell','Thierer',5949,3,'Reforma','Sinaloa','2011-09-01','2023-10-20','1995-02-21','Hombre',4,'14:57',14746)
-,('WYQK431375PJB',1,'Adina','Rosindill','Grigolashvill','Bayside',719,72,'Coyoacán','Tlaxcala','2014-02-10','2022-01-13','1981-01-05','Mujer',5,'9:43',12089)
-,('EBGW622302TBI',1,'Obie','Staten','Churchward','Almo',014,06682,'San Ángel','Yucatán','2015-10-03','2023-09-01','1996-08-20','No-binario',7,'10:01',7662)
-,('VVHD076524X4X',3,'Chaunce','Hawk','Whitten','Hayes',7691,489,'Jardines del Pedregal','Yucatán','2011-06-23','2024-11-12','2002-07-26','Hombre',4,'11:02',9833)
-,('MQPB612188799',7,'Emelyne','Colthard','Beasant','Cardinal',545,970,'Santa María la Ribera','Baja California Sur','2014-08-17','2022-03-15','1996-11-24','No-binario',6,'4:05',13447)
-,('NQJV377954CMO',4,'Krysta','Bocken','Dacre','Lake View',9898,11623,'Tepoztlán','Aguascalientes','2020-10-07','2022-08-06','1990-05-17','Hombre',6,'14:53',13956)
-,('ZCEP1476332WH',4,'Shalne','Beevis','Dredge','Scofield',7,8,'Álvaro Obregón','Oaxaca','2019-03-19','2024-12-16','1990-08-08','Mujer',2,'15:48',7265)
-,('IYZO828338HAI',2,'Vale','Christou','Horick','Arkansas',044,95,'Anzures','Baja California Sur','2011-10-24','2022-07-28','1984-01-30','Mujer',4,'18:23',9469)
-,('ZOWI711429LTT',3,'Olly','Lorenzin','Fomichyov','Eggendart',7,7406,'Polanco','Chihuahua','2019-04-16','2024-07-26','1993-01-15','Mujer',2,'11:49',8355)
-,('HVRC115013MVF',1,'Alameda','Philo','Fitzsymon','Kedzie',501,915,'Álvaro Obregón','Nuevo León','2013-02-17','2024-12-05','1999-10-08','Hombre',3,'15:48',11049)
-,('KXDG9980127LK',6,'Inglis','Renon','Giamo','Twin Pines',18277,004,'Anzures','Sonora','2019-02-28','2024-02-14','2001-10-24','Mujer',2,'20:29',14566)
-,('TGXL110105GUM',5,'Gannon','Chapell','Mulberry','Ludington',44366,57,'Cuajimalpa','Oaxaca','2011-12-26','2022-11-26','1995-12-25','Hombre',7,'21:12',14808)
-,('IPFD911545J4X',2,'Lombard','Ducham','Fetherby','Vernon',59,8,'San Rafael','Campeche','2019-02-28','2024-10-24','1991-05-08','Mujer',3,'18:51',9863)
-,('WWNT2790707PJ',7,'Luz','Cauley','Nilles','Schlimgen',51425,10385,'Escandón','Colima','2017-01-28','2023-09-15','1999-12-17','No-binario',1,'5:27',13938)
-,('AGGT645318B2R',3,'Rona','Jedrychowski','Meiner','Holy Cross',103,2133,'Santa Fe','Sonora','2017-04-28','2023-12-17','2000-01-16','Mujer',4,'16:14',11810)
-,('HFCZ267861S4H',6,'Tim','McGreary','Wonfar','Crownhardt',2,63,'Del Valle','Baja California Sur','2018-12-13','2022-02-12','1992-11-24','Mujer',2,'16:30',14512)
-,('DREG375749SPI',2,'Katheryn','McNaughton','O''Flannery','Sundown',512,65,'Lindavista','Colima','2015-09-22','2024-07-09','1985-02-13','No-binario',7,'16:34',12857)
-,('SXWT742059GPT',3,'Siward','Seson','Turford','Beilfuss',252,31335,'Polanco','Quintana Roo','2012-06-28','2024-01-05','2002-03-22','Hombre',7,'19:59',11302)
-,('WVEK656878ASE',4,'Wendeline','Lorrain','Orviss','Northridge',53,0,'Lindavista','Quintana Roo','2018-04-02','2024-01-24','1982-03-11','Hombre',4,'16:40',12008)
-,('AZMZ835308MZE',3,'Cary','Copsey','Gruczka','Moose',05,94,'Mixcoac','Puebla','2013-07-13','2023-07-27','2002-01-23','Mujer',6,'17:59',8190)
-,('DLCY726544KKR',5,'Cariotta','Shimon','Brea','Becker',38,478,'Narvarte','Querétaro','2020-03-13','2022-05-04','2002-10-19','Mujer',5,'13:22',12570)
-,('OBKT3010667P3',7,'Myranda','Beadnell','Tocher','Sullivan',171,0,'Lindavista','Jalisco','2014-06-20','2023-02-21','1982-01-02','Hombre',2,'11:28',14887)
-,('OZKB24698988Z',1,'Granthem','Lacaze','Chauvey','7th',5,30165,'Narvarte','Quintana Roo','2013-04-02','2022-08-22','1984-04-09','No-binario',6,'7:17',11623)
-,('RJTC1225909CO',5,'Obadias','Victoria','Glasspoole','Harper',74,12951,'Coyoacán','Guerrero','2012-06-28','2022-12-21','1982-05-13','Hombre',6,'8:39',11872)
-,('LKRU3424912Q5',7,'Mab','Aprahamian','Fassmann','Karstens',4545,346,'Coyoacán','Tabasco','2014-07-31','2024-12-24','2002-07-07','Hombre',4,'17:40',10974)
-,('IARE346837DQB',5,'Sal','Francom','Batrick','Fairview',74635,50617,'Nápoles','Hidalgo','2011-05-26','2025-04-15','1999-09-07','No-binario',1,'11:49',10748)
-,('VELJ0163250HM',4,'Edithe','Boother','Sall','Magdeline',72762,05624,'Chapultepec','Guanajuato','2012-11-05','2022-05-23','1986-08-04','Mujer',5,'10:20',11790)
-,('APMR866005NR6',4,'Skipper','Edler','Mowsdell','Sheridan',3,3,'Lindavista','Veracruz','2019-02-13','2024-01-13','1998-05-24','No-binario',2,'18:04',14699)
-,('HHUP933256RK1',1,'Antonino','Barthelme','Derbyshire','Karstens',0,923,'Napoles','Chihuahua','2014-11-07','2022-04-11','2001-12-29','No-binario',5,'19:48',7893)
-,('EFBD8866683OM',5,'Cher','Bourthoumieux','Gras','Autumn Leaf',17,3,'Granjas México','Michoacán','2011-09-23','2025-10-13','1989-03-23','Mujer',6,'6:03',10637)
-,('JWDH750670NV1',7,'Rickert','Lamswood','Jiruch','Prairie Rose',73349,22453,'Álamos','Morelos','2013-09-09','2022-10-31','1984-07-11','No-binario',6,'10:07',14424)
-,('XNBM411755FXJ',4,'Alyce','Stronghill','Freebury','American',30796,14,'Tlatelolco','Coahuila','2010-12-11','2024-09-18','1990-11-21','No-binario',4,'12:57',9050)
-,('SCGM449742WZY',2,'Clim','Clutterbuck','Hattersley','Boyd',06,38367,'Del Valle','Aguascalientes','2013-05-28','2023-10-20','1992-10-26','No-binario',7,'5:00',7818)
-,('LGUZ3601572VU',5,'Aile','Byram','Barkworth','Bluejay',64,8787,'Chapultepec','Hidalgo','2018-04-10','2024-06-12','1991-09-13','Mujer',6,'13:21',12036)
-,('QIZE257925WSN',4,'Florian','Faull','Awty','Esker',0,31,'Azcapotzalco','Querétaro','2011-09-05','2024-11-15','2000-07-29','No-binario',2,'18:56',7405)
-,('YOZC749071F44',1,'Quintus','Zoephel','Tattershall','Dovetail',37552,47714,'Roma','Yucatán','2017-09-03','2024-09-15','1983-10-16','Mujer',4,'7:30',12240)
-,('WTAE863000HV7',6,'Brigitta','Habbes','Burdfield','Northwestern',060,205,'Xalapa','Michoacán','2011-04-11','2024-01-22','1989-12-04','Hombre',7,'17:03',7106)
-,('AGJP9036128IG',3,'Reta','Bigby','Clerke','Straubel',8721,5,'Nápoles','Tamaulipas','2019-09-06','2022-01-17','1990-10-18','Hombre',5,'4:31',12282)
-,('HVZB139264TV9',5,'Ahmed','Duell','Munnings','Sage',5,044,'Xochimilco','Durango','2012-07-19','2024-11-23','1990-01-16','Mujer',7,'8:31',13373)
-,('XPMO17068470V',3,'Linc','Arnoult','Bacon','Delladonna',7,6667,'Polanco','Veracruz','2010-11-10','2024-11-30','1994-05-08','Mujer',1,'13:19',10422)
-,('PAIA89365265O',7,'Teodoro','Andresen','Licquorish','Morningstar',7972,8550,'Tlatelolco','Yucatán','2014-04-03','2024-09-26','1981-07-19','No-binario',3,'5:00',8270)
-,('REMN96058557O',5,'Charlene','Szymon','Janic','Mallard',27,3,'Jardines del Pedregal','Querétaro','2019-01-01','2025-09-14','2001-09-24','Hombre',2,'5:42',7845)
-,('RVSO115847BXX',1,'Artie','Spinke','Pitbladdo','Sunfield',7,2999,'Lindavista','Guerrero','2020-10-12','2024-04-09','1989-01-11','Hombre',6,'10:59',7793)
-,('HDYZ89508848L',6,'Dorrie','Allsup','Ducarne','Victoria',285,30,'Coyoacán','Baja California','2015-05-27','2022-11-28','2002-08-18','Hombre',2,'19:08',12123)
-,('NPMF462987VIS',2,'Minerva','Secretan','Gleeson','Bultman',1728,2342,'Roma','Michoacán','2014-02-17','2024-12-20','1985-12-26','Hombre',1,'6:15',12167)
-,('JSAZ399783HDZ',6,'Kate','Grumell','McCague','Cherokee',7207,51771,'Tepoztlán','Aguascalientes','2018-09-18','2022-06-24','1993-07-11','No-binario',3,'9:27',10498)
-,('JSQE087819I6H',3,'Artemas','Heeley','Prinett','Buell',2,71727,'San Ángel','Chihuahua','2013-03-08','2025-01-13','1988-05-19','Hombre',6,'20:41',8594)
-,('XCBH278038LDS',1,'Quinton','Yeldham','Matchett','Charing Cross',6,1458,'San Jerónimo','Nuevo León','2016-12-06','2023-01-31','1982-08-13','Mujer',7,'9:29',14920)
-,('XVOX830989NMA',6,'Dorotea','Trathan','Matskevich','Bunting',96,7553,'San Rafael','Quintana Roo','2015-02-14','2022-11-02','2002-02-28','Mujer',7,'9:28',8417)
-,('WWWP414987MPS',4,'Erny','Menci','Thorold','Butterfield',48,6022,'Escandón','Puebla','2015-06-15','2021-11-11','1986-10-21','Hombre',6,'18:27',10954)
-,('KEPR139790C2O',6,'Wake','Conkling','Tytler','Bluestem',791,557,'Chapultepec','Querétaro','2016-07-18','2022-05-22','1989-01-31','Hombre',7,'6:11',11794)
-,('KGAC049213G2U',3,'Tildie','Bartrum','Heighway','Express',913,61,'Xochimilco','Zacatecas','2018-09-24','2025-06-17','1987-11-19','No-binario',3,'5:20',12468)
-,('SSHZ463178250',6,'Ives','Binden','Solomonides','Carioca',296,56917,'San Rafael','Yucatán','2014-03-27','2024-08-08','1997-08-07','Mujer',1,'12:49',11116)
-,('SDOM580837TQH',3,'Klaus','Carlett','Neasham','Karstens',15276,6,'Escandón','Baja California','2011-01-05','2023-12-27','1988-09-02','No-binario',5,'19:20',9352)
-,('QGSI848645SMM',4,'Adolphus','Bremmer','McCoveney','Dovetail',69,813,'Anzures','Hidalgo','2017-10-12','2023-05-07','2000-09-05','Mujer',1,'14:25',10561)
-,('HGCZ799101MUY',5,'Orlan','Barock','Voisey','Florence',0,86782,'Mérida','Hidalgo','2018-03-18','2023-12-07','1986-02-11','No-binario',2,'11:09',8673)
-,('FVVO211851NZU',3,'Odie','Martinetto','Bolles','5th',10557,58970,'Santa Cruz Atoyac','Zacatecas','2015-07-20','2024-09-26','1990-09-26','No-binario',4,'19:51',14060)
-,('JHDL929108HAC',2,'Bertie','Alwell','Pilger','Fallview',21568,92,'Álvaro Obregón','Tlaxcala','2015-02-05','2024-11-18','1984-08-25','Mujer',1,'7:17',11836)
-,('QBYV71807031N',4,'Lanette','Betjes','Scantlebury','Dorton',48365,245,'Chapultepec','México','2013-12-29','2021-12-13','1984-06-14','Mujer',2,'19:17',7297)
-,('XWFB341430Z7B',3,'Petunia','Markwelley','Merrywether','Delaware',92901,84,'Mixcoac','Veracruz','2019-08-23','2022-11-26','1998-04-08','No-binario',3,'10:09',14548)
-,('YFEP607688FK3',1,'Olive','Rigmand','Stivers','Delladonna',402,4030,'Chapultepec','Querétaro','2011-11-28','2025-08-04','1998-10-28','No-binario',4,'17:28',13847)
-,('GFZO2551536QG',4,'Nolan','Pizer','Vicarey','Macpherson',4,7100,'Tepoztlán','Nayarit','2018-10-31','2024-10-06','1991-06-01','Mujer',3,'4:37',7560)
-,('BBKZ67910028Q',4,'Chrysler','Bartens','Styan','Sunfield',0355,2889,'Xochimilco','Campeche','2013-06-29','2021-12-28','1983-01-25','Hombre',4,'4:04',10293)
-,('WXMZ3509387Y9',2,'Minor','Beetles','Wainwright','Boyd',7056,2,'Jardines del Pedregal','Querétaro','2014-01-10','2025-01-31','1984-11-15','Hombre',5,'14:02',7414)
-,('YTNF402416L6L',5,'Margalit','Spark','Bromilow','Logan',33922,6719,'Lindavista','Nuevo León','2018-03-02','2024-05-19','1992-04-16','Hombre',1,'21:54',9607)
-,('ZKIW773702808',3,'Jakie','Raithby','Denny','Gina',02,5,'Cancún','San Luis Potosí','2017-04-10','2021-10-29','1992-03-10','Mujer',1,'6:20',10465)
-,('HEVK408899NY5',1,'Rois','Sanches','Kobus','Dryden',32,902,'Roma','Coahuila','2017-12-09','2025-01-29','2001-07-28','Mujer',6,'8:35',7854)
-,('GVNR525514POP',6,'Raine','Duxbury','Judkin','Mendota',72,89,'Juárez','Colima','2018-05-19','2022-07-19','2002-06-28','Mujer',6,'16:51',10532)
-,('XHNZ553981RSV',2,'Saundra','Guiness','Gogarty','Springs',5,90979,'San Jerónimo','Durango','2020-06-12','2025-04-30','2001-10-24','Hombre',4,'7:38',9409)
-,('ZQHS5893179QM',5,'Gabriello','McGrath','Trump','Thackeray',804,87464,'Polanco','Veracruz','2013-06-23','2022-06-18','1983-12-05','Hombre',2,'4:33',12454)
-,('TMXL546757535',5,'Bettine','Gyver','Robbel','Declaration',81268,302,'Del Valle','Oaxaca','2015-11-13','2023-12-28','1999-05-08','No-binario',7,'21:11',13601)
-,('KCYG421528QP2',1,'Thorndike','Goscomb','Zanicchelli','Cordelia',2,86,'Reforma','Veracruz','2011-01-02','2025-09-14','1996-03-18','No-binario',4,'13:00',9917)
-,('RDMD969156HZ1',2,'Roddie','Enston','Yokelman','Farmco',273,196,'Mérida','Jalisco','2019-05-25','2024-08-14','2000-11-19','No-binario',4,'16:19',7496)
-,('XMOT219954S09',6,'Kevyn','Logesdale','Kenningley','Porter',8,65693,'Álvaro Obregón','Colima','2012-09-07','2021-12-18','1999-02-19','Mujer',3,'19:31',7588)
-,('UXYT789403F9C',7,'Kevyn','Calderonello','Atterley','Springview',70107,985,'San Ángel','Chiapas','2018-05-06','2024-04-11','2000-10-16','Hombre',6,'10:57',10991)
-,('UASN613690AJM',2,'Yorke','Cairney','Backen','Marcy',72596,60,'Lindavista','Baja California Sur','2019-08-25','2024-04-19','1994-04-11','Hombre',1,'4:52',12984)
-,('UAVY378114K26',5,'Susana','Vearncomb','Longmuir','Dorton',79,6885,'Jardines del Pedregal','San Luis Potosí','2012-08-05','2024-08-20','1998-10-30','Hombre',6,'9:14',8668)
-,('AIQB902553JMY',4,'Nadeen','Lynam','Debney','Oriole',1,7084,'Del Valle','Tlaxcala','2012-09-20','2025-08-16','2002-04-09','No-binario',1,'18:48',11215)
-,('MHKT165238D5K',6,'Stacee','Duerden','Castilla','Mallory',78,0458,'Lindavista','Puebla','2014-09-18','2025-09-07','2001-07-06','Mujer',6,'20:27',11657)
-,('DGBZ250065F76',6,'Marlena','Von Brook','Dallimore','Golf View',4,9380,'Santa Fe','Tlaxcala','2018-04-07','2025-03-16','2002-09-23','Mujer',6,'10:58',11757)
-,('EHLU6278181KY',7,'Syd','Orable','Scholtis','Scofield',36800,9341,'Chapultepec','Yucatán','2017-09-25','2024-12-14','1985-02-21','Hombre',2,'5:54',13906)
-,('FGUE560194D02',3,'Jacinta','Mabbott','Fisher','Carioca',97858,7355,'Polanco','Chiapas','2013-01-05','2023-10-05','1981-01-29','No-binario',2,'17:57',12759)
-,('AEDU45087555A',6,'Aubrette','Bown','Beardall','Fair Oaks',0736,65,'Pedregal','Tamaulipas','2018-04-08','2023-04-21','1996-08-06','No-binario',5,'19:15',11685)
-,('EJIK425388N7E',4,'Aurelie','Najera','Glasbey','Park Meadow',41,37132,'Tlalpan','Jalisco','2015-05-18','2023-05-23','1989-04-18','Mujer',1,'17:24',12443)
-,('MKCM326019BTV',2,'Vivi','Tottie','Stedson','Charing Cross',012,9,'Roma','Tamaulipas','2016-12-08','2023-06-05','1981-08-23','Mujer',1,'6:35',13270)
-,('NHBT735421F7P',3,'Fanchon','Faircley','Connick','Fairfield',8201,57,'Jardines del Pedregal','Veracruz','2020-10-15','2024-10-05','1987-03-26','No-binario',1,'12:53',9753)
-,('HLHG3464941CZ',6,'Bea','Pendleberry','Hassur','Mayfield',5061,13,'Anzures','Jalisco','2013-08-27','2024-05-19','1992-10-15','Hombre',3,'9:36',11281)
-,('NUDX266325VR2',5,'Iver','Towner','Springtorpe','Parkside',5,709,'San Pedro de los Pinos','Baja California Sur','2011-02-10','2022-12-04','1999-08-29','No-binario',3,'19:34',9330)
-,('UGYL320245HGC',5,'Leeann','Landy','Rylstone','La Follette',841,7457,'Chapultepec','Sonora','2012-02-12','2023-07-20','1984-07-12','No-binario',6,'8:27',14791)
-,('DMLP475309WMG',3,'Angela','Spridgeon','McPharlain','New Castle',589,7,'Chapultepec','Coahuila','2016-05-05','2025-04-23','2000-11-27','No-binario',7,'16:16',12741)
-,('GWNL417712GX0',6,'Latashia','Seamen','Battison','High Crossing',39619,1,'Cuajimalpa','Campeche','2011-05-03','2023-05-23','1988-05-22','Hombre',1,'19:38',8652)
-,('TYXW804631DFW',2,'Lizzie','Leirmonth','Jendrich','Jackson',2,04311,'Lindavista','Guanajuato','2011-09-18','2025-08-31','1993-12-13','Mujer',7,'17:42',9531)
-,('UMHM308293EOJ',5,'Richmound','MacDirmid','Yakuntsov','Brickson Park',43643,2264,'Cancún','Baja California Sur','2012-10-31','2023-10-12','1984-01-22','Mujer',7,'17:44',12770)
-,('KOLX284124DHX',4,'Lila','Prodrick','Durbyn','South',28,68962,'Narvarte','Tamaulipas','2011-01-14','2024-12-16','1991-08-23','Hombre',6,'19:51',9293)
-,('GALW42286402T',4,'Patrice','West','Pavyer','Mallard',8,05774,'Mérida','Puebla','2016-02-27','2024-03-24','1998-09-01','Mujer',6,'15:21',10478)
-,('XLQM054033CVH',4,'Zacharias','Olford','Bewlie','Logan',0321,32,'Chapultepec','Nayarit','2018-11-04','2024-04-24','1985-05-19','No-binario',1,'4:25',7860)
-,('BMZS6846403PD',6,'Ellissa','Temple','Seymour','John Wall',0,7,'San Jerónimo','Quintana Roo','2011-12-31','2024-09-22','1988-01-28','Hombre',1,'13:57',10844)
-,('TSNY298189JE4',2,'Bentlee','Ratcliffe','Beltzner','Reinke',74678,54990,'Tlalpan','Baja California Sur','2012-08-16','2023-11-24','1989-05-01','Hombre',7,'7:53',11440)
-,('VRYJ1873509BY',5,'Zarla','Hurdedge','Ebbles','Talisman',4,5462,'Santa Cruz Atoyac','Tamaulipas','2015-12-01','2024-02-07','1996-02-13','Hombre',3,'18:07',11724)
-,('XUJT8138782TL',4,'Vikky','Waddilove','Bravington','Waubesa',972,154,'Doctores','Nayarit','2018-11-13','2022-10-22','1996-10-10','No-binario',6,'13:27',13224)
-,('GWOA785352QKF',2,'Gael','Clooney','Bonett','Northridge',70956,2595,'Narvarte','Coahuila','2020-08-16','2023-02-11','1993-06-06','No-binario',5,'16:40',7519)
-,('KUIV463235ABH',3,'Alexandro','Rentoul','Wallsworth','Lawn',3167,43066,'Álvaro Obregón','Jalisco','2011-05-10','2025-08-12','1991-09-17','No-binario',1,'14:36',7465)
-,('AULF643625VKF',1,'Culver','Doog','Auletta','Service',74230,18688,'Polanco','Querétaro','2013-03-18','2022-04-25','1989-11-26','Mujer',5,'4:05',13553)
-,('LNRJ5323987H2',3,'Roseanna','Smidmore','Denisyev','Loftsgordon',0,8488,'Escandón','Nayarit','2019-08-12','2025-01-31','1986-09-16','Hombre',3,'17:20',7712)
-,('CWCW019185B5V',4,'Phil','Renfrew','Sutworth','Katie',4214,6,'San Miguel Chapultepec','Jalisco','2013-11-23','2025-03-22','1981-01-12','No-binario',4,'8:20',9021)
-,('FSDW824728V0B',4,'Holly-anne','Halshaw','McAlester','North',53,36,'Santa María la Ribera','Aguascalientes','2016-09-09','2024-10-08','1981-10-13','No-binario',7,'15:02',11841)
-,('ALMJ065448P07',5,'Adrien','Vernazza','Rama','Leroy',3,50771,'San Jerónimo','Baja California','2011-01-26','2024-05-10','1985-05-17','Mujer',3,'15:35',7051)
-,('KHEW9909855XQ',1,'Lishe','Collier','Weems','Lotheville',26494,19160,'Tulum','Tabasco','2013-11-26','2025-10-08','1985-04-20','Hombre',2,'6:39',11936)
-,('TNRA046591QJN',5,'Barrett','Grishelyov','Wreath','Kenwood',2,62,'Escandón','Jalisco','2017-01-07','2021-12-30','1990-05-31','No-binario',6,'12:04',9894)
-,('IQUR244060K5W',6,'Kacey','Blasgen','Olyfat','Hallows',94,87,'Azcapotzalco','Quintana Roo','2017-04-18','2022-04-07','1986-10-13','No-binario',6,'15:54',7794)
-,('SYNA067654ZU8',7,'Avie','Vaskin','Burdell','Shoshone',3977,37508,'Tacubaya','Puebla','2015-12-07','2022-08-12','1981-09-26','Hombre',2,'13:27',14865)
-,('EQFN8731539GM',1,'Claudio','Ricard','Haensel','Eastlawn',5157,1,'San Ángel','Nuevo León','2011-03-29','2024-05-13','1995-02-16','Hombre',3,'13:34',8639)
-,('IKJL738515HB5',3,'Susanetta','Storror','Crimpe','Caliangt',92139,3070,'Tlatelolco','Jalisco','2020-05-16','2023-06-19','1993-08-04','No-binario',1,'13:26',8561)
-,('HKNQ035886U2E',5,'Marisa','Piesing','Veldman','Holmberg',15798,98,'Del Valle','Colima','2017-05-21','2025-08-10','1993-09-19','Mujer',4,'15:01',12151)
-,('ESHK869953IB5',6,'Hillery','Wigsell','Cannaway','Vernon',25915,7185,'Santa Fe','Yucatán','2014-09-25','2023-10-27','1996-02-16','Hombre',7,'19:59',13087)
-,('IWRD2095326UR',7,'Haley','Blodgett','Ferby','Rockefeller',605,5174,'Escandón','Campeche','2011-02-12','2024-12-04','2001-07-24','Mujer',4,'4:03',7307)
-,('DRQS455712KMO',1,'Joelie','Ertel','Crome','David',1,95,'Nápoles','Yucatán','2015-08-02','2025-08-13','1985-10-02','Mujer',2,'7:27',14549)
-,('WYAI622654JYW',4,'Dennie','Kinder','Cornely','Service',8,5,'Cancún','Sonora','2020-04-19','2025-09-30','1989-05-21','No-binario',6,'20:08',7985)
-,('UHHR288990641',2,'Liana','Siemon','Sidwell','North',23,8345,'Tlatelolco','Oaxaca','2015-08-31','2022-09-05','1990-06-02','Hombre',3,'14:52',8132)
-,('ABOB872975IC3',3,'Gabi','Ravilious','Trimby','Rowland',684,5963,'Del Valle','Zacatecas','2012-01-10','2022-05-21','1992-06-03','Hombre',2,'19:18',7294)
-,('MFEC665591NAF',4,'Debbi','Chumley','MacCome','Bashford',671,24,'Lindavista','Nuevo León','2013-06-08','2022-06-24','1998-09-08','Mujer',1,'11:30',14338)
-,('FMYR592935P01',6,'Cherida','Hastwell','Shawyer','Vernon',78,3327,'Polanco','Coahuila','2011-09-13','2022-06-12','1998-02-08','Hombre',6,'8:33',14364)
-,('ZGNT464939CTI',5,'Waylan','Laurens','Marquand','Hoepker',6,314,'Tulum','Chihuahua','2014-02-21','2023-08-01','1998-05-14','Mujer',3,'14:31',7711)
-,('RBSG107130M0H',2,'Sven','M''cowis','Longo','Bashford',81247,0617,'Álamos','Oaxaca','2012-08-19','2021-11-06','2002-02-04','Mujer',7,'9:32',10772)
-,('LDIX040445XKK',7,'Hubey','Stibbs','Pendell','Fremont',13287,0558,'Álvaro Obregón','Tabasco','2017-07-25','2024-05-11','1991-08-12','No-binario',3,'6:31',12203)
-,('RHOP40436749J',3,'Rheta','Mobbs','Kilby','Bultman',19574,42,'San Pedro de los Pinos','Tlaxcala','2020-06-04','2022-10-16','1999-10-15','Hombre',5,'10:04',13660)
-,('DDWY147683YNW',5,'Padraic','Gartenfeld','Narducci','Coolidge',3255,0,'Narvarte','San Luis Potosí','2019-12-13','2025-09-13','1997-07-23','Mujer',7,'20:28',12605)
-,('AKJR731832ITK',4,'Bastien','Alvarez','Coggan','Eastlawn',1128,2343,'San Miguel Chapultepec','Nuevo León','2015-02-17','2023-10-10','2000-10-19','Mujer',7,'19:21',8463)
-,('NVHH403006KCU',1,'Emmy','Dillon','Kelcher','Rusk',0,365,'Chapultepec','Colima','2011-07-14','2024-04-25','1989-05-31','Mujer',4,'7:52',9718)
-,('YJAI353797JLJ',3,'Lanie','Dullard','Ast','Morrow',4,32365,'San Ángel','Hidalgo','2013-05-16','2025-03-05','1981-11-28','Hombre',2,'21:11',7683)
-,('EMPT2946441LI',7,'Abrahan','Grealey','De Vaar','Miller',9836,22,'Álamos','Veracruz','2019-03-02','2024-06-12','2001-03-28','Mujer',7,'7:45',13430)
-,('KNYJ161973OLA',5,'Moyra','Currie','Humbert','Doe Crossing',68509,159,'Juárez','Tlaxcala','2015-12-03','2022-05-13','1990-07-04','Hombre',5,'21:07',7675)
-,('JZUK522522V3Q',3,'Giana','Marchi','Glennon','Park Meadow',5186,62,'Polanco','Tamaulipas','2019-01-02','2024-12-22','1987-09-23','No-binario',3,'14:12',12920)
-,('LGPD473160N9B',5,'Fan','Sherrum','McCartney','Haas',7026,1765,'Satélite','Nuevo León','2020-04-25','2023-07-11','1985-01-26','Mujer',5,'7:57',13285)
-,('TRZA403234T32',6,'Caroljean','Landon','Portwaine','Longview',11416,41596,'Tlatelolco','Nayarit','2019-01-05','2025-09-15','1988-02-29','No-binario',4,'18:15',8854)
-,('FEDH9700524EV',3,'Valli','Spurman','Ackenhead','Kinsman',046,045,'Reforma','Morelos','2017-02-10','2022-03-16','2000-07-14','No-binario',3,'7:04',10597)
-,('KFGW9685094G4',3,'Bethanne','Bach','Kippin','Luster',090,395,'Coyoacán','Puebla','2019-12-09','2023-08-20','1996-03-05','Mujer',2,'7:39',12152)
-,('VGPV375269QO4',2,'Casey','Iacovone','Giannoni','Larry',08014,169,'San Miguel Chapultepec','Aguascalientes','2018-01-05','2022-10-16','1983-11-28','Hombre',3,'17:22',11959)
-,('CSLR889117602',1,'Roderick','Ilchuk','Bisacre','Darwin',064,1,'Santa Fe','San Luis Potosí','2020-05-26','2025-10-19','1982-09-15','Mujer',5,'9:01',13307)
-,('MNCF6149300FC',4,'Rory','Espinola','Joinson','Elgar',095,889,'Jardines del Pedregal','Sonora','2013-08-27','2023-07-09','1996-06-26','Hombre',1,'9:23',10217)
-,('UQHR854941CV0',4,'Genni','Reames','Eefting','Red Cloud',750,84,'Mérida','Querétaro','2012-02-07','2024-01-18','1994-08-10','No-binario',7,'4:19',13660)
-,('CPSX2064178RO',1,'Gale','Snelman','Ivancevic','Bellgrove',037,4144,'Juárez','Veracruz','2016-11-21','2024-05-04','2002-01-27','No-binario',5,'14:27',12839)
-,('JTNY210113GPM',1,'Dolly','Ragg','Guice','Starling',561,92,'Juárez','Morelos','2013-06-28','2023-02-24','1983-02-10','Mujer',7,'15:53',7557)
-,('DWGL17938375D',5,'Ole','Cullinan','Pikhno','Haas',0522,69031,'Polanco','San Luis Potosí','2019-08-06','2024-07-09','1992-02-01','Hombre',5,'18:23',11659)
-,('FXRK576839RPN',6,'Jefferson','Dany','Spofforth','Merchant',0762,1396,'Mérida','Tabasco','2016-06-17','2022-04-09','1998-11-20','Hombre',7,'20:05',12571)
-,('AGPT526220IAT',6,'Dougy','Seabright','Bisset','Cambridge',4946,0777,'Azcapotzalco','Colima','2018-11-23','2024-05-23','1996-05-17','Hombre',5,'5:36',12965)
-,('TTQT029689F6G',2,'Delores','Fairlam','Malyon','Tennessee',0095,1178,'Roma','Tlaxcala','2017-05-04','2023-03-21','1981-04-19','Hombre',1,'5:50',13102)
-,('VCXZ117601BTB',5,'Hayley','Murricanes','Snookes','Di Loreto',241,024,'Tlalpan','Chiapas','2015-01-14','2023-11-29','1992-12-25','No-binario',5,'6:24',13659)
-,('RAME200213FR6',7,'Birdie','Woolfenden','Kedslie','Mendota',18,54,'Narvarte','Tamaulipas','2016-07-17','2022-03-09','1995-08-17','Hombre',5,'10:11',7631)
-,('PLBS646232G52',2,'Cornall','Stubbin','Kubal','Anniversary',949,7,'Granjas México','Tlaxcala','2014-10-28','2022-12-22','2000-10-13','Mujer',1,'8:07',9032)
-,('WJJU476652Q5Q',2,'Carolus','Deme','Degli Antoni','Pepper Wood',8,78,'Mérida','Veracruz','2018-03-15','2022-09-16','1988-02-17','No-binario',7,'11:22',7692)
-,('FTED4195493Y2',1,'Arvie','Nickell','Gatrill','Pepper Wood',1,39479,'Mixcoac','Tamaulipas','2011-11-23','2025-04-29','2000-07-01','Hombre',7,'5:39',10051)
-,('HPCM987437981',5,'Wenda','Michelmore','Waterstone','Forest Run',10,4,'Santa Fe','Sonora','2011-02-20','2024-06-22','1997-03-03','No-binario',2,'16:25',7487)
-,('XVDT476742ZUZ',7,'Fredelia','Blaszkiewicz','Tonbye','Dapin',317,45,'Tulum','Coahuila','2016-06-15','2021-12-13','1982-01-29','Hombre',4,'6:22',11624)
-,('IAJM701947XB7',3,'Aristotle','Sibly','Vidloc','Carioca',302,2752,'Cuajimalpa','Zacatecas','2015-10-11','2023-01-16','1988-06-12','No-binario',7,'4:22',14924)
-,('DVBL492073CSI',7,'Lyndsay','Lewer','Keppe','Texas',34,1300,'Coyoacán','Jalisco','2020-02-26','2023-10-30','1989-11-26','Hombre',2,'21:36',12146)
-,('NFJJ8009815X6',5,'Lothario','Mosen','Yurocjhin','Tennessee',447,315,'Polanco','Veracruz','2014-10-04','2022-09-05','1984-10-10','Mujer',7,'4:20',9086)
-,('RZTQ851588W30',4,'Albertine','Tregust','Horning','Ruskin',3698,49,'Roma','Jalisco','2015-03-26','2023-10-12','1992-09-30','Mujer',1,'4:23',10915)
-,('KDYI4542141MQ',5,'Dame','Ducker','Mayers','Kinsman',1,92,'Playa del Carmen','Colima','2019-06-20','2022-10-02','1993-12-24','Hombre',3,'5:20',7173)
-,('VYVS740416GTB',4,'Edmund','Antoniutti','Goschalk','Blackbird',05,593,'Napoles','Yucatán','2012-06-21','2022-05-06','1996-07-14','No-binario',2,'15:13',7044)
-,('QTFC758186PXG',4,'Cirillo','Do','Willman','Farmco',7519,57129,'Santa María la Ribera','Puebla','2014-09-17','2022-12-24','1987-08-06','Hombre',5,'16:59',12408)
-,('GAZK61292702G',6,'Sabine','Cristofano','Rexworthy','Harper',8,294,'Granjas México','Quintana Roo','2016-07-18','2022-10-19','1981-08-11','Hombre',2,'11:24',10807)
-,('RUUF750107TC4',4,'Paulina','Miettinen','Trowill','Everett',4,73,'Valle de Bravo','Tamaulipas','2016-12-23','2025-03-13','1987-01-31','Hombre',6,'15:42',7771)
-,('FNXK283601WXG',7,'Deloris','Ghelerdini','Dumphrey','Marquette',91,207,'San Miguel Chapultepec','Tamaulipas','2020-06-17','2022-08-20','1997-03-19','No-binario',5,'20:09',13662)
-,('VRVO2786678GF',4,'Benjamen','Waples','Goligher','Farragut',3724,2,'Coyoacán','Chiapas','2015-10-27','2023-03-12','1985-03-25','Hombre',2,'7:50',13248)
-,('GNYC054733IS0',1,'Bryan','Cleveley','McMorran','Walton',42,676,'Lindavista','Chiapas','2016-11-22','2024-03-31','1995-05-18','No-binario',7,'16:06',7190)
-,('PBHE713822AMO',1,'Vince','Brimilcombe','McNirlan','Hazelcrest',3,009,'Anzures','Querétaro','2016-02-20','2022-04-28','1984-02-10','No-binario',3,'16:52',14438)
-,('GVCU735687FBC',2,'Eva','Guage','Billo','Westerfield',4437,281,'Lindavista','Tlaxcala','2017-03-05','2022-08-06','1982-10-26','Hombre',2,'12:19',13901)
-,('SYSK260092BU1',3,'Jon','Doddemeede','Gerraty','Holmberg',23,8067,'San Pedro de los Pinos','Nayarit','2020-07-09','2023-04-09','1987-05-21','Mujer',1,'9:30',13225)
-,('XCWZ135957OYF',3,'Natalya','Payfoot','Slobom','Manufacturers',37,8008,'Doctores','Hidalgo','2013-06-04','2025-04-13','1985-05-22','Mujer',5,'11:13',9094)
-,('BDDC100606CEK',6,'Nikkie','Gregoriou','Lainton','Lerdahl',56,3108,'Álamos','Oaxaca','2018-06-22','2025-07-16','1991-09-23','No-binario',1,'14:34',8059)
-,('ANFD691600NKD',1,'Sander','Tunnock','Phoenix','Talisman',72115,311,'Cancún','Campeche','2018-06-02','2025-03-12','1998-08-03','Hombre',2,'11:42',8220)
-,('QQNG8385118EF',7,'Umeko','Baldocci','Conant','Forest Dale',321,8768,'Granjas México','Tlaxcala','2013-03-21','2022-05-24','1983-12-24','Mujer',4,'19:44',8144)
-,('YJQU158788UZ3',2,'Phineas','Docket','Rustidge','Sundown',4728,680,'Narvarte','Zacatecas','2013-06-06','2022-02-06','1998-05-12','No-binario',4,'21:38',9480)
-,('CFNF805421723',2,'Sasha','Chaloner','Dennington','Sutherland',20915,90,'San Pedro de los Pinos','Michoacán','2019-07-05','2022-01-30','2000-08-12','No-binario',3,'8:10',11611)
-,('STWU108969B97',7,'Austina','Mazey','Shoemark','Bluejay',0,8,'Mérida','México','2015-07-03','2025-01-12','1993-12-24','No-binario',1,'12:34',13002)
-,('ZJSS355991FPF',2,'Agna','Howells','Kloss','Bluestem',6,0,'San Pedro de los Pinos','Yucatán','2015-09-13','2022-09-01','2002-01-08','Mujer',4,'15:07',7056)
-,('JIIQ327922KUI',4,'Nicolette','Richford','Dalwood','Fairfield',381,28585,'Juárez','Nayarit','2011-05-09','2024-12-02','1995-03-19','No-binario',6,'9:35',10620)
-,('VZHC84661303U',7,'Lenette','Santore','Groven','Northport',46961,1,'Tepoztlán','Jalisco','2019-05-11','2025-09-05','1996-06-22','Hombre',6,'12:15',9465)
-,('CZHH1737900L9',2,'Torre','Roubeix','Swanbourne','Rowland',658,4072,'Cuajimalpa','Tabasco','2013-04-08','2023-09-22','1993-08-23','Hombre',7,'14:54',13402)
-,('DUMM280594PKU',6,'Ashley','Jannings','Stern','Anzinger',4285,362,'Coyoacán','Chiapas','2016-04-10','2022-02-06','1990-02-06','No-binario',7,'19:02',11226)
-,('CCTM161816T1F',6,'Kellen','Bjorkan','Camell','Iowa',6679,346,'Narvarte','Tlaxcala','2015-11-13','2024-11-19','1998-10-14','No-binario',5,'13:15',7171)
-,('AVMZ3981642QJ',7,'Phyllida','Birchett','Have','Iowa',0932,59771,'Polanco','Baja California Sur','2016-08-20','2021-10-30','1995-01-22','Mujer',6,'20:02',8521)
-,('IDAX6985568PE',6,'Shamus','Kinnerley','Minter','Talmadge',27,6,'Escandón','Coahuila','2014-05-03','2025-06-03','1995-12-31','Hombre',6,'4:45',7861)
-,('ZIPT128625YRH',4,'Jose','Champkins','Gorrie','Summerview',9677,60594,'San Jerónimo','Durango','2017-04-21','2023-03-29','1998-11-14','No-binario',5,'14:26',8574)
-,('NEEG44979814B',1,'Otto','Le Maitre','Aizlewood','Springview',7,25,'Coyoacán','Hidalgo','2013-05-30','2023-09-30','1984-12-17','Hombre',1,'17:15',13499)
-,('IZFJ4372170DT',7,'Hesther','McCaskill','Ormiston','Coleman',2,2263,'Xalapa','Aguascalientes','2015-04-03','2025-08-19','1986-02-09','Hombre',3,'12:45',8557)
-,('MCDI488226IIC',4,'Melli','Dougliss','Rangle','Charing Cross',19763,5334,'Cancún','Tlaxcala','2012-04-17','2023-02-27','1986-08-20','Hombre',7,'8:51',11103)
-,('JYBZ317109IKB',7,'Roldan','Ironside','Greenhill','Morningstar',5876,3,'Pedregal','Durango','2012-12-20','2023-05-14','1997-08-25','Mujer',4,'17:52',12241)
-,('LPXD886943HLO',3,'Obediah','Pennicard','Iaduccelli','Muir',07172,9514,'Portales','Tlaxcala','2012-06-08','2025-08-28','1999-06-19','No-binario',5,'10:28',13546)
-,('RAXF107187XBF',6,'Gil','Ault','Northeast','Birchwood',07637,40093,'Lindavista','Quintana Roo','2014-10-17','2023-12-17','1987-03-25','No-binario',2,'14:21',9741)
-,('PHPR753509SY6',5,'Midge','Gouck','Alexandersen','Pond',44,2,'Santa Cruz Atoyac','Sonora','2011-05-12','2021-12-06','2000-11-03','No-binario',3,'9:06',11533)
-,('YOTF5888073HG',3,'Mendel','Lorenzin','Pinsent','Anderson',85076,329,'Tacubaya','Baja California','2011-03-01','2025-04-01','1995-05-20','Mujer',5,'15:57',12982)
-,('UYFU712041GC5',6,'Larisa','Pfleger','Crebbin','Forster',66,701,'Jardines del Pedregal','Tabasco','2015-03-27','2022-05-04','1998-12-23','No-binario',5,'4:25',9934)
-,('ERHF556184R47',3,'Calvin','Huntall','Slay','Veith',2,0666,'Azcapotzalco','Jalisco','2019-09-16','2023-12-22','1995-06-19','Hombre',4,'14:26',10337)
-,('VFGR826020V4G',1,'Ginnie','MacDougall','Chrippes','Burning Wood',555,162,'Cancún','Aguascalientes','2013-06-11','2021-11-27','1995-05-29','No-binario',5,'9:14',12835)
-,('DZAJ492151BLD',4,'Courtenay','Foister','Honnicott','Golf View',0,941,'Coyoacán','San Luis Potosí','2019-06-28','2022-07-06','1981-04-24','No-binario',7,'9:07',14291)
-,('JIJM234610VZ7',1,'Lulita','Budden','Dary','North',1,8711,'Xochimilco','Jalisco','2013-03-18','2022-11-01','1993-11-28','Hombre',4,'18:14',13786)
-,('EBWL203924DQ7',2,'Garey','Pockett','Hadigate','Bellgrove',15,3,'Lindavista','Chiapas','2014-03-14','2022-08-17','1999-06-06','No-binario',1,'14:34',12081)
-,('LXWK820385ZHK',5,'Donni','Buick','Hullyer','Wayridge',43,6969,'Xochimilco','Yucatán','2012-04-26','2023-10-22','1991-06-05','Mujer',2,'9:01',14130)
-,('UATE607105GB9',4,'Lethia','Scothron','Godon','Judy',8682,30231,'San Pedro de los Pinos','Quintana Roo','2018-01-03','2024-06-17','1995-04-27','Mujer',3,'21:20',12480)
-,('BZXN516220URQ',6,'Meier','Edelmann','Avann','Meadow Ridge',22626,59,'Juárez','Aguascalientes','2010-12-24','2024-11-05','1993-11-05','Mujer',5,'18:22',8850)
-,('SIYK623645X37',4,'Marjory','Scripps','Wildman','Carioca',70,47872,'Del Valle','Oaxaca','2014-03-17','2023-09-25','1985-01-29','Mujer',1,'10:15',9207)
-,('JKRK875755S1U',6,'Brynna','Carass','Taillant','Elka',4348,1160,'Xochimilco','Nayarit','2014-12-15','2025-04-07','1997-07-27','Hombre',4,'11:43',8147)
-,('OSBL216584KZZ',1,'Winifield','Renfield','Jopling','Fairview',407,6,'Roma','Quintana Roo','2011-07-19','2022-02-15','1981-03-15','Mujer',6,'4:27',7532)
-,('REGI561325SNH',4,'Hew','Skunes','Buggs','Darwin',29,4,'Tepoztlán','San Luis Potosí','2011-04-09','2024-03-24','1996-01-27','No-binario',7,'7:10',13230)
-,('NEHX230074YW0',1,'Burlie','Yakobovicz','Jann','Dennis',5,872,'Doctores','México','2014-09-09','2024-04-08','1992-02-25','No-binario',2,'8:10',7542)
-,('KHWT605383BQX',7,'Torrance','Brunetti','Glasspoole','Thierer',7,370,'Nápoles','Oaxaca','2012-05-22','2023-04-19','1994-10-24','Hombre',6,'12:55',12460)
-,('SEOK091525CLO',2,'Earlie','Erickson','Eallis','Cascade',4328,014,'San Pedro de los Pinos','Michoacán','2015-02-20','2022-12-21','1986-02-25','No-binario',3,'19:00',12779)
-,('SWJO6699526OK',7,'Ann','Walling','Laguerre','Colorado',17,04918,'Del Valle','Tabasco','2016-04-20','2024-03-19','1980-12-13','Mujer',7,'19:11',10653)
-,('EMRN141529ONH',7,'Nanni','Holhouse','Novotne','Maryland',61926,74,'Anzures','Guerrero','2020-06-22','2023-06-27','1989-07-03','Mujer',2,'19:36',14627)
-,('CRTV985134WW9',5,'Rosemary','Simla','Lorenzetti','Esker',28392,77237,'Del Valle','Jalisco','2014-10-31','2023-06-16','2000-04-23','No-binario',3,'19:11',13981)
-,('UMMK599102HHI',2,'Gian','McCahey','Schuck','Arapahoe',5,492,'Del Valle','Jalisco','2015-03-29','2023-04-01','1988-08-29','Mujer',7,'5:29',10965)
-,('WUQO279236B30',6,'Teena','Lumsden','Perrington','Blaine',42191,71589,'Roma','Chihuahua','2014-09-19','2023-07-18','2002-06-14','Mujer',2,'10:02',10141)
-,('VLBN877573ZDQ',1,'Mariellen','Grazier','Pink','Carpenter',7175,8,'Cuajimalpa','Oaxaca','2015-08-04','2024-05-23','1994-04-12','No-binario',3,'21:49',7809)
-,('ESYI121292NRX',5,'Quincey','Willock','Crimp','Kedzie',8018,80,'San Rafael','Michoacán','2019-09-24','2022-05-21','1999-01-15','Mujer',1,'19:01',13886)
-,('FADG921902GH0',3,'Marybelle','Ziemsen','Inder','Brown',983,46,'Juárez','Tamaulipas','2012-04-26','2023-08-19','1995-06-15','No-binario',6,'20:52',10379)
-,('ULZS250024M00',5,'Abbie','Ginnety','Fleischer','Melvin',6728,729,'Del Valle','Sinaloa','2011-10-02','2021-11-24','1992-11-25','Hombre',6,'7:55',14061)
-,('SBMC882665M3B',7,'Ailey','Oldcote','Stanislaw','Bunker Hill',631,97,'Santa María la Ribera','Tlaxcala','2019-02-20','2023-02-24','1982-05-04','No-binario',3,'15:09',11528)
-,('LQGR848589IN6',2,'Darill','Gabe','Aronow','Longview',07,1190,'Playa del Carmen','Aguascalientes','2012-03-27','2023-09-07','1983-03-24','Mujer',6,'6:28',13818)
-,('YASJ183612DE9',5,'Verile','Hellsdon','Niese','Express',2833,0,'Polanco','Aguascalientes','2017-01-05','2021-11-20','1997-05-13','Hombre',3,'13:04',13638)
-,('VZFQ149425PV9',7,'Melvin','Rany','Giacomazzo','Morning',7,25643,'Napoles','Coahuila','2015-08-16','2022-05-26','1995-07-05','Mujer',6,'20:37',9995)
-,('QTMZ3119629A4',1,'Sorcha','Blandamore','Chaundy','Westerfield',7,47358,'Lindavista','Morelos','2013-11-07','2023-09-14','1983-09-16','Hombre',6,'8:47',8410)
-,('TMXJ820325XPY',3,'Alonso','Spratley','Shelsher','Merry',76,87937,'Del Valle','Oaxaca','2015-12-14','2024-11-24','1989-03-19','Mujer',1,'15:06',9369)
-,('RAQJ855106XJR',3,'Den','Dudson','Standbridge','Hintze',027,28158,'Narvarte','Baja California','2017-12-23','2023-10-06','1987-07-28','Hombre',5,'13:54',8460)
-,('EFGL7777389HU',6,'Kayne','Reinmar','Allner','Cardinal',677,70,'Coyoacán','Morelos','2015-02-06','2023-05-17','2001-06-09','No-binario',6,'15:08',12419)
-,('UGHQ399620QLQ',5,'Ode','Arnatt','Kelberman','Summer Ridge',5030,2624,'Playa del Carmen','Coahuila','2017-06-29','2024-11-20','1998-07-19','Mujer',6,'21:36',12255)
-,('HZLL560597RD1',4,'Cletis','Cockayme','Phette','Lake View',45085,412,'Pedregal','Tlaxcala','2011-10-28','2024-12-05','1987-07-28','Mujer',5,'21:25',13622)
-,('ATJO240561SOF',1,'Winifred','Bruckental','Labeuil','Lake View',42786,22730,'Tepoztlán','Coahuila','2019-08-25','2022-12-14','1984-06-26','No-binario',7,'10:19',8131)
-,('CICD727571N3H',3,'Rickard','Durran','Berntssen','Butterfield',344,5,'Doctores','Sonora','2012-10-13','2025-06-22','2001-11-30','Mujer',1,'17:49',13638)
-,('FUNW9538578U2',3,'Anjanette','Gresch','Remon','Hagan',37705,48,'Tepoztlán','Guanajuato','2011-08-18','2022-03-06','1981-06-06','Hombre',7,'11:25',8999)
-,('RYMW162967XBP',3,'Ravid','Catenot','Beaver','Forster',68371,67034,'Napoles','Baja California','2018-07-18','2023-05-19','1991-10-10','Hombre',2,'10:25',14305)
-,('YNQG889638T7Z',1,'Amalea','Royse','Blackett','Oak',38,01,'Pedregal','Aguascalientes','2018-10-08','2025-05-09','1982-03-19','Mujer',7,'11:30',8281)
-,('UXVF681748TQG',2,'Alis','Bing','Akeherst','Arapahoe',7,3933,'Portales','Chihuahua','2013-01-28','2025-06-01','1995-10-27','Mujer',5,'6:02',8310)
-,('XYOO486201DYC',1,'Richie','Kingsnorth','Canlin','Crownhardt',0904,160,'Xochimilco','Colima','2014-07-31','2023-10-09','2000-12-08','Hombre',2,'20:25',14275)
-,('NURJ9807572J2',1,'Evelin','McCarly','Haskell','Nelson',1,20720,'Cancún','Coahuila','2019-07-18','2022-07-18','1985-09-26','Hombre',6,'10:26',13724)
-,('DBBC082330A9Z',2,'Morry','Showers','Banner','Larry',89060,49530,'Doctores','Coahuila','2013-10-05','2022-02-19','1989-03-10','Hombre',3,'14:10',14220)
-,('WZTD3798036M0',4,'Car','Bartolini','Lempel','Dryden',512,0611,'Roma','México','2017-01-29','2023-07-30','2001-03-25','No-binario',2,'7:16',12857)
-,('MYJE155414B1R',6,'Stephan','Lewens','Mustchin','Kinsman',9,06,'Tacubaya','Zacatecas','2012-06-30','2023-04-10','1994-06-24','Mujer',6,'15:21',14431)
-,('KKMP660704KBQ',5,'Ainslee','Kempton','Stapforth','Evergreen',77070,1,'Napoles','Guerrero','2015-05-27','2024-07-24','1989-02-12','Hombre',2,'11:52',7527)
-,('QCWT205350HMQ',3,'Leticia','Sallery','Kemm','Barby',97509,98062,'Playa del Carmen','Guanajuato','2020-03-23','2022-04-15','1999-04-20','No-binario',4,'7:35',12591)
-,('WLCR504055KJH',1,'Quentin','Grzelewski','Gatus','Walton',83891,08378,'Playa del Carmen','Zacatecas','2012-04-18','2023-12-30','1983-09-10','Mujer',7,'6:28',7996)
-,('ZLZI098437ITG',6,'Boigie','McKinnon','Czaple','Fieldstone',73,670,'Álvaro Obregón','Coahuila','2019-08-09','2024-02-04','1987-08-23','Hombre',7,'11:29',8309)
-,('LPSF3061736O5',7,'Marilin','Fearnley','Gullivent','Golf',69149,76,'Satélite','Veracruz','2017-02-01','2025-09-06','2001-04-25','Hombre',6,'9:49',9094)
-,('LVTZ884003L54',3,'Shena','Digginson','Copestick','Eastwood',097,6659,'Polanco','Nuevo León','2020-07-15','2025-09-02','1993-02-02','Mujer',7,'21:50',12597)
-,('TXDD484545EW2',4,'Putnem','True','Peatman','Mockingbird',89,05,'Mixcoac','Tlaxcala','2019-03-24','2023-01-22','1984-01-31','Mujer',4,'5:39',14446)
-,('XGDV876054EJ6',6,'Rufus','Woodings','Giacomoni','Arapahoe',46,6,'Xochimilco','Chiapas','2016-06-25','2022-11-13','1999-06-15','Mujer',4,'18:55',10405)
-,('WQNT23442169Y',6,'Dionisio','Gooders','Halsho','Cottonwood',6,1582,'Doctores','Quintana Roo','2011-06-04','2022-01-06','1992-04-06','Mujer',1,'11:56',10033)
-,('LCEY3852469Y3',7,'Elsa','Dresche','O'' Dooley','Washington',8319,643,'Santa Fe','San Luis Potosí','2015-11-04','2024-10-06','1990-09-26','No-binario',7,'15:41',12639)
-,('OXFX047761CFW',4,'Kaycee','Goade','Markwell','Pleasure',67453,9,'Polanco','Chiapas','2012-06-17','2024-01-25','1987-05-21','Hombre',1,'16:37',13633)
-,('AZKW501776L91',4,'Cairistiona','Morrice','Bugler','Oxford',97,2613,'Narvarte','México','2012-05-30','2022-12-25','2000-06-11','Hombre',2,'17:30',10544)
-,('PDHJ787862025',6,'Dino','Grelka','Hollingsbee','Manitowish',8547,1,'San Jerónimo','Durango','2018-10-07','2022-06-05','1986-10-12','Hombre',6,'12:04',8690)
-,('CVJG225052X46',5,'Nannie','Blayd','Bramhall','Marquette',2,5308,'Azcapotzalco','Chihuahua','2019-11-24','2024-09-22','1984-03-26','No-binario',5,'21:37',12823)
-,('XRTD401696N5F',6,'Wileen','Bowcher','Clace','Forest Run',642,82579,'Portales','Jalisco','2015-05-29','2025-02-03','1982-07-13','Hombre',1,'15:40',12400)
-,('DZAQ221204QL0',7,'Elka','Blencowe','St. Queintain','Sloan',34930,811,'Doctores','Aguascalientes','2016-06-27','2021-12-13','1994-02-15','No-binario',1,'21:26',13104)
-,('JJAO551202J12',6,'Lanna','Pea','Nickoles','Sullivan',04213,66277,'Juárez','Puebla','2018-05-23','2025-08-25','1990-01-01','No-binario',7,'15:43',7829)
-,('LRDL29719558C',3,'Walden','De Bruijn','Frere','Clyde Gallagher',685,8,'Coyoacán','Baja California','2013-05-27','2023-01-07','1993-06-16','Hombre',1,'10:07',10367)
-,('VNDY323887JI2',7,'Xaviera','Flintiff','Forten','South',9477,7390,'Álamos','Morelos','2014-09-29','2025-02-26','1986-01-19','Mujer',4,'13:39',14500)
-,('ROBD226677S0J',4,'Tedie','Cardoo','Whytock','Morning',94,24446,'Polanco','Nayarit','2014-10-12','2023-04-01','1992-08-03','Hombre',3,'18:22',8998)
-,('EXFT0887238RG',6,'Parke','Piele','Reskelly','Becker',7159,7,'Valle de Bravo','Puebla','2011-10-08','2025-07-18','1985-12-14','Mujer',1,'13:05',10638)
-,('VMYJ92925214V',7,'Natalee','Fidler','Measen','Merry',0354,07,'Del Valle','Baja California','2018-10-06','2024-03-06','1990-05-16','No-binario',7,'19:29',13929)
-,('XDOW725406KHD',2,'Cosmo','MacCollom','Jirzik','Oak',1313,5,'Santa Fe','Aguascalientes','2013-02-22','2024-02-12','1980-11-09','Hombre',7,'8:07',10298)
-,('SOOO371742YXN',1,'Earlie','Bertlin','Boness','Nobel',94501,3867,'Lindavista','Campeche','2013-11-21','2022-05-30','1985-05-31','Mujer',3,'12:24',7634)
-,('TCLF9082455TV',7,'Isaak','Tallant','Curnokk','Twin Pines',8495,934,'San Rafael','Jalisco','2014-11-18','2022-11-12','2002-02-20','No-binario',5,'14:19',14377)
-,('CMKH203078O58',3,'Thurstan','Toth','Wychard','Northland',73,21431,'Polanco','Nuevo León','2013-12-02','2025-09-13','1992-05-03','Mujer',1,'11:15',11713)
-,('PLVX952862KWQ',6,'Reba','Thirtle','Lowne','Sauthoff',783,2683,'Tulum','Veracruz','2012-06-13','2025-03-18','1995-10-07','No-binario',1,'18:08',14455)
-,('JJXP552783UGA',3,'Amitie','Syrad','Gillbanks','Arizona',5,66975,'Coyoacán','Quintana Roo','2018-04-09','2024-01-30','1991-03-04','Mujer',2,'18:17',13980)
-,('VLTM460533H75',4,'Rafaellle','Piff','Backe','Redwing',67,35,'Lindavista','México','2020-04-20','2025-10-09','1982-08-18','Hombre',6,'15:11',8129)
-,('UDFP598597V2O',4,'Cristionna','Meynell','Noods','Stone Corner',14,0600,'Napoles','Colima','2020-02-25','2023-12-05','1987-01-21','Hombre',2,'8:13',12192)
-,('WPEP7642422SU',4,'Quincey','Varah','Durram','Drewry',7161,6516,'Lindavista','Morelos','2012-09-14','2023-01-24','1989-09-27','No-binario',4,'8:35',7159)
-,('JVBO694172M24',1,'Selene','Megany','Braker','Oakridge',45,3131,'Pedregal','Querétaro','2018-03-10','2023-09-25','1997-10-18','Mujer',6,'10:56',7953)
-,('XOLZ497055G6Z',6,'Nerty','Creaser','Shelford','Pennsylvania',13247,38202,'Cuajimalpa','Puebla','2020-02-26','2025-09-01','1988-07-15','Mujer',6,'11:28',12071)
-,('NNQC939845S5D',3,'Yvonne','Balnaves','Crauford','Oak Valley',1766,52,'Doctores','Zacatecas','2019-06-20','2025-04-16','1988-12-02','Mujer',2,'15:03',12144)
-,('KRZT611094NR4',6,'Helena','Rogge','Reolfo','Monument',7,26743,'Jardines del Pedregal','Tamaulipas','2012-03-30','2022-11-03','1984-07-18','No-binario',5,'9:19',7619)
-,('FYAB5264990GB',3,'Hal','Cattemull','Quaif','Cottonwood',16125,1568,'Portales','Tamaulipas','2015-12-14','2021-12-20','1993-12-05','Hombre',1,'15:33',9653)
-,('LDRM2405379UD',3,'Gavrielle','Deluce','Peaden','Prairie Rose',2,719,'Pedregal','Aguascalientes','2018-09-29','2022-01-09','1993-12-29','No-binario',3,'9:28',8010)
-,('GQOB9419644EN',7,'Helenelizabeth','Tothe','Folk','Chive',77,0,'Tlalpan','Sonora','2018-02-02','2025-09-21','1984-07-01','Hombre',6,'10:33',12968)
-,('IACA863760ZEZ',1,'Gibb','Kestin','Reskelly','Thompson',6253,39,'Juárez','Tabasco','2020-10-16','2022-11-09','1989-03-09','Mujer',6,'7:53',14109)
-,('GBOX3028126SM',3,'Elianore','Sanzio','Di Giacomettino','Graedel',29,7,'Roma','Michoacán','2014-04-03','2022-04-18','2001-10-28','Mujer',7,'12:04',7324)
-,('ZVLU974075LUD',2,'Gwendolin','Schwandermann','Deware','Di Loreto',734,23,'Reforma','Guerrero','2012-07-18','2022-01-13','1990-12-13','Hombre',5,'21:09',10627)
-,('KRWX333628HKG',1,'Miof mela','Bass','Agostini','Lighthouse Bay',091,0,'Anzures','Morelos','2012-10-02','2022-01-11','1994-02-12','Mujer',4,'17:00',12628)
-,('AGGX1975358JC',6,'Parker','Cowerd','Ziemecki','Reindahl',39,29421,'Xalapa','Tamaulipas','2017-01-16','2025-06-04','1997-01-26','Mujer',3,'19:34',14587)
-,('IRFP981099YFQ',2,'Merci','Sebrook','Kinnar','Ludington',215,40,'Narvarte','Tabasco','2019-03-02','2023-08-12','1985-02-04','Mujer',4,'11:45',12984)
-,('ZZWT5092439Q0',7,'Osborne','Dyter','Gallico','Anzinger',9,184,'Portales','Baja California Sur','2014-04-26','2023-03-07','1993-07-03','Mujer',2,'14:25',9184)
-,('OZSG850125W31',6,'Wilt','Swithenby','Kun','Waywood',09181,819,'Xochimilco','Campeche','2019-07-12','2025-04-07','1987-03-24','No-binario',2,'21:27',13907)
-,('AGJN640350UCD',7,'Lenci','Abdy','Spyby','Esker',75651,3984,'San Pedro de los Pinos','Baja California Sur','2016-10-12','2024-10-20','1999-12-01','Mujer',5,'14:26',12833)
-,('ENAA616099663',3,'Estrellita','Loosley','Pockey','Di Loreto',00,11399,'San Pedro de los Pinos','Coahuila','2018-11-12','2023-09-02','1992-07-06','Hombre',2,'21:02',9151)
-,('BBZX75015673Q',1,'Sayre','Chaff','Stephenson','Pond',037,52496,'San Ángel','México','2013-05-26','2023-06-26','1984-08-21','Mujer',7,'9:26',12577)
-,('SDSC834504SLL',6,'Barron','McClenaghan','Tomalin','Dennis',62,58051,'Tacubaya','Zacatecas','2014-07-16','2025-01-07','1982-06-30','Mujer',4,'12:16',10744)
-,('BBOL7485494G5',4,'Janina','Fearnyough','Monson','Graceland',3559,620,'Cuajimalpa','Jalisco','2017-10-03','2025-09-19','1988-11-22','No-binario',6,'21:30',14583)
-,('HKLB8269463ML',4,'Sanders','Murie','Moorhouse','Shelley',328,58,'Polanco','Baja California Sur','2020-04-28','2025-02-02','1999-06-14','No-binario',6,'8:04',11969)
-,('YHRR0874132N3',3,'Tarrah','Lumly','Jurasz','Straubel',8,89093,'Pedregal','Tlaxcala','2016-12-09','2022-11-27','1992-11-26','No-binario',4,'12:02',12801)
-,('LRLW439352VBN',3,'Nanete','Marcam','Delleschi','2nd',3,6881,'Azcapotzalco','Tlaxcala','2014-07-31','2024-08-29','1995-06-14','Mujer',7,'12:38',13299)
-,('TSWX932509UX6',5,'Killian','Klimov','Sydenham','Westerfield',0,2,'Condesa','Querétaro','2013-04-26','2025-03-25','1986-08-16','No-binario',1,'15:32',10642)
-,('BAMO774006EBQ',6,'Bradly','Tomkinson','Lebel','Harper',2,1,'San Jerónimo','México','2016-04-21','2022-12-07','1984-12-23','No-binario',2,'18:30',12910)
-,('CBCH471507HUV',4,'Jena','Castleman','Reaper','Sunfield',67,30,'Polanco','San Luis Potosí','2015-04-22','2024-04-01','1997-07-15','Mujer',5,'16:39',14346)
-,('HTQW391173L47',4,'Kaye','Bowdrey','Bremeyer','Arizona',3,4,'Lindavista','Morelos','2013-09-24','2023-08-25','1980-11-06','Hombre',6,'4:53',9035)
-,('KNZJ541142WKC',5,'Anna-maria','Ruse','Dabels','Rigney',47543,2456,'Álamos','Guerrero','2019-03-20','2023-01-08','2002-09-10','Hombre',1,'5:30',13677)
-,('WZVS840002V4B',7,'Cymbre','Taffley','Lorentzen','Corry',780,9,'Doctores','Tlaxcala','2017-10-10','2022-04-22','1984-08-04','No-binario',7,'12:31',7140)
-,('EHPA434668E4X',3,'Aleta','Butland','Kohneke','Rowland',81237,85675,'Tacubaya','Chiapas','2018-09-10','2024-09-29','1998-05-23','Mujer',3,'17:01',10865)
-,('ZZUB499835FBR',5,'Aileen','Hartzog','Ivashintsov','1st',3,57142,'San Ángel','Durango','2014-12-26','2023-01-28','1998-08-12','No-binario',5,'8:41',11206)
-,('LDPW3369759DD',1,'Oswell','Markie','Cracknell','Londonderry',51811,0,'San Ángel','Sinaloa','2012-08-16','2022-06-20','2000-10-25','Hombre',3,'21:37',14753)
-,('PQLV686088BRV',7,'Katherina','Minto','Garwell','Nobel',45,4,'Coyoacán','Chiapas','2011-08-24','2025-05-26','1994-01-31','Hombre',6,'19:05',7062)
-,('JOWN5776903DH',2,'Mina','Plaice','Lulham','High Crossing',844,625,'Tulum','Puebla','2020-09-02','2025-03-05','1999-04-25','Hombre',4,'16:28',10634)
-,('ULDT963012SFY',1,'Maurita','Colenutt','Bearn','Menomonie',878,6,'Portales','Coahuila','2010-12-15','2025-04-04','1989-12-25','Hombre',2,'19:26',10162)
-,('EXJP159379IXZ',4,'Pamela','Croutear','Klosges','Glendale',07959,11,'Polanco','Zacatecas','2018-01-20','2022-09-08','1988-09-23','Mujer',6,'11:44',11371)
-,('SSLI633746GCQ',5,'Ivor','MacAllen','Garrique','2nd',5378,0,'Del Valle','Querétaro','2015-03-29','2023-03-03','1993-11-21','Hombre',4,'18:20',7197)
-,('ILZP696410AMW',7,'Amii','Daniels','Smither','Miller',6,8693,'Chapultepec','San Luis Potosí','2018-08-08','2024-04-06','1989-07-31','Mujer',4,'9:47',12054)
-,('QZUN705444NXD',1,'Zared','Botterill','Stormonth','Granby',4182,3577,'Napoles','Jalisco','2015-12-18','2022-12-05','1983-12-18','No-binario',1,'7:33',12808)
-,('CQZL397064PV1',5,'Adaline','Outibridge','Dudbridge','Portage',215,1086,'San Jerónimo','Jalisco','2016-12-08','2024-03-22','1995-01-28','Hombre',2,'21:25',11465)
-,('CPFE437680S1W',2,'Estevan','Blight','Mattinson','Lukken',117,729,'Playa del Carmen','Yucatán','2014-10-11','2025-07-25','1986-10-27','Hombre',7,'11:46',8785)
-,('LLOT9101003DG',2,'Saraann','Stuffins','Forrestill','Surrey',5483,48,'Santa María la Ribera','Querétaro','2016-03-07','2025-10-20','1997-07-13','No-binario',4,'14:20',8779)
-,('AJNN3517092YJ',5,'Evelin','Ranscomb','O''Lochan','Towne',10082,85,'Narvarte','Campeche','2012-01-04','2024-11-20','1985-05-20','No-binario',5,'20:41',12615)
-,('PQAZ3874872ZT',4,'Lorrin','Brandts','Cazin','Maple',367,9,'Tlatelolco','Nayarit','2016-08-10','2023-12-02','1996-07-01','No-binario',5,'9:11',13237)
-,('REAH62760087S',6,'Terry','Biggen','Beamont','Meadow Ridge',91,1,'San Miguel Chapultepec','Nayarit','2011-05-21','2022-11-21','1991-02-25','No-binario',6,'7:44',8884)
-,('UGDV9620487AI',5,'Emmye','Springer','Conkling','Warner',528,8,'Valle de Bravo','Tamaulipas','2016-05-08','2024-12-29','1993-10-27','Hombre',1,'12:45',8034)
-,('ZOOQ385324FJH',1,'Misty','Ronchetti','Weyman','Veith',4,428,'Coyoacán','Chihuahua','2014-07-28','2023-01-18','1987-11-06','Hombre',7,'20:02',8110)
-,('ZQED3814389ZA',3,'Lorie','Blakeslee','Worsam','Nevada',3,3210,'Satélite','Veracruz','2011-11-28','2023-11-10','1997-07-14','Hombre',6,'15:23',7295)
-,('CKCC732226VAA',5,'Merry','Rigge','Stiant','Clarendon',19998,0130,'Xochimilco','Guanajuato','2018-05-21','2022-03-27','1980-11-04','No-binario',7,'10:52',13208)
-,('TSFW4308750BA',4,'Shell','Staziker','Bolf','Del Sol',08728,615,'Chapultepec','Tamaulipas','2018-06-21','2024-11-16','1986-01-23','Hombre',2,'6:04',13614)
-,('FBNA823689A8C',7,'Gertrude','Duell','Cretney','Oak Valley',56644,53,'Escandón','Guerrero','2019-12-23','2023-05-27','1992-11-19','Mujer',6,'4:52',11500)
-,('HENI3402983PI',2,'Fanni','Bygrove','Tomkin','Green',548,52,'Cuajimalpa','Quintana Roo','2014-10-22','2024-11-27','1998-02-13','Mujer',3,'11:13',11448)
-,('JXRC221904YQL',3,'Iormina','Meeson','Twelvetree','Crest Line',7326,58101,'Roma','Nuevo León','2011-07-11','2025-10-08','2000-08-27','Mujer',1,'13:54',10803)
-,('ZUFH2002321YG',7,'Tillie','Ripping','Loosmore','Waywood',2,140,'Del Valle','Chiapas','2013-10-12','2022-02-25','1984-03-30','Hombre',6,'20:53',8275)
-,('ZYKK225562ZIP',5,'Domenico','Skegg','Dempster','Northview',47683,441,'Mixcoac','Morelos','2019-03-20','2024-01-13','1987-10-08','Hombre',6,'14:42',10217)
-,('WVXC647371M32',7,'Guilbert','Davage','Wike','Vahlen',0,92687,'Polanco','Tamaulipas','2014-08-05','2023-04-14','1986-09-28','Mujer',1,'6:55',8027)
-,('BRLD311451KLK',7,'Annamarie','O''Dea','Catterill','Carberry',21044,29,'Cancún','Yucatán','2016-12-23','2022-08-28','1987-02-25','No-binario',5,'8:35',10581)
-,('QJON769067Y7Q',5,'Larine','Marushak','Mc Curlye','Onsgard',7134,47561,'Lindavista','Zacatecas','2019-09-24','2025-04-12','1982-04-20','No-binario',3,'14:56',10295)
-,('FOSE9350259V2',2,'Zenia','Wickett','Hamon','Eagan',584,36549,'Del Valle','Veracruz','2017-11-17','2025-04-04','1983-10-10','No-binario',2,'5:04',7026)
-,('SMTS5081775NI',2,'Angelo','Trim','McElmurray','Erie',9,518,'Condesa','Campeche','2014-07-22','2025-02-01','1984-11-07','No-binario',2,'18:31',11563)
-,('QASO410976ZQ9',7,'Pascal','Errichelli','Zorzin','Kim',6,9802,'Portales','Oaxaca','2015-05-22','2023-11-10','1983-06-19','No-binario',4,'4:04',10962)
-,('QDAC097823DKK',4,'Maddalena','Simkin','Spurret','Brown',9275,690,'San Rafael','Michoacán','2018-04-25','2022-01-25','1988-11-27','No-binario',2,'13:44',8677)
-,('APKM5552689OH',3,'Marcille','Duny','Gaddes','Hollow Ridge',363,797,'Lindavista','Puebla','2012-11-24','2023-09-05','1989-02-21','Hombre',4,'11:10',14189)
-,('OZVR826696AUC',4,'Eolande','Dorot','Boriston','Lake View',19,2,'Narvarte','Hidalgo','2018-10-07','2022-10-05','1995-08-02','Hombre',4,'10:33',9287)
-,('WINH19981889T',1,'Heather','Renforth','Warton','Ridgeway',453,0,'Escandón','Durango','2011-01-31','2022-08-25','1989-09-03','Hombre',7,'7:58',7791)
-,('ROFW568143T1G',7,'Perla','Gussin','Arnolds','Hollow Ridge',08433,96564,'Polanco','Durango','2014-09-04','2022-11-27','1983-11-17','Mujer',3,'10:21',14822)
-,('INVC414603VEM',7,'Thaxter','Beckford','Klimecki','Spaight',6,760,'San Pedro de los Pinos','Sonora','2017-11-24','2025-03-17','1990-03-27','Hombre',6,'7:35',12016)
-,('PLIK810727UGT',5,'Rebecca','Cortnay','Scarf','Blue Bill Park',014,8,'Tepoztlán','Coahuila','2010-12-25','2022-08-03','1996-10-30','Hombre',3,'11:39',8847)
-,('HFIH603852UHH',4,'Mercy','Fitzroy','Darbyshire','School',7,97,'Xalapa','Sinaloa','2020-04-08','2023-12-30','1981-06-13','No-binario',1,'5:36',9427)
-,('IDIH210832YBL',3,'Shawn','Trouncer','Sancroft','Monterey',5,46902,'Del Valle','Sinaloa','2014-08-05','2021-11-25','1992-10-25','No-binario',1,'9:28',11995)
-,('BLSN3419822ST',6,'Cortie','Derks','Laviss','Waywood',66392,82,'Del Valle','Durango','2018-08-20','2024-10-07','2002-04-06','Mujer',7,'5:33',14732)
-,('SAUB881103SM6',7,'Gardiner','Brewin','Josh','Hintze',6796,63,'Portales','Nayarit','2015-06-08','2022-04-17','1989-01-01','No-binario',2,'17:09',14779)
-,('VXPW3888594FK',5,'Benedikta','Stickings','Skerrett','Fuller',7578,19649,'Anzures','Sonora','2016-11-08','2024-10-20','2001-09-02','No-binario',7,'16:17',10647)
-,('SXFI875393UZH',1,'Ferris','Minot','Matussov','Fulton',8,7065,'Del Valle','Michoacán','2012-04-01','2025-10-20','1983-06-13','Hombre',1,'18:31',14898)
-,('PYLD740692U7Z',4,'Conrado','Campes','Girardet','Summerview',7908,11733,'Juárez','México','2017-05-01','2022-02-10','1991-09-25','Mujer',6,'9:51',12753)
-,('XWRA569090QXS',4,'Davita','Strainge','Corre','Garrison',913,1493,'Granjas México','Sinaloa','2013-06-14','2023-10-04','1983-07-04','Hombre',1,'10:28',13440)
-,('BQNH337445JE6',6,'Damita','Cockshut','Tee','Killdeer',71066,768,'Narvarte','Sonora','2011-09-06','2024-11-08','1990-04-03','Mujer',5,'17:28',9706)
-,('LGQB026223I3S',7,'Blithe','Voisey','Badsey','Carpenter',4771,82981,'Escandón','Tabasco','2015-11-22','2023-12-09','1984-09-02','No-binario',4,'16:44',7732)
-,('UOHZ545794JXA',7,'Katerine','Rickett','Disbrow','Chive',06,731,'Doctores','Zacatecas','2013-03-10','2022-05-01','1981-02-28','No-binario',6,'19:10',12992)
-,('MJVW452274549',2,'Gayler','Pettingall','Broom','Lotheville',3,93,'Coyoacán','Tlaxcala','2019-04-07','2024-06-15','1984-01-31','Hombre',1,'11:20',14434)
-,('NYXQ903317H52',4,'Guy','Archdeacon','Rumke','Chinook',83,35,'Lindavista','Tamaulipas','2018-04-24','2022-06-28','1996-04-02','No-binario',4,'19:05',8747)
-,('UUFT829276A3K',2,'Loren','Chopping','Prophet','Clyde Gallagher',6997,58589,'Polanco','Colima','2012-05-13','2024-05-16','1993-04-03','Mujer',3,'8:04',12780)
-,('SCEB3020440JE',5,'Tiebold','Hodgen','Shenton','Golden Leaf',8,57779,'Polanco','México','2014-09-21','2022-03-07','1996-05-04','Mujer',2,'8:24',9381)
-,('ZNKO840661XM3',5,'Massimo','Hazeldean','Rembaud','Clove',8,418,'Tacubaya','Quintana Roo','2014-07-31','2022-02-10','1983-04-21','Mujer',7,'19:44',12511)
-,('OXYB862824RID',4,'Wash','Grog','Jaze','Meadow Vale',924,84080,'Álamos','Guerrero','2012-07-04','2023-03-10','1986-12-02','Hombre',3,'8:47',12269)
-,('JXDL838389JHE',7,'Everard','Jost','Rubrow','Summit',65239,3,'Lindavista','Durango','2015-02-23','2022-10-03','1983-01-15','Hombre',3,'17:53',8111)
-,('LTKF2550730EH',1,'Hillary','Arrighini','Broadis','Lighthouse Bay',9,995,'Álvaro Obregón','Querétaro','2017-12-27','2023-10-03','1991-02-20','Mujer',2,'20:45',10314)
-,('VDOK797342GN0',7,'Cari','Ream','Moulin','Maple',72,33,'Portales','Sinaloa','2018-06-11','2022-03-27','1983-11-07','Hombre',7,'19:51',8413)
-,('PIDZ367237IN8',3,'Hadlee','Kuhnke','Scholler','Carey',94,969,'Cancún','Yucatán','2018-12-01','2023-01-15','1997-06-08','Mujer',4,'19:23',9837)
-,('QFWI182626N98',2,'Hulda','Lauder','Le feaver','Sullivan',9089,009,'San Jerónimo','Coahuila','2015-07-24','2022-04-01','1997-01-21','Mujer',3,'19:27',7776)
-,('LQTL8604836SB',3,'Ladonna','Domerq','Sapwell','Graedel',7989,93716,'Anzures','Guerrero','2015-06-24','2023-03-28','2001-04-01','No-binario',7,'5:02',14126)
-,('NFLD1129689AI',5,'Kennedy','Hardiman','Armes','Meadow Vale',2309,526,'Narvarte','Michoacán','2013-07-02','2023-08-25','1999-01-28','Mujer',7,'5:50',13563)
-,('ZSYG063469E91',7,'Tamar','Groveham','Andreoletti','Burrows',74,03,'Roma','San Luis Potosí','2011-05-02','2025-06-17','1985-10-06','Mujer',6,'9:20',11124)
-,('DIOV2601275HH',3,'Lorne','Gladeche','Tarbatt','Meadow Vale',7,3284,'Mérida','Tamaulipas','2016-02-01','2023-11-16','1989-07-06','Hombre',3,'16:08',14167)
-,('KKSO307016PM9',3,'Leontine','Zaple','Slader','Green Ridge',81,82,'Cancún','Jalisco','2012-10-16','2023-07-12','1981-06-02','Hombre',4,'4:20',7776)
-,('UFYU282292TTP',2,'Rianon','Spruce','Lief','Oxford',16,9424,'Del Valle','Aguascalientes','2013-06-05','2025-03-12','1989-09-21','Hombre',6,'17:24',12425)
-,('DQHU6088436XI',3,'Rebe','Middlemiss','Klasen','Monica',8178,89,'Cuajimalpa','San Luis Potosí','2016-03-01','2025-01-06','1986-01-13','Mujer',4,'9:56',7725)
-,('VOBC3015775CF',6,'Seamus','Killingsworth','Boarder','Meadow Vale',36779,5791,'Polanco','Yucatán','2017-06-25','2023-12-07','1986-02-06','No-binario',5,'5:19',10289)
-,('JRSK583427K2L',7,'Alyse','Darben','Gainforth','Fairview',1462,05,'Cancún','México','2012-04-08','2022-04-28','1986-07-31','Hombre',6,'8:31',11892)
-,('ASWC537866GGV',2,'Johnathon','Dudhill','Fryett','Parkside',18180,26,'Nápoles','Chiapas','2017-02-27','2022-09-08','1984-01-29','Hombre',1,'7:57',9205)
-,('XCMH884546U9M',1,'Arleyne','Redsall','Scyone','Texas',71262,52931,'Xochimilco','Nuevo León','2018-10-04','2022-01-27','1984-03-24','No-binario',1,'15:22',8718)
-,('ZMRW205697BT2',1,'Loise','McFfaden','MacGuiness','Clemons',667,22404,'Chapultepec','Chihuahua','2013-02-08','2024-06-16','1997-10-14','Hombre',4,'19:26',13565)
-,('QISS659183BW5',4,'Alfie','Langton','Waddams','Towne',7,0,'Escandón','Tlaxcala','2010-11-22','2023-09-04','1981-02-17','Mujer',3,'15:39',11265)
-,('QHRN881676BVN',6,'Barrie','Beeho','Kimblen','Roth',9410,12574,'Tlatelolco','Chiapas','2011-07-14','2022-11-20','1992-05-25','Hombre',6,'19:03',13022)
-,('IRCJ811459OM7',4,'Amalee','Gretham','Crispin','Grayhawk',2,26389,'Granjas México','Michoacán','2015-10-09','2021-12-29','1980-12-05','Hombre',5,'11:07',11225)
-,('UHCB3196708FJ',3,'Raff','O''Callaghan','Louden','Dunning',4,65,'Lindavista','Coahuila','2014-08-04','2024-09-07','1994-11-07','No-binario',3,'6:06',8960)
-,('RVOX521279EWC',7,'Loretta','Huchot','Williamson','Park Meadow',6,7,'Del Valle','Colima','2011-02-19','2025-05-27','1997-01-06','Mujer',2,'17:36',13654)
-,('SNNV9567221LD',2,'Ursala','Lush','Sellar','Graceland',491,25530,'Lindavista','Puebla','2020-04-01','2021-12-04','1989-06-13','No-binario',5,'9:56',12626)
-,('OCEL152990JYG',4,'Fiann','Wearn','Blazejewski','New Castle',3834,87653,'Azcapotzalco','Guerrero','2017-10-23','2025-06-23','1997-05-29','Mujer',3,'15:38',14131)
-,('YBKS183663YWS',5,'Vasily','Carnall','Enriquez','5th',5,2,'Jardines del Pedregal','Zacatecas','2018-08-22','2023-12-14','2001-06-05','Hombre',6,'11:16',13798)
-,('GKKF619731B47',2,'Lauri','Laurentin','Kernermann','Welch',7405,34991,'Tulum','Nayarit','2013-11-05','2022-08-25','2001-01-18','No-binario',2,'9:12',8633)
-,('ULJG641928H9F',4,'Charisse','Kelf','Callar','Jenifer',74,105,'Valle de Bravo','Quintana Roo','2012-02-14','2023-06-08','1992-02-24','Hombre',4,'13:32',7109)
-,('NXVP823590NK0',3,'Christie','Logg','Cornier','Oneill',89,45566,'Cuajimalpa','Sonora','2011-03-21','2023-08-24','1996-01-17','Hombre',7,'16:20',12725)
-,('TCVC714701HE4',6,'Arney','Leftly','Bigadike','Amoth',48430,40245,'Narvarte','Yucatán','2019-07-25','2023-10-31','1999-01-02','Mujer',5,'8:57',7403)
-,('DAJO912531UYL',6,'Joellyn','Yerrill','Clough','Miller',1080,61130,'Portales','México','2014-11-14','2024-01-10','1986-08-27','No-binario',2,'19:51',9751)
-,('UCBT271691GNI',5,'Gasparo','Helks','Harkness','Tomscot',5311,26094,'San Miguel Chapultepec','Campeche','2019-05-16','2022-08-30','1989-08-27','No-binario',3,'7:48',11488)
-,('XJIL658580TU8',1,'Tibold','Muneely','Hain','Hoard',8416,37,'Xochimilco','Tlaxcala','2020-08-28','2024-08-08','1991-04-19','Mujer',4,'20:38',10710)
-,('YRTM309878SPV',6,'Berti','Beilby','Upjohn','Roxbury',027,014,'Escandón','Michoacán','2017-08-08','2022-12-16','1980-10-26','Hombre',2,'17:04',13054)
-,('VAJF439501HML',7,'Erik','Youster','Burgise','Lakeland',43,732,'Santa Cruz Atoyac','Hidalgo','2011-03-22','2021-12-08','1991-02-04','Mujer',6,'4:48',12231)
-,('AITT758472L1O',7,'Garry','Spall','Hinkes','Mcguire',16228,0,'Roma','Querétaro','2014-03-25','2025-07-05','1982-08-06','Hombre',7,'5:03',7612)
-,('IXSK369565OG0',5,'Joye','Lippatt','Ybarra','Main',01,864,'Lindavista','Coahuila','2018-05-01','2023-10-18','1990-08-20','Hombre',3,'9:16',8176)
-,('UOLO498775ZXR',5,'Rosana','Fenner','Boon','La Follette',8604,641,'Lindavista','Querétaro','2012-03-14','2024-01-14','1996-02-05','Hombre',4,'9:54',11701)
-,('WIOF968930WCD',5,'Lura','Trevance','Bernaldez','Red Cloud',0288,06344,'Granjas México','Tlaxcala','2014-04-14','2023-03-03','2000-08-03','Hombre',6,'5:26',8565)
-,('QGMJ670814CSY',3,'Abigail','Stoile','Batstone','Manitowish',48278,74833,'Portales','Aguascalientes','2018-08-06','2023-12-29','1989-10-03','Mujer',5,'17:14',8522)
-,('YCGH471085Z5V',3,'Clyde','Halsall','Boschmann','Vera',92877,67942,'Santa María la Ribera','Guerrero','2017-07-08','2022-05-06','1987-12-13','No-binario',6,'20:12',12233)
-,('YKWJ014843TGO',6,'Atlante','Schankelborg','Claisse','Nevada',8648,35632,'Xochimilco','Zacatecas','2015-09-18','2022-12-07','2000-11-18','No-binario',5,'20:27',11064)
-,('ZVUL3796924IL',3,'Fredelia','Buzek','Carrier','Lakeland',6796,920,'Polanco','Sonora','2019-06-23','2024-05-10','1985-03-11','No-binario',6,'9:01',13173)
-,('VFWB228462WPG',4,'Waverly','Weightman','Compson','Saint Paul',66,5,'Mérida','Baja California Sur','2011-07-28','2025-05-05','2002-03-23','No-binario',3,'21:55',12752)
-,('UNUY348887639',6,'Cilka','Babst','Gerner','Stoughton',9269,2,'Lindavista','Nuevo León','2012-09-15','2024-02-24','1993-10-17','Hombre',2,'13:08',12696)
-,('FMNB01493395E',6,'Spense','Kearford','Scott','Ridge Oak',4,9275,'Tulum','San Luis Potosí','2015-04-01','2024-12-25','1995-02-09','No-binario',5,'12:12',12186)
-,('ISPA260913OBG',6,'Dieter','MacNalley','Cadogan','Hanson',57699,9,'Mérida','México','2013-10-12','2023-08-02','1993-08-08','Hombre',6,'10:38',14735)
-,('OXGO3322520UF',7,'Nadiya','Klimas','Blaker','Vermont',36079,07,'Mixcoac','San Luis Potosí','2020-04-22','2023-02-12','1998-04-15','Mujer',6,'8:17',7948)
-,('ENLG432897K3R',7,'Melly','Romagnosi','Pinckard','Atwood',1335,404,'Pedregal','Tamaulipas','2014-01-22','2025-03-29','1993-02-22','Hombre',6,'20:22',7407)
-,('OSRE298599TQR',4,'Gabbi','Caddan','Caldero','Bunker Hill',0217,8524,'Tulum','Querétaro','2019-11-17','2022-04-29','1993-01-07','No-binario',3,'16:50',8780)
-,('TKPB751775KIW',4,'Frazier','Paulin','Fay','Hovde',259,026,'Mérida','Quintana Roo','2015-10-15','2024-07-29','1986-02-18','Mujer',1,'21:17',14530)
-,('FUSP936351JY3',1,'Antons','Crumbie','McTrusty','John Wall',2,5249,'Álvaro Obregón','Tabasco','2017-12-12','2023-10-19','1997-08-15','Hombre',1,'21:39',7530)
-,('PHJT839406D1D',6,'Nani','Blaxland','Creagh','Lerdahl',5,298,'Doctores','Campeche','2020-10-21','2024-04-05','1984-07-20','Hombre',6,'17:17',14537)
-,('ENFM502125G6Y',6,'Weylin','Benda','Rouby','Grasskamp',7401,2,'Portales','Morelos','2010-12-16','2024-02-08','1995-08-30','No-binario',2,'19:54',14851)
-,('EXSB877812GUW',7,'Dian','Rubel','Dumbarton','Sunnyside',969,947,'Tlatelolco','Baja California Sur','2018-11-20','2024-07-25','2002-09-05','Hombre',5,'21:32',8121)
-,('VRSB73263283I',1,'Balduin','Roblou','Chennells','Hoard',27522,441,'Coyoacán','Guanajuato','2019-08-07','2024-03-16','1995-01-03','Mujer',1,'8:28',11336)
-,('XRTB553598M7M',1,'Pattie','Gisburne','Niven','Ronald Regan',77,4,'Lindavista','Chiapas','2018-06-14','2022-07-13','1990-05-08','Mujer',4,'14:20',10943)
-,('WACE356089HU0',1,'Hamel','Satterly','Sheekey','Fisk',9,6910,'Narvarte','Tlaxcala','2014-04-11','2023-12-15','1986-10-16','Hombre',1,'17:51',11539)
-,('WKHP203869EWE',4,'Tyne','Trowsdall','Draper','Dakota',6,60,'Escandón','Sinaloa','2011-03-30','2022-06-23','1988-03-10','Mujer',5,'19:51',9211)
-,('IGDU336926QO3',4,'Anselma','Pirnie','Hardage','Judy',84,804,'Polanco','Durango','2016-07-21','2024-01-17','1995-10-21','No-binario',7,'6:21',7199)
-,('POBS433062QPO',4,'Edwina','Beelby','Duny','Gulseth',955,066,'Álamos','Nayarit','2016-10-25','2025-09-28','1991-03-10','No-binario',2,'7:11',7705)
-,('QWKP648490IXP',5,'Alvie','Coltan','Blackstone','Spenser',2,386,'Santa Fe','Tamaulipas','2013-01-02','2022-11-30','1993-12-14','Hombre',7,'18:59',13497)
-,('NYAT4409944HY',4,'Felicity','Woonton','Awin','Mockingbird',672,2,'Playa del Carmen','Morelos','2017-05-11','2023-10-16','1983-12-18','Mujer',6,'9:21',13270)
-,('QJKH860288I14',6,'Brynne','Martini','Sillwood','Upham',2,05988,'Del Valle','Guerrero','2018-08-31','2025-07-28','1999-04-22','No-binario',2,'5:13',12264)
-,('EQNU8560087X2',3,'Maurizio','Manginot','Carlon','Thierer',3966,45253,'Granjas México','Quintana Roo','2020-06-16','2023-07-11','1987-02-16','Mujer',2,'7:33',11300)
-,('HDQL535589DPK',7,'Lexy','Solloway','Gissop','Crownhardt',37,87,'San Miguel Chapultepec','Guerrero','2018-09-04','2021-11-17','1995-11-17','Hombre',2,'20:45',13206)
-,('VMZB95232065Z',5,'Kurtis','Duddin','Hriinchenko','Hovde',94234,3,'Del Valle','Aguascalientes','2016-04-10','2024-10-29','1984-06-04','Mujer',3,'11:16',8134)
-,('DGRV477483T2W',7,'Coretta','Claypoole','Pentycost','Hanson',868,1,'Nápoles','Colima','2010-10-30','2025-02-07','1986-02-25','Mujer',7,'18:06',14519)
-,('KXCJ970759DEA',4,'Lay','Strotton','Glentworth','Kim',78,0,'Anzures','Tamaulipas','2015-08-16','2022-09-04','2000-09-19','Mujer',5,'9:12',12455)
-,('FJFX2582777KR',6,'Raina','Bontoft','Cyson','Basil',505,88721,'Santa Cruz Atoyac','Michoacán','2018-06-06','2024-11-30','2001-04-02','Hombre',7,'16:42',8835)
-,('PLBT077584VJU',2,'Juli','Leopold','Newberry','Prairie Rose',5708,844,'Escandón','Puebla','2019-03-02','2024-06-23','1981-05-30','No-binario',4,'17:09',10464)
-,('BCML2460442K1',4,'Dwayne','Pechold','Smorthit','Meadow Ridge',4,522,'San Pedro de los Pinos','Puebla','2018-12-29','2024-09-02','1993-04-17','Mujer',6,'7:51',9267)
-,('DBTS55678008Q',5,'Annecorinne','Lissett','Domenicone','Lien',5739,382,'Satélite','Sonora','2010-12-03','2023-07-08','1986-04-24','Mujer',6,'8:26',11600)
-,('NVNR3060702P6',4,'Drucie','Giscken','Clue','Victoria',65895,6951,'Condesa','Hidalgo','2013-01-08','2022-08-16','1982-05-16','No-binario',5,'19:00',12873)
-,('GBEX764723SD5',5,'Ellynn','Tinline','Pinsent','Goodland',7,3,'Álvaro Obregón','Quintana Roo','2016-04-30','2023-01-03','1992-09-20','Mujer',3,'8:34',9748)
-,('FARM065222K6K',2,'Chane','Prestage','Siddele','Toban',7907,43180,'Satélite','Zacatecas','2016-05-25','2024-09-08','1990-08-31','No-binario',5,'21:28',9066)
-,('CDZD424379FZY',6,'Roseanna','Dachey','Perot','Buell',9,46954,'Azcapotzalco','Coahuila','2014-02-28','2022-10-30','1999-05-03','Mujer',1,'16:39',14665)
-,('EXHK329729R6U',5,'Annette','Borrel','Bosley','Utah',9982,80486,'Valle de Bravo','Puebla','2018-09-09','2025-02-21','1996-05-18','Hombre',3,'12:45',14652)
-,('GOZD344666EX8',2,'Heall','Starte','Oades','Linden',97,73987,'San Ángel','Chiapas','2015-12-01','2024-04-04','1992-05-21','Hombre',6,'6:17',8414)
-,('MYSX0356129XX',2,'Joyous','Sodeau','Grabham','Holmberg',88,965,'Condesa','San Luis Potosí','2013-08-31','2023-08-09','1985-11-29','No-binario',1,'12:03',7731)
-,('HQQN9610271JW',6,'Standford','Sutty','Simoncello','Rigney',49323,202,'Roma','México','2016-05-09','2024-02-19','1989-08-28','Hombre',4,'8:23',9592)
-,('XTBA468256LPJ',4,'Haydon','Persent','Maccari','Spohn',97919,023,'San Miguel Chapultepec','Baja California Sur','2020-10-21','2022-04-28','1991-03-16','Hombre',3,'17:47',9376)
-,('UDUJ631339FOU',5,'Keen','Scoullar','Bradburn','Mcguire',1,2849,'Valle de Bravo','Querétaro','2020-02-03','2025-06-17','1992-09-15','No-binario',6,'12:11',13290)
-,('XDXI602871M8B',2,'Kikelia','Freshwater','Jenteau','Vidon',1035,167,'Xochimilco','Michoacán','2020-05-27','2022-04-14','1995-11-26','Mujer',7,'9:12',9924)
-,('DVUB653100XKS',5,'Birk','Wincer','Drogan','Victoria',5,4,'Narvarte','Nayarit','2017-07-10','2025-02-26','1992-04-07','Hombre',5,'21:44',11750)
-,('WHUH424472T59',7,'Selena','Volke','Polland','Bluestem',3066,3904,'Xochimilco','Guanajuato','2019-03-23','2025-02-10','1993-01-08','Mujer',3,'6:48',12088)
-,('GOBT7398482OR',7,'Britney','Lanning','Bleyman','Forest',8,55,'Narvarte','Nayarit','2013-10-22','2021-12-30','1991-01-03','No-binario',7,'4:34',9698)
-,('DBRV068407WW4',6,'Cherie','Wills','Ponton','Parkside',7,69,'Tlalpan','Nayarit','2016-09-19','2025-05-18','1996-05-15','Mujer',7,'21:50',12718)
-,('WPRG105175V0U',5,'Doralynn','Sydry','Vidloc','Ridgeway',328,038,'Álamos','Baja California Sur','2018-11-01','2023-08-09','1995-08-10','No-binario',3,'20:33',12248)
-,('LNVR671385EV0',2,'Alwyn','Bendon','Werner','Fairfield',033,6691,'Tulum','Guerrero','2017-07-10','2023-02-11','1988-04-16','Hombre',5,'19:05',11981)
-,('QMFD687912O0Y',1,'Malena','Marquot','Oxby','Fallview',4623,00128,'Juárez','Oaxaca','2015-04-09','2023-04-21','1983-10-12','No-binario',6,'5:51',11543)
-,('IAQJ4326517SQ',7,'Thorn','Durbridge','Budden','Shoshone',13,1,'Narvarte','Baja California','2010-10-29','2024-09-27','2000-08-17','Mujer',5,'9:54',13574)
-,('SXCF509622FT3',1,'Carmine','Kinrade','Liley','Warner',603,8299,'Escandón','Chiapas','2020-09-24','2023-09-30','1995-06-06','Hombre',2,'10:11',9479)
-,('VKKO712564PUG',4,'Megen','Fulker','Lottrington','Stang',1936,57067,'Narvarte','Querétaro','2014-08-25','2023-02-22','1983-02-08','Hombre',2,'11:40',9299)
-,('KXNP423617AOM',7,'Cassie','Stanborough','Eard','Luster',7775,9362,'San Rafael','San Luis Potosí','2016-09-03','2022-10-24','1996-01-16','No-binario',7,'8:57',10399)
-,('DCAX2291610U0',4,'Gard','Vazquez','Brute','Monterey',778,1823,'Xochimilco','Chiapas','2014-04-25','2023-06-14','1999-06-19','Mujer',2,'13:15',13993)
-,('EADZ736885DZQ',1,'Dion','McLaggan','Hampton','Walton',93043,5787,'Xochimilco','Baja California','2017-07-31','2024-03-27','1991-10-29','Hombre',6,'9:07',10583)
-,('LEUM425164PF9',5,'Philip','Warr','Goman','David',99806,4053,'Tlalpan','Veracruz','2020-03-16','2024-07-25','1981-01-09','Mujer',5,'18:07',9563)
-,('UZEM727595SXA',4,'Ellynn','O'' Kelleher','Denge','Dixon',29847,5,'Granjas México','Quintana Roo','2016-09-05','2025-04-06','1997-02-28','No-binario',6,'10:27',13937)
-,('PJZU4732959PE',5,'Zak','Baff','Becarra','Michigan',53098,8,'San Jerónimo','Tamaulipas','2017-04-14','2022-12-29','1984-01-13','Hombre',3,'16:26',12415)
-,('UKIN4728187X4',2,'Nell','Mace','Oppie','Erie',068,0494,'Satélite','Coahuila','2011-08-10','2023-07-11','1985-08-18','No-binario',2,'6:26',14531)
-,('TCLN563203G3M',5,'Darcey','Pilsworth','Chisman','Prairieview',143,7655,'Granjas México','Tabasco','2014-09-16','2024-10-13','1991-09-28','No-binario',3,'5:12',9857)
-,('WBWE01153014B',4,'Yancey','Fechnie','Cowpe','Blue Bill Park',63,746,'Xochimilco','Guanajuato','2012-07-02','2024-05-07','1999-10-22','Mujer',4,'7:02',14366)
-,('ESDC377320J7A',4,'Bernie','Noad','Lummis','Dorton',1860,3208,'Roma','San Luis Potosí','2016-03-13','2025-02-18','1996-09-01','No-binario',7,'8:53',13884)
-,('LEVN0006600G5',5,'Onfre','Versey','Duffit','Riverside',8816,77,'Álvaro Obregón','Coahuila','2017-02-23','2023-03-11','1992-06-26','Mujer',1,'21:32',10892)
-,('BKTW9286241CT',1,'Hyatt','Goodayle','Hakking','Esker',39293,3,'Polanco','Quintana Roo','2016-05-30','2023-07-11','1998-06-25','Mujer',4,'7:29',10449)
-,('ZASM075974UCH',1,'Turner','Greener','Jaynes','Fremont',86415,3343,'Satélite','Chiapas','2013-07-08','2023-12-31','1983-04-06','No-binario',1,'21:45',9294)
-,('NBTG453552KUZ',4,'Robinson','Manifield','Bisacre','Miller',6,1096,'Polanco','San Luis Potosí','2013-09-29','2025-07-23','1986-12-31','Mujer',4,'7:15',9024)
-,('HLCC372026GY6',6,'Natassia','Sulman','Ormston','Loeprich',69370,79,'Pedregal','Campeche','2020-03-14','2022-12-19','1981-08-04','No-binario',7,'4:30',7352)
-,('TSHT179559DJS',2,'Kearney','Cardno','Cathenod','Stang',3755,50452,'Roma','México','2014-06-07','2022-10-06','1986-11-19','Hombre',6,'4:48',9648)
-,('RTVX3107289GW',7,'Trixi','Twitchings','Runnacles','Independence',795,1,'Condesa','Oaxaca','2017-12-10','2021-11-07','1995-08-27','Mujer',1,'19:29',7997)
-,('SKQS854990ZMH',5,'Kahaleel','Hanney','St. Leger','Stephen',06,7,'Portales','Puebla','2012-07-27','2025-07-15','1984-12-15','No-binario',7,'18:02',13704)
-,('JQBT214276F2F',5,'Erena','Kester','Peak','Village Green',370,9,'San Miguel Chapultepec','Quintana Roo','2017-11-14','2022-10-15','1991-02-01','Hombre',7,'7:24',7845)
-,('KGMV456226VKG',4,'Valina','Humberston','Bims','Doe Crossing',3,30351,'Polanco','Yucatán','2015-05-20','2025-09-04','1989-11-19','Hombre',7,'16:52',11071)
-,('NLSH4677315Y5',5,'Tallou','Fennick','McQuode','Cottonwood',88,2,'Lindavista','Durango','2018-09-10','2022-01-08','1982-04-05','No-binario',5,'7:59',14679)
-,('ITOU0380875KW',5,'Tommie','Issett','Crutchley','Evergreen',4,25212,'Cuajimalpa','Colima','2017-01-14','2023-09-15','1988-01-27','No-binario',4,'14:24',9855)
-,('NZMH738438IJE',3,'Aurelia','Motto','Manicomb','Luster',8788,5,'Del Valle','Hidalgo','2015-10-22','2022-09-19','1982-01-13','Hombre',1,'12:17',13161)
-,('URXE194965TF7',7,'Zeke','Cohen','Risson','Prairieview',645,48,'Cuajimalpa','Chihuahua','2018-01-01','2025-01-20','1983-12-11','No-binario',7,'21:36',12721)
-,('FHCW469330CPV',2,'Margie','Piscotti','Peppett','Lukken',1,73004,'Lindavista','San Luis Potosí','2015-12-22','2023-05-18','1983-07-07','No-binario',7,'19:37',14398)
-,('KZJD7369419KE',4,'Lissi','Pudden','Bloggett','Welch',9493,460,'Escandón','Puebla','2019-08-12','2023-08-16','1982-05-13','Mujer',6,'11:15',10832)
-,('IEBI842051IXP',4,'Shirleen','Groomebridge','Kingsman','Kinsman',8510,8692,'San Rafael','Sinaloa','2015-09-11','2025-07-09','1982-02-28','Mujer',1,'10:36',8788)
-,('UBMW183450020',1,'Chalmers','Flintoffe','Eingerfield','Hermina',15598,07,'Escandón','Baja California Sur','2020-10-23','2024-02-21','1996-11-16','Mujer',3,'16:40',11867)
-,('BMBF168982RWN',6,'Farlay','Pinnocke','Simcox','Morning',5,68386,'Santa Cruz Atoyac','Querétaro','2017-02-20','2024-08-12','1983-08-18','Mujer',6,'7:16',9966)
-,('EDBP0206979FP',4,'Garrot','Axe','Morton','Carberry',003,05,'Tlatelolco','Hidalgo','2018-10-05','2022-02-03','2001-01-03','Hombre',1,'4:25',7036)
-,('PPFI2346776Z8',2,'Kalli','Montel','Tegler','Claremont',0135,109,'Mixcoac','Sonora','2015-07-01','2023-04-17','1999-10-09','No-binario',5,'5:53',10270)
-,('RART532852DTV',4,'Alys','Gatheridge','Menelaws','Luster',5,59807,'Tepoztlán','Veracruz','2015-03-28','2024-08-10','1988-12-24','Mujer',4,'8:02',7172)
-,('ULIY0022309P5',7,'Hakim','Mathiot','Kleisle','Northwestern',54156,694,'Cancún','Chihuahua','2016-04-23','2023-11-11','1981-04-08','Hombre',4,'7:41',8765)
-,('ISZZ168622YOI',4,'Agnella','Goggins','Spera','Lotheville',1410,2938,'Coyoacán','Zacatecas','2014-03-22','2024-07-21','1996-07-12','No-binario',4,'19:07',9109)
-,('IDSJ5715111S2',6,'Gabriela','Pietranek','Coupland','Service',8987,05303,'Xalapa','Tlaxcala','2014-08-14','2024-07-05','1981-04-09','No-binario',1,'5:19',10570)
-,('HUNK496722UOT',3,'Kenton','Skeleton','Eingerfield','Merry',781,1781,'Lindavista','Veracruz','2012-07-25','2024-04-28','1998-12-22','Mujer',3,'8:50',9820)
-,('QHXV584023HFY',1,'Kristoffer','Brayson','Wardale','Mariners Cove',54170,3026,'Tacubaya','Morelos','2014-03-19','2024-10-16','1990-04-11','No-binario',2,'10:29',11671)
-,('QVSW176813KAX',2,'Stefan','Profit','Pencot','Carioca',0,6,'Nápoles','Sonora','2012-04-30','2024-03-14','2002-01-01','Mujer',1,'18:49',7901)
-,('BFQE971428OSH',1,'Simonette','Trafford','Dewey','Namekagon',312,8410,'Coyoacán','Sonora','2017-04-26','2024-07-29','1993-03-20','Mujer',5,'8:11',14450)
-,('OLOC948079HCO',7,'Gail','Bly','Walbridge','Grasskamp',560,620,'San Rafael','Nayarit','2016-09-30','2025-06-19','1999-09-16','Mujer',3,'7:13',11591)
-,('MBSV4530180PG',7,'Dillon','Stare','Philpott','Superior',57196,680,'Álvaro Obregón','Coahuila','2012-01-04','2023-09-17','1984-04-16','No-binario',5,'4:45',12150)
-,('ZIVB076497LAM',6,'Jasmina','Kinglesyd','Blackhall','Elka',29770,6975,'Mixcoac','México','2018-02-20','2023-10-19','1983-07-06','No-binario',3,'4:16',11626)
-,('CXWZ167876YXD',1,'Ginny','Vasyuchov','Morit','Hayes',5,95802,'Lindavista','Campeche','2019-01-26','2025-10-12','1986-10-06','Mujer',4,'7:22',13480)
-,('HLDC897079U25',5,'Reinhard','Wivell','Terzi','Jenifer',2607,7219,'Granjas México','Querétaro','2014-09-21','2023-01-06','1983-06-01','Hombre',7,'14:25',11960)
-,('MAFD860146O0D',3,'Uri','O''Cahey','Ivanaev','Charing Cross',05882,2264,'Granjas México','Coahuila','2010-12-14','2025-03-06','1984-11-02','Mujer',1,'10:34',10662)
-,('YOJG463496K3Q',7,'Bibby','Le Page','D''Andrea','Towne',669,66890,'Escandón','Morelos','2019-11-06','2025-04-04','1996-08-01','Hombre',2,'13:29',13871)
-,('OCSH426274SF2',6,'Minni','Ixer','Carson','Nancy',06,4322,'Jardines del Pedregal','Hidalgo','2019-03-24','2023-09-19','1980-11-05','Hombre',1,'11:05',8421)
-,('DCTY3681616F7',5,'Ugo','Yurygyn','Bortolutti','Hermina',21586,8,'Santa María la Ribera','Puebla','2013-11-11','2025-06-09','1999-09-22','Hombre',4,'16:29',8794)
-,('XGPD487311EH8',7,'Katlin','Kliemke','McGaugie','Mandrake',3812,497,'San Rafael','Yucatán','2015-12-21','2024-05-26','1990-11-24','No-binario',2,'10:11',12384)
-,('BFHS602126MUR',7,'Bernie','Pedri','Giacobbo','Transport',06,5,'San Jerónimo','Nayarit','2019-09-07','2023-11-22','1985-07-27','Hombre',7,'18:59',7333)
-,('KIRP407850MDJ',5,'Silvano','Clingoe','Hallagan','Grim',5501,1,'Valle de Bravo','Yucatán','2019-04-12','2025-05-30','1984-03-03','No-binario',3,'10:17',11199)
-,('ORJV380898J7K',4,'Cecilius','Wittleton','Shipperbottom','Brentwood',054,4,'Lindavista','Tlaxcala','2020-01-25','2022-11-27','1980-11-04','Mujer',7,'4:30',11393)
-,('MKTO272036FJJ',6,'Kelsey','Iban','Authers','Lillian',970,3988,'Roma','Aguascalientes','2020-04-15','2022-03-09','1986-10-30','Hombre',1,'12:04',8036)
-,('ZJTS365929PSO',2,'Caryl','Camerati','MacGibbon','John Wall',11,324,'Xochimilco','Nuevo León','2016-04-26','2025-02-07','1992-05-06','Mujer',2,'9:14',14092)
-,('JHJR943324JK4',1,'Tabb','Eborn','Jenkinson','Nobel',445,4517,'Nápoles','Tabasco','2014-08-11','2023-08-24','1989-10-24','Mujer',6,'8:48',10903)
-,('JDBN450256VGN',7,'Durward','Flageul','Hailston','Esch',56,40538,'Tulum','Zacatecas','2012-03-09','2023-02-06','1999-04-05','Hombre',6,'21:56',7394)
-,('GBKI359854GTM',1,'Emmery','Gomm','Johnston','David',0225,3769,'Coyoacán','Morelos','2019-03-18','2025-10-14','2002-06-18','No-binario',2,'18:03',14036)
-,('FPVT163524YJP',5,'Hobey','Daubeny','Gon','Mcbride',84,460,'Valle de Bravo','Yucatán','2018-03-18','2023-08-11','1988-03-27','No-binario',5,'19:25',13738)
-,('NMOM591250AZV',3,'Kristen','Donnett','Gatecliff','Mallard',70,523,'Satélite','Morelos','2017-06-15','2021-11-02','1989-11-30','Mujer',3,'5:28',14882)
-,('AXZH394507Z87',6,'Barnabas','Ferrini','Dirr','Elka',549,150,'Polanco','Nayarit','2017-03-21','2022-11-17','1995-08-15','Mujer',7,'7:51',10521)
-,('QXAI090816IVD',5,'Wendeline','Leidecker','Awty','Forest Run',1,861,'Santa Cruz Atoyac','Hidalgo','2018-07-11','2025-08-18','1982-02-25','Mujer',4,'7:18',8779)
-,('PGPJ200660JLC',3,'Aura','MacGruer','Shirrell','Granby',97,2464,'Escandón','Baja California','2019-04-02','2023-02-05','1988-03-26','Mujer',1,'21:09',9522)
-,('FCLG970286VWO',1,'Giacomo','Ghiriardelli','Poli','Hayes',92,55,'Polanco','Jalisco','2014-12-06','2023-02-07','1984-04-26','Mujer',1,'14:45',7483)
-,('CIWA118902TBV',6,'Tobey','McAmish','Domke','Mifflin',84037,9,'San Rafael','Guanajuato','2020-04-24','2025-06-04','1986-11-06','Hombre',5,'4:57',7100)
-,('GLIL0449397TR',1,'Archibaldo','Snowdon','Smeall','Hoffman',84129,84330,'Chapultepec','Coahuila','2014-07-15','2022-06-20','1999-08-14','Hombre',2,'21:30',12480)
-,('EXNI320909FHR',4,'Ardys','Rosoni','Antoniazzi','Golf',13406,4,'Tulum','Jalisco','2015-10-31','2025-01-20','1981-12-27','Mujer',1,'9:02',12937)
-,('VNSS098237W9A',7,'Angelita','Aksell','Forward','Derek',14,79,'San Miguel Chapultepec','Michoacán','2020-05-03','2022-01-23','1991-11-01','Mujer',4,'10:09',13587)
-,('XVPM1589980Y0',7,'Cheston','Bumpus','Pfeiffer','Dwight',259,831,'Santa Fe','Querétaro','2015-08-04','2022-01-29','1994-12-09','Mujer',1,'7:43',13973)
-,('RSND6590210X6',7,'Raffaello','Sutliff','Nottingham','Lillian',950,25,'Tacubaya','Chiapas','2020-05-08','2024-11-19','1998-01-09','No-binario',3,'7:11',12749)
-,('LHDQ140753GTA',5,'Tabitha','Laite','Curman','Cordelia',412,89442,'Santa Cruz Atoyac','Durango','2019-04-02','2024-01-12','1983-01-28','Mujer',1,'13:14',14828)
-,('OMTB468539VWP',7,'Frazier','Tozer','Yakobovicz','Golf',4,793,'Azcapotzalco','Baja California','2014-09-17','2023-09-24','1988-10-21','No-binario',4,'10:19',7895)
-,('QZJA826808TAD',7,'Michelle','Gabler','Mollett','Upham',88997,650,'Tepoztlán','Guanajuato','2016-08-16','2025-03-18','1986-05-27','Hombre',7,'9:52',8062)
-,('VXHG03579792D',3,'Sue','Tuke','Szymanowicz','Springs',060,0,'Reforma','Veracruz','2020-03-13','2023-05-25','1989-12-30','No-binario',5,'20:56',11232)
-,('TSXJ770998COO',2,'Mickey','Billyard','Antonignetti','Pankratz',8,4145,'Nápoles','Sonora','2019-03-14','2025-09-30','1994-07-04','No-binario',5,'12:25',12163)
-,('DNBO774315EN3',1,'Griswold','Stother','Keady','Pennsylvania',69,46568,'Santa Cruz Atoyac','Michoacán','2018-03-02','2024-06-07','1991-02-26','No-binario',6,'14:00',8303)
-,('FCUS282576XPW',4,'Palmer','Tresvina','Volage','Carioca',37353,72,'Nápoles','Tabasco','2012-02-04','2022-02-28','1986-09-28','No-binario',6,'9:59',11279)
-,('KHVG61828334I',2,'Kenon','Mulder','Boyat','Briar Crest',0534,58973,'Azcapotzalco','Hidalgo','2016-09-17','2025-04-08','1982-06-02','Hombre',7,'21:56',9193)
-,('FCBS2303321X1',3,'Rollie','Tilson','Guilder','Elka',818,2564,'Cancún','Morelos','2020-07-31','2021-12-11','1988-03-22','No-binario',6,'6:55',14801)
-,('TOBC893003WK8',6,'Kaja','MacIan','Titlow','Duke',74305,282,'Condesa','Chihuahua','2020-03-26','2022-11-24','1998-04-11','Mujer',3,'12:45',13026)
-,('FHYQ6092188AJ',3,'Starr','Chard','Joskovitch','Anhalt',5,1,'Del Valle','Tabasco','2012-02-05','2024-02-27','1981-08-20','No-binario',2,'21:03',14919)
-,('EIWR473729WLB',1,'Morey','Latour','Wort','Londonderry',49,28,'Álvaro Obregón','Oaxaca','2013-09-18','2023-01-08','1993-12-05','Hombre',3,'18:04',10807)
-,('JANM730309B29',3,'Adolph','Plaskitt','Rudland','High Crossing',73,053,'Lindavista','Baja California Sur','2016-07-29','2021-12-10','2001-09-23','No-binario',2,'15:17',10824)
-,('PHNW9889511HS',7,'Brandyn','Ivanenkov','Cartmale','Cordelia',1235,362,'Narvarte','Morelos','2015-06-07','2023-10-28','2002-02-13','No-binario',1,'19:57',9891)
-,('AFLT47198996I',6,'Shay','Jovicic','Kennerley','Mayer',22031,9032,'Mérida','Nayarit','2020-04-29','2024-09-10','1989-09-11','Hombre',1,'11:13',9504)
-,('HSPF325820L2B',1,'Stephan','Bickley','Saura','Charing Cross',4,3600,'Azcapotzalco','Hidalgo','2014-04-23','2025-09-25','1994-01-01','Hombre',5,'20:54',7683)
-,('WOHF6759964NR',2,'Bebe','Gobel','Gresley','Hudson',0,55,'Mixcoac','Nayarit','2014-03-02','2022-05-08','1982-07-29','Hombre',1,'12:57',13482)
-,('AVQY017900WMT',3,'Eric','Fantonetti','Chapling','Roth',5800,4,'Juárez','Campeche','2016-03-04','2024-05-31','1982-12-03','No-binario',5,'5:24',11521)
-,('CYRL995875BC3',5,'Dolly','Leyland','Pinkstone','Garrison',80832,940,'Narvarte','Querétaro','2018-04-20','2024-03-29','1986-05-04','No-binario',7,'6:25',14785)
-,('ESHZ002284JRL',6,'Evey','Siely','Yeulet','Valley Edge',793,0,'Escandón','Quintana Roo','2014-02-13','2023-03-24','1984-06-17','Mujer',6,'14:45',8255)
-,('QALZ1521933D1',3,'Haily','Ravenhills','Bennington','Continental',45449,00361,'Roma','Durango','2018-02-10','2024-03-11','1982-07-14','Hombre',3,'13:54',14574)
-,('IKKH543795HDN',5,'Leanor','De Cleen','Lampert','Schlimgen',4059,47,'Álamos','Nayarit','2014-09-15','2023-10-25','1987-01-12','Hombre',7,'18:26',12676)
-,('TRSU5099124X7',6,'Abdul','Sexten','Lawling','Florence',3291,787,'Playa del Carmen','Aguascalientes','2014-07-27','2024-11-30','1983-08-03','No-binario',4,'6:38',10898)
-,('PLVM160171OXE',6,'Benjy','O''Rowane','Castiglioni','Bartelt',6,44,'Chapultepec','Guanajuato','2015-05-21','2023-08-31','1989-02-07','No-binario',2,'12:18',8778)
-,('BLFP069266CP9',1,'Coleen','Elcox','Wingham','Karstens',4,46,'San Ángel','Querétaro','2018-01-22','2022-08-16','1996-05-23','Mujer',2,'16:58',8154)
-,('KFHQ292072U93',5,'Pammi','Hawthorn','Sydall','Superior',786,735,'Del Valle','Baja California','2013-11-07','2022-01-05','1997-10-05','Mujer',5,'16:34',9593)
-,('LZUP312761Y4H',3,'Mamie','Rappaport','Acomb','Bonner',10550,5987,'San Rafael','México','2019-04-25','2022-10-25','1993-01-25','Hombre',3,'7:32',13821)
-,('SAAO273805BXZ',1,'Bennie','McKearnen','Surcombe','Summer Ridge',4793,8,'Tlatelolco','Sinaloa','2016-04-20','2024-11-08','2002-09-30','No-binario',5,'5:52',12196)
-,('FCNB797290W2Y',3,'Kinsley','Macer','Surmeir','Pepper Wood',1,83248,'Polanco','Veracruz','2013-08-14','2021-11-12','1984-04-20','Mujer',3,'5:54',14674)
-,('ZDVV751651KXX',3,'Alla','Davidson','Fernley','Oriole',07,45330,'Roma','Baja California Sur','2013-02-24','2025-09-21','1988-07-18','No-binario',7,'6:40',10487)
-,('RTFS206831VTI',5,'Devinne','Makeswell','Ungerechts','Mandrake',731,142,'Doctores','Baja California Sur','2018-03-26','2024-08-19','1997-05-05','No-binario',4,'16:08',12783)
-,('WLWR421761XXP',3,'Karlotte','Playfoot','Mc Meekan','Manitowish',4,09,'Granjas México','Sinaloa','2015-10-26','2024-05-17','2001-10-04','Mujer',3,'5:39',7687)
-,('CJIK189476WSL',6,'Zitella','Postians','Munsey','Birchwood',0,844,'Polanco','Quintana Roo','2011-06-28','2024-02-21','1990-06-07','Hombre',5,'4:43',13727)
-,('EFJY804578LTV',1,'Muffin','Daville','Partner','Merry',38,51,'Doctores','Aguascalientes','2010-12-29','2022-05-02','1984-07-23','Hombre',5,'12:17',10030)
-,('ZPJE683441YSV',1,'Walton','Cleobury','Allinson','Pond',83,028,'Reforma','Chiapas','2018-12-23','2023-07-07','1999-02-24','No-binario',6,'15:38',8967)
-,('CHEN074304LRH',1,'Gustav','Stenning','Yegorkin','Portage',84508,26,'Polanco','Nayarit','2014-08-05','2025-02-04','1992-12-31','No-binario',2,'15:22',14159)
-,('MVFW2788605R1',4,'Alie','Ulyatt','Hemms','Toban',6040,436,'Narvarte','Baja California Sur','2018-04-04','2021-11-13','1999-03-01','Hombre',1,'9:37',14240)
-,('FOLE5487093SD',4,'Raina','McGuggy','Cherry','Melrose',909,41713,'Xalapa','Coahuila','2018-01-18','2023-11-05','2000-07-15','No-binario',1,'9:13',8958)
-,('UIGQ256994RMN',3,'Clint','Staley','Duddle','Mcbride',85,5,'Lindavista','Guerrero','2020-06-29','2024-01-08','1998-08-28','No-binario',4,'21:40',10862)
-,('WKXG9466869FQ',3,'Courtnay','Elnor','Mursell','Dexter',14,77796,'Reforma','Zacatecas','2011-11-07','2024-10-08','1998-11-11','Hombre',2,'9:40',11118)
-,('MXOG162787PWJ',2,'Menard','Kindell','Fahy','Kings',3,621,'San Ángel','Nuevo León','2016-11-07','2024-06-14','1987-10-04','Mujer',6,'10:20',8932)
-,('WBXX649707847',3,'Brendis','Crennan','Diment','Dexter',8081,2,'Polanco','Sinaloa','2017-01-11','2024-03-28','1989-03-11','No-binario',3,'4:16',12303)
-,('BQWE6465824GU',1,'Tersina','McAdam','Ebbin','Banding',783,34756,'Mixcoac','Coahuila','2014-08-23','2022-03-31','1988-02-05','No-binario',7,'21:58',7339)
-,('ENSI4069427V6',1,'Cecilio','de Guise','Wharby','Sutherland',44304,38698,'Narvarte','Guerrero','2014-03-21','2022-11-24','1986-08-17','Hombre',2,'18:15',13791)
-,('ICBI461020JUO',3,'Guss','Spurnier','Seamons','Logan',27,2653,'Reforma','Tabasco','2017-09-25','2023-10-12','1999-12-27','No-binario',7,'16:59',8864)
-,('XKTK145720JGM',5,'Evelin','Goodale','Shorbrook','Butterfield',394,8,'Del Valle','Durango','2016-06-27','2022-04-19','1995-09-17','Hombre',4,'20:53',12611)
-,('NCNL641508KTS',4,'Tracie','Probetts','Seel','Continental',955,3754,'Escandón','Zacatecas','2012-04-04','2024-07-06','1997-12-25','No-binario',6,'16:02',10647)
-,('IAKX918197L1H',3,'Lucian','Mardell','Tankus','Green Ridge',3934,9,'San Miguel Chapultepec','Baja California','2011-10-24','2022-11-07','1995-04-17','No-binario',4,'16:11',9567)
-,('EZPV457373C6J',5,'Salvatore','Grishelyov','Wellesley','Troy',0125,9719,'Cancún','Tabasco','2013-12-05','2022-06-13','1998-11-16','No-binario',4,'4:22',13685)
-,('FTSC354243155',4,'Orsa','Jeandin','Burde','1st',303,8733,'Cancún','Chihuahua','2016-03-10','2024-10-11','1996-09-15','Hombre',5,'10:11',9234)
-,('FDPI809583ADU',2,'Elmira','Houdmont','Roocroft','Rowland',81729,891,'Mixcoac','Zacatecas','2019-04-06','2024-08-03','1989-09-11','Hombre',2,'15:12',11007)
-,('QBFW345357RHQ',4,'Maia','Ceyssen','Ellicombe','Ohio',98800,29767,'Cancún','Yucatán','2020-06-03','2023-06-25','1992-06-29','No-binario',4,'10:56',9386)
-,('SPWF176906ENP',1,'Violet','Hazart','Codrington','Lakewood',5,036,'Tepoztlán','México','2015-02-23','2025-04-22','1981-01-10','Hombre',2,'8:08',13922)
-,('VSYY136455OOT',6,'Shay','Statter','Joannet','Dixon',4,32,'San Jerónimo','Baja California Sur','2020-07-30','2023-01-12','1994-10-03','No-binario',1,'13:38',14765)
-,('PXJK430594YWX',4,'Sibbie','Brimfield','Spinnace','Amoth',95347,93448,'Tlalpan','Hidalgo','2015-07-22','2024-03-18','1981-01-01','Hombre',5,'18:56',14654)
-,('RBYE774787MAP',6,'Brigitta','Brandreth','Saltmarsh','Victoria',37824,9248,'Reforma','Michoacán','2015-12-22','2023-05-29','1988-01-14','No-binario',2,'12:04',8266)
-,('RJWB668817DP8',6,'Sarita','McKendo','Latter','Elgar',23849,98,'Álvaro Obregón','México','2016-04-20','2025-05-27','1990-05-19','No-binario',7,'14:47',14377)
-,('YAHT0738800CK',4,'Raynell','Studdeard','Fitzjohn','Larry',736,99,'San Pedro de los Pinos','Querétaro','2020-08-04','2024-09-27','1995-08-10','Mujer',7,'14:53',7644)
-,('EGZE178934MVH',1,'Stefanie','Toppas','Skipsea','Lakewood Gardens',8301,89,'Polanco','San Luis Potosí','2011-08-18','2024-09-18','1995-01-03','Hombre',7,'10:25',10044)
-,('AMHQ9538118B2',6,'Heywood','Souttar','Brewins','Dennis',4,23187,'Juárez','México','2011-11-22','2023-10-24','1988-08-26','Hombre',5,'21:21',12921)
-,('BHLJ3162955CU',3,'Baxie','Moysey','McCrea','Buhler',24,7558,'Roma','Chiapas','2013-04-24','2024-09-06','1993-07-16','Mujer',2,'8:39',11293)
-,('YEOH502004N9D',5,'Jolie','Matas','Shemmans','Marquette',0858,766,'San Ángel','Michoacán','2011-12-19','2022-09-19','1982-11-04','Hombre',2,'18:19',12769)
-,('FDNZ363737E2E',5,'Estrella','Inett','Bossons','Bay',66,6,'San Jerónimo','Baja California Sur','2018-02-16','2025-02-23','1988-08-27','No-binario',7,'6:32',7732)
-,('TMCF399847UT7',1,'Willis','Camois','Buckthought','Ilene',2,8,'Granjas México','Hidalgo','2014-06-01','2022-07-25','1999-10-11','Mujer',1,'6:04',13894)
-,('OCRP885854YYV',3,'Courtney','Wasielewski','Curzon','Schurz',7,7791,'Portales','México','2020-07-28','2025-08-27','1993-01-18','Mujer',2,'17:50',11266)
-,('FMSR559551BDY',4,'Kimmi','Large','Prewer','Eliot',61543,8,'Lindavista','Guanajuato','2011-06-06','2025-01-05','2001-09-08','No-binario',7,'19:28',12047)
-,('BQZA966812CPY',3,'Zola','Wemyss','Teck','Arizona',10066,3043,'Roma','Durango','2011-07-06','2024-04-19','1992-12-21','No-binario',2,'19:01',8485)
-,('ERKH104146BQK',2,'Cordy','Pleasance','Gallager','Sachtjen',24,9898,'Tepoztlán','Zacatecas','2019-04-08','2025-02-12','1999-03-04','Hombre',3,'12:46',11170)
-,('XPBE777181Y5A',5,'Deloria','Ucceli','Knevett','Northland',434,88,'Santa Fe','Baja California','2016-01-27','2022-10-24','1997-04-22','Hombre',5,'7:30',8945)
-,('FRVK501180EXH',1,'Billie','Hanmore','Simonsen','Village',802,50199,'Chapultepec','Durango','2015-05-04','2022-09-10','1985-01-14','Mujer',3,'6:02',12814)
-,('WUIV826196389',5,'Alaster','Derrett','Schule','Prairie Rose',60493,19,'Polanco','Chiapas','2016-05-17','2021-12-28','1988-03-15','Mujer',2,'17:47',9012)
-,('JRBZ923016DGQ',7,'Mellicent','O''Criane','Betton','Jay',33,9829,'Santa María la Ribera','Baja California','2017-05-05','2024-09-20','1999-04-07','Mujer',3,'16:44',14916)
-,('LPQN987670NWZ',3,'Zachary','Knudsen','Sarsfield','Jenifer',00892,62393,'Azcapotzalco','Michoacán','2012-12-28','2023-12-10','1986-10-13','Hombre',1,'14:00',10885)
-,('HKXR501321BKY',3,'Glendon','Symondson','Manklow','Warbler',80,52192,'Reforma','Querétaro','2018-04-04','2021-10-26','1998-09-07','No-binario',3,'15:26',8603)
-,('VTSM151088ZYB',2,'Faun','Gaddie','Worrell','Blackbird',9063,08,'Del Valle','Hidalgo','2016-03-21','2023-07-08','2000-08-28','Hombre',5,'10:08',9399)
-,('RDEH957733LOE',3,'Rafaela','Alstead','Adrain','Texas',5264,50974,'Álamos','Chiapas','2020-08-06','2024-05-19','1989-04-13','No-binario',5,'12:20',10867)
-,('TNFN903865505',2,'Marta','Tumioto','Gummer','Monument',71,4,'Lindavista','Morelos','2012-08-08','2023-04-16','1983-01-30','Mujer',4,'13:46',11430)
-,('IDZF481037W5P',6,'Guthry','Harmston','Derrington','Buell',51786,241,'Tepoztlán','Guerrero','2019-04-08','2023-03-19','1993-08-19','Mujer',5,'17:40',10127)
-,('GOAZ195537833',7,'Myrilla','Colly','Hume','Grover',78,8,'Escandón','Puebla','2016-04-14','2022-01-29','1993-10-26','Mujer',4,'16:18',12795)
-,('OPPF366961PW4',6,'Chas','Girardez','Wesgate','Anhalt',535,38919,'Anzures','Aguascalientes','2016-01-08','2022-06-05','1986-03-05','Mujer',5,'7:56',14727)
-,('VQDG0707390VB',1,'Martita','Domoni','Terney','Kipling',204,16877,'San Rafael','México','2012-01-31','2022-11-16','1995-12-16','Mujer',1,'12:40',10328)
-,('HDZZ11077424D',2,'Sinclair','Dwyer','Drillingcourt','Kim',5,012,'Azcapotzalco','Aguascalientes','2016-12-09','2023-04-24','1988-10-31','Mujer',4,'10:48',7325)
-,('WFUS9864197L7',5,'Giulietta','Burkinshaw','Atwool','Westerfield',375,07567,'Tulum','Michoacán','2010-12-16','2024-06-18','2001-11-10','Hombre',1,'16:03',14168)
-,('CTAD222443AC7',1,'Pris','Stair','Hardingham','Summerview',535,8,'Jardines del Pedregal','Michoacán','2012-10-26','2025-05-23','1983-09-15','Hombre',4,'16:59',12613)
-,('HVIK787059VM9',4,'Englebert','Allenby','Tunstall','Bobwhite',8,58474,'Playa del Carmen','Tlaxcala','2017-08-19','2024-03-26','1982-06-04','No-binario',4,'6:30',9029)
-,('ZACF173412OLL',3,'Thelma','Greggs','Beckitt','Westridge',84,263,'Xochimilco','Veracruz','2017-10-25','2022-11-18','1999-03-19','Mujer',3,'17:43',9049)
-,('KWTH102966XPH',3,'Lyon','Broadwood','Orgen','Hollow Ridge',664,789,'Santa María la Ribera','Durango','2015-09-23','2023-08-19','1994-08-29','No-binario',4,'6:47',11341)
-,('HOYT245366JIR',4,'Thaxter','Biernat','Matei','Scoville',3,629,'San Miguel Chapultepec','Sinaloa','2014-05-17','2023-05-11','1989-01-14','Mujer',7,'7:06',8628)
-,('TESV873966HKB',2,'Robinett','Brea','Tuerena','Anzinger',355,626,'Valle de Bravo','Tlaxcala','2013-07-09','2025-08-14','1989-08-22','Hombre',1,'6:35',11301)
-,('OXPO088908T7D',7,'Bank','Ficken','Junkinson','Reindahl',07,033,'Valle de Bravo','Veracruz','2011-11-01','2025-10-14','1981-05-02','Hombre',2,'19:43',10469)
-,('TJPQ7846530Z7',5,'Max','Grievson','Paute','Arrowood',7593,2,'Álamos','Sonora','2011-07-22','2022-07-07','2001-08-23','No-binario',2,'8:09',8905)
-,('MKBM329585MDS',2,'Tobie','Binstead','Korbmaker','Pond',08760,29828,'San Ángel','Jalisco','2016-12-10','2023-10-24','1993-11-13','Mujer',2,'11:17',13668)
-,('SCMF472637LFH',2,'Kincaid','Rosenhaus','Duckering','Independence',2,4854,'Reforma','Chihuahua','2019-05-23','2023-06-01','2001-04-10','No-binario',6,'18:48',13983)
-,('BYQC709690885',1,'Jemmie','Sellars','Ellice','Hoffman',0,380,'San Pedro de los Pinos','Nuevo León','2012-01-05','2024-04-04','1987-10-14','Hombre',2,'19:17',9334)
-,('JAIV9448222YZ',2,'Sophi','Boulden','Simonds','Graceland',2431,8,'Lindavista','Tlaxcala','2017-04-10','2024-05-06','1991-06-14','Hombre',5,'17:15',10453)
-,('CPPL782695PUI',6,'Sibeal','Line','De Cristoforo','Linden',332,1709,'Santa María la Ribera','Querétaro','2017-03-27','2025-06-21','1985-03-17','Mujer',2,'15:58',10957)
-,('MKTK901488E17',1,'Vinny','Glaum','Caesar','Del Mar',7606,745,'Roma','Zacatecas','2013-07-07','2023-07-25','1984-07-23','Mujer',4,'13:06',8284)
-,('KSDC7621789ML',4,'Dayna','Menere','Stump','Graceland',7,06965,'Doctores','Zacatecas','2015-07-15','2023-04-06','1999-06-27','Mujer',7,'16:29',7452)
-,('XOPI036822CLA',5,'Julee','Kaszper','Goble','Armistice',3,7,'Doctores','Guerrero','2018-06-29','2024-12-03','1981-08-29','No-binario',3,'15:55',14434)
-,('XEVI791225F0B',2,'Blancha','Hucke','Crolla','East',6925,6,'Escandón','Sinaloa','2012-02-04','2025-07-30','1994-09-30','Mujer',6,'16:14',12933)
-,('YMML2991015TZ',4,'Collen','Dudbridge','Caig','Bartillon',5808,96,'Satélite','Chihuahua','2016-06-05','2024-06-03','1999-08-17','No-binario',7,'21:16',7615)
-,('XYEG875421GNZ',6,'Devi','Beckmann','Manhare','Everett',65,21,'Del Valle','Campeche','2019-07-15','2025-04-14','1994-03-08','Hombre',2,'6:28',12736)
-,('MVXU55932302O',4,'Andreas','Sandwith','Damiral','Lake View',666,4925,'Napoles','Yucatán','2017-06-03','2021-10-31','2001-08-27','No-binario',2,'10:44',11375)
-,('MIZL4597594DZ',7,'Nevin','Frizzell','Nellen','Harper',9875,26,'Del Valle','Guerrero','2015-11-17','2023-03-17','1985-12-22','Hombre',6,'12:39',10125)
-,('SRFL445888ITH',4,'Aubrie','Pickle','Bagenal','Luster',00201,70868,'San Pedro de los Pinos','Yucatán','2014-04-29','2023-04-25','1986-03-20','No-binario',1,'12:47',12183)
-,('AQME338424E25',5,'Buddie','Paten','Stourton','Fair Oaks',82,83193,'San Jerónimo','Jalisco','2011-02-11','2025-02-13','1982-04-29','Mujer',5,'7:41',8598)
-,('BDLA281125YMB',4,'Budd','Allom','Jiggens','Randy',6,27,'Xalapa','Oaxaca','2012-02-28','2023-04-26','1988-12-09','Hombre',2,'21:32',12896)
-,('OXCD642790CAG',4,'Juliane','Hadye','Senchenko','Red Cloud',94487,86,'Escandón','Hidalgo','2011-12-09','2025-04-05','1998-09-10','Hombre',7,'7:50',11720)
-,('ARPB395368GY0',2,'Pam','Petrenko','Matresse','Melrose',88194,23610,'Nápoles','Tamaulipas','2020-09-07','2023-10-25','1980-12-16','Mujer',4,'21:23',11975)
-,('LQAY211148WZW',3,'Harley','Speechly','Bridgen','Basil',8352,8741,'Tulum','Puebla','2013-02-13','2024-05-28','1987-04-21','Hombre',2,'14:43',10104)
-,('PKTC286249KWC',2,'Maxim','Buzza','Alf','Armistice',7,5006,'Tlalpan','Aguascalientes','2019-10-25','2024-09-16','1989-09-27','Hombre',3,'10:03',13351)
-,('QYMF193132P7I',2,'Milena','Bayley','Kensett','Rutledge',4,5120,'Polanco','Tlaxcala','2016-12-30','2024-06-12','1986-09-14','Mujer',1,'11:25',12075)
-,('LJYL707105KJG',2,'Asia','Impleton','Nowakowska','Colorado',82689,35,'Napoles','Chiapas','2014-01-07','2023-08-02','1995-02-27','Mujer',3,'8:22',12466)
-,('PGHY7915474WQ',4,'Bonnee','Raikes','Abramovitch','Grayhawk',266,06136,'Álvaro Obregón','Guerrero','2014-01-06','2025-06-17','1999-06-14','Mujer',2,'12:43',12062)
-,('CJIM644802ANF',3,'Pammy','Nielson','Reijmers','Dixon',4638,931,'Coyoacán','Hidalgo','2016-11-12','2024-05-18','2000-06-24','Hombre',7,'13:25',14173)
-,('EXWP340137KHK',3,'Francine','Fruser','Shelmerdine','Debs',9305,8973,'Del Valle','Sinaloa','2012-02-16','2022-05-12','1993-07-21','No-binario',2,'9:04',12317)
-,('XQJT90018505Y',3,'Bruce','Carne','Fransoni','Barnett',64,530,'Condesa','Hidalgo','2017-02-05','2023-03-01','1990-08-12','Hombre',7,'6:12',12937)
-,('DEOM986993O98',5,'Alfreda','Straker','Davidovits','Mcguire',70115,30,'Satélite','Oaxaca','2018-07-14','2022-08-03','1988-05-31','Hombre',1,'14:27',13576)
-,('RSUX596665AU4',7,'Daven','Walduck','Kleiser','Elmside',9,929,'Cancún','Sonora','2014-08-23','2022-08-25','1991-02-11','Mujer',4,'19:44',14780)
-,('VOBE287684USF',4,'Sue','Aizik','Neeve','Artisan',39094,283,'San Miguel Chapultepec','Tamaulipas','2013-01-24','2025-06-27','1998-03-03','Mujer',7,'10:44',14687)
-,('NVQK4224792NI',4,'Sam','Mabee','Storch','Victoria',50631,03,'Tlalpan','Sonora','2017-03-10','2024-02-02','1981-02-01','No-binario',7,'19:13',13002)
-,('PCJG2589743PH',7,'Carita','Guillond','Fursey','Moulton',95245,14652,'San Ángel','Chiapas','2019-06-06','2023-02-02','1993-05-09','No-binario',7,'17:49',13035)
-,('MTTQ242890KUN',5,'Kaspar','Shaul','Guppy','Sullivan',1,06,'San Ángel','México','2011-08-03','2023-02-04','1994-08-24','Mujer',2,'12:26',10114)
-,('OOMR262664IY5',5,'Cyndy','Dougherty','Snoxell','Dapin',0385,5437,'San Miguel Chapultepec','Chihuahua','2019-08-31','2024-01-08','1994-05-23','Hombre',3,'18:52',7870)
-,('MKBM92623436A',4,'Adams','Moneti','Karpol','Green Ridge',81411,75989,'Napoles','Zacatecas','2011-06-25','2025-02-16','1985-06-24','Mujer',2,'4:15',14821)
-,('IZHL6848912PN',3,'Gerda','Willavoys','Domleo','Jenna',76,0984,'Del Valle','Guerrero','2016-07-21','2025-06-04','1992-10-26','Mujer',5,'14:31',13316)
-,('LPXQ655061IK7',1,'Renate','Purle','Berford','Linden',5,800,'Tacubaya','Sonora','2014-12-01','2022-09-02','1996-12-09','Mujer',5,'17:19',13399)
-,('VTLE057757WZQ',4,'Gaylor','Larvor','Jephson','Anthes',27,9117,'Álvaro Obregón','Veracruz','2014-03-30','2024-08-31','1993-03-21','Hombre',4,'6:16',10567)
-,('KJME853827QAA',7,'Eula','Colisbe','Jellico','Acker',714,22,'Tulum','Chiapas','2011-08-20','2024-07-27','1982-08-08','No-binario',2,'20:47',11215)
-,('RKMS040299CN4',1,'Cam','Bette','Yurkevich','Lerdahl',90,24,'Jardines del Pedregal','Tabasco','2016-04-06','2023-08-28','1988-05-01','Mujer',2,'14:15',7774)
-,('CPBD635524F8Z',5,'Julita','Lemm','Peyzer','Randy',205,45,'San Jerónimo','Baja California','2011-12-04','2024-08-11','1999-05-07','No-binario',1,'21:25',13170)
-,('FOZC031819YZ1',2,'Ferguson','Copas','Woofendell','Barnett',42,037,'Anzures','Nuevo León','2011-09-21','2023-05-18','1997-10-10','Hombre',4,'4:14',10448)
-,('SFYN001657TBJ',7,'Paulie','McKelvey','O''Howbane','Manufacturers',085,4,'Narvarte','México','2013-08-24','2023-06-01','1984-08-31','Hombre',2,'5:39',9681)
-,('HRLR463039FXD',7,'Ondrea','Veness','Dumingo','Sycamore',1,6248,'Narvarte','Sonora','2017-08-17','2023-04-27','1982-06-02','Hombre',6,'15:11',11873)
-,('TEMA93464042K',1,'Karon','Arrighini','Puttergill','Longview',53863,28,'Jardines del Pedregal','Michoacán','2012-01-14','2024-05-14','1987-03-03','No-binario',6,'8:44',7706)
-,('ZVPI6974742MA',7,'Edee','Tombs','Batrim','Cascade',6,479,'Polanco','Durango','2014-02-17','2022-12-05','1985-01-04','Hombre',3,'5:43',8939)
-,('WMMI284266OPA',1,'Fawne','Draysey','Ordelt','Debs',3026,109,'Chapultepec','Michoacán','2016-04-24','2022-10-27','1991-04-20','Mujer',4,'4:13',8255)
-,('CIZY7862616A1',5,'Anne-marie','Mersh','Dimmne','Homewood',83,54701,'Tacubaya','Morelos','2017-03-26','2024-04-13','1999-06-21','Mujer',7,'15:41',8694)
-,('IMUK084524JJT',3,'Torre','Perrot','Abley','Nelson',46083,3,'Mérida','Baja California','2011-02-15','2023-03-13','1981-06-14','Hombre',7,'12:53',8117)
-,('JZYY363143OCD',7,'Sisely','Bice','Drife','Vera',459,1,'Tacubaya','Morelos','2017-07-31','2025-07-08','1997-07-01','Hombre',5,'9:42',7972)
-,('VLPL280399F2H',5,'Harriette','Blankenship','Sibbons','Buell',78064,62,'Xalapa','Yucatán','2014-03-28','2024-02-15','1985-06-21','No-binario',6,'11:31',12746)
-,('AWPD523519MQ6',2,'Wilek','Cashell','O''Carran','Sullivan',52551,83243,'San Jerónimo','México','2014-05-05','2024-09-21','1988-05-24','Mujer',5,'10:00',12405)
-,('LOPI6216503Q0',7,'Madelaine','Keeley','Boskell','Monument',5013,68,'Narvarte','Tlaxcala','2014-07-04','2022-08-11','1981-06-17','Hombre',5,'18:00',10572)
-,('KXAX861643D9Q',3,'Dennis','Buck','Averay','Mallard',268,32746,'Santa Cruz Atoyac','Colima','2015-08-21','2021-12-08','1997-03-09','Hombre',6,'10:31',8401)
-,('LXYH490281J0K',3,'Vin','Hayto','Dissman','Monument',52,73508,'Narvarte','San Luis Potosí','2016-09-05','2021-11-10','1999-02-28','Mujer',7,'13:24',7218)
-,('BATU332574GUI',6,'Revkah','Canton','Strawbridge','Milwaukee',8553,04,'Narvarte','Baja California Sur','2020-02-15','2022-12-09','1988-06-15','Mujer',2,'9:28',8487)
-,('ELME193091U45',4,'Benjamen','Rojas','Bradforth','Fisk',2,92997,'Xalapa','Puebla','2012-03-03','2025-09-07','1990-05-21','Hombre',2,'9:48',12779)
-,('AYVH3899484HQ',7,'Sophi','Wewell','Neylon','Bartillon',9,526,'Lindavista','Michoacán','2016-10-27','2023-11-25','1981-04-09','Mujer',4,'17:04',7973)
-,('SFSB125194IPT',1,'Astrid','Tavinor','Geroldi','Hallows',212,0541,'Anzures','Quintana Roo','2012-09-22','2023-01-26','1986-09-23','Hombre',3,'11:15',8898)
-,('ONJY762196TVN',6,'Celestine','Fleischer','O''Kieran','Lerdahl',9,8021,'Juárez','Tamaulipas','2019-04-30','2022-10-02','2000-12-01','Hombre',6,'15:25',9040)
-,('BHWW522826KY7',1,'Miguela','Matas','Di Lucia','Dakota',9963,858,'Escandón','Guanajuato','2018-09-27','2021-11-21','1990-03-27','No-binario',5,'12:14',12908)
-,('NSBG135051JAE',6,'Dana','Schott','Conman','Carioca',3,02,'Tlatelolco','Jalisco','2011-01-06','2022-01-18','1985-01-19','Mujer',7,'18:52',8757)
-,('HAJI9851643HC',5,'Emmit','Fausset','Stockill','Quincy',57,61999,'Tepoztlán','Chihuahua','2019-02-07','2024-04-05','1994-07-28','No-binario',4,'4:03',13595)
-,('XARS471491SPU',7,'Fonsie','Armstrong','Hulks','Golf',6,18,'Juárez','México','2017-09-30','2022-03-31','1996-08-14','Hombre',4,'19:26',10405)
-,('ISDI274705LJI',7,'Lane','Haddeston','Lukins','Continental',8800,2644,'Xalapa','Tamaulipas','2015-04-10','2022-11-03','1986-06-08','No-binario',4,'15:57',11258)
-,('YLIG1774915PT',4,'Marnia','Coddington','Roubert','Mallard',79,6476,'Tlalpan','Nuevo León','2016-08-06','2023-06-20','1987-09-05','Hombre',7,'14:45',10998)
-,('LJHL006706G1E',4,'Rani','Maddra','Kryszka','Gerald',69123,2,'San Jerónimo','Aguascalientes','2012-02-04','2024-04-11','1984-02-04','Mujer',2,'12:27',14158)
-,('FJGM463182GBD',5,'Phyllida','Gallyon','Andrick','Gulseth',305,44,'Coyoacán','Tamaulipas','2012-03-03','2023-08-26','1992-10-11','Mujer',5,'21:47',9179)
-,('MJFL329162WE4',6,'Tiffie','Sey','Wardall','Hallows',786,91696,'Escandón','Tabasco','2017-04-08','2024-07-20','1996-10-01','Hombre',5,'14:21',9936)
-,('VCCB927799JOY',4,'Nina','Boliver','M''Chirrie','Prairieview',276,955,'Juárez','Yucatán','2014-11-15','2022-12-24','1996-05-20','No-binario',6,'4:16',12192)
-,('MHNN048681S3C',2,'Halley','Canti','Habbershon','Weeping Birch',11558,17,'Escandón','Zacatecas','2017-04-12','2022-07-17','1990-03-02','No-binario',7,'4:46',12040)
-,('MROU3305191R4',6,'Gabie','Greenard','Cranney','Debs',93,76050,'San Ángel','Morelos','2017-04-22','2023-06-29','2000-11-28','No-binario',1,'21:31',12971)
-,('ATUL410051239',6,'Teddi','Francke','Ricardet','Sommers',6973,5458,'Roma','Campeche','2018-11-18','2021-11-22','1985-10-31','Mujer',2,'17:19',9089)
-,('QRDP02133458J',4,'Andrea','Pennuzzi','Nazer','Butterfield',56,123,'San Rafael','Campeche','2017-04-29','2023-10-12','1981-10-14','Mujer',7,'16:41',9029)
-,('ZHIJ047233ONB',4,'Chip','Luten','Dobbson','Bartillon',42358,1,'Cancún','Tamaulipas','2017-04-11','2022-04-18','1998-07-05','Mujer',2,'10:41',12768)
-,('VPYY949344NCY',5,'Calvin','Pruckner','Haselup','Sachs',89362,8,'Polanco','Baja California Sur','2019-04-22','2022-04-28','1983-04-05','No-binario',4,'9:45',9576)
-,('TMYT986045K3W',5,'Hermann','Giacovetti','Stelfox','Carey',383,48,'Del Valle','Guanajuato','2013-07-23','2022-06-05','1987-11-12','No-binario',2,'14:45',12717)
-,('DYRY10265354F',6,'Neddie','Carlozzi','Reiglar','Bartelt',843,88,'Lindavista','Hidalgo','2016-04-07','2024-03-28','1992-04-19','Hombre',3,'10:29',14170)
-,('SICR731491R09',5,'Blondy','Moine','Beentjes','Evergreen',97,84,'Santa Fe','Baja California','2014-11-26','2025-10-21','1993-06-13','Hombre',3,'21:00',11328)
-,('FQNG289401D4X',4,'Natala','Estevez','Hyder','Bunting',62797,2427,'Portales','Quintana Roo','2017-04-14','2023-07-20','1984-12-29','No-binario',5,'10:26',11875)
-,('ZIVD30553728M',4,'Carleton','Adne','Gunby','Straubel',49,515,'Santa Fe','Colima','2020-10-08','2024-11-27','1997-11-15','Hombre',6,'4:42',8997)
-,('DBZW1144243C3',7,'Myron','Forth','Jakubowski','Kingsford',25593,50,'Tlalpan','Michoacán','2016-01-30','2022-02-27','1993-01-19','Hombre',7,'12:10',12922)
-,('GOVJ572974L9W',7,'Nelia','Giovannazzi','Casaccio','Summer Ridge',79,175,'Lindavista','Chihuahua','2020-01-05','2023-06-15','1995-01-25','Hombre',4,'9:01',10745)
-,('ATMJ0169801IN',1,'Ara','O''Riordan','Tadman','Londonderry',6390,3,'Chapultepec','Chihuahua','2015-01-09','2023-02-03','1998-11-30','Hombre',7,'19:03',14175)
-,('HAVL209820I8K',2,'Hebert','Lahrs','Simoncello','Bunting',101,8,'Escandón','Tabasco','2020-10-23','2023-04-24','1983-05-19','Hombre',2,'18:11',10176)
-,('BOXZ4614853NY',6,'Lemar','Cosby','Cudby','Eagan',938,9,'Pedregal','Chihuahua','2012-11-26','2025-01-29','1991-02-04','Hombre',7,'14:23',8228)
-,('UQYL161915PTR',6,'Murray','Corballis','De Giorgi','Magdeline',4874,06527,'Satélite','Hidalgo','2017-01-14','2024-10-08','1997-11-20','Mujer',5,'8:05',11918)
-,('VPKO155330J3Y',1,'Wells','Ricarde','Richley','Moose',8658,9,'Xochimilco','Tlaxcala','2013-04-02','2022-11-23','1981-05-03','Mujer',7,'19:22',13638)
-,('HNPU096265WNU',5,'Stevie','MacIntyre','Joyce','Lakewood',5495,8,'Pedregal','San Luis Potosí','2017-04-17','2022-04-15','1986-09-22','Mujer',1,'7:39',9424)
-,('GIMX8631711ZO',7,'Robbin','Olden','Ginnane','Steensland',4,9474,'Mérida','Sonora','2020-07-11','2023-10-12','1991-06-11','Hombre',3,'7:30',9893)
-,('YZDS912025GP9',5,'Ailene','Mohun','Lieber','Spaight',168,88376,'San Ángel','Coahuila','2011-05-16','2024-11-17','1991-01-06','Mujer',4,'5:41',14499)
-,('HOKV586270ICW',7,'Guendolen','McCreary','Stapford','Pierstorff',4,5936,'Tulum','Quintana Roo','2015-09-08','2023-01-10','1992-02-19','Hombre',6,'13:45',8216)
-,('QNFL9819192A5',4,'Welbie','Hornbuckle','Jeaffreson','Village',494,07,'Chapultepec','Veracruz','2017-04-21','2023-04-08','1999-01-07','Mujer',1,'4:48',14802)
-,('GWOZ8015911LN',1,'Kariotta','Inch','Allston','Haas',7565,5315,'Lindavista','Nayarit','2011-12-12','2024-04-09','2000-05-15','Hombre',5,'9:59',9135)
-,('BCCQ596337N0W',4,'Tamera','Tomasian','Bull','Lindbergh',631,1642,'Portales','Colima','2013-08-14','2022-12-16','1986-05-10','No-binario',6,'9:46',14848)
-,('PXBY246458MSJ',5,'Bernadette','Markova','Camoletto','Center',4460,876,'Condesa','San Luis Potosí','2015-12-09','2023-07-01','1998-07-20','Hombre',5,'11:02',9890)
-,('OPMA567350TNF',2,'Gabbie','Kerr','Beneze','Donald',91299,87,'Escandón','Chihuahua','2018-01-23','2025-06-16','1988-06-25','No-binario',6,'18:57',12783)
-,('AMCD40931892H',2,'Marv','Snyder','Dwelley','Rusk',33034,5,'Azcapotzalco','Oaxaca','2015-10-21','2022-09-10','2001-09-01','Hombre',6,'4:57',10067)
-,('MBOB5721826TS',6,'Berty','Bampkin','Flagg','Walton',171,554,'Anzures','Colima','2012-04-06','2025-03-01','1996-06-12','No-binario',3,'17:45',8386)
-,('JKVH288778IY9',2,'Ring','Shervil','Baumford','Colorado',1,0,'Playa del Carmen','Puebla','2015-07-08','2025-05-21','1993-05-16','Hombre',6,'21:19',10207)
-,('JPVD080945J7I',6,'Gino','Joysey','Coite','Johnson',9495,674,'San Rafael','Aguascalientes','2011-08-04','2023-09-07','1996-04-15','Mujer',6,'17:01',14287)
-,('PRBF368907EM1',1,'Benji','Cushworth','Inchcomb','Mayfield',54,09577,'Reforma','Zacatecas','2020-03-17','2023-03-21','1994-07-11','Mujer',6,'19:39',8382)
-,('FNRA332231D60',4,'Georgeanna','Gelder','Pates','Bultman',766,72,'Santa Fe','Sonora','2017-10-21','2025-06-02','1993-06-03','Mujer',5,'4:52',10341)
-,('KAUC050339G0V',4,'Zacherie','Byforth','Blayney','Graceland',00360,53149,'San Miguel Chapultepec','San Luis Potosí','2014-12-25','2021-12-16','1984-12-05','Hombre',6,'10:16',12027)
-,('KCSF95417828Q',5,'Davie','Aps','Throssell','Transport',7,2,'Reforma','Baja California Sur','2015-03-30','2025-05-10','1984-07-26','Hombre',5,'18:14',12857)
-,('YILW348900KGZ',3,'Lowe','Swainsbury','Campling','Old Gate',50095,8,'Lindavista','Jalisco','2011-08-25','2022-11-30','1997-03-28','Mujer',6,'8:00',9143)
-,('OIBJ2654748JE',1,'Meta','Cuell','Robbs','Lunder',3,7573,'Mérida','Zacatecas','2012-08-30','2022-01-26','1999-11-28','Hombre',4,'20:53',12083)
-,('XSDS357369GTJ',5,'Dore','Scrane','Heynen','Sage',56,4556,'Xochimilco','Quintana Roo','2012-01-26','2021-10-29','1994-08-03','Hombre',2,'20:36',12695)
-,('RKJJ638933IQL',1,'Lay','Wishart','Bellows','Sheridan',0,01148,'San Pedro de los Pinos','Chiapas','2011-03-20','2024-08-09','1988-10-28','Mujer',6,'19:41',11702)
-,('WURK100704GW2',6,'Germain','Fussey','Tompsett','La Follette',940,1,'Granjas México','Sinaloa','2019-11-04','2023-08-06','1991-02-23','Hombre',7,'9:05',13749)
-,('SMIS487764Y67',5,'Cobbie','Woolward','Gaskill','Bunting',90,54937,'Condesa','Nuevo León','2014-09-27','2024-12-23','1990-07-15','Hombre',7,'10:59',14982)
-,('SJCT4631772DA',3,'Roi','Godart','Stribbling','Meadow Valley',64700,68,'San Ángel','Tlaxcala','2013-05-24','2023-07-19','1995-07-06','No-binario',3,'4:05',7882)
-,('PIYK379875K2W',4,'Loleta','Nisard','Dilley','Thierer',615,983,'Tulum','Aguascalientes','2012-03-02','2022-10-19','2000-03-19','Mujer',4,'8:28',14271)
-,('OTWA3852085S7',5,'Temp','Constantine','Frantz','Muir',6,9,'Narvarte','Durango','2019-11-01','2023-07-25','1991-09-23','Hombre',3,'4:11',14681)
-,('VRNO468976WJE',4,'Richmound','Stallwood','D''Aguanno','Towne',012,27,'Escandón','Tamaulipas','2010-11-25','2021-12-03','1986-04-11','Hombre',1,'10:51',9997)
-,('AJTD339277L5Z',6,'Donovan','Gopsill','O''Beirne','Bultman',192,7701,'Satélite','Veracruz','2016-10-18','2023-12-30','1996-11-15','Mujer',6,'11:03',14416)
-,('EKJF595190NI7',3,'Vic','Feast','Beatty','Dakota',314,9934,'Tacubaya','Durango','2014-12-29','2023-07-17','1989-12-09','Hombre',1,'14:05',14765)
-,('DRKC046385KNH',1,'Adria','Lidster','Geharke','Marcy',1,3028,'Tepoztlán','Querétaro','2013-01-03','2023-05-10','1986-06-15','Mujer',1,'17:53',12544)
-,('LAZR806403ZWF',2,'Siffre','Jackways','Vardy','Ramsey',9,6,'Doctores','Nuevo León','2010-12-20','2025-05-04','1995-11-26','Mujer',7,'12:55',14946)
-,('DJKT977964O65',3,'Cassondra','Noury','Mosby','Rusk',8177,955,'San Miguel Chapultepec','Puebla','2014-03-13','2024-07-18','1998-08-09','No-binario',5,'11:45',8465)
-,('VBRX411210UGT',1,'Annadiana','Cottam','Dri','Mesta',45008,4383,'Satélite','Puebla','2010-11-15','2025-10-12','1994-10-09','Hombre',6,'10:29',7218)
-,('UXCP930027OWA',2,'Grace','Ciccottini','Artiss','Glendale',7281,509,'Granjas México','Coahuila','2012-04-27','2024-06-25','1983-12-16','No-binario',3,'19:33',9755)
-,('UWDG456201SXO',6,'Luz','Jelks','Triggol','Corry',9,66000,'San Miguel Chapultepec','Nayarit','2011-07-31','2022-03-28','1990-12-10','Hombre',7,'19:38',9179)
-,('MACU108153VH4',6,'Bobbi','Cancellor','Canas','Shopko',82,6853,'Coyoacán','Puebla','2018-07-14','2023-06-10','1991-10-19','Mujer',4,'12:37',12517)
-,('JHDL399783L7V',6,'Keir','Whinney','Patel','Warbler',6092,335,'Tlatelolco','Coahuila','2016-08-08','2024-08-28','1994-09-17','No-binario',2,'4:24',9590)
-,('YZQI422013ULB',3,'Winnie','Buckenhill','Liccardi','Onsgard',86339,0,'Coyoacán','Yucatán','2011-10-24','2024-11-11','1981-12-31','No-binario',3,'6:29',11966)
-,('GYCR345699P7B',3,'Janice','Skill','Northidge','Sommers',74753,6691,'Polanco','Baja California Sur','2011-04-29','2022-03-14','1995-02-02','Hombre',4,'12:23',11934)
-,('WIHM6439582RX',2,'Emile','Roy','Carnachen','Fremont',63,0,'Del Valle','Zacatecas','2015-02-03','2021-11-06','1986-05-26','Mujer',4,'7:12',10975)
-,('DZHS225198VU4',5,'Nicky','Wewell','Smaile','Pine View',8,56776,'Mérida','Coahuila','2020-02-03','2022-09-23','1990-11-19','No-binario',6,'11:22',9238)
-,('TDSA339105K40',2,'Marquita','Kilius','Mellers','Arkansas',9019,21,'Escandón','Chihuahua','2017-11-02','2021-12-14','2001-02-24','No-binario',1,'11:02',14590)
-,('RAKG887260WD0',2,'Burl','Rodder','Bertram','Logan',437,34,'San Miguel Chapultepec','Guanajuato','2020-05-19','2025-10-20','1983-07-22','Hombre',3,'21:29',14162)
-,('ZIHL921414UGW',3,'Moria','Franklin','Patriskson','Tennessee',6,73,'Santa Fe','Tabasco','2013-05-13','2022-12-03','2000-02-09','Hombre',7,'20:43',8482)
-,('OZUA344012KXU',4,'Isador','Faulconer','Dunbleton','Bartillon',2534,82,'Narvarte','Tabasco','2019-03-07','2024-04-07','1991-06-05','Mujer',3,'13:51',14848)
-,('PIDW695135UUB',6,'Rosmunda','Sowerbutts','Ferroli','Kipling',580,57067,'Del Valle','Chihuahua','2015-06-16','2025-06-17','1984-04-21','Hombre',4,'16:06',10804)
-,('QEAT8372306UT',6,'Paulie','Fairlamb','Lakes','Kennedy',3937,168,'Azcapotzalco','Aguascalientes','2020-06-14','2023-08-14','1995-04-01','No-binario',5,'7:30',9788)
-,('OCBX755034E25',1,'Auguste','Haddick','Bufton','Sunfield',424,1548,'Doctores','Tamaulipas','2012-12-09','2023-10-24','1988-05-27','Hombre',5,'9:30',10001)
-,('JFEO1768903HX',5,'Nike','Boschmann','Hanigan','Daystar',155,8149,'San Rafael','Veracruz','2016-11-23','2024-02-17','1983-05-23','Mujer',5,'19:04',12331)
-,('WEBB0990945D6',2,'Odelinda','Blacktin','Vain','Cherokee',5700,20,'Mixcoac','Colima','2013-11-09','2022-09-28','1990-02-03','Mujer',4,'4:17',12917)
-,('THBX253571NZ3',5,'Curcio','Petrichat','Althrope','Schiller',66,24525,'Tepoztlán','México','2017-09-09','2025-07-04','1985-12-03','Hombre',2,'15:10',12657)
-,('MBAD920245KKC',3,'Micky','Haster','Fraulo','Ridgeview',3443,7,'Del Valle','Coahuila','2016-07-08','2024-07-25','1991-12-23','No-binario',3,'15:37',13251)
-,('YKRH364605WDM',7,'Lora','Francioli','Adamowicz','Clarendon',4344,0,'Mixcoac','Sonora','2015-06-13','2025-03-14','1991-05-19','Hombre',3,'21:41',9346)
-,('FEWK1983745NT',2,'Horst','King','Comini','Magdeline',479,42,'Xalapa','Quintana Roo','2015-06-20','2022-03-23','1997-10-20','No-binario',1,'17:16',9755)
-,('ZEKK816855IJY',6,'Valerie','Wallbank','Purvey','Roxbury',30,83674,'Xochimilco','Coahuila','2017-05-23','2024-05-19','1988-10-17','Mujer',5,'16:01',10034)
-,('GFAG313263EMP',6,'Igor','Laffling','Sloan','Russell',9,05182,'Coyoacán','Morelos','2013-05-19','2023-10-27','2001-09-03','No-binario',5,'6:09',12231)
-,('FDAK954993QSD',6,'Skye','Gritton','Larmor','Westend',1,211,'Polanco','Durango','2020-08-02','2025-02-20','1996-06-14','Mujer',2,'12:20',14986)
-,('IDGI26980662R',6,'Jedd','Duddell','Brownsey','Pond',82,35557,'Nápoles','Tamaulipas','2019-03-04','2021-10-31','1982-03-10','Mujer',5,'20:03',13328)
-,('CEKX106108NFC',2,'Archibold','Lill','Farfull','Rutledge',2,8,'Condesa','Guanajuato','2014-11-11','2023-10-25','2001-12-01','Mujer',7,'10:30',12667)
-,('AWIJ059555LY4',1,'Benton','Sparrowe','Pashby','Ludington',2,5,'Lindavista','Chihuahua','2015-02-09','2023-05-19','1990-05-25','Hombre',3,'17:21',8644)
-,('TDJH191863LOM',1,'Josy','Booty','Gepson','Milwaukee',240,7,'Napoles','Baja California','2016-11-02','2024-10-26','2001-12-02','Mujer',3,'16:56',11295)
-,('NVTU8529162VM',1,'Charil','Curtoys','Wrate','Fairview',768,17,'Mixcoac','Querétaro','2019-10-01','2023-12-05','1981-09-07','Hombre',2,'9:25',14660)
-,('MXFG263339EMZ',4,'Phaidra','Menco','Comrie','Canary',03,074,'Tlatelolco','Baja California Sur','2017-04-14','2025-07-19','1995-06-28','Hombre',4,'8:57',9070)
-,('XDXB373745NFL',7,'Ryon','Villaret','Hearsey','Ridge Oak',9305,31,'Del Valle','Guerrero','2012-10-08','2022-09-20','2000-12-20','No-binario',3,'10:07',10044)
-,('DWJR2952308XL',1,'Mariellen','Lindman','Vazquez','Scoville',6,3,'Tepoztlán','Michoacán','2011-09-28','2023-10-25','1985-02-24','No-binario',4,'7:42',12477)
-,('ZXJA0525025GZ',4,'Walt','Skayman','McAneny','Waywood',8373,49154,'San Miguel Chapultepec','Quintana Roo','2013-05-26','2022-01-11','2000-08-21','Hombre',7,'20:48',14680)
-,('ZIEQ141780LTS',5,'Glenn','Buffey','Eye','Forest Dale',731,5,'Narvarte','Nuevo León','2014-06-15','2023-09-17','1986-10-29','Hombre',2,'9:58',14795)
-,('JPLE385379JYM',2,'Currie','Leathe','Spreag','Sundown',0,60530,'Escandón','Morelos','2016-11-14','2025-04-02','1988-09-03','Hombre',2,'14:38',12545)
-,('SLVW90845540B',4,'Gail','Sitford','Eyckelberg','Vernon',9876,448,'Álamos','Nayarit','2018-02-01','2022-10-10','1992-07-30','Mujer',4,'8:26',9437)
-,('VMBL509451H6I',5,'Wilfrid','McCurley','Topling','Bluejay',3767,659,'Lindavista','Sonora','2015-07-17','2025-01-09','1997-08-13','No-binario',5,'7:43',14192)
-,('RKDP708557ZGP',3,'Therese','Rodway','Pietzke','Fordem',23,420,'Lindavista','Jalisco','2011-01-09','2022-02-22','1994-05-07','Mujer',1,'18:21',13537)
-,('UDYM3746989D3',4,'Demetra','Carnoghan','Schrei','Tennessee',14,929,'Narvarte','Guerrero','2016-03-15','2023-07-30','1981-10-21','Mujer',2,'14:16',11677)
-,('ELQA32786590O',1,'Hali','Rockhill','Owbrick','Delaware',26,8,'Playa del Carmen','Nuevo León','2014-05-19','2023-08-13','1993-04-11','Hombre',5,'10:01',10291)
-,('PTMC1249370H0',3,'Carleton','Dello','Ferenczy','Mitchell',9,54,'Xochimilco','Campeche','2017-08-15','2022-05-08','1993-10-27','No-binario',3,'20:50',10571)
-,('BXGD382331SW1',4,'Bette','Marjot','Vasey','Laurel',92687,77875,'Chapultepec','Quintana Roo','2016-06-20','2025-08-23','1999-02-10','Hombre',1,'14:18',10112)
-,('EYBN4810482O7',6,'Stefano','Steffans','Wehnerr','Vernon',91,00,'San Rafael','Jalisco','2012-05-10','2023-09-12','1998-03-23','Hombre',6,'20:46',7162)
-,('FNSM3161486DO',6,'Pooh','de Merida','Norton','Hansons',765,0154,'Tlalpan','Oaxaca','2017-12-04','2022-01-29','1997-11-15','Hombre',1,'10:53',9363)
-,('HEFX897405G39',1,'Rodge','Porrett','Tice','Union',6,45108,'Pedregal','Guanajuato','2016-06-16','2025-08-11','1999-07-16','Mujer',7,'4:59',8562)
-,('IGNI6163860FX',2,'Eachelle','Bucky','Hagwood','Corry',23113,79,'Xalapa','San Luis Potosí','2017-08-18','2022-10-24','1983-10-03','Hombre',3,'14:49',7529)
-,('FADQ1806350V5',2,'Merwyn','Prettyman','Becerro','Kropf',24,7,'Lindavista','Baja California Sur','2020-03-10','2023-05-24','1992-04-22','Hombre',4,'11:08',14225)
-,('YIPB242451525',6,'Sue','Routh','Lightman','Derek',1,99,'Santa María la Ribera','Chihuahua','2012-01-27','2023-06-15','2000-08-20','No-binario',1,'17:33',7143)
-,('NCYY059741RDW',6,'Rina','Roj','Wilsone','Stephen',2,6775,'Xalapa','Quintana Roo','2016-02-19','2023-06-16','1992-01-01','Mujer',5,'10:28',14404)
-,('STWF150657BIC',6,'Brenn','O''Kinneally','Smitton','Ilene',917,392,'Tulum','Nuevo León','2011-12-23','2021-10-30','1995-03-02','Mujer',5,'12:29',9768)
-,('CCTC025146JBW',6,'Godfrey','Gerok','McGinny','Dayton',46,7,'Narvarte','Nuevo León','2019-01-10','2024-09-28','1992-04-23','Hombre',3,'10:28',7092)
-,('LKHF9757516OS',7,'Paulie','Hilling','Balasini','Mccormick',953,5924,'Juárez','Guanajuato','2015-12-01','2022-01-14','2002-04-02','Mujer',2,'9:10',11375)
-,('GISO272230GCI',4,'Dayna','Haston','Leadston','Darwin',773,752,'San Rafael','Hidalgo','2015-11-03','2025-07-28','1992-04-01','No-binario',3,'20:33',13950)
-,('HNFL930132RBC',5,'Hertha','Annandale','Jurgen','Merry',5300,2321,'Pedregal','Yucatán','2020-07-16','2023-02-02','1983-11-17','No-binario',4,'7:39',9909)
-,('SIWD871217D2M',3,'Haley','Loverock','Thacker','Green Ridge',9,5085,'Napoles','Guerrero','2011-06-26','2023-12-18','1983-09-08','Hombre',2,'18:04',9681)
-,('UYHD30433212L',7,'Bendix','Heyfield','Desmond','Karstens',2767,897,'Tulum','Guerrero','2014-09-14','2023-01-04','2000-07-20','Hombre',5,'11:56',8217)
-,('NWAP994961U5O',2,'Rafael','Leverton','Trevan','Crowley',38834,56,'Jardines del Pedregal','Tabasco','2017-05-26','2022-06-15','1984-09-13','Hombre',7,'12:06',12060)
-,('DFEU012199991',5,'Demetris','Allans','Clemenzi','Magdeline',09,099,'Álamos','Sonora','2011-04-27','2022-01-23','1999-06-29','Hombre',5,'20:37',14965)
-,('LTUX615334UK3',2,'Lyman','Issacof','Peskett','Randy',627,6,'Tacubaya','Aguascalientes','2016-08-13','2022-09-29','1994-11-12','Hombre',5,'7:52',7141)
-,('IDAM9032399O0',2,'Erin','Herrieven','Conklin','Summerview',8,244,'Napoles','Morelos','2015-02-03','2024-07-06','1983-06-30','Hombre',5,'17:39',11161)
-,('OZQQ084258LO0',3,'Sholom','Dearn','Jessop','Mallard',43,0827,'Doctores','México','2017-06-05','2024-10-27','1991-03-16','No-binario',7,'17:58',14525)
-,('SUKF921600AX5',5,'Derward','Chatenier','Foan','Macpherson',93398,61051,'Narvarte','Chiapas','2017-10-10','2025-07-09','1989-12-30','Hombre',2,'12:56',9985)
-,('ZWAO2330798LH',3,'Maribelle','Merigot','Purchon','Garrison',9001,07309,'Portales','Coahuila','2016-07-19','2024-11-15','1985-05-11','Hombre',2,'14:53',8927)
-,('ORJX921708BQL',3,'Eleni','Snowden','Bodimeade','Toban',23,74,'Roma','Baja California','2011-01-04','2021-11-19','1992-09-17','Hombre',4,'11:28',10894)
-,('RMDO838893XDD',7,'Rourke','Lindenbaum','Beckworth','Surrey',60,6616,'Roma','Guerrero','2019-11-18','2023-12-01','1996-10-29','Hombre',3,'11:49',14150)
-,('PYBF582685DHX',4,'Maryjane','Fawthrop','Ashforth','Sachs',12,745,'Tacubaya','Michoacán','2013-08-21','2024-01-16','1980-11-27','No-binario',7,'17:46',8201)
-,('PQQR502103JVH',3,'Carroll','Goater','Arstall','1st',17790,46,'Nápoles','Chiapas','2013-11-08','2023-08-06','1984-07-25','Hombre',7,'14:52',8650);
 
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('LBLD38126934X',1,'Vinson','Dow','Robilliard','Reinke',89,1,'San Jerónimo','Chiapas','2010-12-17','2022-09-16','1975-08-29','Mujer',1,'7:00-15:00',7588);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('WRVR032646V9V',1,'Murdoch','Kehoe','Stickler','Southridge',3,9163,'Nápoles','Querétaro','2015-07-08','2023-10-10','1960-10-30','No-binario',3,'15:00-23:00',8885);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('XCNJ255417P5G',3,'John','Beyer','Oag','Pierstorff',58,0,'Cuajimalpa','Sinaloa','2017-09-06','2022-12-20','1966-04-27','No-binario',4,'23:00-7:00',1073);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ZCNE630985LGH',4,'Gertruda','Durward','Soppett','Old Shore',644,51,'San Ángel','Chiapas','2012-05-25','2022-11-19','1974-03-29','No-binario',1,'7:00-15:00',8990);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('CHYI217969PDO',5,'Cyril','Yetton','Neeson','Mosinee',1,81196,'Xalapa','Michoacán','2019-02-26','2021-12-01','1998-04-06','Hombre',5,'15:00-23:00',7118);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('KFYW89384513J',6,'Roi','Muress','Cella','Little Fleur',3,65,'San Rafael','Nayarit','2018-04-11','2024-09-11','1987-12-27','Mujer',3,'23:00-7:00',859);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('JDWA625854R18',7,'Pail','Pariss','Cherm','Onsgard',5585,1,'Roma','Sinaloa','2016-02-06','2022-01-14','1980-03-07','Hombre',6,'7:00-15:00',1814);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('TWZT232750IVI',1,'Clarette','aManger','Perot','Golf',738,16,'Roma','Hidalgo','2015-07-26','2025-09-30','1989-04-14','Mujer',4,'15:00-23:00',9637);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('KIFX045181Q9N',1,'Alikee','Wills','Freyne','Vermont',1936,67,'Santa Fe','Coahuila','2018-05-18','2025-03-11','1988-11-06','Hombre',6,'23:00-7:00',8873);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('LIQF318191FE9',3,'Mersey','Goodday','Seacombe','Fremont',4101,0139,'Condesa','Nuevo León','2013-12-17','2025-05-05','1977-12-17','Hombre',3,'7:00-15:00',1119);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('HMLD858390P5X',4,'Farleigh','Beacock','Willatt','Waxwing',1804,99,'Escandón','Michoacán','2013-06-15','2021-11-17','1973-12-15','Mujer',5,'15:00-23:00',938);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('MKOX4769199EU',5,'Staffard','Scrogges','Jordison','Farragut',08,546,'Polanco','Hidalgo','2020-03-18','2022-10-28','1999-05-17','Mujer',1,'23:00-7:00',14363);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('VSXG586833OYW',6,'Vivyan','Carleman','Bertwistle','Washington',43,897,'Tlatelolco','Yucatán','2015-09-06','2025-07-03','1981-08-03','No-binario',1,'7:00-15:00',7158);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('AMAN215457U5A',7,'Corena','Medway','Haccleton','Commercial',7080,859,'Narvarte','Sinaloa','2013-03-04','2022-04-04','1967-11-20','Mujer',6,'15:00-23:00',14934);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('WPOB867185QIV',1,'Fidela','Burchatt','Slateford','Miller',730,467,'Condesa','Campeche','2014-05-29','2025-06-27','1989-02-28','Hombre',4,'23:00-7:00',1837);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('HLRW6343963MF',1,'Morty','Garnall','Halewood','Lakewood Gardens',1,505,'Jardines del Pedregal','Baja California','2012-04-14','2023-06-12','1965-03-11','Hombre',1,'7:00-15:00',14406);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('OQLS299394014',3,'Vassily','Rigeby','Laird-Craig','Hauk',88,81753,'Lindavista','Jalisco','2015-01-23','2023-12-15','1990-11-05','No-binario',1,'15:00-23:00',8757);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('WKXL702634CKS',4,'Dyna','Prangle','Klemmt','Declaration',479,81,'San Jerónimo','Colima','2011-03-26','2024-05-18','1966-10-13','Mujer',5,'23:00-7:00',10867);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('DGPN781851E1Q',5,'Margi','Edler','Cearley','Maryland',48,7105,'Lindavista','Zacatecas','2019-08-14','2025-02-20','1973-06-17','Mujer',6,'7:00-15:00',855);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ONOQ232349QOK',6,'Cortie','Autry','Spurrior','Kennedy',3473,6,'Portales','Campeche','2018-09-09','2021-12-18','1979-09-20','Mujer',5,'15:00-23:00',1153);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('BYIA506068G39',7,'Lotte','Ottawell','Uzzell','Vahlen',6055,79,'Xalapa','Colima','2016-05-30','2025-01-22','2000-08-12','Hombre',5,'23:00-7:00',14114);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('CQWJ0670043DV',1,'Brigid','Minogue','Bilyard','Bunker Hill',4,916,'San Rafael','Aguascalientes','2017-04-29','2025-01-24','1977-09-19','Mujer',1,'7:00-15:00',8053);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('XJVQ9188083CS',1,'Carlie','Falco','Hourstan','Brickson Park',4,5,'Santa Fe','Campeche','2017-01-30','2022-01-29','1963-07-25','Hombre',1,'15:00-23:00',1474);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('NQNY471097WHQ',3,'Mozelle','Totton','Skeat','Carpenter',10,09854,'Cuajimalpa','Nuevo León','2012-08-16','2025-01-25','2000-10-21','No-binario',1,'23:00-7:00',8855);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('WQAC252808OBZ',4,'Shalna','Glasheen','Huntar','Reindahl',87,1,'Escandón','Chiapas','2015-11-27','2024-03-28','1963-08-16','Mujer',1,'7:00-15:00',108);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ZJXK935585TCN',5,'Christophe','Lugton','Boswood','Scoville',0,63,'Azcapotzalco','Tabasco','2018-02-24','2023-05-17','1994-08-27','Hombre',3,'15:00-23:00',8048);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('CRBL9746500B1',6,'Dalt','Honsch','Greensitt','Doe Crossing',71745,013,'Lindavista','Hidalgo','2011-12-21','2022-03-10','1962-10-26','Mujer',4,'23:00-7:00',8689);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('UZYS5352663YO',7,'Ira','Lilian','Rackam','Thierer',89,0,'Coyoacán','Nuevo León','2020-09-10','2024-11-25','1968-10-21','Mujer',6,'7:00-15:00',7616);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('WNOI3790664FL',1,'Foss','Lindsay','Geard','Fallview',580,4654,'Azcapotzalco','Tabasco','2013-08-15','2025-05-23','1994-09-19','No-binario',4,'15:00-23:00',11970);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('XAZA462316JQ3',1,'Levon','Farnall','Castard','Clarendon',30,7730,'Roma','Chihuahua','2011-05-14','2025-09-04','1972-08-08','Mujer',3,'23:00-7:00',831);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('PZYR101395T2F',3,'Brice','Castree','Folkard','Mitchell',69,0891,'Xalapa','Sonora','2011-10-11','2022-09-15','1977-10-13','No-binario',7,'7:00-15:00',1017);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('WUAE417261F2P',4,'Yorgo','Forward','Sweetzer','Almo',505,15661,'Narvarte','Puebla','2018-10-12','2024-06-28','1960-12-08','No-binario',6,'15:00-23:00',14101);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('XOFP1586721TL',5,'Al','Maryon','Doget','Southridge',7303,6,'Mixcoac','Tlaxcala','2019-11-16','2022-09-23','1980-02-18','Mujer',4,'23:00-7:00',1351);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('HPTJ104312NDR',6,'Alfie','Beckson','Coghill','Erie',03,3494,'Del Valle','Sinaloa','2016-02-23','2024-09-17','1999-03-22','Hombre',3,'7:00-15:00',9935);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('TFQC211133UCH',7,'Mason','Cattow','Fylan','Brentwood',430,159,'Escandón','Zacatecas','2015-04-22','2022-08-05','1984-10-17','Hombre',6,'15:00-23:00',7978);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('WJCO247970KVA',1,'Toinette','Trudgian','Alloisi','Nevada',5,65,'San Rafael','Baja California','2015-05-30','2021-11-06','1973-06-29','Mujer',4,'23:00-7:00',9971);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('LECE055226J3B',1,'Eolanda','Havesides','Preist','Fordem',3,4483,'Del Valle','Guerrero','2010-12-22','2021-11-22','1971-10-18','Hombre',5,'7:00-15:00',10070);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('AJER0296421Z5',3,'Karrie','Bretland','Tordoff','Shopko',4131,71499,'Polanco','Tlaxcala','2016-05-07','2025-10-19','1998-06-19','No-binario',7,'15:00-23:00',13338);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('MTGE321465QPZ',4,'Jessey','Ogan','Lockett','Fulton',95645,1,'Xochimilco','México','2012-11-25','2025-03-09','1976-09-13','No-binario',1,'23:00-7:00',1168);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('YBFG046824HOF',5,'Patti','Daveridge','Gowdie','Gateway',00,9744,'Playa del Carmen','Nuevo León','2015-11-15','2024-04-30','1984-09-15','Mujer',1,'7:00-15:00',1098);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('QLYR0808516CB',6,'Kippy','Nenci','Yurlov','Sugar',1,0,'Xochimilco','Colima','2019-01-21','2022-03-31','1974-11-27','No-binario',4,'15:00-23:00',1450);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('RVUZ401582T0R',7,'Libbey','Vaskin','Shelmardine','Duke',11908,9,'Reforma','Quintana Roo','2012-08-05','2022-02-13','1994-09-20','No-binario',1,'23:00-7:00',7979);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('NPSE7459004ZV',1,'Carlynn','Doyley','Bartlomiej','Chinook',855,8,'Tulum','Puebla','2016-06-20','2025-03-20','1965-10-06','Mujer',7,'7:00-15:00',7885);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('VAJA449732YEQ',1,'Clarke','Massingberd','Beining','Memorial',97,58,'San Miguel Chapultepec','México','2014-10-18','2022-05-27','1964-07-29','Hombre',3,'15:00-23:00',10673);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('LQXZ554625JQP',3,'Fiorenze','Clausius','Ziems','Mayfield',141,038,'Roma','Oaxaca','2011-09-13','2021-12-10','1983-02-27','Mujer',1,'23:00-7:00',784);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('OPGK7283389QP',4,'Lalo','Espin','Cundey','Chinook',13,3996,'Polanco','Guanajuato','2017-09-24','2025-03-19','1994-07-09','Mujer',6,'7:00-15:00',14094);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ANBL571748HKE',5,'Sigfried','Hicks','Minchinden','Sauthoff',516,37,'Roma','Veracruz','2012-06-04','2022-08-25','1997-03-10','Mujer',1,'15:00-23:00',173);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('HRPG494878Z17',6,'Jefferson','Guillotin','Nye','Tomscot',6883,699,'Escandón','Quintana Roo','2018-08-09','2022-11-28','1982-08-09','Hombre',3,'23:00-7:00',79);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('NWVK279539KO7',7,'Clementine','Templar','Paull','Hayes',1,5,'Nápoles','Yucatán','2019-06-29','2024-07-03','1995-05-09','Mujer',3,'7:00-15:00',1465);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('DBZZ583034AVR',1,'Osbourn','Stepney','Guppy','Morning',1,6,'Tulum','Jalisco','2011-06-20','2024-12-12','1989-09-19','Hombre',7,'15:00-23:00',1410);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('LREB056468XF7',1,'Georgeanne','Braunstein','Spada','Arizona',5,004,'Cancún','Chiapas','2019-01-15','2025-10-19','1985-08-23','Hombre',4,'23:00-7:00',8064);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('UQPY149166KI9',3,'Molli','Probbin','Struttman','Starling',97371,55,'Escandón','Sonora','2019-11-13','2024-10-02','1975-08-16','Hombre',6,'7:00-15:00',1157);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('BEII172691W5I',4,'Dugald','Shiel','Dabes','Del Mar',139,30665,'Coyoacán','Coahuila','2013-03-18','2024-02-15','1963-05-05','No-binario',6,'15:00-23:00',8806);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('HFDY065037DX4',5,'Tybie','Amort','Westby','Spaight',88673,441,'Escandón','Chihuahua','2019-09-23','2025-05-07','1976-12-04','No-binario',3,'23:00-7:00',1130);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('CQWU483486S5Q',6,'Wallas','Bischop','Coyne','Roth',438,55,'Tepoztlán','Aguascalientes','2011-06-27','2025-02-21','1965-04-25','No-binario',5,'7:00-15:00',1730);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('IARI080680YCW',7,'Denis','Mintoft','Aimson','Autumn Leaf',796,047,'Santa Fe','Tabasco','2013-08-22','2024-11-04','1971-10-23','No-binario',4,'15:00-23:00',9355);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('MZJN220177O20',1,'Mady','Risbridger','Barabisch','Mockingbird',0456,8678,'Tulum','Chiapas','2015-08-30','2024-03-28','1996-02-18','Hombre',5,'23:00-7:00',9804);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('XHBA515994ZAL',1,'Aurilia','Armatys','Blinman','John Wall',64399,3,'Mixcoac','Oaxaca','2014-04-17','2023-11-16','1964-03-28','No-binario',3,'7:00-15:00',7985);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('KGDC972525TES',3,'Emogene','Sowte','Thumann','Rockefeller',6,54387,'Cancún','Nayarit','2010-12-24','2022-06-02','1982-12-06','Hombre',1,'15:00-23:00',97);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('TKMX909640VJS',4,'Arvie','Dowtry','Dibnah','Pine View',1,99816,'Chapultepec','Jalisco','2010-11-05','2023-10-29','1970-11-03','Mujer',7,'23:00-7:00',14150);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('QJTU514115ZME',5,'Philis','Antonioni','Curton','Washington',46093,16,'Mérida','Campeche','2018-07-15','2025-03-28','1961-12-27','Mujer',4,'7:00-15:00',1181);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ZUAS189244XUJ',6,'Latia','de Mullett','Langwade','Walton',55146,89,'Cancún','Sonora','2015-05-24','2023-09-09','1983-10-19','No-binario',5,'15:00-23:00',733);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('VSWX434003S9K',7,'Rocky','Radbourne','Clubb','Dayton',1469,68664,'San Miguel Chapultepec','Tamaulipas','2013-05-29','2022-03-28','1983-09-01','Mujer',1,'23:00-7:00',8897);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ZRNR0837399W8',1,'Milzie','Stuchburie','Siemons','Thackeray',64671,0,'Mérida','Tlaxcala','2012-07-25','2024-10-12','1963-12-03','Mujer',1,'7:00-15:00',14384);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('OAZC7417975WB',1,'Jedd','Shemming','Dobbs','Talmadge',80593,5344,'San Rafael','Sinaloa','2015-02-22','2023-10-12','1998-05-10','Mujer',3,'15:00-23:00',144);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('UFKY455959N8B',3,'Wileen','Yglesia','Wingfield','Meadow Valley',3,6,'Azcapotzalco','Guanajuato','2020-03-12','2024-11-24','1970-09-12','No-binario',7,'23:00-7:00',8177);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('BZXY808321KFH',4,'Creight','Schops','Busek','Carberry',1081,57116,'Reforma','Morelos','2017-03-01','2022-11-04','1964-01-02','Mujer',7,'7:00-15:00',8187);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ROLA1022962B1',5,'Natassia','Dewire','Minchinton','Canary',69,560,'Santa Cruz Atoyac','San Luis Potosí','2011-03-11','2025-01-28','1977-08-16','No-binario',1,'15:00-23:00',803);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('QOZM16013515Y',6,'Ibbie','Smallcombe','Jephson','Grayhawk',9,1,'Playa del Carmen','Baja California','2016-10-21','2022-06-25','1965-01-13','Mujer',6,'23:00-7:00',10853);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('EKZL462097NPP',7,'Lilyan','Paxforde','Atcheson','Linden',646,1003,'Roma','Nuevo León','2015-06-29','2022-11-06','1967-03-30','No-binario',4,'7:00-15:00',10468);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('WJAU935259L20',1,'Brockie','Snowden','Barthrup','Trailsway',5,6679,'Granjas México','Hidalgo','2018-07-28','2024-10-11','1999-03-08','Hombre',6,'15:00-23:00',1848);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('CBEG884808YV6',1,'Katherina','Lukas','Pero','Emmet',054,448,'Tulum','Tabasco','2013-07-17','2025-01-06','1971-09-20','Hombre',1,'23:00-7:00',8091);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('XVPY1939501BA',3,'Bourke','Daber','Wiggington','Lukken',787,068,'Granjas México','Zacatecas','2013-01-27','2023-08-13','1993-11-27','Mujer',6,'7:00-15:00',8037);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('JQUN6417864DH',4,'Lauren','Mullins','Ritson','Towne',90,9,'Mérida','Michoacán','2015-04-06','2024-08-13','1989-04-16','No-binario',3,'15:00-23:00',14401);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('HJCU8184810E1',5,'Crin','Bursnall','Mawer','Superior',8,98,'Santa María la Ribera','Nayarit','2014-07-15','2023-02-20','1980-02-09','Mujer',6,'23:00-7:00',1356);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('AWPK315693HSV',6,'Cyrillus','Dupree','Dhennin','Cottonwood',71469,1,'Narvarte','Yucatán','2011-10-20','2023-03-24','1996-12-22','Mujer',1,'7:00-15:00',1116);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('UEBN500685EJH',7,'Roana','Oboy','Gunda','Lake View',4,345,'Tlatelolco','Nuevo León','2012-05-05','2025-01-08','1962-10-21','No-binario',7,'15:00-23:00',10586);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ZYCJ665154HYT',1,'Cullen','Curds','Nazair','Dixon',3813,7983,'Condesa','Zacatecas','2015-06-01','2025-01-29','1976-07-17','Hombre',7,'23:00-7:00',1067);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('SYAN9156505II',1,'Sigismond','Melland','Rysom','Dahle',1,95,'Polanco','Puebla','2019-06-19','2025-02-28','1999-08-01','Mujer',1,'7:00-15:00',1350);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('NSTR944852290',3,'Shanta','McKimmey','Fryers','Columbus',8503,4817,'Escandón','Sinaloa','2012-10-12','2022-10-20','1975-04-19','Hombre',1,'15:00-23:00',187);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('KBDD794805RUK',4,'Allie','Bellsham','Tregoning','Vernon',955,54,'Chapultepec','Nayarit','2018-07-20','2022-03-10','1981-05-27','No-binario',6,'23:00-7:00',14946);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('CZGZ276913UCR',5,'Pancho','Fetherstan','Raybould','Merry',88694,4,'Polanco','San Luis Potosí','2019-09-20','2021-11-14','1967-05-01','No-binario',4,'7:00-15:00',1104);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('QUAX429667L7N',6,'Berri','Isacq','Kobelt','School',6,0,'Polanco','Michoacán','2020-10-09','2023-12-02','1969-11-29','No-binario',1,'15:00-23:00',10394);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('BJBQ952658GIW',7,'Margarette','Quaintance','Folbigg','Warner',116,468,'Napoles','Baja California Sur','2011-03-07','2022-01-23','1973-10-04','Mujer',7,'23:00-7:00',7535);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('GXPD884537000',1,'Laverne','McGivena','O''Leary','Grasskamp',7,01,'Napoles','Tabasco','2018-07-04','2023-07-13','1982-08-02','Hombre',6,'7:00-15:00',11797);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('WVTQ147655QSQ',1,'Juanita','Skarr','Barthod','Ruskin',1,74490,'Polanco','Chiapas','2017-02-16','2024-12-22','2000-10-05','Hombre',1,'15:00-23:00',13885);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('UUMF416139KLC',3,'Obidiah','Glison','Paoloni','Porter',51,636,'Santa Fe','Sinaloa','2012-06-24','2023-09-05','1972-01-25','Hombre',7,'23:00-7:00',14478);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('EBHX712754MVM',4,'Crissie','Durie','Burnsides','Orin',6,71,'Xochimilco','Tlaxcala','2014-08-20','2023-02-19','1977-09-13','No-binario',6,'7:00-15:00',7685);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('XEEZ825935M4R',5,'Katharina','Malsher','Hair','Hintze',50,35895,'Doctores','Yucatán','2015-10-21','2025-06-03','1974-07-27','Mujer',1,'15:00-23:00',14048);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('WGTF07255453S',6,'Honor','Sandaver','Darwent','Anzinger',5579,079,'Lindavista','Baja California Sur','2015-01-08','2022-02-20','1993-05-09','Hombre',3,'23:00-7:00',13659);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('RUVJ086770LH6',7,'Henrik','Clifton','Vamplers','Waywood',6,3498,'Narvarte','Nuevo León','2015-10-26','2025-09-01','1975-02-04','Mujer',1,'7:00-15:00',9567);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('DBQQ6852179KU',1,'Reta','Sigert','Gierth','Sunbrook',405,83744,'Tulum','Baja California Sur','2019-02-17','2022-10-23','1984-10-11','No-binario',6,'15:00-23:00',1069);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('GLUD365117QT5',1,'Selie','Menear','Bosnell','Spaight',481,15,'Nápoles','Tamaulipas','2020-08-25','2025-05-17','1989-12-16','Hombre',1,'23:00-7:00',1100);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('RPGV979061WMJ',3,'Francisca','Pyecroft','Bruce','Boyd',4,00,'Lindavista','Morelos','2012-08-14','2025-04-24','1963-03-11','No-binario',5,'7:00-15:00',8790);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('UCJI371786X3K',4,'Joni','Decaze','Busse','Pine View',7744,6,'San Ángel','Aguascalientes','2015-07-28','2023-04-21','1988-02-18','No-binario',5,'15:00-23:00',1034);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('UNYL712732ECR',5,'Sisely','Mechi','Turbitt','Northfield',469,699,'Álvaro Obregón','Zacatecas','2020-08-08','2021-12-25','1960-12-13','Hombre',7,'23:00-7:00',8633);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('XRNV1743232U0',6,'Meyer','Toun','Tetlow','Talmadge',795,35,'San Jerónimo','Veracruz','2012-01-20','2023-11-18','1996-06-14','Mujer',6,'7:00-15:00',1470);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('AXLE694715NP2',7,'Sayre','Delamar','Gonnet','Marcy',9,43,'Xochimilco','Oaxaca','2016-05-01','2024-03-07','1981-07-31','Mujer',1,'15:00-23:00',8548);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('KKUL933175CF5',1,'Devondra','Pallis','Walenta','Reindahl',59666,5,'Mérida','Aguascalientes','2017-07-19','2022-03-13','2000-03-02','Hombre',4,'23:00-7:00',1577);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('EJVC871908WW0',1,'Cammy','Prando','Endley','Jackson',77771,878,'Polanco','Nuevo León','2012-05-16','2025-10-12','1969-06-30','No-binario',6,'7:00-15:00',10744);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('DFCK02360819P',3,'Dew','Steinham','Tregent','Carpenter',018,754,'San Pedro de los Pinos','Quintana Roo','2013-02-04','2024-07-08','1988-12-25','Mujer',3,'15:00-23:00',14665);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('WXMV3076264QR',4,'Vasilis','Riggert','Skelhorn','Fremont',945,6675,'Tepoztlán','Tabasco','2017-07-03','2023-02-18','1962-12-18','Hombre',5,'23:00-7:00',10468);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('QSBZ9720149UB',5,'Asia','Follett','Neaverson','Elmside',356,683,'San Miguel Chapultepec','Chiapas','2012-09-26','2023-06-08','1970-06-20','Mujer',1,'7:00-15:00',1550);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('LHIU702702DSE',6,'Guido','Kay','O''Flaherty','1st',0,6,'Mixcoac','Morelos','2015-10-22','2024-05-31','1985-06-07','Hombre',1,'15:00-23:00',8661);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('MPYU6455056EA',7,'Ferguson','Powrie','Hew','Veith',1961,194,'San Ángel','Tamaulipas','2017-12-01','2025-01-22','1972-03-23','Mujer',6,'23:00-7:00',10859);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('OCFU056262A18',1,'Dasie','Nutty','Mayhead','Hallows',49,8451,'Santa Cruz Atoyac','Hidalgo','2012-06-17','2023-05-29','1995-02-02','No-binario',1,'7:00-15:00',9865);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('UYSP5108565JR',1,'Glory','Josipovitz','Dey','Oak',036,834,'Lindavista','Coahuila','2012-11-27','2023-08-06','1985-02-12','Mujer',6,'15:00-23:00',11051);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('DSID84168697O',3,'Daren','Giacoppoli','Tetther','Nancy',604,09,'Escandón','Morelos','2016-11-17','2023-12-31','1964-04-07','Mujer',5,'23:00-7:00',9404);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('JQHS078395QZK',4,'Clo','Georgeson','Dunseath','Cardinal',6997,764,'Lindavista','Guerrero','2013-07-14','2023-08-02','1980-11-07','No-binario',6,'7:00-15:00',10468);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('TZVE049975KRN',5,'Agnola','Crawford','Caig','Sachtjen',5,313,'Nápoles','Chihuahua','2016-04-12','2023-02-07','1966-04-30','Hombre',3,'15:00-23:00',8908);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('NWPD727415STG',6,'Jaye','Newell','Revie','Haas',1,8068,'Tlalpan','Tabasco','2015-11-22','2024-06-08','1961-10-31','Hombre',1,'23:00-7:00',14713);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('JEWS963925KX4',7,'Beulah','Dionisi','Sea','Moulton',84,1946,'Xalapa','Sonora','2015-06-28','2022-10-11','1981-04-20','Mujer',3,'7:00-15:00',13406);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('KHUQ037828O9G',1,'Danila','Stoyell','Vasse','Cottonwood',7,919,'Roma','Tlaxcala','2012-07-21','2023-05-18','1983-06-09','Mujer',4,'15:00-23:00',13470);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('UEPY720308MGR',1,'Gilemette','Watterson','Burney','Dryden',51,90399,'Cancún','Chiapas','2017-02-23','2023-11-27','1964-01-14','Mujer',1,'23:00-7:00',1906);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('NWER359360ZW6',3,'Worden','Webby','Dobrovolski','Erie',1396,96,'Nápoles','Colima','2016-03-29','2023-03-14','1990-07-31','Mujer',3,'7:00-15:00',8816);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('TFPN037619KH1',4,'Jesselyn','Brandacci','Aveson','Ronald Regan',9157,611,'Playa del Carmen','Sinaloa','2014-02-16','2023-02-23','1961-05-28','No-binario',7,'15:00-23:00',8490);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('FODN865578H75',5,'Jeremy','Stutter','Throssell','Dahle',7495,031,'Cuajimalpa','Oaxaca','2019-12-03','2025-04-05','1967-03-22','No-binario',1,'23:00-7:00',10948);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('KRRO237856C57',6,'Alanah','Josefsohn','Dudin','Browning',66013,95,'Polanco','Nuevo León','2010-10-26','2024-03-26','1961-03-21','Hombre',6,'7:00-15:00',1818);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('SORC752306LL0',7,'Brice','Deere','Gossipin','Vernon',15,8,'Juárez','Michoacán','2020-05-22','2023-09-12','1999-05-25','Hombre',1,'15:00-23:00',1041);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('JFUH827197NOY',1,'Claudell','Isard','Werndly','Graceland',9,7036,'Granjas México','Tlaxcala','2012-08-31','2024-04-20','1976-07-18','No-binario',1,'23:00-7:00',13361);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('SSLN195069Q7C',1,'Shina','Bickersteth','Brookes','Glacier Hill',344,1536,'Satélite','Sonora','2014-02-08','2021-11-29','1964-10-05','Mujer',6,'7:00-15:00',11960);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('SSAX248270EEN',3,'Oliver','Climo','Newham','Dwight',5978,7,'Del Valle','Querétaro','2018-12-12','2025-01-28','1985-06-04','Hombre',3,'15:00-23:00',7907);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('JIPZ022023AOD',4,'Abbie','Sturges','Jaukovic','Pierstorff',5056,7,'Juárez','Tamaulipas','2013-12-22','2024-11-12','1963-06-06','Hombre',6,'23:00-7:00',13413);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('NLDL575247BZB',5,'Lion','Dinnis','O''Brogan','Packers',697,19,'Santa María la Ribera','Quintana Roo','2015-12-28','2023-10-14','1993-09-29','Hombre',6,'7:00-15:00',843);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('VVMM044514XNB',6,'Aline','Janoschek','Crampin','Vera',33,3,'Santa María la Ribera','Guanajuato','2019-02-18','2023-05-27','1968-02-27','Hombre',1,'15:00-23:00',1134);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('WGIV726990QBU',7,'Luca','Malarkey','Carlisi','Hanson',4689,4,'Coyoacán','Aguascalientes','2019-08-04','2024-02-11','1961-06-17','Mujer',3,'23:00-7:00',979);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('HFLM8538310QJ',1,'Raff','Janak','Sutehall','Anniversary',39,3810,'Pedregal','Guerrero','2011-02-24','2025-05-28','1986-02-23','Hombre',1,'7:00-15:00',958);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('VWHI940636OH6',1,'Theadora','Loweth','Steagall','Havey',96555,14,'Jardines del Pedregal','Nuevo León','2017-11-25','2023-08-17','1991-08-13','Hombre',5,'15:00-23:00',714);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('REPB05999710A',3,'Mirabel','Reboul','Crookshank','Towne',4465,5638,'Narvarte','Quintana Roo','2016-03-16','2023-08-22','1996-01-14','Hombre',3,'23:00-7:00',101);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('IQAY193882U0P',4,'Preston','Duerden','Gouldeby','Thompson',1540,395,'Roma','Quintana Roo','2015-12-31','2021-12-24','1963-04-28','No-binario',1,'7:00-15:00',13857);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('IACW917735EC1',5,'Elwyn','Doxey','Ogles','Cambridge',73,3,'Narvarte','Puebla','2020-03-17','2024-09-28','1981-05-19','No-binario',5,'15:00-23:00',14435);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('IXJT184045Q6S',6,'Aurelie','Sturror','Tollady','Algoma',5,7,'Doctores','Puebla','2013-12-03','2025-02-11','1988-08-01','Hombre',1,'23:00-7:00',13474);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('BDSZ33858560N',7,'Hazel','Timson','Assaf','Waubesa',95,9,'Azcapotzalco','Guanajuato','2013-08-23','2023-03-31','1976-12-14','Mujer',1,'7:00-15:00',8501);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('HLND3191549A4',1,'Konstanze','Bradley','McCafferky','Packers',5,55,'Xalapa','Querétaro','2020-07-01','2023-12-18','1996-11-02','No-binario',1,'15:00-23:00',1069);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('AQHA9138326BL',1,'Henrietta','Knolles-Green','Crummay','Norway Maple',9367,06,'Del Valle','Michoacán','2014-05-18','2025-05-12','1993-05-26','Hombre',7,'23:00-7:00',1083);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('BPVF354119SBS',3,'Lena','Speak','Malia','Boyd',80475,94,'Napoles','Jalisco','2015-01-20','2025-08-15','1962-02-12','No-binario',1,'7:00-15:00',147);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('MLYI3934388C4',4,'Gretel','Bernardinelli','Mattityahou','Bowman',577,6744,'Azcapotzalco','Baja California Sur','2014-09-19','2024-03-04','1995-03-29','Hombre',3,'15:00-23:00',11449);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('EPOU870339MH2',5,'Ethelred','Enderwick','Gersam','Mcbride',3,9,'San Miguel Chapultepec','Zacatecas','2019-11-06','2024-11-28','1973-01-15','Hombre',5,'23:00-7:00',7633);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('TIZF403824ENM',6,'Sawyere','Oglesbee','Dainton','Prairie Rose',6185,64,'Álvaro Obregón','Sonora','2012-09-18','2023-07-22','1990-08-26','Hombre',3,'7:00-15:00',7435);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('TFOC0638439RF',7,'Roldan','Lally','Trimnell','Schiller',01,374,'Condesa','Puebla','2015-05-26','2022-05-08','1983-04-18','Hombre',3,'15:00-23:00',11096);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('JXUG998189R2W',1,'Dru','Gaither','Stanyer','Eastlawn',390,35,'Xochimilco','Morelos','2017-07-19','2025-02-16','1993-09-20','Mujer',1,'23:00-7:00',916);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('MHOT070243UT6',1,'Sawyer','Callacher','Manoelli','Stephen',71665,5540,'Condesa','Yucatán','2012-11-02','2025-07-22','1989-09-02','Mujer',3,'7:00-15:00',13061);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('RNAN46491329U',3,'Carrie','Carlino','Oles','Stoughton',5,90788,'Santa Fe','Puebla','2012-09-28','2023-09-15','1976-03-13','No-binario',1,'15:00-23:00',13160);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('GFKD734325SD5',4,'Kaye','Dilland','Gionettitti','Kim',1,3,'San Ángel','Coahuila','2015-06-06','2022-09-11','1979-04-18','Mujer',5,'23:00-7:00',10163);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('OOYK566184H9R',5,'Gianina','Hourihan','Worsall','Blue Bill Park',176,471,'Condesa','Campeche','2012-11-11','2025-05-10','1997-08-27','Mujer',1,'7:00-15:00',9084);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('FTND373633CRF',6,'Kirk','Brill','Hammerich','Morrow',1504,64,'Tepoztlán','Chiapas','2010-12-03','2025-03-06','1991-03-04','Hombre',1,'15:00-23:00',1119);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('KEUC397636EPF',7,'Arie','Adshed','Jacobs','North',57,75974,'Anzures','Sinaloa','2012-08-14','2025-09-26','1973-02-05','Hombre',6,'23:00-7:00',930);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('DMTB5233843J9',1,'Doralin','Pohling','Hillborne','Meadow Valley',06,948,'Chapultepec','Tabasco','2020-06-29','2022-04-02','1975-02-03','No-binario',1,'7:00-15:00',7005);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('TBLA085544072',1,'Virge','Bourgourd','Courtois','Cherokee',901,37996,'Roma','Zacatecas','2020-04-06','2022-11-12','1976-01-16','No-binario',3,'15:00-23:00',958);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('RPSM434973DDR',3,'Jourdain','Loins','Winham','Kennedy',63,40,'Escandón','Coahuila','2016-02-07','2025-03-24','1972-12-26','Hombre',1,'23:00-7:00',8538);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('DPHU3672390DD',4,'Rozalie','Alliot','Rutter','2nd',7599,075,'Portales','Tlaxcala','2011-01-15','2024-05-20','1984-05-20','No-binario',1,'7:00-15:00',8651);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('PWSY77097062H',5,'Fabiano','Cullivan','Chesnut','High Crossing',0,67,'Roma','Quintana Roo','2018-12-04','2024-05-11','1996-11-01','Mujer',1,'15:00-23:00',9417);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('HMVQ034634PCF',6,'Abram','Garaway','Delacourt','Northland',19,405,'Jardines del Pedregal','Tlaxcala','2012-08-16','2023-01-16','1995-02-07','No-binario',3,'23:00-7:00',865);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('KYHI346777I7C',7,'Julissa','Cook','Scotchmoor','Lighthouse Bay',96,6,'Álamos','Quintana Roo','2014-12-05','2024-08-29','1979-05-05','Hombre',6,'7:00-15:00',715);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('GINP994037S87',1,'Westleigh','Quinnell','Hopfer','Macpherson',430,7978,'San Rafael','Chiapas','2011-12-20','2023-03-07','1983-01-30','Mujer',6,'15:00-23:00',7856);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('GLVO2820204VJ',1,'Kippy','Cantos','Brain','Bartelt',5,01013,'Playa del Carmen','Sinaloa','2019-02-03','2025-09-22','1981-10-30','No-binario',3,'23:00-7:00',8740);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('NWXR185330R88',3,'Hagan','Ryles','Harden','Gateway',45,867,'San Ángel','Durango','2019-03-22','2022-02-28','1972-03-16','Hombre',3,'7:00-15:00',145);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('GROR564063EID',4,'Giulio','Youtead','Kincey','Thackeray',0,69,'Xalapa','Baja California','2019-02-20','2023-04-18','1969-06-03','Hombre',5,'15:00-23:00',113);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ZYQA796733DTR',5,'Kelvin','Solley','Chishull','Sachs',4,74,'Santa Cruz Atoyac','Coahuila','2013-01-21','2023-06-25','1993-08-21','Hombre',6,'23:00-7:00',1377);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ZEZU024380RI3',6,'Osbourne','Swaddle','Rodrig','Riverside',393,31,'Escandón','México','2018-02-25','2024-06-08','1984-01-09','Mujer',3,'7:00-15:00',14675);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('IQKZ988306IYU',7,'Tawnya','Brunetti','Arbor','Orin',38,67,'Lindavista','Nuevo León','2016-09-22','2024-03-21','1975-05-31','No-binario',1,'15:00-23:00',191);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('CGFN2330674OZ',1,'Melany','McEvon','Dabnor','Cordelia',01,61108,'Mixcoac','Baja California','2016-04-14','2024-09-23','1979-09-17','Hombre',6,'23:00-7:00',10546);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('WUGI892949FOI',1,'Lois','McShee','Harfleet','Autumn Leaf',59,041,'Álvaro Obregón','Sonora','2013-05-20','2025-09-05','1982-08-10','Hombre',1,'7:00-15:00',11935);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ZNHD7758316EY',3,'Wendeline','Tomsa','Shaxby','Jana',9,39030,'Lindavista','Nuevo León','2018-10-22','2023-04-20','1984-04-17','No-binario',5,'15:00-23:00',7030);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('JXYS0629685Y1',4,'Ring','Folds','Thorbon','Northport',7,9595,'San Pedro de los Pinos','Coahuila','2012-10-07','2024-07-08','1973-02-27','Hombre',4,'23:00-7:00',11476);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('DWCK030292RLK',5,'Joyous','Taile','Wisam','Arizona',647,6165,'San Jerónimo','Colima','2019-03-17','2024-02-01','1961-09-29','Mujer',6,'7:00-15:00',11698);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('QGFQ991111OBY',6,'Celka','Mayte','Badman','John Wall',7174,7538,'Juárez','México','2012-06-13','2025-03-25','1970-02-15','Mujer',5,'15:00-23:00',1443);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('SVLB439298Z0O',7,'Betsey','Brewse','Dennehy','Melvin',0180,6,'Juárez','Quintana Roo','2020-04-05','2023-12-07','1992-08-08','No-binario',6,'23:00-7:00',11070);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('BJZP529080MKK',1,'Laurianne','Larway','Goldman','Utah',64,45,'Santa Fe','Baja California','2018-09-07','2024-02-09','1969-07-09','No-binario',1,'7:00-15:00',779);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ENEX700196PX2',1,'Joletta','Testo','Reynoollds','Express',991,5181,'Juárez','Baja California Sur','2016-09-28','2024-04-05','1978-05-16','Hombre',1,'15:00-23:00',1138);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('JJMP474122MS4',3,'Thorpe','Capini','Pentecost','Swallow',996,67,'San Jerónimo','Querétaro','2017-02-24','2025-07-23','1970-12-28','Hombre',6,'23:00-7:00',8487);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('BEXC705788U3A',4,'Sandy','Ianno','Salan','Maple Wood',6,3,'Xalapa','Chihuahua','2020-02-28','2023-05-01','1994-07-16','Mujer',7,'7:00-15:00',11350);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('FYVG655334VWF',5,'Virge','Scimoni','Waything','Crest Line',5437,1144,'Narvarte','Jalisco','2014-01-07','2023-09-14','1991-06-16','No-binario',5,'15:00-23:00',11850);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('GXZI767243RUQ',6,'Jacky','Trigwell','Haffard','Dahle',603,0311,'Xochimilco','Yucatán','2019-02-21','2025-09-07','1993-03-10','No-binario',1,'23:00-7:00',108);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('UOHF241711EJ8',7,'Audre','McBeth','Sitford','Hovde',0379,4,'Cancún','Guerrero','2019-09-06','2023-01-15','1978-05-29','No-binario',6,'7:00-15:00',7655);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('CSTV5123818L6',1,'Corenda','Rable','Van Giffen','Lerdahl',6185,084,'Tacubaya','Guerrero','2015-04-14','2023-09-15','1990-04-04','Mujer',1,'15:00-23:00',836);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('CXEZ675944LIE',1,'Mora','Cases','Longmore','Trailsway',8711,09,'Reforma','México','2016-05-26','2023-03-16','1997-03-02','Mujer',1,'23:00-7:00',14575);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('VMEO571441QTU',3,'Danit','Aumerle','Blanche','Green',8087,4,'Napoles','Durango','2012-01-03','2025-05-15','1969-02-09','Mujer',4,'7:00-15:00',188);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('DSEG154818357',4,'Sascha','Hambling','Knobell','6th',1,51804,'Napoles','Chihuahua','2017-05-08','2022-07-08','1994-03-17','No-binario',4,'15:00-23:00',11995);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ZEDX2233324FM',5,'Sally','Alanbrooke','Byway','Calypso',1,665,'Mérida','Guerrero','2019-07-17','2024-09-10','1984-08-01','No-binario',3,'23:00-7:00',9789);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('CFWF756920G1E',6,'Kurtis','Sage','Blase','Starling',87,85,'San Ángel','México','2018-08-02','2023-03-13','1997-01-20','Hombre',6,'7:00-15:00',9900);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('FRLX8587414SH',7,'Korie','Tuffin','Osmant','Moulton',443,15,'San Pedro de los Pinos','San Luis Potosí','2020-05-12','2023-10-22','1971-03-30','Mujer',4,'15:00-23:00',7718);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('KLHU309414TQA',1,'Frederik','Biddle','Keast','Hollow Ridge',4,7,'Jardines del Pedregal','Nayarit','2015-04-28','2023-09-07','1994-07-06','Mujer',6,'23:00-7:00',8074);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('EXCZ622204SVQ',1,'Reinald','Eagling','Heaysman','Northview',578,3867,'Chapultepec','Quintana Roo','2016-06-26','2022-06-21','1992-01-30','Hombre',7,'7:00-15:00',95);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('BIEQ233627L0Q',3,'Richart','Georgius','Chilley','Farragut',913,85490,'Anzures','Zacatecas','2020-04-05','2024-10-25','1992-04-27','Mujer',6,'15:00-23:00',10688);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('LKJV925379C1T',4,'Cristie','Eshmade','Duggary','Daystar',7,515,'Xochimilco','Oaxaca','2013-03-18','2022-01-17','1977-06-15','Mujer',5,'23:00-7:00',7444);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('GYYV728776KO2',5,'Nerta','Betteridge','Boshard','Comanche',0175,396,'Xochimilco','Sonora','2018-07-06','2025-10-01','1979-06-09','Hombre',1,'7:00-15:00',1956);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('BARV829505SSX',6,'Pancho','Baton','Fairlam','Buena Vista',061,6610,'Polanco','Durango','2015-09-21','2025-04-04','1989-04-07','Mujer',6,'15:00-23:00',9499);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('AMCI211765T46',7,'Desiree','Deer','Otton','Morningstar',6,33,'Tacubaya','Coahuila','2011-08-05','2023-07-05','2000-05-03','No-binario',5,'23:00-7:00',8806);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('SESE3165957GW',1,'Corissa','Scutter','Ferrea','Bartillon',9,91358,'Nápoles','Coahuila','2013-01-29','2023-02-04','1962-01-27','Hombre',6,'7:00-15:00',10333);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('SHEQ317146DNH',1,'Ferd','MacAndrew','Van Hesteren','Grayhawk',6610,78,'Lindavista','Sinaloa','2014-03-02','2023-04-20','1971-01-23','Mujer',7,'15:00-23:00',1196);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('YRCE368246DRU',3,'Mike','Yukhov','Morriarty','Ilene',4,379,'Satélite','Nuevo León','2013-11-14','2024-03-22','1971-04-23','Hombre',4,'23:00-7:00',9419);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('RLAB048873S27',4,'Rip','Morriss','O'' Driscoll','Basil',16,843,'Juárez','Michoacán','2017-03-03','2025-06-05','1985-06-13','Mujer',1,'7:00-15:00',14110);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ZPJW014754XOR',5,'Nathaniel','Martinot','Goodfellowe','Manufacturers',03,4,'Tlalpan','Guerrero','2020-05-08','2024-02-13','1994-03-14','Mujer',3,'15:00-23:00',738);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('NWFJ7555773WP',6,'Cordie','Scampion','Meakin','Moulton',5736,854,'Lindavista','Jalisco','2020-05-14','2022-05-14','1988-03-27','No-binario',6,'23:00-7:00',10887);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('SFBL296302CQ2',7,'Obidiah','Farrer','Really','Summerview',154,0481,'Reforma','Sonora','2020-05-26','2022-09-14','1961-05-29','Mujer',6,'7:00-15:00',1107);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('EISG173581KUY',1,'Shel','Labet','Shama','Killdeer',034,4711,'Polanco','Jalisco','2020-02-18','2022-09-21','1960-11-10','No-binario',1,'15:00-23:00',14049);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('CFEH452032AB6',1,'Dru','Gomm','Worlock','Clarendon',41,867,'San Rafael','Campeche','2017-05-15','2025-02-09','1970-03-02','Mujer',6,'23:00-7:00',1450);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('LNRD639592WAJ',3,'Oswald','Daintith','Edgson','Summerview',5,543,'Mixcoac','Oaxaca','2016-06-27','2024-07-18','1983-08-19','Mujer',1,'7:00-15:00',1888);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('HZJD6401754RA',4,'Callie','Hasloch','Kerbler','Hovde',436,18,'Valle de Bravo','Puebla','2017-02-13','2022-02-05','1985-03-24','Mujer',1,'15:00-23:00',1179);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('GFLL774713VD2',5,'Adan','Nuzzi','Bastable','Bowman',3,395,'Del Valle','Baja California','2012-08-22','2024-08-02','1979-05-31','No-binario',4,'23:00-7:00',848);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('TTUN634223RH4',6,'Erastus','Niezen','Bansal','Gulseth',049,7993,'Lindavista','Puebla','2019-12-06','2025-07-25','1983-01-20','Hombre',7,'7:00-15:00',10730);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('WSQO523068NI9',7,'Clywd','Yablsley','Carrigan','Bowman',19,54,'Escandón','Tlaxcala','2011-10-17','2023-08-28','1961-12-15','No-binario',3,'15:00-23:00',13709);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('KIUP555980KLI',1,'Evan','Balassi','Grutchfield','Reinke',998,39598,'Portales','Yucatán','2020-09-05','2025-01-10','1992-09-03','No-binario',7,'23:00-7:00',7759);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('TSLZ2101319AM',1,'Agatha','Laxon','Gruby','Gateway',9067,5,'Mixcoac','Tlaxcala','2013-11-28','2025-05-19','1973-11-27','Hombre',3,'7:00-15:00',10498);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('SCPM777505TR4',3,'Manda','Ruger','Tomaszynski','Vera',81,0868,'San Ángel','Baja California','2017-01-04','2022-04-11','1974-09-22','No-binario',7,'15:00-23:00',1156);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('GDUW302519CG4',4,'Stephie','Sarl','McCathie','Dakota',1,1,'Tepoztlán','Nuevo León','2019-11-25','2022-12-06','1967-08-24','Hombre',3,'23:00-7:00',936);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('IDZQ242473WCP',5,'Dominic','Allsupp','Eley','Glendale',3,34,'Azcapotzalco','Colima','2019-07-07','2024-12-15','1967-03-13','Mujer',6,'7:00-15:00',14613);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('AEXW703263PXY',6,'Rodge','Towe','Whitmore','Schmedeman',73,0,'Mérida','Nayarit','2019-12-27','2022-05-23','1986-08-18','Hombre',5,'15:00-23:00',9464);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('EYZM5153252WP',7,'Justinian','Bulle','Lowde','Raven',1,95979,'Tacubaya','Michoacán','2019-10-19','2022-02-18','1960-12-15','Mujer',1,'23:00-7:00',78);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('EPCE011464ABB',1,'Winifield','Smallsman','Evitts','Derek',17,3017,'Azcapotzalco','Sinaloa','2012-01-24','2023-06-10','1962-12-17','No-binario',1,'7:00-15:00',14184);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('CIBK442170TAP',1,'Carr','Meriot','Nutbeem','Mallory',1094,4856,'Santa María la Ribera','Sonora','2012-09-07','2022-06-23','1968-12-10','No-binario',6,'15:00-23:00',1346);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('IIHA515163AY1',3,'Michal','Abramsky','Kyllford','Sheridan',6,7,'Lindavista','Michoacán','2018-07-12','2023-02-17','1974-11-19','Mujer',1,'23:00-7:00',11005);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('REJU091510XYN',4,'Amargo','Thornbarrow','Button','Bonner',918,616,'Álvaro Obregón','Tlaxcala','2013-06-19','2023-04-18','1997-06-21','Hombre',5,'7:00-15:00',1813);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('BGVH281976NJL',5,'Harvey','Weddell','Beech','Pierstorff',04190,59,'Mixcoac','Jalisco','2012-12-23','2024-11-27','1990-01-13','Hombre',1,'15:00-23:00',14698);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('LYHT641152MRY',6,'Nikki','Wiggins','Everill','Debra',688,3,'Narvarte','Colima','2013-05-19','2022-09-06','1998-04-26','Hombre',1,'23:00-7:00',13079);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('SKEI592265HC0',7,'Gawen','Dober','covino','Texas',933,9,'Pedregal','Aguascalientes','2012-11-13','2023-11-19','1967-03-15','No-binario',3,'7:00-15:00',7899);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('VNOZ727386D2U',1,'Tomi','Rosenblad','Vyse','Clemons',01367,8815,'San Pedro de los Pinos','Baja California','2014-07-09','2025-05-17','1995-03-19','Hombre',6,'15:00-23:00',1374);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('RKFE154935F3J',1,'Carola','Nudd','Tremelling','Lake View',954,1737,'Pedregal','Morelos','2012-01-09','2024-04-25','1986-02-11','Mujer',7,'23:00-7:00',1130);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('TFCI952452FMU',3,'Janos','Ziemecki','Baff','Shopko',4,7,'Del Valle','Chiapas','2015-08-25','2023-02-19','1968-03-10','Hombre',1,'7:00-15:00',9895);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('TSXT7042881PS',4,'Ester','Beves','Henrot','Shasta',08,1919,'Mérida','Baja California Sur','2016-11-07','2023-04-11','1990-09-13','Mujer',5,'15:00-23:00',9075);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('GRSY373130MVH',5,'Patrica','Tuny','Hew','Roth',6789,09477,'Tlatelolco','Coahuila','2015-03-14','2023-10-12','1976-03-30','Mujer',4,'23:00-7:00',9717);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('LBOU8107895QJ',6,'Bronnie','Breckell','Cunniam','Cordelia',8978,0890,'Mérida','Guerrero','2011-07-17','2022-07-14','1987-11-14','No-binario',1,'7:00-15:00',10901);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('JQCV325284Q4R',7,'Barbette','Angrave','Petters','Clarendon',1,1,'Satélite','Coahuila','2018-09-28','2024-03-07','1981-10-20','Hombre',6,'15:00-23:00',837);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('PUIW143334VS6',1,'Ebba','Playden','Longcake','Onsgard',7,9,'Escandón','Sonora','2017-07-04','2025-01-25','1999-08-14','No-binario',7,'23:00-7:00',10784);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('XAVA542843R09',1,'Michail','Vere','Darwin','Susan',3994,3,'Tlatelolco','Sinaloa','2011-01-22','2022-09-29','1988-01-03','Hombre',1,'7:00-15:00',8849);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('QOPH703729FPZ',3,'Karla','Knill','Domaschke','Logan',1,474,'Chapultepec','San Luis Potosí','2017-11-09','2022-03-31','1962-02-19','Hombre',6,'15:00-23:00',99);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('UAOT596067PUI',4,'Prudence','Brocklebank','Toffetto','Laurel',77,78,'Del Valle','Guanajuato','2016-08-08','2023-09-14','1982-07-18','Mujer',3,'23:00-7:00',975);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('RNKG061524LK7',5,'Abe','Wartonby','Britton','Bonner',6760,964,'San Pedro de los Pinos','Querétaro','2018-05-29','2023-05-19','1964-02-06','No-binario',1,'7:00-15:00',9189);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('VPAR9643310KK',6,'Glenda','Scurr','Raun','Menomonie',9,3,'Del Valle','Baja California','2015-07-04','2023-05-14','1987-07-23','Mujer',1,'15:00-23:00',1346);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('YGHP875385XA9',7,'Peirce','Aleixo','Burker','Ridgeview',497,758,'Polanco','Tlaxcala','2014-03-06','2023-09-30','1980-01-06','Hombre',6,'23:00-7:00',785);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ZLDR537561S6Z',1,'Dorene','Fanti','Anger','Linden',3,7,'Anzures','Jalisco','2013-01-30','2025-01-19','1985-12-08','Mujer',4,'7:00-15:00',805);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('EXOA67601538Q',1,'Hy','Morsley','Gill','Morningstar',6054,671,'Polanco','Nuevo León','2014-11-13','2023-06-02','1965-12-19','No-binario',7,'15:00-23:00',13955);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('YTWQ093792PC9',3,'Lexis','Streater','Norrie','Schiller',1,7,'Santa Cruz Atoyac','Nuevo León','2020-01-08','2024-04-19','1997-08-23','Mujer',5,'23:00-7:00',11513);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('FNTE7040456BT',4,'Alyda','Craik','Ollivier','Stoughton',30,03,'Álamos','Puebla','2016-08-03','2022-03-19','1988-11-08','Mujer',3,'7:00-15:00',13097);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('DAYI5356053DW',5,'Nerissa','Carnachen','Embling','Montana',4844,4,'Narvarte','Baja California','2012-06-03','2022-03-02','1966-10-06','Hombre',5,'15:00-23:00',951);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('QVAI932739KIN',6,'Adele','Flather','Bromell','Butternut',9374,308,'Tepoztlán','Aguascalientes','2012-06-12','2024-07-11','1983-06-27','No-binario',5,'23:00-7:00',1497);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('PUYK212340K8Q',7,'Alaster','Mouland','Baggot','Lukken',8,30875,'Reforma','Guanajuato','2017-03-13','2022-11-17','1983-06-18','Mujer',1,'7:00-15:00',7657);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('QSDU5898326ZS',1,'Jodee','Mathouse','Larman','Lunder',83,8,'Condesa','Quintana Roo','2018-12-03','2024-07-07','1974-07-24','No-binario',4,'15:00-23:00',1056);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('CESR532518SI7',1,'Thalia','Choak','Pretorius','Roth',76,081,'Coyoacán','Morelos','2014-05-07','2024-01-06','1982-03-11','No-binario',6,'23:00-7:00',10410);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('EFTV007107CFZ',3,'Myrtle','Roylance','Milleton','Sauthoff',9561,558,'Juárez','Chiapas','2015-03-01','2023-06-09','1966-02-12','Mujer',1,'7:00-15:00',1305);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('SDPC164006P1B',4,'Rozamond','Dominicacci','Mallabar','Sugar',6,158,'Anzures','Yucatán','2016-05-23','2024-12-21','1974-05-04','No-binario',3,'15:00-23:00',8350);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('UKUW0869448ME',5,'Carmella','Oertzen','Paffley','Stephen',5,4440,'Condesa','Guerrero','2011-05-03','2021-12-03','1993-06-18','No-binario',5,'23:00-7:00',1076);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('SGVG37475279H',6,'Bordie','Grayley','Kearton','High Crossing',3649,5893,'Coyoacán','Morelos','2017-07-10','2023-11-22','1988-04-27','Mujer',3,'7:00-15:00',7619);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('HCUK590305WYN',7,'Goldarina','Marchand','Driscoll','Toban',1869,6,'Pedregal','Hidalgo','2016-02-24','2021-11-02','1977-07-08','Hombre',1,'15:00-23:00',1460);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('KJCY610326DDA',1,'Michele','Clubb','Sandford','Saint Paul',9015,35,'Jardines del Pedregal','Baja California Sur','2016-11-20','2025-04-04','1987-11-15','Hombre',7,'23:00-7:00',7767);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('PMKR766001YLC',1,'Frankie','Scarf','Borrott','Scofield',531,798,'Del Valle','Morelos','2011-06-11','2023-12-15','1969-01-12','Mujer',7,'7:00-15:00',9997);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('JAQP74768302S',3,'Kerby','Kundt','Bussen','Vahlen',513,974,'Azcapotzalco','Hidalgo','2010-12-13','2023-03-04','1970-07-17','Hombre',5,'15:00-23:00',716);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('UXUL980948473',4,'Lorri','Masterton','Philippet','Victoria',13,9055,'Escandón','Quintana Roo','2015-10-25','2025-09-16','1962-01-11','Mujer',1,'23:00-7:00',1005);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('YCSI588820TTB',5,'Dewitt','Thackston','Hardcastle','Holmberg',19,93075,'Azcapotzalco','Nayarit','2016-01-21','2023-09-16','1981-09-17','No-binario',1,'7:00-15:00',134);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('FAEK330758UOI',6,'Thorn','Sharrier','Shurey','Delladonna',7,77,'Mixcoac','Tamaulipas','2012-01-29','2024-07-02','1963-04-06','Hombre',4,'15:00-23:00',8575);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('UPVL425418JMK',7,'Mellie','Ghelardoni','Simenet','Eliot',189,167,'Portales','México','2015-05-05','2022-10-24','1980-09-23','Hombre',6,'23:00-7:00',8154);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('DBPP286701L9G',1,'Grissel','Ragat','Balogh','Eggendart',60,69078,'Azcapotzalco','Oaxaca','2019-05-27','2024-12-09','1969-11-12','Hombre',1,'7:00-15:00',14900);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('YZIK000540YBC',1,'Katrine','Rowlstone','Paolone','Stang',3694,35773,'Del Valle','Jalisco','2012-12-07','2022-12-11','1978-03-09','No-binario',3,'15:00-23:00',1394);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('RTRS2396635Z0',3,'Engracia','Szymoni','Broderick','Summer Ridge',8,3046,'Tepoztlán','Michoacán','2012-01-02','2024-12-27','1971-02-27','Mujer',7,'23:00-7:00',716);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('SBGN85913359W',4,'Rubia','Stephen','Dreng','Dovetail',3649,8519,'Playa del Carmen','Oaxaca','2020-03-06','2025-08-25','1980-12-18','Hombre',4,'7:00-15:00',7799);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('REZW6589382VT',5,'Albie','Mash','Caccavella','Village',465,33,'Tacubaya','Morelos','2013-08-01','2024-10-25','1981-03-28','Hombre',5,'15:00-23:00',8173);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('WPIN074764G8O',6,'Clywd','Shinton','MacLardie','Ronald Regan',5,86,'San Rafael','Chiapas','2017-03-21','2023-09-03','1975-07-15','No-binario',1,'23:00-7:00',834);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('GDBE044141WVQ',7,'Archibaldo','Nettleship','Snaden','Canary',349,7,'Azcapotzalco','Chiapas','2012-10-16','2022-09-06','1967-02-11','No-binario',7,'7:00-15:00',9015);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('CAVM191550GUK',1,'Friedrich','McCanny','Ray','Sachs',90079,349,'Tulum','Nayarit','2016-11-14','2025-06-28','1990-10-05','Mujer',1,'15:00-23:00',1491);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('FWJL564115YMK',1,'Dillie','Stanwix','Meigh','Grayhawk',976,109,'Condesa','Morelos','2015-07-26','2022-03-07','1998-01-13','No-binario',1,'23:00-7:00',141);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('TLMV064506W7T',3,'Hugh','Rumgay','Commings','Sunfield',77,17710,'Del Valle','Michoacán','2014-01-21','2023-06-13','1969-04-16','No-binario',3,'7:00-15:00',8998);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('AXJJ690101ZYW',4,'Dreddy','Walbridge','Branwhite','Quincy',11,8386,'Napoles','Morelos','2011-04-08','2022-02-07','1968-09-19','Mujer',1,'15:00-23:00',1303);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('GGBK26568526X',5,'Lisle','Cobello','Nanelli','Waxwing',9,66,'Xalapa','Baja California','2019-03-30','2021-12-25','1986-12-07','Hombre',6,'23:00-7:00',11046);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('BZXT831755R50',6,'Amerigo','Tschirschky','Cuningham','Arkansas',8,17,'Juárez','Guerrero','2010-11-12','2024-05-27','1965-11-10','No-binario',3,'7:00-15:00',10368);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('DJKF801709DX0',7,'Alexei','Jennick','Pammenter','Bluejay',011,41,'Álamos','Quintana Roo','2014-07-28','2025-02-27','1979-05-09','No-binario',4,'15:00-23:00',10888);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('GVHI520247MDF',1,'Dorette','Cussons','Woofenden','Menomonie',1,547,'Del Valle','Nuevo León','2014-07-24','2022-03-16','1970-01-25','Hombre',5,'23:00-7:00',7455);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('KCAZ285636KAP',1,'Marney','Gay','Deeth','International',5858,165,'Tepoztlán','Guerrero','2017-12-20','2022-07-13','1985-07-08','No-binario',4,'7:00-15:00',9444);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('OMJF738408WRY',3,'Francklyn','Patel','Hallett','Forest',797,9577,'Cancún','Michoacán','2014-02-02','2024-07-12','1986-05-20','No-binario',7,'15:00-23:00',7376);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('SUKQ5720870DF',4,'Jonis','Fairlem','Wark','Elka',37,07315,'Santa Fe','Baja California Sur','2015-08-08','2024-05-18','1983-11-21','Mujer',3,'23:00-7:00',11819);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('IBMF96262648U',5,'Veronica','Beggini','Dunkerly','Fulton',87,5453,'Chapultepec','Nuevo León','2018-01-06','2022-02-17','2000-04-30','Mujer',6,'7:00-15:00',1337);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('GEKB281477IRE',6,'Ward','Muston','Arnold','Prentice',57,8300,'Santa Cruz Atoyac','Hidalgo','2016-12-22','2024-05-03','1983-07-18','Mujer',3,'15:00-23:00',939);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('EATP030850SAV',7,'Benedikta','Auden','Crolla','Nova',59,5753,'Xalapa','Puebla','2012-02-15','2023-09-18','1961-04-03','Hombre',1,'23:00-7:00',1464);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('NERX9209375AV',1,'Chevy','Nann','Mathivet','Esch',9,85,'Playa del Carmen','Chihuahua','2016-11-08','2022-07-07','1976-05-11','Hombre',3,'7:00-15:00',8017);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('KOJY772586UR8',1,'Ines','Mugglestone','MacSporran','Autumn Leaf',566,68540,'Coyoacán','Campeche','2018-06-28','2024-03-18','1992-11-12','Hombre',7,'15:00-23:00',10144);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('KYTT9057747FA',3,'Pete','Tomsu','Croot','Calypso',71819,05,'Tepoztlán','Michoacán','2017-12-15','2022-11-27','1967-10-24','Hombre',5,'23:00-7:00',8773);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('BSOS672482I66',4,'Goldie','Iannazzi','Colbourn','Dottie',006,0,'Condesa','Hidalgo','2016-03-08','2022-07-29','1998-09-09','Mujer',5,'7:00-15:00',9684);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('UNRD041886U4Z',5,'Arthur','Eustanch','Tindley','Forest Dale',1,064,'Jardines del Pedregal','San Luis Potosí','2017-06-23','2023-06-18','1966-08-25','No-binario',1,'15:00-23:00',1110);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('JUNJ231874C3Y',6,'Sarena','Galer','Clotworthy','Blue Bill Park',93,51469,'Coyoacán','Aguascalientes','2018-02-02','2023-01-14','1988-03-28','No-binario',7,'23:00-7:00',11969);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('IVXO5934748TK',7,'Denney','Spencelayh','Wormell','Cottonwood',4,56087,'Doctores','México','2012-08-13','2024-07-27','1982-04-05','Mujer',4,'7:00-15:00',9907);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('SQFN378252JH5',1,'Melisse','Kegley','Venediktov','Vahlen',73098,76,'Escandón','Tamaulipas','2016-10-15','2025-07-14','1963-02-10','Mujer',6,'15:00-23:00',704);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('FPRI574433PC0',1,'Selena','Dauncey','Athelstan','Schlimgen',8,5671,'Reforma','Quintana Roo','2017-05-29','2023-07-28','1988-06-21','Hombre',1,'23:00-7:00',768);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ZBLN7280182KJ',3,'Delainey','Allingham','Tillot','Esch',70,5,'Tlalpan','Morelos','2018-04-05','2023-02-09','1993-12-03','Hombre',3,'7:00-15:00',10897);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('MJAM4021524NM',4,'Teodoor','Janeczek','Terzi','Talmadge',1,9,'Pedregal','Querétaro','2016-06-23','2023-02-12','2000-03-11','No-binario',3,'15:00-23:00',11657);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('OQZY973489C4H',5,'Lilas','Durbin','Bollis','Butterfield',8063,411,'Narvarte','Querétaro','2019-05-05','2025-04-21','1979-05-12','Hombre',1,'23:00-7:00',1177);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('MGHK6424289XD',6,'Iorgo','Allman','De Courtney','Eagle Crest',14,37,'San Miguel Chapultepec','Querétaro','2011-09-06','2023-06-29','1970-12-21','Hombre',3,'7:00-15:00',13498);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('BXND70795058S',7,'Gwenora','Whiston','Hugh','Melby',9,47163,'Azcapotzalco','Aguascalientes','2019-08-07','2024-01-12','1982-11-11','Hombre',1,'15:00-23:00',909);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('VPFX093810JIA',1,'Waldon','Writer','Struys','Blackbird',1866,5183,'Satélite','Baja California','2014-07-21','2022-08-16','1982-01-19','No-binario',5,'23:00-7:00',9594);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('TRKI9402899BQ',1,'Colby','Mottram','Gerger','Village Green',15,4608,'Cancún','México','2015-09-14','2024-06-14','1963-12-02','No-binario',4,'7:00-15:00',13950);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('XXKX7079115OU',3,'Claudine','Batram','Bednall','Texas',93,541,'Lindavista','México','2011-10-19','2024-04-11','1979-01-26','No-binario',1,'15:00-23:00',951);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('UASC680753X3V',4,'Rodge','Fandrich','Batchan','Rusk',73,3,'San Rafael','Quintana Roo','2011-05-24','2024-11-05','1984-09-05','No-binario',1,'23:00-7:00',1488);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ODAE566897Z7Y',5,'Benedicta','Guttridge','Laffling','Truax',03,30,'San Jerónimo','Veracruz','2015-07-30','2023-10-10','1978-09-21','No-binario',7,'7:00-15:00',11511);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('VSGX708640Q4P',6,'Minda','McAirt','Trevain','Steensland',3,509,'Lindavista','Colima','2013-02-07','2023-01-01','1989-07-10','No-binario',6,'15:00-23:00',1109);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('JXGO321408LYC',7,'Kathi','Montes','McCheyne','Holmberg',36,3,'Napoles','Nuevo León','2020-09-26','2021-12-11','1967-03-05','No-binario',1,'23:00-7:00',756);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('SGMB639226O7J',1,'Jameson','Oldham','Rubinek','Doe Crossing',5184,4346,'Santa Fe','Chihuahua','2017-05-22','2025-04-05','1987-09-04','No-binario',3,'7:00-15:00',8833);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('WRKJ824041MHB',1,'Garreth','Farquarson','Maddams','Glacier Hill',19166,3,'Mixcoac','Veracruz','2020-03-10','2022-08-25','1968-12-25','Hombre',4,'15:00-23:00',14640);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('UBRH960066WWF',3,'Ulises','Hullot','Thurlbeck','Barby',3371,47,'Coyoacán','Yucatán','2013-02-03','2023-08-10','1985-10-25','Hombre',7,'23:00-7:00',777);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('MOQT2271089US',4,'Boigie','Clemenzo','Elan','Ludington',1703,7,'Napoles','Tlaxcala','2016-08-09','2023-03-23','1970-07-24','Mujer',5,'7:00-15:00',7674);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('TAWA604585E28',5,'Shae','Southward','Oades','Walton',6089,8,'Mixcoac','Aguascalientes','2014-12-16','2024-08-21','1969-09-19','No-binario',5,'15:00-23:00',10697);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('AOGP470461WYC',6,'Andonis','Waterhouse','Bohlmann','Redwing',3199,39,'Playa del Carmen','Aguascalientes','2020-08-15','2022-08-28','1981-12-06','No-binario',7,'23:00-7:00',14970);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('NSHL976480RJ1',7,'Lauren','Langthorne','Skydall','Bowman',390,113,'Reforma','Quintana Roo','2018-03-03','2024-12-06','1976-02-28','No-binario',1,'7:00-15:00',10875);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('GTYS549440UZ6',1,'Jeth','Robertson','Bannon','Rowland',108,0431,'Escandón','Aguascalientes','2014-01-07','2025-05-26','1988-12-10','No-binario',1,'15:00-23:00',1381);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('EHLA154491R0U',1,'Alain','Baumann','Odams','Trailsway',739,4,'Lindavista','Baja California','2010-12-28','2024-10-10','1966-11-16','Mujer',1,'23:00-7:00',8943);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('CPBH031401O3Q',3,'Basilio','Di Biaggi','Womack','Laurel',6,481,'Reforma','México','2015-01-04','2022-01-20','1971-08-20','Hombre',4,'7:00-15:00',13393);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('UZBK8770537XU',4,'Akim','Campanelle','Clausner','Thackeray',0,7,'Lindavista','Puebla','2019-03-18','2021-11-23','1967-03-06','Mujer',4,'15:00-23:00',865);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('QRZL044690SMW',5,'Norby','Litterick','Starr','Manufacturers',661,6,'Granjas México','Sinaloa','2016-12-09','2022-07-04','1992-09-07','No-binario',5,'23:00-7:00',9571);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('LJNI540511U29',6,'Parker','Buff','Strowger','Scoville',1,96055,'Tulum','Oaxaca','2015-01-19','2023-09-27','1983-12-28','Hombre',5,'7:00-15:00',1311);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('UTSL992340O7Q',7,'Lucita','Combes','Biernat','Roth',71,839,'Álvaro Obregón','San Luis Potosí','2015-11-17','2025-06-17','1972-09-05','Mujer',6,'15:00-23:00',1394);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('XMFC2606815BB',1,'Lanni','Villar','Borg-Bartolo','Mifflin',479,9,'Tlalpan','Baja California Sur','2015-11-29','2022-04-20','1968-05-04','Mujer',5,'23:00-7:00',9078);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('KZND749603WOQ',1,'Quinton','Jevon','Guihen','Crescent Oaks',13,719,'Lindavista','México','2011-07-15','2022-06-06','1973-05-11','Hombre',5,'7:00-15:00',10786);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('VWTR759254NY7',3,'Colan','Bramford','Liell','Hazelcrest',8895,1,'Tlatelolco','Veracruz','2013-09-05','2023-07-10','1983-06-16','Hombre',5,'15:00-23:00',10019);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('MKPW220566NVS',4,'Archy','Flieg','Brickell','Lakewood',7468,56,'Tlalpan','Campeche','2013-09-20','2024-06-06','1972-07-22','Hombre',6,'23:00-7:00',119);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('FYOQ664684HZZ',5,'Madelon','Swepstone','Littlechild','Milwaukee',464,78,'Tepoztlán','Chiapas','2013-05-04','2022-08-05','1975-01-26','Mujer',3,'7:00-15:00',9607);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('APPM97949421L',6,'Osbourn','Atkinson','Dowling','Merchant',9840,53,'Anzures','Quintana Roo','2011-09-10','2022-08-31','1962-09-21','Hombre',6,'15:00-23:00',8006);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('AKRJ326287LRC',7,'Cale','Domelow','Signe','Becker',976,35166,'San Ángel','Nayarit','2011-12-20','2025-07-06','1982-11-06','No-binario',7,'23:00-7:00',1060);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('GUMR4580942BD',1,'Murdock','Askwith','Goldman','Sheridan',4,1,'Doctores','Tamaulipas','2012-07-26','2023-03-06','1986-12-13','No-binario',1,'7:00-15:00',14533);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('BXBU869677IR5',1,'Urbain','Mutton','Leaves','American Ash',15,619,'Satélite','Tamaulipas','2016-04-16','2024-02-09','1962-03-23','No-binario',4,'15:00-23:00',7311);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('LHNR9469617IB',3,'Bordy','Burbank','Hathway','Ryan',30807,8107,'Tepoztlán','Veracruz','2015-12-23','2025-03-26','1968-05-08','No-binario',1,'23:00-7:00',1931);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('TTQE703264EQZ',4,'Ashla','Lethabridge','Snassell','Independence',549,51,'Playa del Carmen','Jalisco','2013-05-16','2024-09-28','1969-08-11','No-binario',5,'7:00-15:00',9835);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('LWJW295752B29',5,'Horatius','Hurtado','Allnatt','Autumn Leaf',59907,8,'Portales','Aguascalientes','2017-07-20','2022-08-01','1968-12-23','No-binario',6,'15:00-23:00',946);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('FAOL907001CAL',6,'Reeta','Fishbie','Tregidga','Homewood',885,1,'Polanco','Jalisco','2015-03-21','2025-01-06','1980-07-07','Mujer',1,'23:00-7:00',1450);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('YNON566261KRK',7,'Giraud','Douce','Scheffel','International',6,314,'Santa María la Ribera','Coahuila','2018-09-10','2022-10-15','1976-12-05','No-binario',1,'7:00-15:00',9613);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ACWO279771RDW',1,'Murdock','Elwyn','Filchakov','1st',500,74,'Lindavista','Jalisco','2014-03-23','2022-09-27','2000-10-14','No-binario',6,'15:00-23:00',7848);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('NLZY736632VUL',1,'Marquita','Orrock','Tarplee','4th',6,477,'Chapultepec','Chihuahua','2011-01-18','2024-04-02','1977-03-24','No-binario',5,'23:00-7:00',787);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('PJMI3506602FZ',3,'Carry','Rowler','Lardeux','Vernon',4,0,'Tulum','Aguascalientes','2015-04-08','2023-04-12','1995-10-18','Hombre',1,'7:00-15:00',1847);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('WVIT00756895O',4,'Gracie','Sandey','Sammes','Wayridge',8646,01516,'Napoles','Quintana Roo','2020-03-25','2024-06-20','1979-10-16','Hombre',7,'15:00-23:00',9966);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('AAWV0576723XD',5,'Petra','Whitticks','Stanbury','Autumn Leaf',609,1,'Álamos','Tabasco','2019-12-24','2022-09-24','1993-10-02','No-binario',1,'23:00-7:00',7658);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('WFIH7113395UD',6,'Maxy','Hindsberg','Guillou','Old Gate',833,70,'Tlatelolco','Hidalgo','2012-01-19','2025-02-04','1991-12-17','Hombre',1,'7:00-15:00',8538);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('QKPB152694ECR',7,'Wilow','Fullagar','Rubinov','Loeprich',1817,87,'Satélite','Colima','2020-09-06','2022-10-25','1992-05-27','No-binario',4,'15:00-23:00',11867);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('QEGH067108QNE',1,'Linus','Donaho','Tourmell','Russell',800,7933,'Del Valle','Puebla','2018-01-24','2022-06-02','1985-02-26','Hombre',6,'23:00-7:00',8946);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('RCAW706386HJ9',1,'Dorolice','Robarts','Gommey','Marcy',9889,08,'Polanco','Morelos','2018-08-18','2024-01-18','1992-05-13','Mujer',3,'7:00-15:00',1663);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('FCTM466478GAD',3,'Sigismund','Rogan','Dyson','Artisan',1,43,'Narvarte','Michoacán','2017-07-18','2024-02-26','1970-07-14','Mujer',4,'15:00-23:00',11145);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('EQKU2208577B3',4,'Brewer','Killner','Ohanessian','Erie',4011,5,'Reforma','Guerrero','2017-01-16','2025-09-05','1970-12-12','Hombre',6,'23:00-7:00',11700);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('AGWF755218ZF5',5,'Alyson','Agdahl','Antoshin','Eliot',1,6,'Tacubaya','Campeche','2012-10-26','2024-03-18','1973-07-08','No-binario',7,'7:00-15:00',1940);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('SKUK284699RH8',6,'Vin','Tassell','Hansbury','Lukken',34,6696,'Del Valle','Morelos','2013-06-25','2022-04-07','1969-04-22','Hombre',4,'15:00-23:00',13646);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('LLPD677117MYX',7,'Drake','Quinney','Bixley','Myrtle',1191,333,'Polanco','Coahuila','2011-12-05','2021-12-24','1997-06-26','No-binario',5,'23:00-7:00',8790);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('TYIF53756624X',1,'Winfred','Southey','Golden of Ireland','Bartelt',18,30,'Del Valle','Sonora','2012-06-09','2023-03-02','1981-10-20','No-binario',5,'7:00-15:00',10441);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('XKZD209473254',1,'Vladimir','Celiz','Poynser','Melby',08161,94,'Álvaro Obregón','Campeche','2015-03-09','2024-08-21','1963-02-20','Hombre',1,'15:00-23:00',7065);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('DWGH5575384D6',3,'Borden','Pelosi','Dober','Vermont',513,056,'Azcapotzalco','Guanajuato','2018-07-26','2022-05-15','1973-03-13','No-binario',3,'23:00-7:00',1390);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('KVAS7691255CV',4,'Bird','Leetham','Readwing','La Follette',3,439,'Pedregal','Chihuahua','2015-10-11','2023-01-16','1979-07-05','Hombre',6,'7:00-15:00',133);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('LEXF3720005S9',5,'Ilyse','Phare','Merrington','Ridge Oak',7,359,'Lindavista','Chihuahua','2013-02-16','2022-11-16','1988-10-24','Hombre',1,'15:00-23:00',13097);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('LRML964399CBU',6,'Suzanne','Artz','Ewells','Sutherland',4,5445,'Polanco','Colima','2018-05-06','2023-03-13','1966-03-02','No-binario',1,'23:00-7:00',11349);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('XZHM259755FGQ',7,'Webb','Melanaphy','Bugge','Loftsgordon',06,5557,'Valle de Bravo','Puebla','2018-08-14','2023-04-10','1977-12-02','Hombre',1,'7:00-15:00',7749);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('JBRD713510K6C',1,'Ara','Esche','Simchenko','Holmberg',6,9,'Narvarte','Durango','2010-10-28','2024-02-25','1997-12-25','No-binario',7,'15:00-23:00',998);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('FXNJ420420Y4F',1,'Heloise','Fairley','Pietzner','Walton',619,094,'Tepoztlán','Yucatán','2018-09-11','2025-05-11','1981-11-03','Hombre',7,'23:00-7:00',873);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('VJVT8668961RK',3,'Dene','Macbeth','Stoaks','Parkside',8,34,'Santa Cruz Atoyac','San Luis Potosí','2015-01-16','2024-11-15','1977-06-05','No-binario',1,'7:00-15:00',1061);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ECVI039508DHP',4,'Jania','Cesaric','Crush','Saint Paul',40,61403,'Xochimilco','Nuevo León','2011-06-06','2025-04-21','1993-12-04','Mujer',1,'15:00-23:00',917);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('IZKI517773XU4',5,'Edyth','Hamflett','Perago','Mitchell',56674,51,'Tepoztlán','Nayarit','2019-10-31','2022-02-20','1977-11-18','Mujer',6,'23:00-7:00',8873);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('REBR850569MQK',6,'Gerick','Le Gall','Piwell','Shoshone',09,1,'Valle de Bravo','Puebla','2016-10-31','2022-04-12','1977-08-19','No-binario',1,'7:00-15:00',139);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('VQAB1266421NW',7,'Bondon','Stair','Corker','Debs',8043,1,'Mixcoac','Morelos','2013-08-18','2024-07-24','1972-01-09','Mujer',6,'15:00-23:00',1769);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('OKRD543411SPR',1,'Alana','Spearman','Elford','Orin',984,5641,'Santa María la Ribera','Tabasco','2012-01-02','2022-07-31','1970-04-12','No-binario',5,'23:00-7:00',103);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('KAWR316136GK8',1,'Loleta','Levin','Petow','Toban',91694,487,'Pedregal','San Luis Potosí','2013-06-23','2022-01-05','1994-02-11','No-binario',1,'7:00-15:00',8979);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('XBRL1383077CH',3,'Griffin','Lovitt','Pieterick','Ramsey',070,0657,'Reforma','Michoacán','2018-01-18','2025-06-03','1976-11-14','No-binario',6,'15:00-23:00',7451);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('UQLD121480ZPN',4,'Julie','Folini','Topper','Mariners Cove',81937,4191,'Lindavista','Sinaloa','2015-03-23','2025-08-26','1972-11-11','Mujer',7,'23:00-7:00',7876);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('JWMG266788V6R',5,'Ana','Poulson','Youngs','Steensland',139,1,'Cancún','Nuevo León','2020-10-10','2024-11-23','1970-09-29','No-binario',6,'7:00-15:00',10617);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('QBFW147958WIC',6,'Maisie','Keeley','Callear','Chinook',5,9347,'Narvarte','Tamaulipas','2020-07-12','2023-04-08','1971-02-10','Hombre',5,'15:00-23:00',1365);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('XUUM99892954A',7,'Karlyn','Paffley','Garces','Kenwood',68,909,'Mixcoac','Michoacán','2015-04-24','2023-03-12','1960-11-30','Mujer',1,'23:00-7:00',13017);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ICIJ475335R9W',1,'Belvia','Linturn','Tweedlie','Coolidge',876,9976,'Tlatelolco','Tlaxcala','2012-11-10','2023-02-07','1985-12-24','No-binario',5,'7:00-15:00',113);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ALVU569518NTH',1,'Alika','Glass','Minney','Gale',015,9,'Polanco','Sonora','2012-06-25','2025-06-24','2000-05-28','Mujer',7,'15:00-23:00',89);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('GAEB776302YV8',3,'Austen','Dearing','Brusle','New Castle',95,7669,'Mérida','Oaxaca','2013-05-18','2022-11-11','1968-02-21','No-binario',1,'23:00-7:00',1435);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('QSQF2868383FZ',4,'Damon','Jerman','Woolner','Forest Run',3855,03,'Anzures','Yucatán','2016-06-28','2025-03-07','1980-05-12','Hombre',1,'7:00-15:00',1335);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('TTIM740560VDP',5,'Waylen','Tree','Matyushkin','Lawn',5444,40,'Portales','Morelos','2016-02-21','2023-03-22','1999-05-09','Mujer',7,'15:00-23:00',99);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('VDYT5341013IQ',6,'Brannon','Knappe','Henriquet','North',4504,0018,'Del Valle','Baja California Sur','2019-01-31','2022-11-20','1964-07-24','Mujer',5,'23:00-7:00',1004);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('QTYR6683447M9',7,'Talbot','Holtaway','Rey','Texas',047,908,'San Miguel Chapultepec','Veracruz','2013-01-22','2023-06-04','1995-08-31','Mujer',6,'7:00-15:00',1147);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('TNJA665047ULH',1,'Sadye','Jon','Risman','Hermina',57778,70,'Álamos','Tamaulipas','2014-05-13','2022-01-18','1989-11-10','No-binario',4,'15:00-23:00',1119);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('UWVH089144KIR',1,'Gonzales','Neiland','Digby','Graceland',11366,46,'Escandón','Querétaro','2015-02-04','2025-06-10','1974-09-09','No-binario',1,'23:00-7:00',14609);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('WZZT6265197Z6',3,'Kristo','Snaddon','Grzegorecki','Comanche',935,318,'Reforma','Tamaulipas','2017-10-18','2025-08-16','1981-02-08','No-binario',1,'7:00-15:00',1409);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('WNJN865797Y1N',4,'Zach','Houldin','Romme','Corry',1,0416,'Pedregal','Jalisco','2012-07-16','2022-02-03','1996-05-31','Mujer',4,'15:00-23:00',1398);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('HIFY7985999US',5,'Caty','Storah','Izen','Haas',43143,134,'Valle de Bravo','Michoacán','2018-06-15','2023-08-16','1972-10-29','No-binario',4,'23:00-7:00',14019);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('EGFI141040DRA',6,'Shelli','Yu','Fedynski','Crest Line',3,4,'Santa Fe','Zacatecas','2012-08-20','2022-02-23','1997-09-22','No-binario',1,'7:00-15:00',11965);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('CRMA710123N37',7,'Benedikta','Ferreri','Schuck','Meadow Ridge',55,7,'Xochimilco','Yucatán','2019-08-12','2023-08-13','1985-03-11','No-binario',5,'15:00-23:00',13436);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('AHVF1750572M6',1,'Lucky','Crosskell','Covert','Weeping Birch',175,9,'Tacubaya','Coahuila','2014-12-01','2021-12-12','1965-04-29','Mujer',4,'23:00-7:00',11431);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('BKBA212767U3N',1,'Maegan','Duddin','Wigley','Mesta',0,79,'Reforma','Nayarit','2011-02-17','2023-04-02','1967-06-11','Hombre',1,'7:00-15:00',7968);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('LZDQ757692MPN',3,'Koo','Charity','Hould','Sherman',988,05,'San Ángel','Guerrero','2013-02-13','2022-01-02','1970-02-24','Mujer',1,'15:00-23:00',13093);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('EGGT493922KCM',4,'Beck','Rickert','Wishart','Kropf',856,8854,'Tlatelolco','Yucatán','2018-08-15','2022-09-28','1993-04-23','Mujer',5,'23:00-7:00',769);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('KPQC425001P00',5,'Brittan','Westman','Sterzaker','Kinsman',5,9636,'Mérida','Campeche','2020-06-07','2023-12-06','1990-01-02','Hombre',6,'7:00-15:00',8987);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ABLL81581866L',6,'Daron','Mellonby','Fendlen','Brown',0,08,'San Ángel','Michoacán','2018-12-27','2022-11-08','1995-09-10','No-binario',1,'15:00-23:00',7984);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('QQYD215243ZS9',7,'Herbie','Dilleston','Garbar','Summit',77,78,'Lindavista','Guerrero','2017-08-27','2022-02-03','1980-02-15','Mujer',3,'23:00-7:00',9613);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('XUYF0420552CJ',1,'Smith','Catonne','Jannaway','Lukken',98,79,'Lindavista','Yucatán','2010-11-28','2023-04-14','1964-01-05','Hombre',6,'7:00-15:00',13805);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('NMMT841269HSY',1,'Margarete','Brickhill','Shurrock','Arrowood',860,3,'Anzures','Sinaloa','2013-09-01','2024-02-09','1993-11-12','No-binario',6,'15:00-23:00',7615);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('MHWR786970Y9P',3,'Reed','Goskar','Elkin','Southridge',86,0054,'Tulum','Veracruz','2017-08-02','2022-10-04','1987-02-10','No-binario',7,'23:00-7:00',7933);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('WOOS355834LT5',4,'Electra','Pawden','Boness','Gateway',48,43,'Jardines del Pedregal','Zacatecas','2014-07-18','2023-09-21','1987-12-04','No-binario',1,'7:00-15:00',1834);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('GMCU387930ZXM',5,'Joann','Petti','Fury','Roxbury',73391,13,'Jardines del Pedregal','Michoacán','2012-09-10','2022-01-28','1965-10-13','No-binario',3,'15:00-23:00',11674);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('XVMG47703867C',6,'Herrick','Kettlestring','Craigheid','Oakridge',3797,4,'Coyoacán','Chihuahua','2016-12-23','2022-03-31','1995-03-21','No-binario',5,'23:00-7:00',100);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('GWZM998033FRH',7,'Everett','Rivenzon','Manifield','Declaration',53,849,'Roma','Chiapas','2020-02-24','2024-03-20','1997-11-22','No-binario',1,'7:00-15:00',9768);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('DDVM692100WPB',1,'Elias','Devenport','Stampfer','Manley',5,7,'San Pedro de los Pinos','Nuevo León','2016-02-27','2025-05-31','1966-10-07','Mujer',7,'15:00-23:00',8047);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('WMYL301985FSU',1,'Horatia','Romaine','Onn','Emmet',16,70,'Granjas México','México','2017-10-20','2022-09-15','1975-07-28','Mujer',4,'23:00-7:00',1508);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('SSMA252326BYD',3,'Gerardo','D''eath','Petracchi','Texas',548,90,'Tulum','Tlaxcala','2016-06-06','2025-03-30','1978-01-19','Mujer',7,'7:00-15:00',9695);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('TOCD0434913US',4,'Rica','Berkowitz','Spurling','North',99867,633,'Santa Fe','México','2015-10-26','2023-03-09','1975-12-12','Mujer',7,'15:00-23:00',8776);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('UKBP5910283JI',5,'Riannon','Richardt','Bakhrushkin','Hermina',86,4,'Valle de Bravo','Guanajuato','2019-02-13','2024-12-12','1967-02-09','No-binario',3,'23:00-7:00',1159);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('NFTG273214HIQ',6,'Francine','Dodwell','Iddenden','Coleman',81,886,'Xochimilco','Baja California Sur','2015-10-28','2024-12-22','1982-02-04','Hombre',3,'7:00-15:00',1165);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('RWUV979380AJP',7,'Iorgo','Astley','Paske','Parkside',3,737,'Cancún','Guerrero','2020-02-21','2022-02-27','1963-04-10','Mujer',6,'15:00-23:00',97);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('CNZP928019XS4',1,'Hadrian','Bonus','Wigsell','Pankratz',7,8474,'San Rafael','Hidalgo','2012-06-04','2022-02-05','1971-12-04','Mujer',4,'23:00-7:00',1334);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('AYJY541433Z1N',1,'Bailie','Trembath','Moreside','Jackson',3481,1,'Napoles','Morelos','2013-07-31','2023-07-24','2000-01-30','Mujer',1,'7:00-15:00',1386);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('UKDF98326251B',3,'Camella','Cartmale','Byrd','Lake View',56074,3,'Doctores','San Luis Potosí','2015-04-24','2025-02-28','1972-02-20','Mujer',3,'15:00-23:00',1654);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('AGLX760429TZK',4,'Helene','Giovannoni','Sogg','Charing Cross',41,011,'San Jerónimo','Colima','2020-01-06','2023-03-16','1966-10-19','No-binario',3,'23:00-7:00',13308);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('QARJ295159PQD',5,'Alejandro','Gherarducci','Boerder','Green Ridge',16,8935,'Valle de Bravo','Chiapas','2019-09-20','2023-09-06','1967-09-11','Mujer',1,'7:00-15:00',13);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('XQDU375156R9L',6,'Milena','De Michetti','Grigoryov','Cascade',903,8317,'Valle de Bravo','Jalisco','2019-02-17','2025-05-12','1986-12-03','Mujer',1,'15:00-23:00',7539);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ZGTQ636492A4B',7,'Brianna','Delooze','Hugonnet','Center',4,9175,'Cuajimalpa','Oaxaca','2017-03-17','2023-08-17','1961-01-27','Hombre',3,'23:00-7:00',7360);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ULVM316910RSG',1,'Arielle','Hatter','Morling','Randy',7930,5,'Cuajimalpa','Baja California Sur','2019-09-16','2024-10-21','1979-12-07','No-binario',4,'7:00-15:00',13089);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ARRA4853383LD',1,'Allie','Bouette','Kield','Derek',749,00,'San Pedro de los Pinos','Baja California Sur','2020-01-25','2025-08-14','1982-06-02','No-binario',1,'15:00-23:00',959);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('SGLZ124060SYO',3,'Giulio','Nancarrow','Penberthy','Annamark',89,1,'Del Valle','Hidalgo','2013-09-21','2024-03-12','1984-12-22','No-binario',1,'23:00-7:00',966);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('QMWJ1302007YT',4,'Harriott','Ricarde','Warby','Transport',773,858,'Nápoles','Chihuahua','2015-12-10','2022-09-29','1984-03-15','Hombre',7,'7:00-15:00',11149);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('KCXC489240B6J',5,'Tessi','Featherstonehaugh','Lattka','Lakewood Gardens',4,3,'San Pedro de los Pinos','Sonora','2018-03-20','2023-04-25','1970-03-24','Hombre',5,'15:00-23:00',9114);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('MDRC0961369US',6,'Chloris','Hebden','Blanche','Talmadge',79747,886,'Reforma','Tamaulipas','2016-12-12','2024-09-14','1961-05-08','No-binario',1,'23:00-7:00',8395);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('DJPJ00154821G',7,'Natalie','Ugoni','Myderscough','Pleasure',084,8,'Del Valle','San Luis Potosí','2018-12-18','2021-11-11','1974-12-27','Mujer',7,'7:00-15:00',11640);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ZDOG860313Q8D',1,'Robena','Gribben','Crow','Sheridan',40,0479,'Nápoles','Sinaloa','2011-03-03','2023-01-27','1987-11-29','Hombre',1,'15:00-23:00',11068);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('UASG657625J4F',1,'Chiarra','Senter','Ricart','Kings',50,61,'Valle de Bravo','Sinaloa','2012-05-18','2025-02-17','1992-03-26','Hombre',7,'23:00-7:00',1155);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ZEDN9621899J7',3,'Byran','De Caroli','Bussel','Fuller',756,54833,'Del Valle','Baja California','2020-03-13','2024-11-29','1971-08-26','Mujer',7,'7:00-15:00',11879);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('YDSA893567K0B',4,'Graehme','Das','Bendley','Rutledge',5,78,'Santa María la Ribera','Hidalgo','2020-02-23','2022-05-18','1972-02-07','Hombre',4,'15:00-23:00',11847);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ZFCH628842TMI',5,'Sybila','Goodreid','Fairham','Blaine',911,88,'Polanco','Nuevo León','2015-10-18','2025-05-18','1974-03-10','No-binario',4,'23:00-7:00',14053);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ZSRH692635KCK',6,'Shara','Dorken','Ambrosini','Burrows',8340,051,'Granjas México','Nuevo León','2016-12-13','2022-04-20','1987-01-02','Mujer',6,'7:00-15:00',9300);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('PGMK411009XJY',7,'Arnuad','Fawdry','Gilhool','Troy',4683,619,'Reforma','Sinaloa','2017-10-27','2024-02-03','1975-03-19','Hombre',3,'15:00-23:00',813);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('PSDQ531354PIN',1,'Vera','Yegorovnin','Pagett','Barby',6,93,'Tlatelolco','Tabasco','2015-09-05','2025-08-10','1966-08-06','No-binario',7,'23:00-7:00',8035);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('RIOS296083VD1',1,'Millie','Duigenan','Standrin','Fuller',56,0,'Satélite','Aguascalientes','2012-11-19','2023-04-25','1983-05-22','No-binario',1,'7:00-15:00',8504);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('PDUF7215269AD',3,'Lia','Naseby','Glentz','Jenna',38,8046,'Mixcoac','Querétaro','2014-11-05','2023-10-15','1973-08-16','Hombre',3,'15:00-23:00',980);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('XFFL749263SU1',4,'Vinnie','Dallosso','Matveyev','Superior',741,39037,'Lindavista','Nayarit','2020-06-07','2025-05-12','1997-03-31','No-binario',4,'23:00-7:00',14331);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('IJJQ2363933C9',5,'Celestyna','Paddon','Bisley','Holmberg',333,5,'Juárez','Puebla','2012-06-03','2022-12-11','1964-11-20','Mujer',4,'7:00-15:00',11647);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('PBQK4008515QN',6,'Evyn','Kryska','Aguirre','Lake View',896,475,'Granjas México','Baja California Sur','2012-04-22','2024-08-21','1976-06-04','No-binario',1,'15:00-23:00',7193);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('JNHQ365248706',7,'Olivie','Rapson','Cowl','Sullivan',7,980,'Coyoacán','Chihuahua','2012-06-16','2023-01-21','1965-03-23','Hombre',5,'23:00-7:00',8588);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('NJYL286144S44',1,'Lawton','Eldritt','Triggs','Forest Run',390,95908,'Azcapotzalco','Sonora','2014-10-15','2024-05-27','1975-04-21','No-binario',4,'7:00-15:00',874);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('SNVH373821HV5',1,'Faunie','Dudek','Penny','Manley',89,5,'Lindavista','Zacatecas','2012-02-28','2025-08-11','1987-12-14','No-binario',7,'15:00-23:00',14539);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('TJXT137443DHG',3,'Helaina','Croxon','Short','Summer Ridge',30,63,'Lindavista','Yucatán','2018-12-07','2025-04-28','1969-10-30','Mujer',3,'23:00-7:00',138);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('PPWA547513BO7',4,'Aarika','Rickson','Riddles','Delaware',553,181,'Coyoacán','Guerrero','2013-02-23','2022-01-14','1978-04-21','Mujer',5,'7:00-15:00',11357);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('THGH472196SDP',5,'Golda','Schreurs','Buckett','Bunting',64,6,'Polanco','Campeche','2011-12-15','2022-12-31','1975-06-16','Mujer',4,'15:00-23:00',11633);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('KBFC583101Q9F',6,'Coletta','Humberstone','Tarburn','2nd',4633,833,'Xalapa','Nuevo León','2018-01-20','2022-08-17','1984-05-31','Hombre',7,'23:00-7:00',95);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('MNAF802517O56',7,'Noella','Follis','Hallgate','Petterle',79734,0,'Lindavista','Coahuila','2020-09-08','2021-11-25','1994-09-27','No-binario',3,'7:00-15:00',14737);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('EDYB865833PZD',1,'Minnie','Oxnam','Chappelle','Waywood',1,119,'Reforma','Tlaxcala','2014-04-16','2021-12-25','1988-06-19','Mujer',7,'15:00-23:00',1008);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('AGYJ065543C9N',1,'Sayer','McCunn','Styan','Hintze',6878,0068,'Lindavista','Yucatán','2019-05-25','2022-12-29','1999-10-04','No-binario',1,'23:00-7:00',10443);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('FWBJ919567XLL',3,'Brittni','Sweetenham','Prayer','Pierstorff',1,8555,'Nápoles','Baja California Sur','2019-04-02','2022-01-10','1974-03-18','Hombre',1,'7:00-15:00',188);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('PLBD762947IM7',4,'Wat','Weatherhill','Castelain','Pleasure',3,1,'Condesa','Puebla','2014-11-15','2024-06-14','1972-10-22','Hombre',5,'15:00-23:00',853);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('CCKJ1392683ZK',5,'Rubin','Bothie','Fawdrie','Menomonie',0541,39473,'Álamos','Nayarit','2012-10-29','2024-12-04','1974-03-21','Mujer',6,'23:00-7:00',90);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('BYHG2447843I4',6,'Trenton','Painter','Frusher','Merchant',59,1,'Del Valle','Campeche','2012-05-14','2022-02-13','1991-10-20','No-binario',6,'7:00-15:00',94);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('PSWU762015S0W',7,'Free','Braunston','Nibloe','Holy Cross',7,8373,'Tepoztlán','Michoacán','2013-05-17','2024-11-21','1995-03-14','No-binario',3,'15:00-23:00',13468);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ZCAB957046HTA',1,'Laurent','Greggersen','Spinley','Dorton',50,3066,'Lindavista','Sonora','2015-03-28','2023-07-27','1965-07-03','Hombre',1,'23:00-7:00',11);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('NWTF169624YGS',1,'Ardeen','Lerohan','Mustchin','Haas',1,3,'Coyoacán','Oaxaca','2014-03-20','2023-01-21','1987-11-16','No-binario',7,'7:00-15:00',13606);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('DPTL275532D31',3,'Shanda','Harbord','Jerdon','Oneill',19,418,'Cuajimalpa','Nayarit','2010-12-05','2023-10-19','1988-11-08','No-binario',1,'15:00-23:00',8878);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('WVMG224008NQM',4,'Marj','Tutsell','Rayment','Columbus',148,7,'Anzures','Michoacán','2011-07-15','2021-10-27','1985-07-26','Hombre',3,'23:00-7:00',8518);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('UIIB0298736N4',5,'Mellisent','Tzar','Cahalin','Mallory',3740,746,'Narvarte','Tabasco','2014-07-25','2025-06-24','1992-05-29','Mujer',7,'7:00-15:00',8341);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('JFOW1681885SA',6,'Amye','Writer','Benedyktowicz','Sunfield',73,96630,'Tlalpan','Morelos','2015-08-12','2023-07-14','1989-10-19','Mujer',1,'15:00-23:00',1318);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('PMZT379204C16',7,'Addy','Salzen','Bellhouse','Graedel',7571,1,'Álvaro Obregón','Chihuahua','2018-08-27','2023-10-24','1973-04-21','Mujer',1,'23:00-7:00',14711);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('AFTT6093341TI',1,'Gannie','Emmott','Ticehurst','Roth',374,5778,'Tulum','Oaxaca','2014-01-28','2023-05-30','1969-05-08','No-binario',1,'7:00-15:00',8348);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('CZAS779441P0O',1,'Nisse','Goddard','Kellet','Hermina',0,656,'Santa María la Ribera','Chihuahua','2017-09-05','2024-01-14','1969-02-20','No-binario',6,'15:00-23:00',7844);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('SDLH697373HJI',3,'Amata','Cotty','Annon','Meadow Vale',54190,0,'Portales','Chihuahua','2020-04-08','2025-01-11','1986-01-07','Mujer',1,'23:00-7:00',11448);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ROAB809824780',4,'Lonnie','Skirlin','Karchewski','Daystar',6684,059,'Santa María la Ribera','Campeche','2015-05-11','2025-08-03','1992-02-27','Hombre',1,'7:00-15:00',9436);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('KJTU611832RVA',5,'Lindy','Guilleton','Tilbury','Kim',90509,8,'Escandón','Michoacán','2015-06-20','2021-10-24','1990-07-30','Hombre',1,'15:00-23:00',10350);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('LQGW122501RTM',6,'Phineas','Bairnsfather','Ruston','Dorton',0,1371,'Playa del Carmen','Tamaulipas','2016-09-26','2022-09-26','1967-05-09','No-binario',7,'23:00-7:00',1064);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('PWLL377561OHH',7,'Denney','Allewell','Scemp','Lighthouse Bay',898,7881,'Juárez','Durango','2018-04-24','2023-07-10','1986-11-04','No-binario',5,'7:00-15:00',8149);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('TEMP1611162G0',1,'Vannie','Hannigan','Ceillier','Thierer',14890,6136,'Santa Fe','Durango','2017-01-05','2024-09-22','1992-12-08','Hombre',7,'15:00-23:00',14561);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('HWDC650871T2N',1,'Athena','Cahillane','Tonbridge','Leroy',1777,908,'Granjas México','Nuevo León','2015-08-13','2024-04-02','1976-07-29','Mujer',7,'23:00-7:00',843);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('QEBW562967YMI',3,'My','Britton','Eannetta','New Castle',98,98973,'Cancún','Colima','2016-08-19','2025-04-11','1968-07-10','Mujer',6,'7:00-15:00',7785);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('WKTQ400715UO8',4,'Drucy','Duffield','Lardnar','East',037,1,'Tlalpan','Tabasco','2019-04-10','2023-01-22','1992-07-09','No-binario',4,'15:00-23:00',180);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('FWFX933587506',5,'Maxi','Jouanot','Sympson','Manitowish',95,156,'Cancún','Guanajuato','2016-08-03','2023-09-28','1986-01-15','No-binario',4,'23:00-7:00',1813);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('MGBF342630WLW',6,'Bianka','Esom','Mirando','Florence',47873,7,'Polanco','Veracruz','2013-06-06','2024-09-24','1979-12-15','Hombre',7,'7:00-15:00',1447);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('WCDO701040TQT',7,'Micheil','Sherrard','Tixier','Blaine',5,57,'Tulum','Colima','2020-02-21','2021-10-25','1990-06-12','No-binario',1,'15:00-23:00',9515);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('KEYY268905VZU',1,'Corie','Rugiero','Scrivener','Porter',8,671,'Portales','Zacatecas','2017-03-16','2024-11-01','1978-05-11','No-binario',1,'23:00-7:00',905);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('LDDU866290NG5',1,'Avigdor','Gye','Schach','Scott',80,3440,'Xochimilco','Jalisco','2017-09-25','2022-04-11','1980-12-25','Mujer',1,'7:00-15:00',14418);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('YPQJ347790QVT',3,'Merle','Linton','Kubek','Ridge Oak',34991,57396,'Santa María la Ribera','Chiapas','2018-05-27','2022-12-11','1975-08-10','Mujer',1,'15:00-23:00',11536);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ZXKD6542166YU',4,'Aube','Duddan','Golborne','International',97550,7931,'Polanco','Aguascalientes','2017-09-11','2025-07-09','1979-02-23','Hombre',1,'23:00-7:00',7071);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('JZSG803933G3E',5,'Leesa','Biles','Gooke','Michigan',189,8399,'Polanco','Nayarit','2012-10-07','2022-06-15','1977-09-06','Hombre',5,'7:00-15:00',13186);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('RVHK851183YRK',6,'Pris','Larive','Goford','Dunning',1,3,'Tulum','Morelos','2011-09-17','2022-01-12','1972-03-31','Hombre',1,'15:00-23:00',13043);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('QANQ090072KZ7',7,'Roosevelt','Wrangle','Cuppleditch','Debra',30,309,'Lindavista','Guerrero','2014-11-03','2024-04-11','1964-07-06','No-binario',6,'23:00-7:00',13159);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('VSIH185940LDW',1,'Codee','Pischoff','Tadgell','Brentwood',646,0989,'San Miguel Chapultepec','Michoacán','2013-01-01','2023-05-09','1993-10-13','Mujer',7,'7:00-15:00',1184);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('YFSM026101FAP',1,'Lulita','Vergo','Andresser','Tomscot',356,937,'Mixcoac','Aguascalientes','2015-08-23','2022-07-10','1993-07-08','Hombre',6,'15:00-23:00',11391);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('PJJX348122PS3',3,'Stormi','Gossling','Longbothom','Mallard',160,78967,'Lindavista','Baja California','2020-08-13','2025-06-10','1986-02-05','No-binario',7,'23:00-7:00',1696);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('SAQG952226ZXR',4,'Korella','Mayhou','Dell','Lyons',119,0384,'Narvarte','Quintana Roo','2012-04-01','2022-12-31','1963-12-11','Mujer',5,'7:00-15:00',10343);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('SXHP8541110H4',5,'Gipsy','Ivanikhin','Antonin','Vermont',6694,451,'Santa Cruz Atoyac','México','2019-11-03','2023-11-02','1999-10-17','Mujer',5,'15:00-23:00',8999);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('OVAQ131542RW7',6,'Brana','Giacomazzo','Marde','Bunker Hill',5,419,'Granjas México','México','2020-10-11','2022-01-23','1994-10-05','Mujer',7,'23:00-7:00',750);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ZBPS281317LM9',7,'Dana','Paff','Sherrum','Autumn Leaf',7763,717,'Mixcoac','Nayarit','2016-04-01','2023-04-28','1971-01-12','No-binario',1,'7:00-15:00',1035);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('TQPN262919XMJ',1,'Eada','Heineken','Gildersleeve','Anthes',8,951,'Tlatelolco','Guanajuato','2014-09-03','2022-07-18','1988-02-07','No-binario',7,'15:00-23:00',10633);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('BGYL015947K7X',1,'Jeremiah','Pickles','Ruste','Jana',03,83853,'Tacubaya','Chiapas','2013-05-22','2025-10-20','1967-11-25','Hombre',1,'23:00-7:00',14313);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('WIJB063107I93',3,'Opalina','Willowby','Fone','Schiller',3,8784,'Playa del Carmen','Querétaro','2016-11-03','2022-06-14','1960-10-25','Hombre',1,'7:00-15:00',1196);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('GWZM556904WLN',4,'Kilian','Pennetta','Vaen','Goodland',9871,791,'Tulum','Guanajuato','2014-06-09','2023-12-16','1976-04-22','No-binario',7,'15:00-23:00',9006);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('IBDJ3896407S8',5,'Buckie','Paulley','Garlic','Grayhawk',61951,847,'San Rafael','Coahuila','2010-11-07','2024-05-16','1976-11-27','Mujer',1,'23:00-7:00',1103);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('MSLC220871RBT',6,'Damaris','Rubinovitch','Wisdom','Rowland',009,5,'Santa María la Ribera','Nuevo León','2020-01-20','2023-10-16','1996-06-15','Hombre',3,'7:00-15:00',14);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('NUXK032886DW3',7,'Munmro','Bachmann','Soloway','Clove',089,9,'Álamos','Sinaloa','2012-10-27','2024-08-10','1995-08-28','Hombre',7,'15:00-23:00',880);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('YRFH827466YX2',1,'Kathye','Colling','Zecchinelli','Ridge Oak',991,3,'Escandón','Quintana Roo','2019-04-08','2024-05-22','1995-12-23','Hombre',5,'23:00-7:00',14788);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('DWHQ804098LI1',1,'Antony','MacCallion','Lillecrop','Westport',3,14,'Del Valle','Nayarit','2016-08-29','2021-11-14','1994-07-15','Mujer',6,'7:00-15:00',13889);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('NZBE639390C0V',3,'Alysia','Pettus','Hilley','Algoma',8577,41048,'Narvarte','Nuevo León','2020-07-13','2025-06-26','1982-09-25','No-binario',7,'15:00-23:00',844);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('VPHU462883B3K',4,'Pavia','Deeson','Miklem','American Ash',4509,9,'Mixcoac','Veracruz','2015-08-01','2022-05-02','1976-01-19','Hombre',1,'23:00-7:00',8091);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('JLAP4531120O0',5,'Ezri','Pooly','Haslock(e)','Arizona',60803,9033,'Narvarte','Puebla','2017-02-04','2024-05-06','1996-06-22','Mujer',1,'7:00-15:00',10815);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ILTY071691DVT',6,'Cazzie','Hasel','Laurenceau','Anzinger',91303,1,'Del Valle','Aguascalientes','2018-01-30','2022-12-07','1992-08-13','Mujer',1,'15:00-23:00',11333);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('AHOI175098YCH',7,'Marietta','Boutcher','Quaif','Monterey',588,4810,'Mérida','Tamaulipas','2016-05-22','2022-04-16','1995-01-29','No-binario',4,'23:00-7:00',14405);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('GYCJ617699TB0',1,'Fidel','Hammill','Oxbury','Cardinal',410,886,'Granjas México','Veracruz','2013-03-08','2025-03-20','1972-04-09','Hombre',4,'7:00-15:00',13043);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('GZGY9824768QB',1,'Uriel','Wyer','Redwall','Calypso',75,881,'Tacubaya','Puebla','2014-12-24','2023-09-07','1981-09-11','Mujer',1,'15:00-23:00',7883);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('DMDD879087X3A',3,'Fred','Seedull','Weed','Sommers',9069,4893,'Valle de Bravo','Puebla','2012-06-06','2021-12-24','1984-03-12','Hombre',3,'23:00-7:00',10353);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('NHRH713546Y00',4,'Kevin','Sellers','Farquarson','Mandrake',97196,7,'Coyoacán','Durango','2020-04-19','2022-08-20','1997-08-27','Hombre',1,'7:00-15:00',1185);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('EGXT592070C9S',5,'Towney','Josifovitz','Tomczykiewicz','Russell',47461,993,'Valle de Bravo','Campeche','2012-10-15','2024-03-28','1967-11-25','Hombre',1,'15:00-23:00',13766);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('TQQI9019763J9',6,'Colan','Rosenvasser','Lusgdin','Laurel',77,36849,'Álvaro Obregón','Chiapas','2016-03-04','2024-06-23','1987-10-05','No-binario',1,'23:00-7:00',1017);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('JYDG840305AI6',7,'Rhea','Kahler','MacGhee','Dahle',75,83,'Napoles','Tabasco','2012-04-20','2023-06-05','1993-02-11','Hombre',4,'7:00-15:00',8114);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('EPZE039785XVF',1,'Elfrieda','Dumigan','Eagleton','Dahle',4,48,'Escandón','Tabasco','2019-05-10','2022-06-11','1966-07-26','Mujer',1,'15:00-23:00',7004);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('XUOO968949JRD',1,'Melissa','Lanfer','Dury','Brown',86460,59,'Satélite','Coahuila','2019-04-22','2023-10-08','1985-04-26','Mujer',1,'23:00-7:00',7981);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('QVEC233062FUF',3,'Binny','Cann','Jacob','Merrick',7,05,'San Rafael','Michoacán','2019-10-31','2023-05-12','1966-03-19','No-binario',7,'7:00-15:00',8081);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('VCLJ540380I5G',4,'Orazio','Heyburn','Poyser','Eagan',69,709,'Tepoztlán','Nayarit','2016-02-20','2022-10-04','1982-10-27','Mujer',4,'15:00-23:00',14178);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('CCTL9623504E3',5,'Clim','Midghall','Claydon','Cambridge',87161,7,'Condesa','Nayarit','2013-01-15','2025-07-08','1975-01-13','Mujer',7,'23:00-7:00',13819);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ROMP297290W8F',6,'Dreddy','Asbrey','Scrinage','Forest Dale',1510,77,'San Miguel Chapultepec','Sinaloa','2012-05-25','2023-05-01','1987-09-06','Mujer',6,'7:00-15:00',11733);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('TQWE6809553AU',7,'Helenka','Cock','Pantecost','Esker',074,44,'Anzures','Chihuahua','2016-07-21','2025-03-12','1970-10-28','Mujer',7,'15:00-23:00',8588);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('QCHU9399255OI',1,'Currie','Sampey','Booeln','Scott',717,043,'Napoles','Baja California Sur','2013-11-20','2023-07-08','1994-01-24','Hombre',3,'23:00-7:00',9518);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('STRM946129CVN',1,'Kass','Margiotta','Farnan','Bonner',1,51986,'Playa del Carmen','Coahuila','2015-12-01','2024-04-23','1998-07-29','Hombre',6,'7:00-15:00',8611);
+INSERT INTO Cuidador(RFCCuidador,IDBioma,Nombre,ApellidoPaterno,ApellidoMaterno,Calle,NumInterior,NumExterior,Colonia,Estado,FechaInicioContrato,FechaFinContrato,FechaNacimiento,Genero,DiasTrabajo,HorarioLaboral,Salario) VALUES ('ZAOS4646679K6',3,'Gerrard','Mowbury','Halle','North',9,1909,'Nápoles','Veracruz','2020-04-29','2024-11-04','1983-07-04','No-binario',3,'15:00-23:00',14064);
 
 
 -- INSERT PARA Proveedor
@@ -7964,80 +6015,7 @@ INSERT INTO Tener(IDBioma,IDServicio) VALUES
 ,(1,67)
 ,(7,87)
 ,(7,793)
-,(3,949)
-,(7,240)
-,(6,78)
-,(5,283)
-,(4,152)
-,(2,666)
-,(5,874)
-,(5,796)
-,(7,482)
-,(2,961)
-,(1,373)
-,(4,217)
-,(5,771)
-,(4,866)
-,(5,677)
-,(7,551)
-,(5,323)
-,(6,72)
-,(7,472)
-,(7,518)
-,(4,713)
-,(6,762)
-,(1,722)
-,(6,99)
-,(4,913)
-,(2,310)
-,(2,221)
-,(6,746)
-,(7,357)
-,(4,672)
-,(4,109)
-,(4,415)
-,(5,791)
-,(2,597)
-,(5,511)
-,(2,929)
-,(2,895)
-,(6,242)
-,(2,300)
-,(3,40)
-,(7,113)
-,(4,490)
-,(7,683)
-,(2,435)
-,(4,131)
-,(1,894)
-,(1,477)
-,(3,490)
-,(3,778)
-,(1,429)
-,(2,45)
-,(6,762)
-,(6,14)
-,(7,859)
-,(5,699)
-,(6,134)
-,(2,391)
-,(5,85)
-,(7,376)
-,(2,229)
-,(5,383)
-,(2,746)
-,(5,556)
-,(5,876)
-,(5,668)
-,(4,829)
-,(2,776)
-,(2,962)
-,(2,248)
-,(2,180)
-,(4,968)
-,(6,426)
-,(4,959)
-,(2,107);
+,(3,949);
 
 
 
