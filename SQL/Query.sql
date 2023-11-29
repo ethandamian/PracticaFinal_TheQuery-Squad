@@ -25,7 +25,7 @@ FROM Notificar N
 JOIN Visitar V ON N.IDVisitante = V.IDVisitante
 WHERE N.TipoNotificacion = 'EventoPendiente';
 
-/*Obtener toda la informacion de ProverAlimento, donde los proveedores suministren alimento
+/*Obtener toda la informacion de ProveerAlimento, donde los proveedores suministren alimento
  y medicina en el mismo Bioma*/
 SELECT PAM.*
 FROM ProveerAlimento PA
@@ -52,6 +52,33 @@ FROM Cuidar c
 JOIN Cuidador tc ON c.RFCCuidador = tc.RFCCuidador
 GROUP BY c.Especie;
 
+-- El tipo más frecuente de evento a los que asisten las personas de 20 a 24 años, además de mostrar la cantidad de éstas personas que han asistido a éste tipo de evento
+SELECT tipoevento, count(tipoevento) as cantidad
+FROM (SELECT idevento
+      FROM Visitante NATURAL JOIN Visitar
+      WHERE AGE(FechaNacimiento) BETWEEN interval '20 years' and interval '24 years')
+	  NATURAL JOIN evento
+GROUP BY tipoevento
+ORDER BY cantidad DESC
+LIMIT 1;
+
+-- Obtener la cantidad se tickets de servicios de comida generados por año y por trimestre, ordenados por año y trimestre
+
+SELECT count(numticket), EXTRACT('year' FROM fecha) AS año,
+       EXTRACT('quarter' from fecha) as trimestre
+FROM ticket
+WHERE LOWER(tiposervicio) = 'comida'
+GROUP BY año, trimestre
+ORDER BY año;
+
+--Obtener el directorio (nombre, apellidos, teléfono y correo) de los cuidadores cuyo nombre o apellidos contengan la cadena "or" y que trabajen en el aviario
+SELECT nombre, apellidopaterno, apellidomaterno, telefono, correo
+FROM
+(SELECT idbioma, nombre, apellidopaterno, apellidomaterno, telefono, correo
+FROM Cuidador NATURAL JOIN TelefonoCuidador NATURAL JOIN CorreoCuidador
+WHERE (LOWER(nombre) LIKE '%or%' OR LOWER(apellidopaterno) LIKE '%or%'
+      OR LOWER(apellidomaterno) LIKE '%or%')) NATURAL JOIN Bioma
+WHERE LOWER(tipobioma) = 'aviario';
 
 
 
