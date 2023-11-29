@@ -122,4 +122,40 @@ FOR EACH ROW
 EXECUTE FUNCTION verificar_asignacion_cuidador();
 
 
+--------------- Verificar que un veterinario trabaje a lo más en dos biomas --------------------
+
+CREATE OR REPLACE FUNCTION verificar_num_biomas_veterinario()
+RETURNS TRIGGER AS $$
+DECLARE
+	num_Biomas INTEGER;
+BEGIN
+    -- Conteo del numero de biomas en los que trabaja el veterinario
+    SELECT COUNT(*)
+    INTO num_biomas
+    FROM Trabajar
+    WHERE RFCVeterinario = NEW.RFCVeterinario;
+
+    IF num_biomas >= 2 THEN
+        RAISE EXCEPTION 'El veterinario a insertar ya trabaja en dos biomas';
+    END IF;
+	
+	--Verificar si el veterinario ya trabaja en el bioma que se quiere insertar
+	IF EXISTS (
+        SELECT 1
+        FROM trabajar
+        WHERE RFCVeterinario = NEW.RFCVeterinario
+        AND idbioma = NEW.idbioma
+    ) THEN
+        RAISE EXCEPTION 'El veterinario ya está asignado a este bioma';
+    END IF;
+
+    RETURN NEW;
+END;
+$$ LANGUAGE plpgsql;
+
+CREATE or replace TRIGGER trigger_num_biomas_veterinario
+BEFORE INSERT ON Trabajar
+FOR EACH ROW
+EXECUTE FUNCTION verificar_num_biomas_veterinario();
+
 
