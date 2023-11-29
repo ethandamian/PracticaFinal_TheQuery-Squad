@@ -80,5 +80,45 @@ WHERE (LOWER(nombre) LIKE '%or%' OR LOWER(apellidopaterno) LIKE '%or%'
       OR LOWER(apellidomaterno) LIKE '%or%')) NATURAL JOIN Bioma
 WHERE LOWER(tipobioma) = 'aviario';
 
+--Obtener la cantidad de animales y la cantidad de cuidadores por bioma:
 
+SELECT b.TipoBioma,
+       COUNT(a.IDAnimal) AS CantidadAnimales,
+       COUNT(c.RFCCuidador) AS CantidadCuidadores
+FROM Bioma b
+LEFT JOIN Animal a ON b.IDBioma = a.IDBioma
+LEFT JOIN Cuidar c ON a.IDAnimal = c.IDAnimal
+GROUP BY b.TipoBioma;
+
+--Obtener el salario promedio de los veterinarios por especialidad:
+SELECT v.Especialidad,
+       AVG(v.Salario) AS SalarioPromedio
+FROM Veterinario v
+GROUP BY v.Especialidad;
+
+--Encontrar los cuidadores que trabajan en jaulas con más de un animal:
+
+SELECT cu.Nombre, cu.ApellidoPaterno, cu.ApellidoMaterno, COUNT(a.IDAnimal) AS CantidadAnimales
+FROM Cuidador cu
+JOIN Cuidar c ON cu.RFCCuidador = c.RFCCuidador
+JOIN Animal a ON c.IDAnimal = a.IDAnimal
+GROUP BY cu.RFCCuidador
+HAVING COUNT(a.IDAnimal) > 1;
+
+
+-- Obtener la cantidad de animales por bioma cuya altura sea mayor al promedio de altura de todos los animales en ese bioma:
+WITH PromedioAltura AS (
+    SELECT IDBioma, AVG(Altura) AS PromedioAlturaBioma
+    FROM Animal
+    GROUP BY IDBioma
+)
+
+SELECT 
+    a.IDBioma,
+    b.TipoBioma,
+    COUNT(a.IDAnimal) AS CantidadAnimales
+FROM Animal a
+JOIN Bioma b ON a.IDBioma = b.IDBioma
+JOIN PromedioAltura pa ON a.IDBioma = pa.IDBioma AND a.Altura > pa.PromedioAlturaBioma
+GROUP BY a.IDBioma, b.TipoBioma;
 

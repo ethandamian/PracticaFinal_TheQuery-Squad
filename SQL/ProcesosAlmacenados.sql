@@ -86,3 +86,31 @@ SELECT IDBioma, TipoBioma, cantidad_cuidadores_veterinarios_en_bioma(3) FROM Bio
 WHERE IDBioma = 3 ;
 
 SELECT * FROM cantidad_cuidadores_veterinarios_en_bioma(3);
+
+
+------------------------------------------------------------------
+/* Proceso almacenado que calcula el costo total de cada ticket usando la formula: CostoUnitario - (CostoUnitario * Descuento / 100) 
+	la cual ajusta el costo unitario restando el descuento correspondiente. Esto se hace con la finalidad de calcular el costo total de
+	un servicio en especifico despues de aplicar cualquier descuento asociado*/
+
+-- Agregar la columna "CostoTotal" a la tabla "Ticket"
+ALTER TABLE Ticket
+ADD COLUMN CostoTotal decimal;
+
+-- Crear o reemplazar el procedimiento almacenado
+CREATE OR REPLACE FUNCTION calcular_costo_total()
+RETURNS VOID AS $$
+BEGIN
+    -- Actualizar el atributo "CostoTotal" en la tabla "Ticket"
+    UPDATE Ticket
+    SET CostoTotal = CostoUnitario - (CostoUnitario * Descuento / 100);
+END;
+$$ LANGUAGE plpgsql;
+
+-- Llamar al procedimiento para calcular y actualizar el "CostoTotal"
+SELECT calcular_costo_total();
+
+
+
+-- Consulta para ver la tabla "Ticket" completa
+SELECT * FROM Ticket;
