@@ -353,7 +353,7 @@ ALTER TABLE Alimento ADD CONSTRAINT alimento_d2
 CHECK(Cantidad >= 0);
 ALTER TABLE Alimento ALTER COLUMN Cantidad SET NOT NULL;
 ALTER TABLE Alimento ADD CONSTRAINT alimento_d3
-CHECK(FechaCaducidad > CURRENT_DATE);
+CHECK(FechaCaducidad > CURRENT_DATE - INTERVAL '2 months');
 ALTER TABLE Alimento ALTER COLUMN FechaCaducidad SET NOT NULL;
 ALTER TABLE Alimento ALTER COLUMN Refrigeracion SET NOT NULL;
 
