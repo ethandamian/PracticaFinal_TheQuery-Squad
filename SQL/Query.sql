@@ -52,15 +52,15 @@ FROM Cuidar c
 JOIN Cuidador tc ON c.RFCCuidador = tc.RFCCuidador
 GROUP BY c.Especie;
 
--- El tipo más frecuente de evento a los que asisten las personas de 20 a 24 años, además de mostrar la cantidad de éstas personas que han asistido a éste tipo de evento
-SELECT tipoevento, count(tipoevento) as cantidad
-FROM (SELECT idevento
+-- El tipo de evento y el id de los visitantes de entre 20 y 24 años que han asistido a al menos un evento y la cantidad de asistentes al evento que asistieron ordenado de mayor a menor (por tipo de evento)
+SELECT tipoevento, count(tipoevento) as cantidad, idvisitante
+FROM (SELECT *
       FROM Visitante NATURAL JOIN Visitar
       WHERE AGE(FechaNacimiento) BETWEEN interval '20 years' and interval '24 years')
 	  NATURAL JOIN evento
-GROUP BY tipoevento
-ORDER BY cantidad DESC
-LIMIT 1;
+GROUP BY tipoevento, idvisitante
+ORDER BY tipoevento, cantidad DESC;
+
 
 -- Obtener la cantidad se tickets de servicios de comida generados por año y por trimestre, ordenados por año y trimestre
 
