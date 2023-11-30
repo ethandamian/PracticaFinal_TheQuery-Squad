@@ -122,3 +122,10 @@ JOIN Bioma b ON a.IDBioma = b.IDBioma
 JOIN PromedioAltura pa ON a.IDBioma = pa.IDBioma AND a.Altura > pa.PromedioAlturaBioma
 GROUP BY a.IDBioma, b.TipoBioma;
 
+-- Obtener la tabla de cada animal con sus cuidadores y su veterinario. Ordenado por idAnimal.
+
+SELECT a.IDAnimal, a.Especie, a.NombreAnimal, a.IDBioma, c.RFCCuidador, v.RFCVeterinario
+FROM Animal a
+JOIN Cuidar c ON a.IDAnimal = c.IDAnimal
+JOIN Atender v ON a.IDAnimal = v.IDAnimal
+ORDER BY a.IDAnimal;
