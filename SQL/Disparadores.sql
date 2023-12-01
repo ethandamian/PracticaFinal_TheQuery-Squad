@@ -1,10 +1,10 @@
 /*Disparador que valida la insercion de una tupla en la tabla Ticket, si el descuento 
-  proporcionado es menor a 10 y mayor a 50.*/
+  proporcionado es mayor a 50.*/
 
 CREATE OR REPLACE FUNCTION validar_descuento()
 RETURNS TRIGGER AS $$
 BEGIN
-    IF NEW.Descuento < 10 OR NEW.Descuento > 50 THEN
+    IF NEW.Descuento > 50 THEN
         RAISE EXCEPTION 'El descuento debe estar en el rango de 0 a 50';
     END IF;
     RETURN NEW;
@@ -157,5 +157,41 @@ CREATE or replace TRIGGER trigger_num_biomas_veterinario
 BEFORE INSERT ON Trabajar
 FOR EACH ROW
 EXECUTE FUNCTION verificar_num_biomas_veterinario();
+
+
+-------------------- Generar un ticket cada que se realice una compra de servicio ------------------------------------
+-------------------- Cada que se haga una inseción en la tabla comprar, se debe hacer una inseción en ticket --------------
+
+CREATE OR REPLACE FUNCTION generar_ticket() RETURNS TRIGGER AS $$
+DECLARE
+		tipo VARCHAR;
+		CostoUnitario DECIMAL;
+		DescuentoA INT;
+BEGIN
+	SELECT tiposervicio INTO tipo
+    FROM Servicio
+    WHERE IDServicio = NEW.IDServicio;
+	
+	SELECT costo INTO CostoUnitario
+	FROM Servicio
+	WHERE IDServicio = NEW.IDServicio;
+	
+	SELECT descuento INTO DescuentoA
+	FROM Servicio
+	WHERE IDServicio = NEW.IDServicio;
+	
+    INSERT INTO ticket (IDVisitante, Descuento, Costounitario, TipoServicio, Fecha)
+	VALUES (NEW.IDVisitante, DescuentoA, CostoUnitario, tipo, CURRENT_DATE);
+
+    RETURN NEW;
+END;
+$$ LANGUAGE plpgsql;
+
+CREATE OR REPLACE TRIGGER compra_servicio
+AFTER INSERT ON comprar
+FOR EACH ROW
+EXECUTE FUNCTION generar_ticket();
+
+
 
 

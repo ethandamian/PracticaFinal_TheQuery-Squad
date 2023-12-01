@@ -10,7 +10,9 @@ CREATE SCHEMA public;
 
 CREATE TABLE Servicio(
 	IDServicio SERIAL,
-	TipoServicio VARCHAR(20)
+	TipoServicio VARCHAR(20),
+	Costo Decimal,
+	Descuento INT
 );
 
 
@@ -18,6 +20,14 @@ CREATE TABLE Servicio(
 ALTER TABLE Servicio ADD CONSTRAINT servicio_d1
 CHECK(TipoServicio IN ('Baño', 'Tienda', 'Comida'));
 ALTER TABLE Servicio ALTER COLUMN TipoServicio SET NOT NULL;
+ALTER TABLE Servicio ALTER COLUMN Costo SET NOT NULL;
+ALTER TABLE Servicio ALTER COLUMN Descuento SET NOT NULL;
+ALTER TABLE Servicio ADD CONSTRAINT costo_servicio
+CHECK(Costo>=0);
+ALTER TABLE Servicio ADD CONSTRAINT descuento_servicio
+CHECK(Descuento >=0);
+ALTER TABLE Servicio ADD CONSTRAINT descuento_servicio2
+CHECK(Descuento <=100);
 
 -- LLAVES Servicio 
 ALTER TABLE Servicio ADD CONSTRAINT servicio_pk
@@ -800,7 +810,7 @@ CHECK (CostoUnitario > 0);
 ALTER TABLE Ticket ALTER COLUMN CostoUnitario SET NOT NULL;
 
 ALTER TABLE Ticket ADD CONSTRAINT ticket_d3
-CHECK (TipoServicio IN ('baño', 'tienda', 'comida'));
+CHECK (LOWER (TipoServicio) IN ('baño', 'tienda', 'comida'));
 ALTER TABLE Ticket ALTER COLUMN TipoServicio SET NOT NULL;
 
 ALTER TABLE Ticket ALTER COLUMN Fecha SET NOT NULL;
