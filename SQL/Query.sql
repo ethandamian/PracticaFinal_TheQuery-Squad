@@ -95,15 +95,27 @@ WHERE (LOWER(nombre) LIKE '%or%' OR LOWER(apellidopaterno) LIKE '%or%'
       OR LOWER(apellidomaterno) LIKE '%or%')) NATURAL JOIN Bioma
 WHERE LOWER(tipobioma) = 'aviario';
 
---Obtener la cantidad de animales y la cantidad de cuidadores por bioma:
+-- Encontrar los animales cuyo peso está por encima del promedio de peso de todos los animales en el mismo bioma:
 
-SELECT b.TipoBioma,
-       COUNT(a.IDAnimal) AS CantidadAnimales,
-       COUNT(c.RFCCuidador) AS CantidadCuidadores
-FROM Bioma b
-LEFT JOIN Animal a ON b.IDBioma = a.IDBioma
-LEFT JOIN Cuidar c ON a.IDAnimal = c.IDAnimal
-GROUP BY b.TipoBioma;
+WITH PesoPromedioBioma AS (
+    SELECT
+        a.IDBioma,
+        AVG(a.Peso) AS PesoPromedio
+    FROM Animal a
+    GROUP BY a.IDBioma
+)
+
+SELECT
+    a.IDAnimal,
+    a.Especie,
+    a.Peso,
+    pb.PesoPromedio AS PesoPromedioBioma
+FROM Animal a
+JOIN PesoPromedioBioma pb ON a.IDBioma = pb.IDBioma
+WHERE a.Peso > pb.PesoPromedio;
+
+
+
 
 --Obtener el salario promedio de los veterinarios por especialidad:
 SELECT v.Especialidad,
@@ -112,21 +124,22 @@ FROM Veterinario v
 GROUP BY v.Especialidad;
 
 
--- Obtener la cantidad de animales por bioma cuya altura sea mayor al promedio de altura de todos los animales en ese bioma:
-WITH PromedioAltura AS (
-    SELECT IDBioma, AVG(Altura) AS PromedioAlturaBioma
-    FROM Animal
-    GROUP BY IDBioma
+-- Encontrar los cuidadores cuyo salario sea mayor que el salario promedio de todos los cuidadores: 
+
+WITH SalarioPromedioCuidador AS (
+    SELECT AVG(Salario) AS PromedioSalarioCuidador
+    FROM Cuidador
 )
 
-SELECT 
-    a.IDBioma,
-    b.TipoBioma,
-    COUNT(a.IDAnimal) AS CantidadAnimales
-FROM Animal a
-JOIN Bioma b ON a.IDBioma = b.IDBioma
-JOIN PromedioAltura pa ON a.IDBioma = pa.IDBioma AND a.Altura > pa.PromedioAlturaBioma
-GROUP BY a.IDBioma, b.TipoBioma;
+SELECT
+    RFCCuidador,
+    Nombre,
+    ApellidoPaterno,
+    ApellidoMaterno,
+    Salario
+FROM Cuidador
+WHERE Salario > (SELECT PromedioSalarioCuidador FROM SalarioPromedioCuidador);
+
 
 -- Obtener la tabla de cada animal con sus cuidadores y su veterinario. Ordenado por idAnimal.
 -- Tomar solo un cuidador y un veterinario por animal.
