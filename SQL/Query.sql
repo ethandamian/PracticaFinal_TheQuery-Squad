@@ -102,15 +102,6 @@ SELECT v.Especialidad,
 FROM Veterinario v
 GROUP BY v.Especialidad;
 
---Encontrar los cuidadores que trabajan en jaulas con más de un animal:
-
-SELECT cu.Nombre, cu.ApellidoPaterno, cu.ApellidoMaterno, COUNT(a.IDAnimal) AS CantidadAnimales
-FROM Cuidador cu
-JOIN Cuidar c ON cu.RFCCuidador = c.RFCCuidador
-JOIN Animal a ON c.IDAnimal = a.IDAnimal
-GROUP BY cu.RFCCuidador
-HAVING COUNT(a.IDAnimal) > 1;
-
 
 -- Obtener la cantidad de animales por bioma cuya altura sea mayor al promedio de altura de todos los animales en ese bioma:
 WITH PromedioAltura AS (
