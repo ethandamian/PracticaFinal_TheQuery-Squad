@@ -1,16 +1,23 @@
 
--- Biomas que posean al menos 10 animales.
--- Como solo hay 7 Biomas, la consulta solo devuelve 7 tuplas
-SELECT *
-FROM Bioma
-WHERE IDBioma IN (
-    SELECT IDBioma
-    FROM Animal
-    GROUP BY IDBioma
-    HAVING COUNT(*) >= 10
-); 
+/*1. Encontrar los proveedores que han suministrado medicina a biomas donde hay mas de 3 animales.
+ Mostrar la siguiente informacion en la consulta: nombre y apellidos del proveedor, 
+ la medicina suministrada, el tipo del bioma al que se le suministra, y la cantidad 
+ de animales que hay en el bioma*/ 
 
-/*Obtener la cantidad total gastada por cada visitante en tickets, considerando descuentos.
+SELECT P.Nombre, P.ApellidoPaterno, M.Nombre AS MedicinaSuministrada, B.TipoBioma, 
+COUNT(A.IDAnimal) AS CantidadAnimales
+FROM Proveedor P
+JOIN ProveerMedicina PM ON P.RFCProveedor = PM.RFCProveedor
+JOIN Medicina M ON PM.IDInsumoMedicina = M.IDInsumoMedicina
+JOIN DistribuirMedicina DM ON M.IDInsumoMedicina = DM.IDInsumoMedicina
+JOIN Bioma B ON DM.IDBioma = B.IDBioma
+LEFT JOIN Animal A ON B.IDBioma = A.IDBioma
+GROUP BY P.RFCProveedor, M.Nombre, B.TipoBioma
+HAVING COUNT(A.IDAnimal) > 3;
+
+
+
+/*2. Obtener la cantidad total gastada por cada visitante en tickets, considerando descuentos.
   Esta consulta suma el costo total de los tickets en la tabla Visitante, y considera si se 
   aplico algun descuento*/
 
@@ -18,21 +25,32 @@ SELECT IDVisitante, SUM(CostoUnitario - (CostoUnitario * Descuento / 100)) AS To
 FROM Ticket
 GROUP BY IDVisitante;
 
-/*Obtener el ID del evento, el ID del visitante, y el tipo de notificacion de los visitantes que hayan
- sido notificados de un evento, con el tipo de notificacion: EventoPendiente*/
-SELECT N.IDEvento, N.IDVisitante, N.TipoNotificacion
-FROM Notificar N
-JOIN Visitar V ON N.IDVisitante = V.IDVisitante
-WHERE N.TipoNotificacion = 'EventoPendiente';
+/*3. Mostrar que tipos de servicios se han adquirido, es decir, la cantidad de tickets generados en los servicios,
+ hay que ordenarlos en forma descendiente*/
 
-/*Obtener toda la informacion de ProveerAlimento, donde los proveedores suministren alimento
- y medicina en el mismo Bioma*/
-SELECT PAM.*
-FROM ProveerAlimento PA
-JOIN ProveerMedicina PAM ON PA.RFCProveedor = PAM.RFCProveedor
-JOIN DistribuirAlimento DA ON PA.IDInsumoAlimento = DA.IDInsumoAlimento
-JOIN DistribuirMedicina DM ON PAM.IDInsumoMedicina = DM.IDInsumoMedicina
-WHERE DA.IDBioma = DM.IDBioma;
+SELECT T.TipoServicio, COUNT(T.NumTicket) AS CantidadTicketsVendidos
+FROM Visitante V
+JOIN Ticket T ON V.IDVisitante = T.IDVisitante
+GROUP BY T.TipoServicio
+ORDER BY CantidadTicketsVendidos DESC;
+
+
+/*4. Obtener toda la informacion del visitante donde se cumpla: la cantidad de servicios vendidos por cada visitante, 
+ sin tomar en cuenta los servicios de baño, los visitantes tuvieron que haber comprado este servicio mas 
+ 2 o mas veces. ordenar por fecha de nacimiento de forma ascendente*/
+
+SELECT * FROM visitante WHERE idVisitante IN (
+	SELECT
+	C.IDVisitante
+	FROM Comprar C
+	JOIN Servicio S ON C.IDServicio = S.IDServicio
+	WHERE S.TipoServicio <> 'Baño'
+	GROUP BY C.IDVisitante, S.TipoServicio 
+	HAVING COUNT(S.TipoServicio) >= 2
+) ORDER BY fechanacimiento  ASC;
+
+
+
 
 
 -- Seleccionar el tipo de bioma, la especie y contar la cantidad de animales por especie en cada bioma
