@@ -130,7 +130,7 @@ SELECT a.IDAnimal, a.Especie, a.NombreAnimal, a.IDBioma, (
 FROM Animal a
 JOIN 
     Atender v ON a.IDAnimal = v.IDAnimal
-order by idanimal;
+ORDER BY idanimal;
 
 -- Obtener las jaulas donde el animal más alto sea una hembra. Y mostrar el animal más alto de cada jaula.
 
