@@ -144,7 +144,7 @@ JOIN (
 WHERE a.Sexo = 'Hembra';
 
 -- Proveedores que proveen medicina y alimento al mismo bioma.
-SELECT p.RFCProveedor, p.Nombre, p.ApellidoPaterno, p.ApellidoMaterno, b.IDBioma
+SELECT DISTINCT p.RFCProveedor, p.Nombre, p.ApellidoPaterno, p.ApellidoMaterno, b.IDBioma
 FROM Proveedor p
 JOIN ProveerMedicina pm ON p.RFCProveedor = pm.RFCProveedor
 JOIN Medicina m ON pm.IDInsumoMedicina = m.IDInsumoMedicina
