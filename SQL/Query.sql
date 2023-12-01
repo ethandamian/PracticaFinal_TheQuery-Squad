@@ -40,7 +40,14 @@ SELECT * FROM visitante WHERE idVisitante IN (
 	HAVING COUNT(S.TipoServicio) >= 2
 ) ORDER BY fechanacimiento  ASC;
 
--- Seleccionar los 2 eventos con la segunda mayor capacidad en cada tipo de evento
+-- 4. Seleccionar el tipo de bioma, la especie y contar la cantidad de animales por especie en cada bioma
+
+SELECT b.TipoBioma, a.Especie, COUNT(*) AS CantidadAnimales
+FROM Animal a
+JOIN Bioma b ON a.IDBioma = b.IDBioma
+GROUP BY b.TipoBioma, a.Especie;
+
+-- 5. Seleccionar los 2 eventos con la segunda mayor capacidad en cada tipo de evento
 WITH RankedEventos AS (
   SELECT
     e.TipoEvento,
@@ -59,15 +66,13 @@ WHERE
 ORDER BY TipoEvento, Capacidad DESC;
 
 
-
-
--- Calcular el salario promedio de los cuidadores por especie de animal a cargo
+-- 6. Calcular el salario promedio de los cuidadores por especie de animal a cargo
 SELECT c.Especie, AVG(tc.Salario) AS SalarioPromedio
 FROM Cuidar c
 JOIN Cuidador tc ON c.RFCCuidador = tc.RFCCuidador
 GROUP BY c.Especie;
 
--- El tipo de evento y el id de los visitantes de entre 20 y 24 años que han asistido a al menos un evento y la cantidad de asistentes al evento que asistieron ordenado de mayor a menor (por tipo de evento)
+-- 7. El tipo de evento y el id de los visitantes de entre 20 y 24 años que han asistido a al menos un evento y la cantidad de asistentes al evento que asistieron ordenado de mayor a menor (por tipo de evento)
 SELECT tipoevento, count(tipoevento) as cantidad, idvisitante
 FROM (SELECT *
       FROM Visitante NATURAL JOIN Visitar
@@ -77,7 +82,7 @@ GROUP BY tipoevento, idvisitante
 ORDER BY tipoevento, cantidad DESC;
 
 
--- Obtener la cantidad se tickets de servicios de comida generados por año y por trimestre, ordenados por año y trimestre
+--8. Obtener la cantidad se tickets de servicios de comida generados por año y por trimestre, ordenados por año y trimestre
 
 SELECT count(numticket), EXTRACT('year' FROM fecha) AS año,
        EXTRACT('quarter' from fecha) as trimestre
@@ -86,7 +91,7 @@ WHERE LOWER(tiposervicio) = 'comida'
 GROUP BY año, trimestre
 ORDER BY año;
 
---Obtener el directorio (nombre, apellidos, teléfono y correo) de los cuidadores cuyo nombre o apellidos contengan la cadena "or" y que trabajen en el aviario
+-- 9. Obtener el directorio (nombre, apellidos, teléfono y correo) de los cuidadores cuyo nombre o apellidos contengan la cadena "or" y que trabajen en el aviario
 SELECT nombre, apellidopaterno, apellidomaterno, telefono, correo
 FROM
 (SELECT idbioma, nombre, apellidopaterno, apellidomaterno, telefono, correo
@@ -95,7 +100,7 @@ WHERE (LOWER(nombre) LIKE '%or%' OR LOWER(apellidopaterno) LIKE '%or%'
       OR LOWER(apellidomaterno) LIKE '%or%')) NATURAL JOIN Bioma
 WHERE LOWER(tipobioma) = 'aviario';
 
--- Encontrar los animales cuyo peso está por encima del promedio de peso de todos los animales en el mismo bioma:
+-- 10. Encontrar los animales cuyo peso está por encima del promedio de peso de todos los animales en el mismo bioma:
 
 WITH PesoPromedioBioma AS (
     SELECT
@@ -117,14 +122,14 @@ WHERE a.Peso > pb.PesoPromedio;
 
 
 
---Obtener el salario promedio de los veterinarios por especialidad:
+-- 11. Obtener el salario promedio de los veterinarios por especialidad:
 SELECT v.Especialidad,
        AVG(v.Salario) AS SalarioPromedio
 FROM Veterinario v
 GROUP BY v.Especialidad;
 
 
--- Encontrar los cuidadores cuyo salario sea mayor que el salario promedio de todos los cuidadores: 
+-- 12. Encontrar los cuidadores cuyo salario sea mayor que el salario promedio de todos los cuidadores: 
 
 WITH SalarioPromedioCuidador AS (
     SELECT AVG(Salario) AS PromedioSalarioCuidador
@@ -141,7 +146,7 @@ FROM Cuidador
 WHERE Salario > (SELECT PromedioSalarioCuidador FROM SalarioPromedioCuidador);
 
 
--- Obtener la tabla de cada animal con sus cuidadores y su veterinario. Ordenado por idAnimal.
+-- 13. Obtener la tabla de cada animal con sus cuidadores y su veterinario. Ordenado por idAnimal.
 -- Tomar solo un cuidador y un veterinario por animal.
 
 SELECT a.IDAnimal, a.Especie, a.NombreAnimal, a.IDBioma, (
@@ -154,7 +159,7 @@ JOIN
     Atender v ON a.IDAnimal = v.IDAnimal
 ORDER BY idanimal;
 
--- Obtener las jaulas donde el animal más alto sea una hembra. Y mostrar el animal más alto de cada jaula.
+-- 14. Obtener las jaulas donde el animal más alto sea una hembra. Y mostrar el animal más alto de cada jaula.
 
 SELECT a.IDJaula, a.IDAnimal, a.NombreAnimal, a.Altura, a.Sexo
 FROM Animal a
@@ -165,7 +170,7 @@ JOIN (
 ) AS AlturaMaximaJaula ON a.IDJaula = AlturaMaximaJaula.IDJaula AND a.Altura = AlturaMaximaJaula.AlturaMaxima
 WHERE a.Sexo = 'Hembra';
 
--- Proveedores que proveen medicina y alimento al mismo bioma.
+-- 15. Proveedores que proveen medicina y alimento al mismo bioma.
 SELECT DISTINCT p.RFCProveedor, p.Nombre, p.ApellidoPaterno, p.ApellidoMaterno, b.IDBioma
 FROM Proveedor p
 JOIN ProveerMedicina pm ON p.RFCProveedor = pm.RFCProveedor
