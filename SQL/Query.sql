@@ -143,3 +143,14 @@ JOIN (
 ) AS AlturaMaximaJaula ON a.IDJaula = AlturaMaximaJaula.IDJaula AND a.Altura = AlturaMaximaJaula.AlturaMaxima
 WHERE a.Sexo = 'Hembra';
 
+-- Proveedores que proveen medicina y alimento al mismo bioma.
+SELECT p.RFCProveedor, p.Nombre, p.ApellidoPaterno, p.ApellidoMaterno, b.IDBioma
+FROM Proveedor p
+JOIN ProveerMedicina pm ON p.RFCProveedor = pm.RFCProveedor
+JOIN Medicina m ON pm.IDInsumoMedicina = m.IDInsumoMedicina
+JOIN DistribuirMedicina dm ON m.IDInsumoMedicina = dm.IDInsumoMedicina
+JOIN Bioma b ON dm.IDBioma = b.IDBioma
+JOIN ProveerAlimento pa ON p.RFCProveedor = pa.RFCProveedor
+JOIN Alimento a ON pa.IDInsumoAlimento = a.IDInsumoAlimento
+JOIN DistribuirAlimento da ON a.IDInsumoAlimento = da.IDInsumoAlimento
+WHERE dm.IDBioma = da.IDBioma;
