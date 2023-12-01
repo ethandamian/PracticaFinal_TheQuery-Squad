@@ -40,17 +40,26 @@ SELECT * FROM visitante WHERE idVisitante IN (
 	HAVING COUNT(S.TipoServicio) >= 2
 ) ORDER BY fechanacimiento  ASC;
 
+-- Seleccionar los 2 eventos con la segunda mayor capacidad en cada tipo de evento
+WITH RankedEventos AS (
+  SELECT
+    e.TipoEvento,
+    e.Capacidad,
+    DENSE_RANK() OVER (PARTITION BY e.TipoEvento ORDER BY e.Capacidad DESC) AS RankingCapacidad
+  FROM
+    Evento e
+)
+SELECT
+  TipoEvento,
+  Capacidad
+FROM
+  RankedEventos
+WHERE
+  RankingCapacidad = 2 OR RankingCapacidad = 3
+ORDER BY TipoEvento, Capacidad DESC;
 
--- Seleccionar el tipo de bioma, la especie y contar la cantidad de animales por especie en cada bioma
-SELECT b.TipoBioma, a.Especie, COUNT(*) AS CantidadAnimales
-FROM Animal a
-JOIN Bioma b ON a.IDBioma = b.IDBioma
-GROUP BY b.TipoBioma, a.Especie;
 
--- Calcular la edad promedio de los visitantes por género
-SELECT Genero, AVG(EXTRACT(YEAR FROM AGE(FechaNacimiento))) AS EdadPromedio
-FROM Visitante
-GROUP BY Genero;
+
 
 -- Calcular el salario promedio de los cuidadores por especie de animal a cargo
 SELECT c.Especie, AVG(tc.Salario) AS SalarioPromedio
