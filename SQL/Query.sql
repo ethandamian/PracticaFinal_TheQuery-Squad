@@ -25,17 +25,8 @@ SELECT IDVisitante, SUM(CostoUnitario - (CostoUnitario * Descuento / 100)) AS To
 FROM Ticket
 GROUP BY IDVisitante;
 
-/*3. Mostrar que tipos de servicios se han adquirido, es decir, la cantidad de tickets generados en los servicios,
- hay que ordenarlos en forma descendiente*/
 
-SELECT T.TipoServicio, COUNT(T.NumTicket) AS CantidadTicketsVendidos
-FROM Visitante V
-JOIN Ticket T ON V.IDVisitante = T.IDVisitante
-GROUP BY T.TipoServicio
-ORDER BY CantidadTicketsVendidos DESC;
-
-
-/*4. Obtener toda la informacion del visitante donde se cumpla: la cantidad de servicios vendidos por cada visitante, 
+/*3. Obtener toda la informacion del visitante donde se cumpla: la cantidad de servicios vendidos por cada visitante, 
  sin tomar en cuenta los servicios de baño, los visitantes tuvieron que haber comprado este servicio mas 
  2 o mas veces. ordenar por fecha de nacimiento de forma ascendente*/
 
@@ -48,9 +39,6 @@ SELECT * FROM visitante WHERE idVisitante IN (
 	GROUP BY C.IDVisitante, S.TipoServicio 
 	HAVING COUNT(S.TipoServicio) >= 2
 ) ORDER BY fechanacimiento  ASC;
-
-
-
 
 
 -- Seleccionar el tipo de bioma, la especie y contar la cantidad de animales por especie en cada bioma
@@ -141,9 +129,14 @@ JOIN PromedioAltura pa ON a.IDBioma = pa.IDBioma AND a.Altura > pa.PromedioAltur
 GROUP BY a.IDBioma, b.TipoBioma;
 
 -- Obtener la tabla de cada animal con sus cuidadores y su veterinario. Ordenado por idAnimal.
+-- Tomar solo un cuidador y un veterinario por animal.
 
-SELECT a.IDAnimal, a.Especie, a.NombreAnimal, a.IDBioma, c.RFCCuidador, v.RFCVeterinario
+SELECT a.IDAnimal, a.Especie, a.NombreAnimal, a.IDBioma, (
+        SELECT MAX(c.RFCCuidador) 
+        FROM Cuidar c 
+        WHERE c.IDAnimal = a.IDAnimal
+    ) AS RFCCuidador, v.RFCVeterinario
 FROM Animal a
-JOIN Cuidar c ON a.IDAnimal = c.IDAnimal
-JOIN Atender v ON a.IDAnimal = v.IDAnimal
-ORDER BY a.IDAnimal;
+JOIN 
+    Atender v ON a.IDAnimal = v.IDAnimal
+order by idanimal;
